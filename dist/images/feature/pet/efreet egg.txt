@@ -1,0 +1,20 @@
+
+efreet egg.png
+size: 150,150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: true
+  xy: 110, 101
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+shang_danke
+  rotate: false
+  xy: 2, 17
+  size: 106, 131
+  orig: 106, 131
+  offset: 0, 0
+  index: -1

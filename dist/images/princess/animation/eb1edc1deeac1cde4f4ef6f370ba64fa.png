@@ -1,0 +1,20 @@
+
+sp_sk_fly_pet_red_1_SF.png
+size: 166,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 0, 0
+  size: 100, 86
+  orig: 100, 86
+  offset: 0, 0
+  index: -1
+B0005
+  rotate: false
+  xy: 0, 88
+  size: 111, 78
+  orig: 111, 78
+  offset: 0, 0
+  index: -1

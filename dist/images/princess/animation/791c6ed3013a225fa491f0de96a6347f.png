@@ -1,0 +1,90 @@
+
+sp_bt_flowsmoke.png
+size: 284,230
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/c0001
+  rotate: false
+  xy: 2, 17
+  size: 55, 24
+  orig: 100, 67
+  offset: 1, 0
+  index: -1
+image/c0002
+  rotate: false
+  xy: 174, 56
+  size: 74, 51
+  orig: 100, 67
+  offset: 17, 0
+  index: -1
+image/c0003
+  rotate: false
+  xy: 89, 2
+  size: 75, 56
+  orig: 100, 67
+  offset: 19, 0
+  index: -1
+image/c0004
+  rotate: false
+  xy: 194, 109
+  size: 78, 59
+  orig: 100, 67
+  offset: 18, 0
+  index: -1
+image/c0005
+  rotate: false
+  xy: 91, 60
+  size: 81, 61
+  orig: 100, 67
+  offset: 16, 0
+  index: -1
+image/c0006
+  rotate: false
+  xy: 2, 43
+  size: 85, 61
+  orig: 100, 67
+  offset: 14, 1
+  index: -1
+image/c0007
+  rotate: false
+  xy: 2, 106
+  size: 87, 60
+  orig: 100, 67
+  offset: 13, 4
+  index: -1
+image/c0008
+  rotate: false
+  xy: 194, 170
+  size: 88, 58
+  orig: 100, 67
+  offset: 12, 7
+  index: -1
+image/c0009
+  rotate: false
+  xy: 104, 169
+  size: 88, 59
+  orig: 100, 67
+  offset: 12, 7
+  index: -1
+image/c0010
+  rotate: false
+  xy: 104, 123
+  size: 84, 44
+  orig: 100, 67
+  offset: 12, 23
+  index: -1
+image/g1
+  rotate: false
+  xy: 2, 168
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+image/g2
+  rotate: false
+  xy: 166, 3
+  size: 69, 51
+  orig: 69, 51
+  offset: 0, 0
+  index: -1

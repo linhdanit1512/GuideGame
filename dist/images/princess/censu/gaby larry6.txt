@@ -1,0 +1,174 @@
+
+gaby larry6.png
+size: 538,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 169, 153
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 295, 5
+  size: 160, 283
+  orig: 160, 283
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 0, 12
+  size: 168, 99
+  orig: 168, 99
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 471, 293
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 471, 452
+  size: 53, 86
+  orig: 53, 86
+  offset: 0, 0
+  index: -1
+shentixxx
+  rotate: true
+  xy: 513, 84
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+starparticle
+  rotate: true
+  xy: 457, 196
+  size: 92, 75
+  orig: 92, 75
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 295, 290
+  size: 174, 248
+  orig: 174, 248
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: true
+  xy: 0, 113
+  size: 140, 167
+  orig: 140, 167
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 457, 72
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+xiuzi
+  rotate: false
+  xy: 457, 25
+  size: 78, 45
+  orig: 78, 45
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 510, 327
+  size: 56, 28
+  orig: 56, 28
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 457, 0
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 0, 255
+  size: 293, 283
+  orig: 293, 283
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: false
+  xy: 236, 83
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: true
+  xy: 457, 128
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: false
+  xy: 262, 125
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: false
+  xy: 236, 26
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+ytui1
+  rotate: true
+  xy: 170, 76
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: true
+  xy: 219, 119
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: true
+  xy: 169, 117
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: false
+  xy: 510, 297
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: false
+  xy: 514, 394
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+ztui1
+  rotate: false
+  xy: 471, 385
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1

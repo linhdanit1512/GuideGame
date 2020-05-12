@@ -1,0 +1,48 @@
+
+sp_sk_fly_elec_shot.png
+size: 273,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+elec
+  rotate: true
+  xy: 196, 6
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+elec2
+  rotate: false
+  xy: 132, 65
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+elec3
+  rotate: false
+  xy: 204, 70
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+elec333
+  rotate: true
+  xy: 252, 45
+  size: 23, 19
+  orig: 25, 21
+  offset: 2, 2
+  index: -1
+elec3335
+  rotate: false
+  xy: 2, 12
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+elec333544
+  rotate: true
+  xy: 132, 2
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1

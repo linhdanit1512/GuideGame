@@ -1,0 +1,328 @@
+
+aleck sally6.png
+size: 577,577
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy: 515, 108
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+bowenguang
+  rotate: false
+  xy: 2, 357
+  size: 217, 218
+  orig: 217, 218
+  offset: 0, 0
+  index: -1
+er1
+  rotate: false
+  xy: 490, 198
+  size: 44, 82
+  orig: 44, 82
+  offset: 0, 0
+  index: -1
+er2
+  rotate: false
+  xy: 532, 340
+  size: 36, 81
+  orig: 36, 81
+  offset: 0, 0
+  index: -1
+g0001
+  rotate: false
+  xy: 381, 282
+  size: 149, 139
+  orig: 158, 152
+  offset: 0, 2
+  index: -1
+g0002
+  rotate: false
+  xy: 221, 423
+  size: 158, 152
+  orig: 158, 152
+  offset: 0, 0
+  index: -1
+g0003
+  rotate: false
+  xy: 381, 423
+  size: 158, 152
+  orig: 158, 152
+  offset: 0, 0
+  index: -1
+g0004
+  rotate: false
+  xy: 221, 269
+  size: 158, 152
+  orig: 158, 152
+  offset: 0, 0
+  index: -1
+g0005
+  rotate: true
+  xy: 196, 176
+  size: 91, 152
+  orig: 158, 152
+  offset: 0, 0
+  index: -1
+guashi
+  rotate: false
+  xy: 449, 81
+  size: 20, 43
+  orig: 20, 43
+  offset: 0, 0
+  index: -1
+hushen
+  rotate: true
+  xy: 308, 3
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+hutou
+  rotate: false
+  xy: 425, 126
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: true
+  xy: 157, 49
+  size: 117, 83
+  orig: 117, 83
+  offset: 0, 0
+  index: -1
+qun1
+  rotate: true
+  xy: 350, 175
+  size: 92, 73
+  orig: 92, 73
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 541, 429
+  size: 90, 27
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shengzi
+  rotate: true
+  xy: 536, 238
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 157, 2
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 242, 57
+  size: 117, 104
+  orig: 117, 104
+  offset: 0, 0
+  index: -1
+toufayou
+  rotate: false
+  xy: 348, 75
+  size: 69, 98
+  orig: 69, 98
+  offset: 0, 0
+  index: -1
+toufazuo
+  rotate: false
+  xy: 425, 186
+  size: 63, 94
+  orig: 63, 94
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 536, 210
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 2, 168
+  size: 192, 187
+  orig: 192, 187
+  offset: 0, 0
+  index: -1
+xuanzhuan
+  rotate: false
+  xy: 2, 2
+  size: 153, 164
+  orig: 153, 164
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 532, 282
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 348, 60
+  size: 64, 13
+  orig: 64, 13
+  offset: 0, 0
+  index: -1
+yhtui1
+  rotate: true
+  xy: 536, 194
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+yhtui2
+  rotate: true
+  xy: 381, 269
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+yhtui2_1
+  rotate: false
+  xy: 560, 296
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+yqtui1
+  rotate: true
+  xy: 560, 282
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+yqtui2
+  rotate: true
+  xy: 339, 41
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+yqtui3
+  rotate: false
+  xy: 395, 271
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: false
+  xy: 515, 139
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: false
+  xy: 210, 3
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: true
+  xy: 489, 103
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+ytui1
+  rotate: false
+  xy: 196, 296
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+ytui2
+  rotate: false
+  xy: 471, 82
+  size: 16, 42
+  orig: 16, 42
+  offset: 0, 0
+  index: -1
+zhtui1
+  rotate: false
+  xy: 560, 318
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+zhtui2
+  rotate: true
+  xy: 489, 88
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+zhuangshi
+  rotate: false
+  xy: 419, 77
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+zqtui1
+  rotate: false
+  xy: 556, 192
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+zqtui2
+  rotate: false
+  xy: 532, 175
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: false
+  xy: 485, 136
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: false
+  xy: 256, 6
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: false
+  xy: 196, 273
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+ztui1
+  rotate: false
+  xy: 541, 521
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+ztui2
+  rotate: true
+  xy: 490, 173
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1

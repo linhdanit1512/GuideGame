@@ -1,0 +1,139 @@
+
+sp_drop_star.png
+size: 647,647
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gb0001
+  rotate: false
+  xy: 351, 52
+  size: 172, 135
+  orig: 200, 157
+  offset: 0, 0
+  index: -1
+gb0002
+  rotate: false
+  xy: 192, 469
+  size: 192, 151
+  orig: 200, 157
+  offset: 0, 0
+  index: -1
+gb0003
+  rotate: true
+  xy: 198, 279
+  size: 188, 151
+  orig: 200, 157
+  offset: 8, 4
+  index: -1
+gb0004
+  rotate: false
+  xy: 386, 469
+  size: 187, 151
+  orig: 200, 157
+  offset: 12, 6
+  index: -1
+gb0005
+  rotate: false
+  xy: 2, 2
+  size: 181, 147
+  orig: 200, 157
+  offset: 19, 10
+  index: -1
+gb0006
+  rotate: false
+  xy: 351, 189
+  size: 174, 140
+  orig: 200, 157
+  offset: 24, 17
+  index: -1
+gb0007
+  rotate: true
+  xy: 287, 10
+  size: 107, 40
+  orig: 200, 157
+  offset: 35, 53
+  index: -1
+sp_brokenfloor
+  rotate: false
+  xy: 2, 445
+  size: 188, 200
+  orig: 188, 200
+  offset: 0, 0
+  index: -1
+sp_sr_end1
+  rotate: false
+  xy: 544, 380
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+sp_sr_end2
+  rotate: false
+  xy: 185, 17
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+sp_sr_end3
+  rotate: false
+  xy: 82, 160
+  size: 100, 77
+  orig: 100, 77
+  offset: 0, 0
+  index: -1
+sp_sr_explor2
+  rotate: false
+  xy: 198, 119
+  size: 151, 158
+  orig: 151, 158
+  offset: 0, 0
+  index: -1
+sp_sr_fire1
+  rotate: false
+  xy: 329, 98
+  size: 14, 19
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+sp_sr_fire3
+  rotate: true
+  xy: 544, 311
+  size: 67, 74
+  orig: 67, 74
+  offset: 0, 0
+  index: -1
+sp_sr_impact
+  rotate: false
+  xy: 351, 331
+  size: 191, 136
+  orig: 191, 136
+  offset: 0, 0
+  index: -1
+sp_sr_light
+  rotate: false
+  xy: 192, 622
+  size: 333, 23
+  orig: 333, 23
+  offset: 0, 0
+  index: -1
+sp_sr_rock
+  rotate: false
+  xy: 527, 622
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+sp_sr_tail
+  rotate: false
+  xy: 82, 239
+  size: 114, 204
+  orig: 114, 204
+  offset: 0, 0
+  index: -1
+sp_sr_wave
+  rotate: true
+  xy: 2, 151
+  size: 292, 78
+  orig: 293, 79
+  offset: 0, 0
+  index: -1

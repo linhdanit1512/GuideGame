@@ -1,0 +1,139 @@
+
+sp_cr_e_tiger_5.png
+size: 391,391
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianzi1
+  rotate: false
+  xy: 2, 59
+  size: 186, 125
+  orig: 186, 125
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 2, 186
+  size: 179, 203
+  orig: 179, 204
+  offset: 0, 1
+  index: -1
+diangui5
+  rotate: true
+  xy: 286, 55
+  size: 18, 99
+  orig: 18, 100
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: true
+  xy: 183, 268
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 200, 11
+  size: 90, 27
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 183, 188
+  size: 103, 78
+  orig: 103, 78
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 190, 75
+  size: 111, 130
+  orig: 111, 130
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 2, 10
+  size: 97, 47
+  orig: 97, 47
+  offset: 0, 0
+  index: -1
+yao
+  rotate: true
+  xy: 292, 2
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: true
+  xy: 322, 166
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: true
+  xy: 340, 2
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: false
+  xy: 353, 268
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+ytui1
+  rotate: true
+  xy: 101, 11
+  size: 46, 97
+  orig: 46, 97
+  offset: 0, 0
+  index: -1
+ytui2
+  rotate: false
+  xy: 353, 304
+  size: 34, 85
+  orig: 34, 85
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: true
+  xy: 322, 86
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: false
+  xy: 322, 122
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: true
+  xy: 288, 207
+  size: 59, 98
+  orig: 59, 98
+  offset: 0, 0
+  index: -1
+ztui1
+  rotate: false
+  xy: 305, 293
+  size: 46, 96
+  orig: 46, 96
+  offset: 0, 0
+  index: -1
+ztui2
+  rotate: true
+  xy: 200, 40
+  size: 33, 84
+  orig: 33, 84
+  offset: 0, 0
+  index: -1

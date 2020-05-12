@@ -1,0 +1,27 @@
+
+sp_bt_bladelight2_hammer.png
+size: 299,656
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cui_00008
+  rotate: false
+  xy: 2, 426
+  size: 295, 228
+  orig: 300, 300
+  offset: 5, 54
+  index: -1
+cui_00009
+  rotate: false
+  xy: 2, 202
+  size: 279, 222
+  orig: 300, 300
+  offset: 10, 56
+  index: -1
+cui_00010
+  rotate: false
+  xy: 2, 2
+  size: 266, 198
+  orig: 300, 300
+  offset: 12, 54
+  index: -1

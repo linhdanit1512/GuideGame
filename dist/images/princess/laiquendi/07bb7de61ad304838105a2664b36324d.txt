@@ -1,0 +1,111 @@
+
+sp_cr_e_mushroom_soldier_1.png
+size: 367,367
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EyeClose
+  rotate: false
+  xy: 0, 3
+  size: 79, 24
+  orig: 79, 24
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: true
+  xy: 324, 110
+  size: 78, 37
+  orig: 78, 37
+  offset: 0, 0
+  index: -1
+HairFL
+  rotate: true
+  xy: 303, 190
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+HairFM1
+  rotate: true
+  xy: 303, 260
+  size: 107, 62
+  orig: 107, 62
+  offset: 0, 0
+  index: -1
+HairFR
+  rotate: false
+  xy: 285, 24
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 252, 15
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: true
+  xy: 218, 16
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 29
+  size: 149, 132
+  orig: 149, 132
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: true
+  xy: 81, 0
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 341, 73
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+WingL
+  rotate: true
+  xy: 151, 35
+  size: 126, 65
+  orig: 126, 65
+  offset: 0, 0
+  index: -1
+WingR
+  rotate: true
+  xy: 218, 47
+  size: 126, 65
+  orig: 126, 65
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 0, 163
+  size: 179, 204
+  orig: 179, 204
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 285, 83
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 181, 175
+  size: 120, 192
+  orig: 120, 192
+  offset: 0, 0
+  index: -1

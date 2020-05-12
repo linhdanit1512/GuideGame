@@ -1,0 +1,146 @@
+
+oran.png
+size: 352,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+23232
+  rotate: false
+  xy: 129, 14
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+3431
+  rotate: true
+  xy: 260, 147
+  size: 114, 58
+  orig: 114, 58
+  offset: 0, 0
+  index: -1
+ArmL
+  rotate: false
+  xy: 320, 181
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: true
+  xy: 276, 64
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: false
+  xy: 317, 104
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: true
+  xy: 320, 218
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 282, 263
+  size: 70, 89
+  orig: 70, 89
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 209, 7
+  size: 61, 15
+  orig: 61, 15
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: true
+  xy: 99, 8
+  size: 68, 28
+  orig: 68, 28
+  offset: 0, 0
+  index: -1
+HairFL
+  rotate: true
+  xy: 0, 78
+  size: 48, 130
+  orig: 48, 130
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 229, 63
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: false
+  xy: 320, 146
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 128
+  size: 133, 151
+  orig: 133, 151
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: true
+  xy: 135, 99
+  size: 28, 92
+  orig: 28, 92
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: true
+  xy: 132, 70
+  size: 27, 87
+  orig: 27, 87
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: true
+  xy: 229, 102
+  size: 43, 86
+  orig: 43, 86
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: true
+  xy: 0, 0
+  size: 76, 97
+  orig: 76, 97
+  offset: 0, 0
+  index: -1
+WeaponR
+  rotate: false
+  xy: 0, 281
+  size: 280, 71
+  orig: 280, 71
+  offset: 0, 0
+  index: -1
+h0002
+  rotate: false
+  xy: 135, 129
+  size: 92, 150
+  orig: 92, 150
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 229, 164
+  size: 115, 29
+  orig: 115, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+spirit fox.png
+size: 354,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ArmUpL
+  rotate: false
+  xy: 261, 4
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+images/ArmUpR
+  rotate: false
+  xy: 231, 50
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+images/Body
+  rotate: false
+  xy: 129, 57
+  size: 100, 84
+  orig: 100, 84
+  offset: 0, 0
+  index: -1
+images/EarL
+  rotate: false
+  xy: 323, 117
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+images/FootL
+  rotate: false
+  xy: 82, 19
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+images/FootR
+  rotate: false
+  xy: 300, 26
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+images/HandL
+  rotate: false
+  xy: 323, 96
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+images/HandR
+  rotate: false
+  xy: 300, 5
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+images/Head
+  rotate: false
+  xy: 2, 40
+  size: 125, 101
+  orig: 125, 101
+  offset: 0, 0
+  index: -1
+images/LegUpL
+  rotate: false
+  xy: 220, 8
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+images/LegUpR
+  rotate: false
+  xy: 274, 47
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+images/SkirtL
+  rotate: false
+  xy: 2, 4
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: -1
+images/WingL
+  rotate: false
+  xy: 231, 89
+  size: 90, 52
+  orig: 90, 52
+  offset: 0, 0
+  index: -1
+images/WingR
+  rotate: false
+  xy: 129, 2
+  size: 89, 53
+  orig: 89, 53
+  offset: 0, 0
+  index: -1

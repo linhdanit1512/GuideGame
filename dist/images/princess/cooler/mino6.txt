@@ -1,0 +1,167 @@
+
+mino6.png
+size: 335,335
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1233
+  rotate: false
+  xy: 268, 170
+  size: 49, 17
+  orig: 49, 17
+  offset: 0, 0
+  index: -1
+34343434
+  rotate: false
+  xy: 119, 60
+  size: 43, 126
+  orig: 43, 126
+  offset: 0, 0
+  index: -1
+ArmL
+  rotate: false
+  xy: 271, 137
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: false
+  xy: 164, 53
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: true
+  xy: 271, 111
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: false
+  xy: 162, 8
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 255, 246
+  size: 49, 89
+  orig: 49, 89
+  offset: 0, 0
+  index: -1
+Body1
+  rotate: true
+  xy: 239, 110
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: false
+  xy: 268, 189
+  size: 57, 11
+  orig: 57, 11
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: true
+  xy: 202, 56
+  size: 53, 24
+  orig: 53, 24
+  offset: 0, 0
+  index: -1
+HairFM2
+  rotate: false
+  xy: 202, 111
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+HairFR
+  rotate: false
+  xy: 0, 70
+  size: 117, 116
+  orig: 117, 116
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: false
+  xy: 0, 0
+  size: 117, 68
+  orig: 117, 68
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 188
+  size: 150, 147
+  orig: 150, 147
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 306, 272
+  size: 27, 63
+  orig: 27, 63
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 119, 5
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: true
+  xy: 268, 202
+  size: 42, 67
+  orig: 42, 67
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: false
+  xy: 164, 95
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: true
+  xy: 152, 188
+  size: 51, 114
+  orig: 51, 114
+  offset: 0, 0
+  index: -1
+fangfuang
+  rotate: false
+  xy: 228, 34
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+hairbr
+  rotate: false
+  xy: 152, 241
+  size: 101, 94
+  orig: 101, 94
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 164, 159
+  size: 99, 27
+  orig: 99, 27
+  offset: 0, 0
+  index: -1
+shaoguang
+  rotate: false
+  xy: 228, 69
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1

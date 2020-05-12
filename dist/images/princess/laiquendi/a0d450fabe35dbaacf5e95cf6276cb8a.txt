@@ -1,0 +1,132 @@
+
+sp_cr_e_eddga_5.png
+size: 288,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1233
+  rotate: true
+  xy: 235, 14
+  size: 49, 17
+  orig: 49, 17
+  offset: 0, 0
+  index: -1
+34343434
+  rotate: false
+  xy: 0, 210
+  size: 222, 78
+  orig: 222, 78
+  offset: 0, 0
+  index: -1
+ArmL
+  rotate: false
+  xy: 200, 26
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: false
+  xy: 247, 105
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: true
+  xy: 254, 204
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: true
+  xy: 247, 135
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 0, 7
+  size: 48, 79
+  orig: 48, 79
+  offset: 0, 0
+  index: -1
+Body1
+  rotate: false
+  xy: 151, 16
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+Body12
+  rotate: true
+  xy: 50, 7
+  size: 79, 40
+  orig: 79, 40
+  offset: 0, 0
+  index: -1
+HairFM2
+  rotate: false
+  xy: 105, 77
+  size: 87, 131
+  orig: 87, 131
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: false
+  xy: 247, 169
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 88
+  size: 103, 120
+  orig: 103, 120
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: true
+  xy: 92, 16
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 224, 233
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: false
+  xy: 259, 235
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: true
+  xy: 194, 65
+  size: 27, 57
+  orig: 27, 57
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 194, 94
+  size: 51, 114
+  orig: 51, 114
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 92, 48
+  size: 99, 27
+  orig: 99, 27
+  offset: 0, 0
+  index: -1

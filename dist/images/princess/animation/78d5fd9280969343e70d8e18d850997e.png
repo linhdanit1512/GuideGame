@@ -1,0 +1,41 @@
+
+sp_bt_result_title_lost.png
+size: 500,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoti
+  rotate: false
+  xy: 2, 44
+  size: 339, 78
+  orig: 361, 86
+  offset: 9, 8
+  index: -1
+dunpai
+  rotate: false
+  xy: 343, 6
+  size: 155, 116
+  orig: 166, 138
+  offset: 0, 9
+  index: -1
+huangguan
+  rotate: false
+  xy: 157, 15
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+huangguan1
+  rotate: false
+  xy: 185, 27
+  size: 14, 15
+  orig: 23, 21
+  offset: 4, 4
+  index: -1
+tou1
+  rotate: false
+  xy: 2, 2
+  size: 153, 40
+  orig: 156, 47
+  offset: 3, 5
+  index: -1

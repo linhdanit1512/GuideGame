@@ -1,0 +1,104 @@
+
+sp_sk_hurt.png
+size: 1017,1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g0001
+  rotate: true
+  xy: 924, 640
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: -1
+g0002
+  rotate: true
+  xy: 830, 676
+  size: 59, 92
+  orig: 59, 92
+  offset: 0, 0
+  index: -1
+g0003
+  rotate: false
+  xy: 936, 702
+  size: 65, 102
+  orig: 65, 102
+  offset: 0, 0
+  index: -1
+g0004
+  rotate: true
+  xy: 830, 737
+  size: 67, 104
+  orig: 67, 104
+  offset: 0, 0
+  index: -1
+g0005
+  rotate: false
+  xy: 674, 654
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+gb0001
+  rotate: false
+  xy: 0, 717
+  size: 413, 300
+  orig: 413, 300
+  offset: 0, 0
+  index: -1
+gb0002
+  rotate: false
+  xy: 415, 717
+  size: 413, 300
+  orig: 413, 300
+  offset: 0, 0
+  index: -1
+gb0003
+  rotate: true
+  xy: 0, 302
+  size: 413, 300
+  orig: 413, 300
+  offset: 0, 0
+  index: -1
+gb0004
+  rotate: false
+  xy: 0, 0
+  size: 413, 300
+  orig: 413, 300
+  offset: 0, 0
+  index: -1
+gb0005
+  rotate: true
+  xy: 302, 302
+  size: 413, 300
+  orig: 413, 300
+  offset: 0, 0
+  index: -1
+gb0006
+  rotate: false
+  xy: 415, 0
+  size: 413, 300
+  orig: 413, 300
+  offset: 0, 0
+  index: -1
+gb0007
+  rotate: false
+  xy: 604, 338
+  size: 413, 300
+  orig: 413, 300
+  offset: 0, 0
+  index: -1
+q
+  rotate: true
+  xy: 604, 640
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+qq
+  rotate: false
+  xy: 830, 806
+  size: 174, 211
+  orig: 174, 211
+  offset: 0, 0
+  index: -1

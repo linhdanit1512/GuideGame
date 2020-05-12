@@ -1,0 +1,209 @@
+
+sp_sk_rele_pet_screen_elec.png
+size: 985,985
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111
+  rotate: false
+  xy: 506, 47
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 543, 48
+  size: 31, 34
+  orig: 35, 34
+  offset: 3, 0
+  index: -1
+d0002
+  rotate: false
+  xy: 761, 165
+  size: 105, 125
+  orig: 105, 125
+  offset: 0, 0
+  index: -1
+d0003
+  rotate: false
+  xy: 423, 45
+  size: 81, 284
+  orig: 81, 284
+  offset: 0, 0
+  index: -1
+da0001
+  rotate: false
+  xy: 286, 283
+  size: 125, 700
+  orig: 140, 700
+  offset: 9, 0
+  index: -1
+da0003
+  rotate: false
+  xy: 2, 283
+  size: 140, 700
+  orig: 140, 700
+  offset: 0, 0
+  index: -1
+da0005
+  rotate: false
+  xy: 144, 283
+  size: 140, 700
+  orig: 140, 700
+  offset: 0, 0
+  index: -1
+db0001
+  rotate: false
+  xy: 521, 344
+  size: 106, 639
+  orig: 106, 657
+  offset: 0, 0
+  index: -1
+db0002
+  rotate: false
+  xy: 413, 331
+  size: 106, 652
+  orig: 106, 657
+  offset: 0, 0
+  index: -1
+db0003
+  rotate: false
+  xy: 629, 332
+  size: 72, 651
+  orig: 106, 657
+  offset: 14, 0
+  index: -1
+db0005
+  rotate: false
+  xy: 703, 335
+  size: 63, 648
+  orig: 106, 657
+  offset: 19, 0
+  index: -1
+dc0001
+  rotate: true
+  xy: 956, 933
+  size: 50, 20
+  orig: 296, 226
+  offset: 0, 182
+  index: -1
+dc0002
+  rotate: false
+  xy: 868, 147
+  size: 103, 66
+  orig: 296, 226
+  offset: 7, 160
+  index: -1
+dc0003
+  rotate: true
+  xy: 275, 63
+  size: 218, 146
+  orig: 296, 226
+  offset: 14, 80
+  index: -1
+dc0004
+  rotate: true
+  xy: 768, 479
+  size: 242, 166
+  orig: 296, 226
+  offset: 15, 60
+  index: -1
+dc0005
+  rotate: true
+  xy: 768, 723
+  size: 260, 186
+  orig: 296, 226
+  offset: 19, 17
+  index: -1
+dc0006
+  rotate: false
+  xy: 2, 81
+  size: 271, 200
+  orig: 296, 226
+  offset: 22, 3
+  index: -1
+dc0007
+  rotate: false
+  xy: 768, 292
+  size: 196, 185
+  orig: 296, 226
+  offset: 100, 0
+  index: -1
+dh0001
+  rotate: true
+  xy: 760, 16
+  size: 70, 71
+  orig: 142, 75
+  offset: 60, 0
+  index: -1
+dh0002
+  rotate: false
+  xy: 761, 88
+  size: 88, 75
+  orig: 142, 75
+  offset: 54, 0
+  index: -1
+dh0003
+  rotate: false
+  xy: 868, 215
+  size: 115, 75
+  orig: 142, 75
+  offset: 27, 0
+  index: -1
+dh0004
+  rotate: false
+  xy: 622, 43
+  size: 136, 75
+  orig: 142, 75
+  offset: 6, 0
+  index: -1
+dh0005
+  rotate: false
+  xy: 83, 4
+  size: 139, 75
+  orig: 142, 75
+  offset: 3, 0
+  index: -1
+dh0006
+  rotate: true
+  xy: 851, 80
+  size: 65, 71
+  orig: 142, 75
+  offset: 0, 3
+  index: -1
+dh0007
+  rotate: false
+  xy: 224, 27
+  size: 43, 52
+  orig: 142, 75
+  offset: 0, 20
+  index: -1
+g
+  rotate: false
+  xy: 924, 104
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+g2
+  rotate: true
+  xy: 506, 84
+  size: 245, 114
+  orig: 245, 114
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 622, 120
+  size: 210, 137
+  orig: 210, 137
+  offset: 0, 0
+  index: -1
+w
+  rotate: false
+  xy: 2, 2
+  size: 79, 77
+  orig: 79, 77
+  offset: 0, 0
+  index: -1

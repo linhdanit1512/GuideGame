@@ -1,0 +1,167 @@
+
+sp_cr_l_divine_spirit_6.png
+size: 494,494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: true
+  xy: 220, 73
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+dai2
+  rotate: true
+  xy: 138, 150
+  size: 96, 142
+  orig: 96, 142
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 402, 51
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+mao1
+  rotate: false
+  xy: 0, 228
+  size: 136, 266
+  orig: 136, 266
+  offset: 0, 0
+  index: -1
+mao21
+  rotate: false
+  xy: 138, 327
+  size: 169, 167
+  orig: 169, 167
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 323, 202
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 282, 156
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 63
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 309, 347
+  size: 150, 147
+  orig: 150, 147
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 190, 17
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 461, 367
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 128, 11
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 321, 117
+  size: 118, 41
+  orig: 118, 41
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: true
+  xy: 443, 146
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: false
+  xy: 0, 0
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: true
+  xy: 461, 434
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: false
+  xy: 130, 74
+  size: 88, 74
+  orig: 88, 74
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: false
+  xy: 246, 21
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: true
+  xy: 57, 9
+  size: 52, 69
+  orig: 52, 69
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: false
+  xy: 130, 36
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+zshou32x
+  rotate: true
+  xy: 321, 160
+  size: 40, 120
+  orig: 40, 120
+  offset: 0, 0
+  index: -1
+zshou3x
+  rotate: true
+  xy: 288, 66
+  size: 49, 112
+  orig: 49, 112
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: false
+  xy: 138, 248
+  size: 183, 77
+  orig: 183, 77
+  offset: 0, 0
+  index: -1

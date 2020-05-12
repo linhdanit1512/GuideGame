@@ -1,0 +1,160 @@
+:root {
+   --logotime: 4s;
+   --s-delay: 0.5s;
+   --p-delay: 1.5s;
+}
+
+.logo {
+   margin-top: -25px;
+   transform: scale(0.14);
+   width: 150px;
+   height: auto;
+}
+
+.logo-ummon {
+   position: absolute;
+   width: 275px;
+   height: 78px;
+   display: block;
+   margin-top: 180px;
+   margin-left: 85px;
+   z-index: 9;
+   background: url(/images/favicon/logo/text.png) 638px 264px;
+}
+
+.logo-s {
+   position: absolute;
+   margin-top: 120px;
+   width: 114px;
+   height: 147px;
+   display: block;
+   z-index: 10;
+   background: url(/images/favicon/logo/text.png) 638px 413px;
+   animation: logoS var(--logotime) infinite;
+   animation-delay: var(--s-delay);
+}
+
+@keyframes logoS {
+   0% {
+      transform: scale(0.9);
+   }
+   20% {
+      transform: scale(0.9);
+   }
+   50% {
+      transform: scale(1.2);
+   }
+   70% {
+      transform: scale(0.9);
+   }
+   100% {
+      transform: scale(0.9);
+   }
+}
+
+.logo-wing {
+   transform: rotate(90deg);
+   position: absolute;
+   width: 202px;
+   height: 414px;
+   margin-left: 350px;
+   margin-top: -10px;
+   display: block;
+   background: url(/images/favicon/logo/text.png) 1022px 866px;
+   filter: contrast(1.5);
+}
+
+.logo-cross {
+   position: absolute;
+   margin-top: 60px;
+   margin-left: -10px;
+   width: 382px;
+   height: 264px;
+   display: block;
+   background: url(/images/favicon/logo/text.png) 1022px 450px;
+   transform: rotate(-90deg);
+   filter: contrast(1.5);
+}
+
+.logo-p {
+   transform: rotate(90deg);
+   position: absolute;
+   width: 188px;
+   margin-top: 95px;
+   margin-left: 340px;
+   height: 154px;
+   display: block;
+   background: url(/images/favicon/logo/text.png) 1022px 1022px;
+   animation: logoP var(--logotime) infinite;
+   animation-delay: var(--p-delay);
+   z-index: 10;
+}
+
+@keyframes logoP {
+   0% {
+      transform: scale(0.9) rotate(90deg);
+   }
+   20% {
+      transform: scale(0.9) rotate(90deg);
+   }
+   50% {
+      transform: scale(1.1) rotate(90deg);
+   }
+   70% {
+      transform: scale(0.9) rotate(90deg);
+   }
+   100% {
+      transform: scale(0.9) rotate(90deg);
+   }
+}
+
+.logo-rincess {
+   position: absolute;
+   width: 235px;
+   height: 118px;
+   z-index: 9;
+   margin-top: 143px;
+   margin-left: 470px;
+   display: block;
+   background: url(/images/favicon/logo/text.png) 320px 146px;
+}
+
+.logo-text {
+   transform: rotate(90deg);
+   position: absolute;
+   width: 89px;
+   height: 497px;
+   display: block;
+   margin-left: 335px;
+   margin-top: 50px;
+   background: url(/images/favicon/logo/text.png) 818px 949px;
+}
+
+.logo-light {
+   position: absolute;
+   width: 700px;
+   height: 156px;
+   display: block;
+   background: url(/images/favicon/logo/text.png) 1022px 184px;
+   margin-top: 120px;
+   z-index: 11;
+   animation: logoLight 1s infinite;
+}
+
+@keyframes logoLight {
+   0% {
+      filter: contrast(1);
+   }
+   20% {
+      filter: contrast(3);
+   }
+   50% {
+      filter: contrast(1.5);
+   }
+   80% {
+      filter: contrast(0.5);
+   }
+   100% {
+      filter: contrast(1);
+   }
+}

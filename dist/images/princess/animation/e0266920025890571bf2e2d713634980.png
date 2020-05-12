@@ -1,0 +1,139 @@
+
+sp_fire_rain.png
+size: 634,634
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodian_00010
+  rotate: true
+  xy: 158, 42
+  size: 218, 168
+  orig: 253, 184
+  offset: 18, 12
+  index: -1
+baodian_00011
+  rotate: false
+  xy: 2, 262
+  size: 246, 184
+  orig: 253, 184
+  offset: 4, 0
+  index: -1
+baodian_00012
+  rotate: false
+  xy: 2, 448
+  size: 253, 184
+  orig: 253, 184
+  offset: 0, 0
+  index: -1
+baodian_00013
+  rotate: false
+  xy: 257, 476
+  size: 253, 156
+  orig: 253, 184
+  offset: 0, 28
+  index: -1
+baodian_00015
+  rotate: true
+  xy: 2, 7
+  size: 253, 154
+  orig: 253, 184
+  offset: 0, 30
+  index: -1
+hole
+  rotate: false
+  xy: 328, 108
+  size: 200, 86
+  orig: 200, 86
+  offset: 0, 0
+  index: -1
+huoxian0001
+  rotate: false
+  xy: 257, 437
+  size: 298, 37
+  orig: 300, 37
+  offset: 1, 0
+  index: -1
+sp_sr_end1
+  rotate: false
+  xy: 328, 2
+  size: 99, 104
+  orig: 99, 104
+  offset: 0, 0
+  index: -1
+sp_sr_end2
+  rotate: false
+  xy: 429, 6
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+sp_sr_end3
+  rotate: true
+  xy: 521, 232
+  size: 100, 77
+  orig: 100, 77
+  offset: 0, 0
+  index: -1
+sp_sr_explor2
+  rotate: false
+  xy: 512, 515
+  size: 83, 117
+  orig: 83, 117
+  offset: 0, 0
+  index: -1
+sp_sr_impact
+  rotate: false
+  xy: 328, 196
+  size: 191, 136
+  orig: 191, 136
+  offset: 0, 0
+  index: -1
+sp_sr_light
+  rotate: false
+  xy: 250, 334
+  size: 333, 23
+  orig: 333, 23
+  offset: 0, 0
+  index: -1
+sp_sr_rock
+  rotate: false
+  xy: 158, 17
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+sp_sr_smoke1
+  rotate: true
+  xy: 557, 409
+  size: 49, 73
+  orig: 49, 73
+  offset: 0, 0
+  index: -1
+sp_sr_smoke2
+  rotate: true
+  xy: 250, 272
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+sp_sr_smoke3
+  rotate: false
+  xy: 530, 149
+  size: 59, 81
+  orig: 59, 81
+  offset: 0, 0
+  index: -1
+sp_sr_smoke4
+  rotate: true
+  xy: 557, 460
+  size: 53, 75
+  orig: 53, 75
+  offset: 0, 0
+  index: -1
+sp_sr_wave
+  rotate: false
+  xy: 250, 359
+  size: 293, 76
+  orig: 293, 79
+  offset: 0, 1
+  index: -1

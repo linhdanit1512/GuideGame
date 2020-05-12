@@ -1,0 +1,69 @@
+
+sp_fire_ball_boomb.png
+size: 446,446
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_mat_common_0041
+  rotate: true
+  xy: 145, 96
+  size: 109, 111
+  orig: 128, 128
+  offset: 9, 8
+  index: -1
+fx_mat_common_2181
+  rotate: false
+  xy: 2, 5
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+h0005
+  rotate: false
+  xy: 2, 233
+  size: 170, 211
+  orig: 170, 211
+  offset: 0, 0
+  index: -1
+huo1
+  rotate: false
+  xy: 104, 2
+  size: 106, 92
+  orig: 141, 124
+  offset: 21, 21
+  index: -1
+huo2
+  rotate: false
+  xy: 303, 194
+  size: 118, 118
+  orig: 141, 124
+  offset: 12, 6
+  index: -1
+huo3
+  rotate: false
+  xy: 174, 207
+  size: 127, 111
+  orig: 141, 124
+  offset: 7, 11
+  index: -1
+huo4
+  rotate: false
+  xy: 2, 107
+  size: 141, 124
+  orig: 141, 124
+  offset: 0, 0
+  index: -1
+huo5
+  rotate: false
+  xy: 174, 320
+  size: 141, 124
+  orig: 141, 124
+  offset: 0, 0
+  index: -1
+huo6
+  rotate: true
+  xy: 317, 314
+  size: 130, 120
+  orig: 141, 124
+  offset: 11, 0
+  index: -1

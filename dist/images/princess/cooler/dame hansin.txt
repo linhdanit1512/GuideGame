@@ -1,0 +1,146 @@
+
+dame hansin.png
+size: 287,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 0, 55
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 143, 115
+  size: 42, 172
+  orig: 42, 172
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 0, 1
+  size: 90, 52
+  orig: 90, 52
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 187, 250
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 187, 182
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 157
+  size: 141, 130
+  orig: 141, 130
+  offset: 0, 0
+  index: -1
+tou11
+  rotate: false
+  xy: 235, 182
+  size: 41, 66
+  orig: 41, 66
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 187, 126
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 162, 62
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 137, 60
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: false
+  xy: 249, 96
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: false
+  xy: 102, 118
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: false
+  xy: 141, 30
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: false
+  xy: 119, 0
+  size: 20, 52
+  orig: 20, 52
+  offset: 0, 0
+  index: -1
+ytui1
+  rotate: false
+  xy: 92, 0
+  size: 25, 52
+  orig: 25, 52
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: false
+  xy: 225, 90
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: false
+  xy: 188, 86
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: false
+  xy: 188, 56
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: false
+  xy: 243, 129
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+ztui1
+  rotate: false
+  xy: 102, 54
+  size: 33, 62
+  orig: 33, 62
+  offset: 0, 0
+  index: -1

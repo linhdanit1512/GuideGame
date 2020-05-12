@@ -1,0 +1,41 @@
+
+sp_sk_hit_ready_pow.png
+size: 481,481
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow01
+  rotate: true
+  xy: 261, 213
+  size: 266, 203
+  orig: 270, 203
+  offset: 2, 0
+  index: -1
+glow02
+  rotate: false
+  xy: 2, 210
+  size: 257, 269
+  orig: 258, 269
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 146
+  size: 421, 62
+  orig: 429, 66
+  offset: 4, 2
+  index: -1
+ring01
+  rotate: false
+  xy: 2, 2
+  size: 141, 142
+  orig: 143, 144
+  offset: 1, 1
+  index: -1
+ring02
+  rotate: false
+  xy: 145, 50
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1

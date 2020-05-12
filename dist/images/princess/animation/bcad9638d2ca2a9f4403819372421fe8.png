@@ -1,0 +1,55 @@
+
+sp_sk_hit_attacked_dark.png
+size: 699,699
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud01
+  rotate: false
+  xy: 430, 190
+  size: 168, 160
+  orig: 168, 160
+  offset: 0, 0
+  index: -1
+cloud02
+  rotate: false
+  xy: 293, 3
+  size: 151, 144
+  orig: 151, 144
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 342
+  size: 341, 355
+  orig: 355, 383
+  offset: 11, 4
+  index: -1
+particle
+  rotate: false
+  xy: 2, 34
+  size: 289, 306
+  orig: 291, 308
+  offset: 1, 1
+  index: -1
+shock
+  rotate: false
+  xy: 293, 149
+  size: 135, 191
+  orig: 135, 191
+  offset: 0, 0
+  index: -1
+starlight
+  rotate: false
+  xy: 345, 352
+  size: 346, 345
+  orig: 354, 355
+  offset: 4, 5
+  index: -1
+twistglow
+  rotate: true
+  xy: 600, 240
+  size: 110, 97
+  orig: 110, 97
+  offset: 0, 0
+  index: -1

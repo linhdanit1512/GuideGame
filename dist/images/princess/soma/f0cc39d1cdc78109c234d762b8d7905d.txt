@@ -1,0 +1,167 @@
+
+sp_cr_l_nameless_6.png
+size: 525,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2130
+  rotate: true
+  xy: 326, 285
+  size: 240, 183
+  orig: 240, 183
+  offset: 0, 0
+  index: -1
+2342
+  rotate: false
+  xy: 0, 319
+  size: 324, 206
+  orig: 324, 206
+  offset: 0, 0
+  index: -1
+3434
+  rotate: true
+  xy: 102, 1
+  size: 128, 45
+  orig: 128, 45
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 301, 41
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+kl_fanguang
+  rotate: false
+  xy: 403, 43
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 159, 0
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: -1
+qunzi22
+  rotate: false
+  xy: 159, 143
+  size: 158, 174
+  orig: 158, 174
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 301, 2
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 465, 100
+  size: 53, 91
+  orig: 53, 91
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 0, 131
+  size: 186, 157
+  orig: 186, 157
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 0, 22
+  size: 100, 107
+  orig: 100, 107
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 319, 212
+  size: 62, 25
+  orig: 62, 25
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 511, 466
+  size: 59, 13
+  orig: 59, 13
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: false
+  xy: 422, 225
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: false
+  xy: 319, 239
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: false
+  xy: 383, 205
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: true
+  xy: 393, 9
+  size: 30, 70
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
+ytui1
+  rotate: false
+  xy: 465, 193
+  size: 55, 90
+  orig: 55, 90
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: false
+  xy: 465, 36
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: false
+  xy: 422, 177
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: false
+  xy: 359, 244
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: true
+  xy: 403, 89
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+ztui1
+  rotate: true
+  xy: 319, 145
+  size: 46, 101
+  orig: 46, 101
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+sp_ui_pet_birth.png
+size: 771,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cangguang
+  rotate: false
+  xy: 346, 57
+  size: 248, 246
+  orig: 256, 256
+  offset: 5, 5
+  index: -1
+lizi
+  rotate: false
+  xy: 2, 2
+  size: 342, 301
+  orig: 342, 313
+  offset: 0, 12
+  index: -1
+sanguang
+  rotate: false
+  xy: 642, 21
+  size: 24, 107
+  orig: 29, 107
+  offset: 5, 0
+  index: -1
+suike
+  rotate: false
+  xy: 596, 71
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+waiguang
+  rotate: false
+  xy: 596, 130
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1

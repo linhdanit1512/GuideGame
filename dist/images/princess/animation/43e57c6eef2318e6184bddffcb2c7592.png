@@ -1,0 +1,20 @@
+
+sp_sk_fly_pet_green_1.png
+size: 262,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang
+  rotate: false
+  xy: 0, 11
+  size: 212, 251
+  orig: 212, 251
+  offset: 0, 0
+  index: -1
+daoguang2
+  rotate: false
+  xy: 214, 91
+  size: 48, 171
+  orig: 48, 171
+  offset: 0, 0
+  index: -1

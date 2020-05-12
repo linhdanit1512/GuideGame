@@ -1,0 +1,34 @@
+
+sp_fire_line_fly.png
+size: 302,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoxian0001
+  rotate: false
+  xy: 2, 263
+  size: 298, 37
+  orig: 300, 37
+  offset: 1, 0
+  index: -1
+huoxian0002
+  rotate: false
+  xy: 2, 228
+  size: 298, 33
+  orig: 300, 37
+  offset: 2, 3
+  index: -1
+huoxian0003
+  rotate: false
+  xy: 2, 159
+  size: 267, 32
+  orig: 300, 37
+  offset: 0, 4
+  index: -1
+huoxian0004
+  rotate: false
+  xy: 2, 193
+  size: 284, 33
+  orig: 300, 37
+  offset: 0, 4
+  index: -1

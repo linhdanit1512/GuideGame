@@ -1,0 +1,27 @@
+
+sp_bt_result_card_select_up.png
+size: 204,213
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 23
+  size: 200, 21
+  orig: 200, 21
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 138, 19
+  orig: 138, 19
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 46
+  size: 159, 165
+  orig: 161, 169
+  offset: 1, 2
+  index: -1

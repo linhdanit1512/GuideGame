@@ -1,0 +1,160 @@
+
+sp_cr_e_shaly_5.png
+size: 359,359
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: false
+  xy: 238, 6
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: true
+  xy: 238, 41
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: true
+  xy: 132, 29
+  size: 56, 81
+  orig: 56, 81
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: false
+  xy: 303, 113
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 141, 153
+  size: 65, 104
+  orig: 65, 104
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 215, 24
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: true
+  xy: 236, 90
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+FootL
+  rotate: false
+  xy: 321, 64
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+FootR
+  rotate: false
+  xy: 0, 2
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 324, 163
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+HandL2
+  rotate: false
+  xy: 303, 80
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: false
+  xy: 286, 44
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 21
+  size: 130, 168
+  orig: 130, 168
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 247, 155
+  size: 43, 73
+  orig: 43, 73
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 292, 159
+  size: 30, 69
+  orig: 30, 69
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: false
+  xy: 259, 95
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: false
+  xy: 324, 201
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+SkirtL
+  rotate: false
+  xy: 132, 87
+  size: 102, 64
+  orig: 102, 64
+  offset: 0, 0
+  index: -1
+WeaponL
+  rotate: false
+  xy: 141, 220
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 241, 230
+  size: 80, 129
+  orig: 80, 129
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 323, 263
+  size: 96, 29
+  orig: 96, 29
+  offset: 0, 0
+  index: -1
+weijing
+  rotate: false
+  xy: 0, 191
+  size: 139, 168
+  orig: 139, 168
+  offset: 0, 0
+  index: -1

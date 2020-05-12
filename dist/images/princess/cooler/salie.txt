@@ -1,0 +1,209 @@
+
+salie.png
+size: 365,365
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 215, 265
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+EarL
+  rotate: false
+  xy: 146, 0
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+EarR
+  rotate: false
+  xy: 271, 160
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+HairBL
+  rotate: false
+  xy: 0, 77
+  size: 89, 135
+  orig: 89, 135
+  offset: 0, 0
+  index: -1
+HairBM
+  rotate: true
+  xy: 92, 164
+  size: 82, 111
+  orig: 82, 111
+  offset: 0, 0
+  index: -1
+HairBR
+  rotate: false
+  xy: 0, 214
+  size: 90, 151
+  orig: 90, 151
+  offset: 0, 0
+  index: -1
+HairFL
+  rotate: true
+  xy: 205, 159
+  size: 26, 64
+  orig: 26, 64
+  offset: 0, 0
+  index: -1
+HairFM1
+  rotate: true
+  xy: 309, 169
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+HairFM2
+  rotate: false
+  xy: 317, 265
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+HairFR
+  rotate: false
+  xy: 309, 199
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: true
+  xy: 173, 33
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: false
+  xy: 259, 104
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+SkirtR
+  rotate: true
+  xy: 215, 187
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: true
+  xy: 91, 72
+  size: 90, 110
+  orig: 90, 110
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 0, 24
+  size: 79, 51
+  orig: 79, 51
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 81, 33
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 317, 302
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 92, 248
+  size: 121, 117
+  orig: 121, 117
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 203, 103
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 81, 0
+  size: 63, 31
+  orig: 63, 31
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 339, 114
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: true
+  xy: 237, 37
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: true
+  xy: 286, 103
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: false
+  xy: 192, 1
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: true
+  xy: 0, 0
+  size: 22, 57
+  orig: 22, 57
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: false
+  xy: 317, 63
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: false
+  xy: 266, 50
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: false
+  xy: 266, 20
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: true
+  xy: 203, 72
+  size: 29, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1

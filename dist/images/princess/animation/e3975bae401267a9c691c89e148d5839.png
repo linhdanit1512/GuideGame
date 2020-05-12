@@ -1,0 +1,132 @@
+
+sp_cylindrical_water.png
+size: 693,693
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 587, 562
+  size: 62, 96
+  orig: 75, 300
+  offset: 9, 4
+  index: -1
+2
+  rotate: false
+  xy: 602, 385
+  size: 68, 175
+  orig: 75, 300
+  offset: 7, 3
+  index: -1
+3
+  rotate: true
+  xy: 256, 131
+  size: 69, 283
+  orig: 75, 300
+  offset: 4, 2
+  index: -1
+4
+  rotate: true
+  xy: 301, 475
+  size: 67, 298
+  orig: 75, 300
+  offset: 8, 2
+  index: -1
+5
+  rotate: true
+  xy: 281, 202
+  size: 62, 298
+  orig: 75, 300
+  offset: 13, 2
+  index: -1
+6
+  rotate: true
+  xy: 281, 266
+  size: 66, 298
+  orig: 75, 300
+  offset: 9, 2
+  index: -1
+7
+  rotate: true
+  xy: 300, 401
+  size: 72, 300
+  orig: 75, 300
+  offset: 3, 0
+  index: -1
+8
+  rotate: true
+  xy: 300, 334
+  size: 65, 300
+  orig: 75, 300
+  offset: 10, 0
+  index: -1
+9
+  rotate: true
+  xy: 2, 35
+  size: 75, 300
+  orig: 75, 300
+  offset: 0, 0
+  index: -1
+dfdf
+  rotate: false
+  xy: 529, 2
+  size: 128, 127
+  orig: 130, 128
+  offset: 1, 0
+  index: -1
+shui1
+  rotate: false
+  xy: 587, 626
+  size: 95, 65
+  orig: 300, 174
+  offset: 125, 7
+  index: -1
+shui2
+  rotate: true
+  xy: 581, 162
+  size: 170, 105
+  orig: 300, 174
+  offset: 87, 8
+  index: -1
+shui3
+  rotate: false
+  xy: 304, 9
+  size: 223, 120
+  orig: 300, 174
+  offset: 62, 14
+  index: -1
+shui4
+  rotate: false
+  xy: 2, 112
+  size: 252, 129
+  orig: 300, 174
+  offset: 38, 29
+  index: -1
+shui5
+  rotate: false
+  xy: 2, 243
+  size: 277, 138
+  orig: 300, 174
+  offset: 21, 32
+  index: -1
+shui6
+  rotate: false
+  xy: 301, 544
+  size: 284, 147
+  orig: 300, 174
+  offset: 11, 27
+  index: -1
+shui7
+  rotate: false
+  xy: 2, 383
+  size: 296, 153
+  orig: 300, 174
+  offset: 0, 16
+  index: -1
+shui8
+  rotate: false
+  xy: 2, 538
+  size: 297, 153
+  orig: 300, 174
+  offset: 3, 0
+  index: -1

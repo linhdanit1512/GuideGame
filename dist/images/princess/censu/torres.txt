@@ -1,0 +1,153 @@
+
+torres.png
+size: 287,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 0, 76
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 0, 9
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: true
+  xy: 66, 4
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 102, 86
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 219, 211
+  size: 47, 76
+  orig: 47, 76
+  offset: 0, 0
+  index: -1
+shentixxx
+  rotate: false
+  xy: 167, 36
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 178
+  size: 161, 109
+  orig: 161, 109
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 168, 122
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 141, 107
+  size: 69, 25
+  orig: 69, 25
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 142, 52
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: true
+  xy: 183, 1
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: false
+  xy: 224, 138
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: false
+  xy: 224, 77
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+yshou4
+  rotate: false
+  xy: 163, 208
+  size: 54, 79
+  orig: 54, 79
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: true
+  xy: 163, 178
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+ytui1
+  rotate: false
+  xy: 114, 29
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: true
+  xy: 142, 0
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: false
+  xy: 224, 171
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: false
+  xy: 224, 105
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: true
+  xy: 168, 97
+  size: 23, 54
+  orig: 23, 54
+  offset: 0, 0
+  index: -1
+ztui1
+  rotate: true
+  xy: 167, 63
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1

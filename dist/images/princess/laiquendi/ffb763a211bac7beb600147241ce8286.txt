@@ -1,0 +1,153 @@
+
+sp_cr_e_faceless_5.png
+size: 402,402
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daizi
+  rotate: true
+  xy: 2, 5
+  size: 69, 108
+  orig: 69, 108
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 2, 197
+  size: 179, 203
+  orig: 179, 204
+  offset: 0, 1
+  index: -1
+dizi
+  rotate: false
+  xy: 183, 165
+  size: 139, 105
+  orig: 139, 105
+  offset: 0, 0
+  index: -1
+hudiejie
+  rotate: true
+  xy: 234, 18
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+mnote01
+  rotate: true
+  xy: 176, 10
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+qun1
+  rotate: false
+  xy: 2, 76
+  size: 175, 119
+  orig: 175, 119
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 324, 84
+  size: 90, 27
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 319, 338
+  size: 62, 81
+  orig: 62, 81
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 183, 272
+  size: 134, 128
+  orig: 134, 128
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 179, 62
+  size: 115, 101
+  orig: 115, 101
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 371, 204
+  size: 70, 27
+  orig: 70, 27
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 324, 70
+  size: 69, 11
+  orig: 69, 11
+  offset: 0, 0
+  index: -1
+yao
+  rotate: true
+  xy: 287, 8
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: true
+  xy: 353, 136
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: true
+  xy: 319, 276
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: false
+  xy: 360, 41
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+ytui2
+  rotate: false
+  xy: 324, 176
+  size: 45, 98
+  orig: 45, 98
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: false
+  xy: 353, 83
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: true
+  xy: 112, 7
+  size: 67, 62
+  orig: 67, 62
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: true
+  xy: 324, 40
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+ztui2
+  rotate: false
+  xy: 296, 61
+  size: 26, 102
+  orig: 26, 102
+  offset: 0, 0
+  index: -1

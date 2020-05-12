@@ -1,0 +1,20 @@
+
+cooler egg.png
+size: 148,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: true
+  xy: 105, 95
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+shang_danke
+  rotate: false
+  xy: 2, 20
+  size: 101, 126
+  orig: 101, 126
+  offset: 0, 0
+  index: -1

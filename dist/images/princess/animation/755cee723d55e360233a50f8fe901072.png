@@ -1,0 +1,118 @@
+
+sp_sk_hit_wanjianzheng.png
+size: 837,837
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodian0001
+  rotate: true
+  xy: 212, 0
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+baodian0002
+  rotate: true
+  xy: 745, 205
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+baodian0003
+  rotate: false
+  xy: 537, 48
+  size: 103, 102
+  orig: 103, 102
+  offset: 0, 0
+  index: -1
+baodian0004
+  rotate: false
+  xy: 636, 281
+  size: 108, 107
+  orig: 108, 107
+  offset: 0, 0
+  index: -1
+baodian0005
+  rotate: false
+  xy: 636, 183
+  size: 107, 96
+  orig: 107, 96
+  offset: 0, 0
+  index: -1
+didian0001
+  rotate: true
+  xy: 625, 390
+  size: 90, 197
+  orig: 90, 197
+  offset: 0, 0
+  index: -1
+didian0002
+  rotate: true
+  xy: 0, 1
+  size: 84, 210
+  orig: 84, 210
+  offset: 0, 0
+  index: -1
+didian0003
+  rotate: true
+  xy: 325, 81
+  size: 69, 210
+  orig: 69, 210
+  offset: 0, 0
+  index: -1
+didian0004
+  rotate: false
+  xy: 572, 195
+  size: 62, 193
+  orig: 62, 193
+  offset: 0, 0
+  index: -1
+didian0005
+  rotate: false
+  xy: 746, 268
+  size: 57, 120
+  orig: 57, 120
+  offset: 0, 0
+  index: -1
+didian0006
+  rotate: true
+  xy: 212, 35
+  size: 50, 106
+  orig: 50, 106
+  offset: 0, 0
+  index: -1
+f1
+  rotate: false
+  xy: 625, 482
+  size: 208, 200
+  orig: 208, 200
+  offset: 0, 0
+  index: -1
+f2
+  rotate: false
+  xy: 0, 87
+  size: 323, 310
+  orig: 323, 310
+  offset: 0, 0
+  index: -1
+f3
+  rotate: false
+  xy: 325, 152
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+jian2
+  rotate: true
+  xy: 625, 684
+  size: 153, 212
+  orig: 153, 212
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 0, 399
+  size: 623, 438
+  orig: 623, 438
+  offset: 0, 0
+  index: -1

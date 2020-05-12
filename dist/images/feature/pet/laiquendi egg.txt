@@ -1,0 +1,20 @@
+
+laiquendi egg.png
+size: 160,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: true
+  xy: 112, 103
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+shang_danke
+  rotate: false
+  xy: 2, 32
+  size: 108, 126
+  orig: 108, 126
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+sp_bf_end_burn.png
+size: 244,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sfire_001
+  rotate: true
+  xy: 159, 86
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+sfire_002
+  rotate: false
+  xy: 184, 33
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+sfire_003
+  rotate: false
+  xy: 152, 33
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+sfire_004
+  rotate: false
+  xy: 117, 33
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+sfire_005
+  rotate: false
+  xy: 42, 30
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+sfire_006
+  rotate: false
+  xy: 2, 28
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+sfire_007
+  rotate: false
+  xy: 159, 180
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+sfire_008
+  rotate: false
+  xy: 80, 31
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+sfire_009
+  rotate: true
+  xy: 117, 2
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+sfire_010
+  rotate: false
+  xy: 192, 127
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+sfire_011
+  rotate: false
+  xy: 159, 116
+  size: 31, 62
+  orig: 31, 62
+  offset: 0, 0
+  index: -1
+sfire_012
+  rotate: true
+  xy: 196, 182
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+sfire_013
+  rotate: true
+  xy: 196, 214
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+yanhuo_3200007
+  rotate: false
+  xy: 2, 89
+  size: 155, 153
+  orig: 155, 153
+  offset: 0, 0
+  index: -1

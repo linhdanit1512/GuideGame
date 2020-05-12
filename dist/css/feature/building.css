@@ -1,0 +1,214 @@
+
+.sy_cast_building_altar {
+   width: 440px;
+   height: 436px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/building.png') 470px 751px;
+}
+
+.sy_cast_building_altar.left {
+   padding-left: 440px;
+   padding-bottom: 436px;
+}
+
+.sy_cast_building_brave {
+   width: 338px;
+   height: 319px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/building.png') 921px 396px;
+   transform: rotate(90deg);
+}
+
+.sy_cast_building_brave.left {
+   padding-left: 338px;
+   padding-bottom: 319px;
+}
+
+.sy_cast_building_get_hero {
+   width: 346px;
+   height: 451px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/building.png') 1981px 346px;
+   transform: rotate(90deg);
+}
+
+.sy_cast_building_get_hero.left {
+   padding-left: 346px;
+   padding-bottom: 451px;
+}
+
+.sy_cast_building_hero_trial {
+   width: 301px;
+   height: 345px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/building.png') 1531px 381px;
+}
+
+.sy_cast_building_hero_trial.left {
+   padding-left: 301px;
+   padding-bottom: 345px;
+}
+
+.sy_cast_building_hero_upgrade {
+   width: 484px;
+   height: 451px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/building.png') 485px 1207px;
+}
+
+.sy_cast_building_hero_upgrade.left {
+   padding-left: 484px;
+   padding-bottom: 451px;
+}
+
+.sy_cast_building_pvp {
+   width: 308px;
+   height: 392px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/building.png') 887px 693px;
+   transform: rotate(90deg);
+}
+
+.sy_cast_building_pvp.left {
+   padding-left: 308px;
+   padding-bottom: 392px;
+}
+
+.sy_cast_building_rotary {
+   width: 256px;
+   height: 215px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/building.png') 1481px 635px;
+}
+
+.sy_cast_building_rotary.left {
+   padding-left: 256px;
+   padding-bottom: 215px;
+}
+
+.sy_cast_building_shop {
+   width: 299px;
+   height: 325px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/building.png') 599px 320px;
+   transform: rotate(90deg);
+}
+
+.sy_cast_building_shop.left {
+   padding-left: 299px;
+   padding-bottom: 325px;
+}
+
+.sy_cast_building_smithy {
+   width: 336px;
+   height: 268px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/building.png') 1238px 626px;
+}
+
+.sy_cast_building_smithy.left {
+   padding-left: 336px;
+   padding-bottom: 268px;
+}
+
+.sy_cast_building_tavern {
+   width: 258px;
+   height: 212px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/building.png') 262px 322px;
+   transform: rotate(90deg);
+}
+
+.sy_cast_building_tavern.left {
+   padding-left: 258px;
+   padding-bottom: 212px;
+}
+
+.sy_cast_building_tower {
+   width: 250px;
+   height: 542px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/building.png') 1277px 1215px;
+}
+
+.sy_cast_building_tower.left {
+   padding-left: 250px;
+   padding-bottom: 542px;
+}
+
+.sy_cast_building_tree {
+   width: 311px;
+   height: 380px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/building.png') 1222px 393px;
+}
+
+.sy_cast_building_tree.left {
+   padding-left: 311px;
+   padding-bottom: 380px;
+}
+
+.sy_cast_cloud_1 {
+   width: 819px;
+   height: 221px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/building.png') 1708px 1197px;
+   transform: rotate(90deg);
+}
+
+.sy_cast_cloud_1.left {
+   padding-left: 819px;
+   padding-bottom: 221px;
+}
+
+.sy_cast_cloud_2 {
+   width: 493px;
+   height: 204px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/building.png') 1013px 1197px;
+   transform: rotate(90deg);
+}
+
+.sy_cast_cloud_2.left {
+   padding-left: 493px;
+   padding-bottom: 204px;
+}
+
+.sy_cast_cloud_3 {
+   width: 846px;
+   height: 266px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/building.png') 1977px 1198px;
+   transform: rotate(90deg);
+}
+
+.sy_cast_cloud_3.left {
+   padding-left: 846px;
+   padding-bottom: 266px;
+}
+
+.sy_cast_cloud_4 {
+   width: 492px;
+   height: 318px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/building.png') 810px 1204px;
+   transform: rotate(90deg);
+}
+
+.sy_cast_cloud_4.left {
+   padding-left: 492px;
+   padding-bottom: 318px;
+}
+
+.sy_cast_cloud_5 {
+   width: 567px;
+   height: 215px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/building.png') 1484px 1197px;
+   transform: rotate(90deg);
+}
+
+.sy_cast_cloud_5.left {
+   padding-left: 567px;
+   padding-bottom: 215px;
+}

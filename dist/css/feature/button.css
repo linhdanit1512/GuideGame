@@ -1,0 +1,4554 @@
+
+.gn_vertical_line {
+   width: 8px;
+   height: 50px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 527px 279px;
+}
+
+.gn_vertical_line.left {
+   padding-left: 8px;
+   padding-bottom: 50px;
+}
+
+.gn_batt_arrow_1 {
+   width: 225px;
+   height: 216px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1642px 332px;
+}
+
+.gn_batt_arrow_1.left {
+   padding-left: 225px;
+   padding-bottom: 216px;
+}
+
+.gn_batt_arrow_2 {
+   width: 98px;
+   height: 233px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1414px 203px;
+   transform: rotate(90deg);
+}
+
+.gn_batt_arrow_2.left {
+   padding-left: 98px;
+   padding-bottom: 233px;
+}
+
+.gn_batt_bg {
+   width: 562px;
+   height: 42px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1352px 1114px;
+}
+
+.gn_batt_bg.left {
+   padding-left: 562px;
+   padding-bottom: 42px;
+}
+
+.gn_batt_blood_back_0 {
+   width: 60px;
+   height: 10px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1655px 589px;
+   transform: rotate(90deg);
+}
+
+.gn_batt_blood_back_0.left {
+   padding-left: 60px;
+   padding-bottom: 10px;
+}
+
+.gn_batt_blood_back_1 {
+   width: 60px;
+   height: 14px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 15px 1890px;
+   transform: rotate(90deg);
+}
+
+.gn_batt_blood_back_1.left {
+   padding-left: 60px;
+   padding-bottom: 14px;
+}
+
+.gn_batt_blood_back_2 {
+   width: 56px;
+   height: 6px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 457px 120px;
+   transform: rotate(90deg);
+}
+
+.gn_batt_blood_back_2.left {
+   padding-left: 56px;
+   padding-bottom: 6px;
+}
+
+.gn_batt_blood_green {
+   width: 56px;
+   height: 6px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1817px 11px;
+}
+
+.gn_batt_blood_green.left {
+   padding-left: 56px;
+   padding-bottom: 6px;
+}
+
+.gn_batt_blood_pet_back {
+   width: 60px;
+   height: 13px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 807px 15px;
+}
+
+.gn_batt_blood_pet_back.left {
+   padding-left: 60px;
+   padding-bottom: 13px;
+}
+
+.gn_batt_blood_pet_yellow {
+   width: 56px;
+   height: 11px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 652px 441px;
+   transform: rotate(90deg);
+}
+
+.gn_batt_blood_pet_yellow.left {
+   padding-left: 56px;
+   padding-bottom: 11px;
+}
+
+.gn_batt_blood_red {
+   width: 56px;
+   height: 6px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 218px 14px;
+}
+
+.gn_batt_blood_red.left {
+   padding-left: 56px;
+   padding-bottom: 6px;
+}
+
+.gn_batt_blood_white {
+   width: 56px;
+   height: 6px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 613px 1293px;
+   transform: rotate(90deg);
+}
+
+.gn_batt_blood_white.left {
+   padding-left: 56px;
+   padding-bottom: 6px;
+}
+
+.gn_batt_blood_yellow {
+   width: 56px;
+   height: 6px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 614px 1234px;
+   transform: rotate(90deg);
+}
+
+.gn_batt_blood_yellow.left {
+   padding-left: 56px;
+   padding-bottom: 6px;
+}
+
+.gn_batt_btn_prompt {
+   width: 20px;
+   height: 20px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1030px 530px;
+}
+
+.gn_batt_btn_prompt.left {
+   padding-left: 20px;
+   padding-bottom: 20px;
+}
+
+.gn_batt_cure {
+   width: 154px;
+   height: 12px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 15px 2047px;
+   transform: rotate(90deg);
+}
+
+.gn_batt_cure.left {
+   padding-left: 154px;
+   padding-bottom: 12px;
+}
+
+.gn_batt_hurt {
+   width: 154px;
+   height: 12px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 776px 848px;
+}
+
+.gn_batt_hurt.left {
+   padding-left: 154px;
+   padding-bottom: 12px;
+}
+
+.gn_batt_skip {
+   width: 55px;
+   height: 55px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 183px 786px;
+}
+
+.gn_batt_skip.left {
+   padding-left: 55px;
+   padding-bottom: 55px;
+}
+
+.gn_batt_speed_btn_1 {
+   width: 80px;
+   height: 44px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 50px 1506px;
+   transform: rotate(90deg);
+}
+
+.gn_batt_speed_btn_1.left {
+   padding-left: 80px;
+   padding-bottom: 44px;
+}
+
+.gn_batt_speed_btn_2 {
+   width: 80px;
+   height: 44px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 244px 309px;
+   transform: rotate(90deg);
+}
+
+.gn_batt_speed_btn_2.left {
+   padding-left: 80px;
+   padding-bottom: 44px;
+}
+
+.gn_batt_stop {
+   width: 56px;
+   height: 64px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 524px 120px;
+   transform: rotate(90deg);
+}
+
+.gn_batt_stop.left {
+   padding-left: 56px;
+   padding-bottom: 64px;
+}
+
+.gn_bf_armor_break_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 92px 989px;
+}
+
+.gn_bf_armor_break_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_armor_break_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 360px 1575px;
+}
+
+.gn_bf_armor_break_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_armor_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 448px 97px;
+}
+
+.gn_bf_armor_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_armor_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 220px 331px;
+}
+
+.gn_bf_armor_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_attack_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 216px 406px;
+}
+
+.gn_bf_attack_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_attack_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 197px 406px;
+}
+
+.gn_bf_attack_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_contrl_immune_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1733px 29px;
+}
+
+.gn_bf_contrl_immune_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_contrl_immune_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 288px 714px;
+}
+
+.gn_bf_contrl_immune_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_crit_damage_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 255px 748px;
+}
+
+.gn_bf_crit_damage_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_crit_damage_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 83px 376px;
+}
+
+.gn_bf_crit_damage_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_crit_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 18px 446px;
+}
+
+.gn_bf_crit_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_crit_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 17px 427px;
+}
+
+.gn_bf_crit_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_dodge_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 17px 408px;
+}
+
+.gn_bf_dodge_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_dodge_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 17px 389px;
+}
+
+.gn_bf_dodge_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_hit_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 17px 370px;
+}
+
+.gn_bf_hit_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_hit_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 17px 351px;
+}
+
+.gn_bf_hit_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_hp_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 30px 198px;
+}
+
+.gn_bf_hp_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_hp_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 30px 179px;
+}
+
+.gn_bf_hp_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_reduce_damage_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 255px 729px;
+}
+
+.gn_bf_reduce_damage_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_skill_damage_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 25px 160px;
+}
+
+.gn_bf_skill_damage_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_skill_damage_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 25px 141px;
+}
+
+.gn_bf_skill_damage_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_speed_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 442px 487px;
+}
+
+.gn_bf_speed_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_speed_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 180px 1478px;
+}
+
+.gn_bf_speed_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_true_damage_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 180px 1459px;
+}
+
+.gn_bf_true_damage_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bg_brave_progress {
+   width: 539px;
+   height: 22px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 711px 1628px;
+}
+
+.gn_bg_brave_progress.left {
+   padding-left: 539px;
+   padding-bottom: 22px;
+}
+
+.gn_bg_process_guild_boss_blood {
+   width: 40px;
+   height: 17px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 200px 987px;
+}
+
+.gn_bg_process_guild_boss_blood.left {
+   padding-left: 40px;
+   padding-bottom: 17px;
+}
+
+.gn_bg_tips {
+   width: 117px;
+   height: 177px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 783px 1413px;
+   transform: rotate(90deg);
+}
+
+.gn_bg_tips.left {
+   padding-left: 117px;
+   padding-bottom: 177px;
+}
+
+.gn_border_tips {
+   width: 97px;
+   height: 97px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 239px 1278px;
+}
+
+.gn_border_tips.left {
+   padding-left: 97px;
+   padding-bottom: 97px;
+}
+
+.gn_border_tips_2 {
+   width: 85px;
+   height: 85px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 428px 642px;
+}
+
+.gn_border_tips_2.left {
+   padding-left: 85px;
+   padding-bottom: 85px;
+}
+
+.gn_brave_progress {
+   width: 534px;
+   height: 18px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 751px 1603px;
+}
+
+.gn_brave_progress.left {
+   padding-left: 534px;
+   padding-bottom: 18px;
+}
+
+.gn_btn_artifact_1 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 106px 1820px;
+}
+
+.gn_btn_artifact_1.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.gn_btn_artifact_2 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 632px 169px;
+}
+
+.gn_btn_artifact_2.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.gn_btn_artifact_3 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 591px 1069px;
+}
+
+.gn_btn_artifact_3.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.gn_btn_artifact_4 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 483px 1069px;
+}
+
+.gn_btn_artifact_4.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.gn_btn_artifact_5 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 606px 848px;
+}
+
+.gn_btn_artifact_5.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.gn_btn_artifact_6 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 498px 848px;
+}
+
+.gn_btn_artifact_6.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.gn_btn_artifact_7 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 584px 456px;
+}
+
+.gn_btn_artifact_7.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.gn_btn_assist {
+   width: 44px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 114px 605px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_assist.left {
+   padding-left: 44px;
+   padding-bottom: 40px;
+}
+
+.gn_btn_back {
+   width: 68px;
+   height: 68px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 669px 688px;
+}
+
+.gn_btn_back.left {
+   padding-left: 68px;
+   padding-bottom: 68px;
+}
+
+.gn_btn_big_yellow {
+   width: 304px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1417px 484px;
+}
+
+.gn_btn_big_yellow.left {
+   padding-left: 304px;
+   padding-bottom: 110px;
+}
+
+.gn_btn_big_yellow02 {
+   width: 224px;
+   height: 104px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 122px 2047px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_big_yellow02.left {
+   padding-left: 224px;
+   padding-bottom: 104px;
+}
+
+.gn_btn_blue {
+   width: 36px;
+   height: 36px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 119px 557px;
+}
+
+.gn_btn_blue.left {
+   padding-left: 36px;
+   padding-bottom: 36px;
+}
+
+.gn_btn_box_blue {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 422px 487px;
+}
+
+.gn_btn_box_blue.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.gn_btn_box_gray {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 422px 384px;
+}
+
+.gn_btn_box_gray.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.gn_btn_box_green {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 422px 281px;
+}
+
+.gn_btn_box_green.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.gn_btn_box_gules {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 427px 178px;
+}
+
+.gn_btn_box_gules.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.gn_btn_box_orange {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 324px 178px;
+}
+
+.gn_btn_box_orange.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.gn_btn_box_round_ash {
+   width: 50px;
+   height: 51px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 116px 967px;
+}
+
+.gn_btn_box_round_ash.left {
+   padding-left: 50px;
+   padding-bottom: 51px;
+}
+
+.gn_btn_box_round_blue {
+   width: 50px;
+   height: 51px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 111px 913px;
+}
+
+.gn_btn_box_round_blue.left {
+   padding-left: 50px;
+   padding-bottom: 51px;
+}
+
+.gn_btn_box_round_green {
+   width: 50px;
+   height: 51px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 58px 925px;
+}
+
+.gn_btn_box_round_green.left {
+   padding-left: 50px;
+   padding-bottom: 51px;
+}
+
+.gn_btn_box_round_orange {
+   width: 50px;
+   height: 51px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 604px 1242px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_box_round_orange.left {
+   padding-left: 50px;
+   padding-bottom: 51px;
+}
+
+.gn_btn_box_round_purple {
+   width: 50px;
+   height: 51px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 580px 1189px;
+}
+
+.gn_btn_box_round_purple.left {
+   padding-left: 50px;
+   padding-bottom: 51px;
+}
+
+.gn_btn_box_round_red {
+   width: 48px;
+   height: 50px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 199px 331px;
+}
+
+.gn_btn_box_round_red.left {
+   padding-left: 48px;
+   padding-bottom: 50px;
+}
+
+.gn_btn_box_round_yellow {
+   width: 50px;
+   height: 51px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 220px 385px;
+}
+
+.gn_btn_box_round_yellow.left {
+   padding-left: 50px;
+   padding-bottom: 51px;
+}
+
+.gn_btn_box_small_White {
+   width: 54px;
+   height: 64px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 196px 1054px;
+}
+
+.gn_btn_box_small_White.left {
+   padding-left: 54px;
+   padding-bottom: 64px;
+}
+
+.gn_btn_box_small_ordinary {
+   width: 39px;
+   height: 42px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 284px 1132px;
+}
+
+.gn_btn_box_small_ordinary.left {
+   padding-left: 39px;
+   padding-bottom: 42px;
+}
+
+.gn_btn_box_small_selected {
+   width: 63px;
+   height: 63px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 139px 1055px;
+}
+
+.gn_btn_box_small_selected.left {
+   padding-left: 63px;
+   padding-bottom: 63px;
+}
+
+.gn_btn_box_small_white_not_transparent {
+   width: 40px;
+   height: 49px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1685px 112px;
+}
+
+.gn_btn_box_small_white_not_transparent.left {
+   padding-left: 40px;
+   padding-bottom: 49px;
+}
+
+.gn_btn_box_violet {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 151px 1610px;
+}
+
+.gn_btn_box_violet.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.gn_btn_box_yellow {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 151px 1507px;
+}
+
+.gn_btn_box_yellow.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.gn_btn_cancel {
+   width: 70px;
+   height: 72px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 318px 1460px;
+}
+
+.gn_btn_cancel.left {
+   padding-left: 70px;
+   padding-bottom: 72px;
+}
+
+.gn_btn_cancel_red {
+   width: 36px;
+   height: 36px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 101px 350px;
+}
+
+.gn_btn_cancel_red.left {
+   padding-left: 36px;
+   padding-bottom: 36px;
+}
+
+.gn_btn_choose_box {
+   width: 159px;
+   height: 69px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 823px 1626px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_choose_box.left {
+   padding-left: 159px;
+   padding-bottom: 69px;
+}
+
+.gn_btn_choose_click {
+   width: 168px;
+   height: 72px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 603px 1413px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_choose_click.left {
+   padding-left: 168px;
+   padding-bottom: 72px;
+}
+
+.gn_btn_choose_click_2 {
+   width: 207px;
+   height: 72px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 528px 1460px;
+}
+
+.gn_btn_choose_click_2.left {
+   padding-left: 207px;
+   padding-bottom: 72px;
+}
+
+.gn_btn_choose_select {
+   width: 62px;
+   height: 71px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 307px 1206px;
+}
+
+.gn_btn_choose_select.left {
+   padding-left: 62px;
+   padding-bottom: 71px;
+}
+
+.gn_btn_choose_select_arrow {
+   width: 11px;
+   height: 25px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 843px 136px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_choose_select_arrow.left {
+   padding-left: 11px;
+   padding-bottom: 25px;
+}
+
+.gn_btn_choose_un_click {
+   width: 168px;
+   height: 72px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 751px 1151px;
+}
+
+.gn_btn_choose_un_click.left {
+   padding-left: 168px;
+   padding-bottom: 72px;
+}
+
+.gn_btn_click_bar {
+   width: 50px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1642px 113px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_click_bar.left {
+   padding-left: 50px;
+   padding-bottom: 100px;
+}
+
+.gn_btn_click_bar_bg {
+   width: 64px;
+   height: 99px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 68px 1712px;
+}
+
+.gn_btn_click_bar_bg.left {
+   padding-left: 64px;
+   padding-bottom: 99px;
+}
+
+.gn_btn_click_bar_bg_blue {
+   width: 583px;
+   height: 82px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1352px 1234px;
+}
+
+.gn_btn_click_bar_bg_blue.left {
+   padding-left: 583px;
+   padding-bottom: 82px;
+}
+
+.gn_btn_close {
+   width: 30px;
+   height: 34px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 78px 268px;
+}
+
+.gn_btn_close.left {
+   padding-left: 30px;
+   padding-bottom: 34px;
+}
+
+.gn_btn_dice {
+   width: 54px;
+   height: 54px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 168px 912px;
+}
+
+.gn_btn_dice.left {
+   padding-left: 54px;
+   padding-bottom: 54px;
+}
+
+.gn_btn_equal_battle {
+   width: 20px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 168px 350px;
+}
+
+.gn_btn_equal_battle.left {
+   padding-left: 20px;
+   padding-bottom: 16px;
+}
+
+.gn_btn_flat_2_bright {
+   width: 156px;
+   height: 60px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1007px 530px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_flat_2_bright.left {
+   padding-left: 156px;
+   padding-bottom: 60px;
+}
+
+.gn_btn_flat_2_dark {
+   width: 156px;
+   height: 60px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 865px 530px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_flat_2_dark.left {
+   padding-left: 156px;
+   padding-bottom: 60px;
+}
+
+.gn_btn_flat_bright {
+   width: 142px;
+   height: 60px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 669px 833px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_flat_bright.left {
+   padding-left: 142px;
+   padding-bottom: 60px;
+}
+
+.gn_btn_flat_bright2 {
+   width: 181px;
+   height: 58px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 775px 1075px;
+}
+
+.gn_btn_flat_bright2.left {
+   padding-left: 181px;
+   padding-bottom: 58px;
+}
+
+.gn_btn_flat_bright_big {
+   width: 182px;
+   height: 61px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1029px 658px;
+}
+
+.gn_btn_flat_bright_big.left {
+   padding-left: 182px;
+   padding-bottom: 61px;
+}
+
+.gn_btn_flat_dark {
+   width: 142px;
+   height: 60px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 782px 617px;
+}
+
+.gn_btn_flat_dark.left {
+   padding-left: 142px;
+   padding-bottom: 60px;
+}
+
+.gn_btn_flat_dark2 {
+   width: 181px;
+   height: 58px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 775px 1014px;
+}
+
+.gn_btn_flat_dark2.left {
+   padding-left: 181px;
+   padding-bottom: 58px;
+}
+
+.gn_btn_flat_dark_big {
+   width: 182px;
+   height: 61px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1029px 594px;
+}
+
+.gn_btn_flat_dark_big.left {
+   padding-left: 182px;
+   padding-bottom: 61px;
+}
+
+.gn_btn_green {
+   width: 354px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1417px 585px;
+}
+
+.gn_btn_green.left {
+   padding-left: 354px;
+   padding-bottom: 98px;
+}
+
+.gn_btn_head {
+   width: 132px;
+   height: 116px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1179px 218px;
+}
+
+.gn_btn_head.left {
+   padding-left: 132px;
+   padding-bottom: 116px;
+}
+
+.gn_btn_head_bg {
+   width: 102px;
+   height: 102px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 390px 852px;
+}
+
+.gn_btn_head_bg.left {
+   padding-left: 102px;
+   padding-bottom: 102px;
+}
+
+.gn_btn_head_level {
+   width: 37px;
+   height: 37px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 80px 558px;
+}
+
+.gn_btn_head_level.left {
+   padding-left: 37px;
+   padding-bottom: 37px;
+}
+
+.gn_btn_head_level_blue {
+   width: 45px;
+   height: 45px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 319px 226px;
+}
+
+.gn_btn_head_level_blue.left {
+   padding-left: 45px;
+   padding-bottom: 45px;
+}
+
+.gn_btn_head_level_green {
+   width: 45px;
+   height: 45px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 271px 226px;
+}
+
+.gn_btn_head_level_green.left {
+   padding-left: 45px;
+   padding-bottom: 45px;
+}
+
+.gn_btn_head_level_purple {
+   width: 45px;
+   height: 45px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 223px 226px;
+}
+
+.gn_btn_head_level_purple.left {
+   padding-left: 45px;
+   padding-bottom: 45px;
+}
+
+.gn_btn_head_level_red {
+   width: 45px;
+   height: 45px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 264px 536px;
+}
+
+.gn_btn_head_level_red.left {
+   padding-left: 45px;
+   padding-bottom: 45px;
+}
+
+.gn_btn_head_level_yellow {
+   width: 45px;
+   height: 45px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 211px 550px;
+}
+
+.gn_btn_head_level_yellow.left {
+   padding-left: 45px;
+   padding-bottom: 45px;
+}
+
+.gn_btn_heart {
+   width: 42px;
+   height: 44px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 286px 687px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_heart.left {
+   padding-left: 42px;
+   padding-bottom: 44px;
+}
+
+.gn_btn_info {
+   width: 41px;
+   height: 41px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 42px 1361px;
+}
+
+.gn_btn_info.left {
+   padding-left: 41px;
+   padding-bottom: 41px;
+}
+
+.gn_btn_info_2 {
+   width: 36px;
+   height: 36px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 40px 522px;
+}
+
+.gn_btn_info_2.left {
+   padding-left: 36px;
+   padding-bottom: 36px;
+}
+
+.gn_btn_lock {
+   width: 45px;
+   height: 45px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 216px 502px;
+}
+
+.gn_btn_lock.left {
+   padding-left: 45px;
+   padding-bottom: 45px;
+}
+
+.gn_btn_locking {
+   width: 45px;
+   height: 45px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 216px 454px;
+}
+
+.gn_btn_locking.left {
+   padding-left: 45px;
+   padding-bottom: 45px;
+}
+
+.gn_btn_long_blue {
+   width: 273px;
+   height: 59px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1706px 60px;
+}
+
+.gn_btn_long_blue.left {
+   padding-left: 273px;
+   padding-bottom: 59px;
+}
+
+.gn_btn_magic_1 {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1110px 484px;
+}
+
+.gn_btn_magic_1.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.gn_btn_magic_2 {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 843px 249px;
+}
+
+.gn_btn_magic_2.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.gn_btn_magic_3 {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 910px 114px;
+}
+
+.gn_btn_magic_3.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.gn_btn_magic_4 {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 782px 720px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_magic_4.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.gn_btn_magic_5 {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 689px 554px;
+}
+
+.gn_btn_magic_5.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.gn_btn_magic_6 {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 741px 377px;
+}
+
+.gn_btn_magic_6.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.gn_btn_magic_7 {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 740px 264px;
+}
+
+.gn_btn_magic_7.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.gn_btn_main_136x67 {
+   width: 147px;
+   height: 59px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 580px 1131px;
+}
+
+.gn_btn_main_136x67.left {
+   padding-left: 147px;
+   padding-bottom: 59px;
+}
+
+.gn_btn_main_136x67_1 {
+   width: 147px;
+   height: 58px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 578px 627px;
+}
+
+.gn_btn_main_136x67_1.left {
+   padding-left: 147px;
+   padding-bottom: 58px;
+}
+
+.gn_btn_main_blue {
+   width: 147px;
+   height: 61px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 802px 441px;
+}
+
+.gn_btn_main_blue.left {
+   padding-left: 147px;
+   padding-bottom: 61px;
+}
+
+.gn_btn_main_blue_H {
+   width: 149px;
+   height: 85px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 766px 1239px;
+}
+
+.gn_btn_main_blue_H.left {
+   padding-left: 149px;
+   padding-bottom: 85px;
+}
+
+.gn_btn_main_blue_L {
+   width: 194px;
+   height: 76px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 493px 1539px;
+}
+
+.gn_btn_main_blue_L.left {
+   padding-left: 194px;
+   padding-bottom: 76px;
+}
+
+.gn_btn_main_blue_L2 {
+   width: 153px;
+   height: 65px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 776px 916px;
+}
+
+.gn_btn_main_blue_L2.left {
+   padding-left: 153px;
+   padding-bottom: 65px;
+}
+
+.gn_btn_main_blue_M {
+   width: 158px;
+   height: 76px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 944px 530px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_main_blue_M.left {
+   padding-left: 158px;
+   padding-bottom: 76px;
+}
+
+.gn_btn_main_blue_border_radius {
+   width: 159px;
+   height: 51px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 331px 1385px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_main_blue_border_radius.left {
+   padding-left: 159px;
+   padding-bottom: 51px;
+}
+
+.gn_btn_main_red {
+   width: 147px;
+   height: 61px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 620px 912px;
+}
+
+.gn_btn_main_red.left {
+   padding-left: 147px;
+   padding-bottom: 61px;
+}
+
+.gn_btn_main_red_L {
+   width: 194px;
+   height: 76px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 528px 1385px;
+}
+
+.gn_btn_main_red_L.left {
+   padding-left: 194px;
+   padding-bottom: 76px;
+}
+
+.gn_btn_main_red_border_radius {
+   width: 159px;
+   height: 51px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 638px 441px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_main_red_border_radius.left {
+   padding-left: 159px;
+   padding-bottom: 51px;
+}
+
+.gn_btn_main_triangle_blue {
+   width: 60px;
+   height: 56px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 506px 61px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_main_triangle_blue.left {
+   padding-left: 60px;
+   padding-bottom: 56px;
+}
+
+.gn_btn_main_yellow {
+   width: 147px;
+   height: 61px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 598px 691px;
+}
+
+.gn_btn_main_yellow.left {
+   padding-left: 147px;
+   padding-bottom: 61px;
+}
+
+.gn_btn_main_yellow_H {
+   width: 149px;
+   height: 85px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1059px 371px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_main_yellow_H.left {
+   padding-left: 149px;
+   padding-bottom: 85px;
+}
+
+.gn_btn_main_yellow_H2 {
+   width: 136px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 916px 940px;
+}
+
+.gn_btn_main_yellow_H2.left {
+   padding-left: 136px;
+   padding-bottom: 90px;
+}
+
+.gn_btn_main_yellow_L {
+   width: 194px;
+   height: 76px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 528px 1306px;
+}
+
+.gn_btn_main_yellow_L.left {
+   padding-left: 194px;
+   padding-bottom: 76px;
+}
+
+.gn_btn_main_yellow_LL {
+   width: 255px;
+   height: 76px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 751px 1539px;
+}
+
+.gn_btn_main_yellow_LL.left {
+   padding-left: 255px;
+   padding-bottom: 76px;
+}
+
+.gn_btn_midd_bright {
+   width: 181px;
+   height: 58px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 775px 1075px;
+}
+
+.gn_btn_midd_bright.left {
+   padding-left: 181px;
+   padding-bottom: 58px;
+}
+
+.gn_btn_midd_dark {
+   width: 181px;
+   height: 58px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 775px 1014px;
+}
+
+.gn_btn_midd_dark.left {
+   padding-left: 181px;
+   padding-bottom: 58px;
+}
+
+.gn_btn_modify {
+   width: 40px;
+   height: 39px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 338px 1582px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_modify.left {
+   padding-left: 40px;
+   padding-bottom: 39px;
+}
+
+.gn_btn_playback {
+   width: 36px;
+   height: 37px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 40px 562px;
+}
+
+.gn_btn_playback.left {
+   padding-left: 36px;
+   padding-bottom: 37px;
+}
+
+.gn_btn_plus {
+   width: 29px;
+   height: 29px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1352px 1704px;
+}
+
+.gn_btn_plus.left {
+   padding-left: 29px;
+   padding-bottom: 29px;
+}
+
+.gn_btn_plus_1 {
+   width: 46px;
+   height: 46px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 175px 227px;
+}
+
+.gn_btn_plus_1.left {
+   padding-left: 46px;
+   padding-bottom: 46px;
+}
+
+.gn_btn_plus_2 {
+   width: 70px;
+   height: 70px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 84px 1163px;
+}
+
+.gn_btn_plus_2.left {
+   padding-left: 70px;
+   padding-bottom: 70px;
+}
+
+.gn_btn_plus_3 {
+   width: 39px;
+   height: 41px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 40px 871px;
+}
+
+.gn_btn_plus_3.left {
+   padding-left: 39px;
+   padding-bottom: 41px;
+}
+
+.gn_btn_plus_battle {
+   width: 20px;
+   height: 20px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1030px 507px;
+}
+
+.gn_btn_plus_battle.left {
+   padding-left: 20px;
+   padding-bottom: 20px;
+}
+
+.gn_btn_red_no_border {
+   width: 141px;
+   height: 52px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 578px 566px;
+}
+
+.gn_btn_red_no_border.left {
+   padding-left: 141px;
+   padding-bottom: 52px;
+}
+
+.gn_btn_reduce {
+   width: 46px;
+   height: 46px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 211px 599px;
+}
+
+.gn_btn_reduce.left {
+   padding-left: 46px;
+   padding-bottom: 46px;
+}
+
+.gn_btn_reset {
+   width: 45px;
+   height: 45px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 173px 653px;
+}
+
+.gn_btn_reset.left {
+   padding-left: 45px;
+   padding-bottom: 45px;
+}
+
+.gn_btn_share {
+   width: 45px;
+   height: 45px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 162px 605px;
+}
+
+.gn_btn_share.left {
+   padding-left: 45px;
+   padding-bottom: 45px;
+}
+
+.gn_btn_share_blue {
+   width: 141px;
+   height: 52px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 586px 511px;
+}
+
+.gn_btn_share_blue.left {
+   padding-left: 141px;
+   padding-bottom: 52px;
+}
+
+.gn_btn_side_bright {
+   width: 110px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 782px 833px;
+}
+
+.gn_btn_side_bright.left {
+   padding-left: 110px;
+   padding-bottom: 110px;
+}
+
+.gn_btn_side_dark {
+   width: 110px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 802px 554px;
+}
+
+.gn_btn_side_dark.left {
+   padding-left: 110px;
+   padding-bottom: 110px;
+}
+
+.gn_btn_skil_26x30 {
+   width: 48px;
+   height: 50px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 275px 642px;
+}
+
+.gn_btn_skil_26x30.left {
+   padding-left: 48px;
+   padding-bottom: 50px;
+}
+
+.gn_btn_skil_box {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 375px 1069px;
+}
+
+.gn_btn_skil_box.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.gn_btn_swit_blue {
+   width: 50px;
+   height: 50px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 160px 178px;
+}
+
+.gn_btn_swit_blue.left {
+   padding-left: 50px;
+   padding-bottom: 50px;
+}
+
+.gn_btn_swit_left {
+   width: 36px;
+   height: 64px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 73px 1025px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_swit_left.left {
+   padding-left: 36px;
+   padding-bottom: 64px;
+}
+
+.gn_btn_swit_white {
+   width: 28px;
+   height: 34px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1352px 1672px;
+}
+
+.gn_btn_swit_white.left {
+   padding-left: 28px;
+   padding-bottom: 34px;
+}
+
+.gn_btn_unclick_bar_bg {
+   width: 64px;
+   height: 99px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 434px 554px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_unclick_bar_bg.left {
+   padding-left: 64px;
+   padding-bottom: 99px;
+}
+
+.gn_btn_vip {
+   width: 80px;
+   height: 62px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 245px 1470px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_vip.left {
+   padding-left: 80px;
+   padding-bottom: 62px;
+}
+
+.gn_btn_vip_slot {
+   width: 80px;
+   height: 62px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 340px 642px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_vip_slot.left {
+   padding-left: 80px;
+   padding-bottom: 62px;
+}
+
+.gn_btn_yellow_no_border {
+   width: 141px;
+   height: 51px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 476px 456px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_yellow_no_border.left {
+   padding-left: 141px;
+   padding-bottom: 51px;
+}
+
+.gn_btn_yellow_no_border_2 {
+   width: 118px;
+   height: 69px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 807px 136px;
+   transform: rotate(90deg);
+}
+
+.gn_btn_yellow_no_border_2.left {
+   padding-left: 118px;
+   padding-bottom: 69px;
+}
+
+.gn_chat_vip_check_bg {
+   width: 39px;
+   height: 39px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 40px 741px;
+}
+
+.gn_chat_vip_check_bg.left {
+   padding-left: 39px;
+   padding-bottom: 39px;
+}
+
+.gn_content_border_bg {
+   width: 50px;
+   height: 50px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 160px 125px;
+}
+
+.gn_content_border_bg.left {
+   padding-left: 50px;
+   padding-bottom: 50px;
+}
+
+.gn_dot_line {
+   width: 410px;
+   height: 4px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 751px 1582px;
+}
+
+.gn_dot_line.left {
+   padding-left: 410px;
+   padding-bottom: 4px;
+}
+
+.gn_dot_line_572 {
+   width: 572px;
+   height: 4px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 711px 1635px;
+}
+
+.gn_dot_line_572.left {
+   padding-left: 572px;
+   padding-bottom: 4px;
+}
+
+.gn_friend_input_bg {
+   width: 388px;
+   height: 33px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 751px 1575px;
+}
+
+.gn_friend_input_bg.left {
+   padding-left: 388px;
+   padding-bottom: 33px;
+}
+
+.gn_hero_content_bg1 {
+   width: 591px;
+   height: 300px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1888px 1704px;
+   transform: rotate(90deg);
+}
+
+.gn_hero_content_bg1.left {
+   padding-left: 591px;
+   padding-bottom: 300px;
+}
+
+.gn_hero_content_bg2 {
+   width: 596px;
+   height: 230px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1888px 1110px;
+   transform: rotate(90deg);
+}
+
+.gn_hero_content_bg2.left {
+   padding-left: 596px;
+   padding-bottom: 230px;
+}
+
+.gn_hero_content_bg3 {
+   width: 596px;
+   height: 230px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 721px 2047px;
+}
+
+.gn_hero_content_bg3.left {
+   padding-left: 596px;
+   padding-bottom: 230px;
+}
+
+.gn_hero_content_bg4 {
+   width: 514px;
+   height: 247px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1655px 1106px;
+   transform: rotate(90deg);
+}
+
+.gn_hero_content_bg4.left {
+   padding-left: 514px;
+   padding-bottom: 247px;
+}
+
+.gn_hero_content_bg5 {
+   width: 565px;
+   height: 340px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1888px 2047px;
+}
+
+.gn_hero_content_bg5.left {
+   padding-left: 565px;
+   padding-bottom: 340px;
+}
+
+.gn_hero_content_bg6 {
+   width: 595px;
+   height: 230px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1585px 1704px;
+   transform: rotate(90deg);
+}
+
+.gn_hero_content_bg6.left {
+   padding-left: 595px;
+   padding-bottom: 230px;
+}
+
+.gn_hero_content_bg7 {
+   width: 596px;
+   height: 278px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1320px 2047px;
+}
+
+.gn_hero_content_bg7.left {
+   padding-left: 596px;
+   padding-bottom: 278px;
+}
+
+.gn_hero_content_bg8 {
+   width: 596px;
+   height: 278px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1320px 2047px;
+}
+
+.gn_hero_content_bg8.left {
+   padding-left: 596px;
+   padding-bottom: 278px;
+}
+
+.gn_icon_36x39_1 {
+   width: 32px;
+   height: 32px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1006px 736px;
+}
+
+.gn_icon_36x39_1.left {
+   padding-left: 32px;
+   padding-bottom: 32px;
+}
+
+.gn_icon_36x39_2 {
+   width: 32px;
+   height: 31px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 160px 728px;
+}
+
+.gn_icon_36x39_2.left {
+   padding-left: 32px;
+   padding-bottom: 31px;
+}
+
+.gn_icon_37x38_1 {
+   width: 60px;
+   height: 60px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 632px 61px;
+}
+
+.gn_icon_37x38_1.left {
+   padding-left: 60px;
+   padding-bottom: 60px;
+}
+
+.gn_icon_37x38_3 {
+   width: 60px;
+   height: 52px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 232px 968px;
+}
+
+.gn_icon_37x38_3.left {
+   padding-left: 60px;
+   padding-bottom: 52px;
+}
+
+.gn_icon_37x38_4 {
+   width: 54px;
+   height: 58px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 219px 75px;
+}
+
+.gn_icon_37x38_4.left {
+   padding-left: 54px;
+   padding-bottom: 58px;
+}
+
+.gn_icon_37x38_5 {
+   width: 54px;
+   height: 56px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 225px 912px;
+}
+
+.gn_icon_37x38_5.left {
+   padding-left: 54px;
+   padding-bottom: 56px;
+}
+
+.gn_icon_37x38_6 {
+   width: 56px;
+   height: 60px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 638px 617px;
+}
+
+.gn_icon_37x38_6.left {
+   padding-left: 56px;
+   padding-bottom: 60px;
+}
+
+.gn_icon_Sigh {
+   width: 54px;
+   height: 70px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 242px 1111px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_Sigh.left {
+   padding-left: 54px;
+   padding-bottom: 70px;
+}
+
+.gn_icon_arrow {
+   width: 33px;
+   height: 25px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 516px 348px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_arrow.left {
+   padding-left: 33px;
+   padding-bottom: 25px;
+}
+
+.gn_icon_arrow_1 {
+   width: 19px;
+   height: 44px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 139px 989px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_arrow_1.left {
+   padding-left: 19px;
+   padding-bottom: 44px;
+}
+
+.gn_icon_coin_advanced {
+   width: 36px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 791px 1464px;
+}
+
+.gn_icon_coin_advanced.left {
+   padding-left: 36px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_big_coin_soul {
+   width: 74px;
+   height: 74px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 447px 75px;
+}
+
+.gn_icon_coin_big_coin_soul.left {
+   padding-left: 74px;
+   padding-bottom: 74px;
+}
+
+.gn_icon_coin_big_diamond_gold {
+   width: 102px;
+   height: 57px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 407px 912px;
+}
+
+.gn_icon_coin_big_diamond_gold.left {
+   padding-left: 102px;
+   padding-bottom: 57px;
+}
+
+.gn_icon_coin_big_dragon_coin {
+   width: 80px;
+   height: 64px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 242px 1178px;
+}
+
+.gn_icon_coin_big_dragon_coin.left {
+   padding-left: 80px;
+   padding-bottom: 64px;
+}
+
+.gn_icon_coin_big_glory_coin {
+   width: 70px;
+   height: 80px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 319px 309px;
+}
+
+.gn_icon_coin_big_glory_coin.left {
+   padding-left: 70px;
+   padding-bottom: 80px;
+}
+
+.gn_icon_coin_big_guled {
+   width: 72px;
+   height: 72px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 159px 1163px;
+}
+
+.gn_icon_coin_big_guled.left {
+   padding-left: 72px;
+   padding-bottom: 72px;
+}
+
+.gn_icon_coin_big_lucky {
+   width: 65px;
+   height: 68px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 332px 559px;
+}
+
+.gn_icon_coin_big_lucky.left {
+   padding-left: 65px;
+   padding-bottom: 68px;
+}
+
+.gn_icon_coin_boss_ticket {
+   width: 36px;
+   height: 34px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 40px 483px;
+}
+
+.gn_icon_coin_boss_ticket.left {
+   padding-left: 36px;
+   padding-bottom: 34px;
+}
+
+.gn_icon_coin_boss_world {
+   width: 38px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 81px 759px;
+}
+
+.gn_icon_coin_boss_world.left {
+   padding-left: 38px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_coin_soul {
+   width: 40px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 71px 605px;
+}
+
+.gn_icon_coin_coin_soul.left {
+   padding-left: 40px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_diamond {
+   width: 30px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 351px 1223px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_coin_diamond.left {
+   padding-left: 30px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_dragon_coin {
+   width: 40px;
+   height: 34px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1405px 1107px;
+}
+
+.gn_icon_coin_dragon_coin.left {
+   padding-left: 40px;
+   padding-bottom: 34px;
+}
+
+.gn_icon_coin_dust {
+   width: 36px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 168px 432px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_coin_dust.left {
+   padding-left: 36px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_elite_hero {
+   width: 35px;
+   height: 36px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 68px 198px;
+}
+
+.gn_icon_coin_elite_hero.left {
+   padding-left: 35px;
+   padding-bottom: 36px;
+}
+
+.gn_icon_coin_exp {
+   width: 30px;
+   height: 35px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 85px 231px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_coin_exp.left {
+   padding-left: 30px;
+   padding-bottom: 35px;
+}
+
+.gn_icon_coin_glory_coin {
+   width: 38px;
+   height: 41px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 81px 803px;
+}
+
+.gn_icon_coin_glory_coin.left {
+   padding-left: 38px;
+   padding-bottom: 41px;
+}
+
+.gn_icon_coin_gold {
+   width: 38px;
+   height: 38px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 81px 716px;
+}
+
+.gn_icon_coin_gold.left {
+   padding-left: 38px;
+   padding-bottom: 38px;
+}
+
+.gn_icon_coin_guild_exp {
+   width: 36px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 121px 518px;
+}
+
+.gn_icon_coin_guild_exp.left {
+   padding-left: 36px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_guled {
+   width: 40px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 163px 518px;
+}
+
+.gn_icon_coin_guled.left {
+   padding-left: 40px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_heart {
+   width: 40px;
+   height: 36px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 125px 644px;
+}
+
+.gn_icon_coin_heart.left {
+   padding-left: 40px;
+   padding-bottom: 36px;
+}
+
+.gn_icon_coin_hero_normal {
+   width: 40px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 168px 475px;
+}
+
+.gn_icon_coin_hero_normal.left {
+   padding-left: 40px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_hero_super {
+   width: 38px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 40px 699px;
+}
+
+.gn_icon_coin_hero_super.left {
+   padding-left: 38px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_lucky_coin {
+   width: 38px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 225px 748px;
+}
+
+.gn_icon_coin_lucky_coin.left {
+   padding-left: 38px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_pet_circle {
+   width: 38px;
+   height: 36px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 81px 675px;
+}
+
+.gn_icon_coin_pet_circle.left {
+   padding-left: 38px;
+   padding-bottom: 36px;
+}
+
+.gn_icon_coin_pet_up {
+   width: 38px;
+   height: 36px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 40px 656px;
+}
+
+.gn_icon_coin_pet_up.left {
+   padding-left: 38px;
+   padding-bottom: 36px;
+}
+
+.gn_icon_coin_quest_energy {
+   width: 40px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 167px 393px;
+}
+
+.gn_icon_coin_quest_energy.left {
+   padding-left: 40px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_quest_normal {
+   width: 38px;
+   height: 36px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 125px 432px;
+}
+
+.gn_icon_coin_quest_normal.left {
+   padding-left: 38px;
+   padding-bottom: 36px;
+}
+
+.gn_icon_coin_quest_super {
+   width: 40px;
+   height: 38px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 125px 475px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_coin_quest_super.left {
+   padding-left: 40px;
+   padding-bottom: 38px;
+}
+
+.gn_icon_coin_slotmachine_one {
+   width: 40px;
+   height: 39px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 40px 827px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_coin_slotmachine_one.left {
+   padding-left: 40px;
+   padding-bottom: 39px;
+}
+
+.gn_icon_coin_slotmachine_ten {
+   width: 40px;
+   height: 39px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 40px 784px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_coin_slotmachine_ten.left {
+   padding-left: 40px;
+   padding-bottom: 39px;
+}
+
+.gn_icon_coin_soul {
+   width: 36px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 107px 194px;
+}
+
+.gn_icon_coin_soul.left {
+   padding-left: 36px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_special_drop1 {
+   width: 41px;
+   height: 41px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 125px 731px;
+}
+
+.gn_icon_coin_special_drop1.left {
+   padding-left: 41px;
+   padding-bottom: 41px;
+}
+
+.gn_icon_coin_strength {
+   width: 34px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 144px 350px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_coin_strength.left {
+   padding-left: 34px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_ticket {
+   width: 40px;
+   height: 38px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 124px 393px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_coin_ticket.left {
+   padding-left: 40px;
+   padding-bottom: 38px;
+}
+
+.gn_icon_coin_tree_coin {
+   width: 38px;
+   height: 38px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 108px 65px;
+}
+
+.gn_icon_coin_tree_coin.left {
+   padding-left: 38px;
+   padding-bottom: 38px;
+}
+
+.gn_icon_coin_tree_summon {
+   width: 40px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 146px 280px;
+}
+
+.gn_icon_coin_tree_summon.left {
+   padding-left: 40px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_vip_exp {
+   width: 50px;
+   height: 48px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 199px 278px;
+}
+
+.gn_icon_coin_vip_exp.left {
+   padding-left: 50px;
+   padding-bottom: 48px;
+}
+
+.gn_icon_coin_water {
+   width: 38px;
+   height: 38px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 81px 518px;
+}
+
+.gn_icon_coin_water.left {
+   padding-left: 38px;
+   padding-bottom: 38px;
+}
+
+.gn_icon_coin_wish {
+   width: 40px;
+   height: 38px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 126px 237px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_coin_wish.left {
+   padding-left: 40px;
+   padding-bottom: 38px;
+}
+
+.gn_icon_coin_wish_super {
+   width: 36px;
+   height: 36px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 64px 159px;
+}
+
+.gn_icon_coin_wish_super.left {
+   padding-left: 36px;
+   padding-bottom: 36px;
+}
+
+.gn_icon_coin_world_boss {
+   width: 40px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 103px 311px;
+}
+
+.gn_icon_coin_world_boss.left {
+   padding-left: 40px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_yarn_ball {
+   width: 40px;
+   height: 36px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 162px 557px;
+}
+
+.gn_icon_coin_yarn_ball.left {
+   padding-left: 40px;
+   padding-bottom: 36px;
+}
+
+.gn_icon_complete {
+   width: 104px;
+   height: 91px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1004px 105px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_complete.left {
+   padding-left: 104px;
+   padding-bottom: 91px;
+}
+
+.gn_icon_copy {
+   width: 41px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 125px 687px;
+}
+
+.gn_icon_copy.left {
+   padding-left: 41px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_fragment {
+   width: 33px;
+   height: 35px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 787px 1114px;
+}
+
+.gn_icon_fragment.left {
+   padding-left: 33px;
+   padding-bottom: 35px;
+}
+
+.gn_icon_laud {
+   width: 17px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 971px 241px;
+}
+
+.gn_icon_laud.left {
+   padding-left: 17px;
+   padding-bottom: 19px;
+}
+
+.gn_icon_lock {
+   width: 56px;
+   height: 74px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 303px 912px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_lock.left {
+   padding-left: 56px;
+   padding-bottom: 74px;
+}
+
+.gn_icon_lock_bg {
+   width: 109px;
+   height: 109px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 296px 1582px;
+}
+
+.gn_icon_lock_bg.left {
+   padding-left: 109px;
+   padding-bottom: 109px;
+}
+
+.gn_icon_mail_click {
+   width: 53px;
+   height: 59px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 369px 1187px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_mail_click.left {
+   padding-left: 53px;
+   padding-bottom: 59px;
+}
+
+.gn_icon_mail_reward {
+   width: 54px;
+   height: 46px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 344px 691px;
+}
+
+.gn_icon_mail_reward.left {
+   padding-left: 54px;
+   padding-bottom: 46px;
+}
+
+.gn_icon_mail_reward2 {
+   width: 54px;
+   height: 59px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 341px 1131px;
+}
+
+.gn_icon_mail_reward2.left {
+   padding-left: 54px;
+   padding-bottom: 59px;
+}
+
+.gn_icon_mail_un_click {
+   width: 53px;
+   height: 43px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 86px 859px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_mail_un_click.left {
+   padding-left: 53px;
+   padding-bottom: 43px;
+}
+
+.gn_icon_member {
+   width: 12px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1212px 218px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_member.left {
+   padding-left: 12px;
+   padding-bottom: 16px;
+}
+
+.gn_icon_new {
+   width: 51px;
+   height: 34px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 221px 112px;
+}
+
+.gn_icon_new.left {
+   padding-left: 51px;
+   padding-bottom: 34px;
+}
+
+.gn_icon_othe_dust {
+   width: 40px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 107px 151px;
+}
+
+.gn_icon_othe_dust.left {
+   padding-left: 40px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_passed {
+   width: 92px;
+   height: 91px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 516px 312px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_passed.left {
+   padding-left: 92px;
+   padding-bottom: 91px;
+}
+
+.gn_icon_passed_tw {
+   width: 92px;
+   height: 91px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 516px 312px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_passed_tw.left {
+   padding-left: 92px;
+   padding-bottom: 91px;
+}
+
+.gn_icon_playerinfo_guild {
+   width: 111px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1043px 219px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_playerinfo_guild.left {
+   padding-left: 111px;
+   padding-bottom: 100px;
+}
+
+.gn_icon_prompt {
+   width: 20px;
+   height: 20px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 183px 728px;
+}
+
+.gn_icon_prompt.left {
+   padding-left: 20px;
+   padding-bottom: 20px;
+}
+
+.gn_icon_prompt01 {
+   width: 20px;
+   height: 20px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 550px 1227px;
+}
+
+.gn_icon_prompt01.left {
+   padding-left: 20px;
+   padding-bottom: 20px;
+}
+
+.gn_icon_prompt_red {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 47px 231px;
+}
+
+.gn_icon_prompt_red.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_icon_purchased {
+   width: 106px;
+   height: 91px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 240px 1387px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_purchased.left {
+   padding-left: 106px;
+   padding-bottom: 91px;
+}
+
+.gn_icon_purchased_cn {
+   width: 106px;
+   height: 91px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 240px 1387px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_purchased_cn.left {
+   padding-left: 106px;
+   padding-bottom: 91px;
+}
+
+.gn_icon_random_reward {
+   width: 118px;
+   height: 119px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 862px 371px;
+}
+
+.gn_icon_random_reward.left {
+   padding-left: 118px;
+   padding-bottom: 119px;
+}
+
+.gn_icon_rank_1 {
+   width: 66px;
+   height: 65px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 584px 348px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_rank_1.left {
+   padding-left: 66px;
+   padding-bottom: 65px;
+}
+
+.gn_icon_rank_1_2 {
+   width: 41px;
+   height: 59px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 42px 1423px;
+}
+
+.gn_icon_rank_1_2.left {
+   padding-left: 41px;
+   padding-bottom: 59px;
+}
+
+.gn_icon_rank_2 {
+   width: 60px;
+   height: 61px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 470px 912px;
+}
+
+.gn_icon_rank_2.left {
+   padding-left: 60px;
+   padding-bottom: 61px;
+}
+
+.gn_icon_rank_2_2 {
+   width: 41px;
+   height: 59px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 130px 855px;
+}
+
+.gn_icon_rank_2_2.left {
+   padding-left: 41px;
+   padding-bottom: 59px;
+}
+
+.gn_icon_rank_3 {
+   width: 60px;
+   height: 53px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 351px 748px;
+}
+
+.gn_icon_rank_3.left {
+   padding-left: 60px;
+   padding-bottom: 53px;
+}
+
+.gn_icon_rank_3_2 {
+   width: 41px;
+   height: 59px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 125px 793px;
+}
+
+.gn_icon_rank_3_2.left {
+   padding-left: 41px;
+   padding-bottom: 59px;
+}
+
+.gn_icon_selected {
+   width: 41px;
+   height: 38px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 187px 694px;
+}
+
+.gn_icon_selected.left {
+   padding-left: 41px;
+   padding-bottom: 38px;
+}
+
+.gn_icon_shengqi {
+   width: 35px;
+   height: 39px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 277px 1248px;
+}
+
+.gn_icon_shengqi.left {
+   padding-left: 35px;
+   padding-bottom: 39px;
+}
+
+.gn_icon_star_blue {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 64px 82px;
+}
+
+.gn_icon_star_blue.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_icon_star_bottom {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 31px 82px;
+}
+
+.gn_icon_star_bottom.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_icon_star_red {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 67px 49px;
+}
+
+.gn_icon_star_red.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_icon_star_yellow {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 34px 49px;
+}
+
+.gn_icon_star_yellow.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_icon_switch {
+   width: 40px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 107px 108px;
+}
+
+.gn_icon_switch.left {
+   padding-left: 40px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_switch_down {
+   width: 86px;
+   height: 59px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 844px 658px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_switch_down.left {
+   padding-left: 86px;
+   padding-bottom: 59px;
+}
+
+.gn_icon_switch_up {
+   width: 86px;
+   height: 59px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 430px 1131px;
+}
+
+.gn_icon_switch_up.left {
+   padding-left: 86px;
+   padding-bottom: 59px;
+}
+
+.gn_icon_time {
+   width: 47px;
+   height: 47px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 48px 1556px;
+}
+
+.gn_icon_time.left {
+   padding-left: 47px;
+   padding-bottom: 47px;
+}
+
+.gn_icon_title {
+   width: 520px;
+   height: 120px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1405px 1069px;
+}
+
+.gn_icon_title.left {
+   padding-left: 520px;
+   padding-bottom: 120px;
+}
+
+.gn_icon_vs {
+   width: 102px;
+   height: 99px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 285px 852px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_vs.left {
+   padding-left: 102px;
+   padding-bottom: 99px;
+}
+
+.gn_icon_vs_lost {
+   width: 110px;
+   height: 101px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1430px 102px;
+}
+
+.gn_icon_vs_lost.left {
+   padding-left: 110px;
+   padding-bottom: 101px;
+}
+
+.gn_icon_vs_win {
+   width: 110px;
+   height: 101px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1317px 102px;
+}
+
+.gn_icon_vs_win.left {
+   padding-left: 110px;
+   padding-bottom: 101px;
+}
+
+.gn_icon_yingxiong {
+   width: 35px;
+   height: 35px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 64px 120px;
+}
+
+.gn_icon_yingxiong.left {
+   padding-left: 35px;
+   padding-bottom: 35px;
+}
+
+.gn_icon_zhuangbei {
+   width: 36px;
+   height: 39px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 844px 569px;
+   transform: rotate(90deg);
+}
+
+.gn_icon_zhuangbei.left {
+   padding-left: 36px;
+   padding-bottom: 39px;
+}
+
+.gn_line_bg {
+   width: 598px;
+   height: 32px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1352px 1149px;
+}
+
+.gn_line_bg.left {
+   padding-left: 598px;
+   padding-bottom: 32px;
+}
+
+.gn_list_bg_1 {
+   width: 46px;
+   height: 101px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 440px 961px;
+   transform: rotate(90deg);
+}
+
+.gn_list_bg_1.left {
+   padding-left: 46px;
+   padding-bottom: 101px;
+}
+
+.gn_list_bg_1_2 {
+   width: 46px;
+   height: 101px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 336px 961px;
+   transform: rotate(90deg);
+}
+
+.gn_list_bg_1_2.left {
+   padding-left: 46px;
+   padding-bottom: 101px;
+}
+
+.gn_list_bg_2 {
+   width: 46px;
+   height: 101px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 455px 740px;
+   transform: rotate(90deg);
+}
+
+.gn_list_bg_2.left {
+   padding-left: 46px;
+   padding-bottom: 101px;
+}
+
+.gn_list_bg_2_2 {
+   width: 46px;
+   height: 101px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 448px 691px;
+   transform: rotate(90deg);
+}
+
+.gn_list_bg_2_2.left {
+   padding-left: 46px;
+   padding-bottom: 101px;
+}
+
+.gn_list_item_bg {
+   width: 51px;
+   height: 47px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 48px 1610px;
+   transform: rotate(90deg);
+}
+
+.gn_list_item_bg.left {
+   padding-left: 51px;
+   padding-bottom: 47px;
+}
+
+.gn_loading {
+   width: 62px;
+   height: 62px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 73px 1090px;
+}
+
+.gn_loading.left {
+   padding-left: 62px;
+   padding-bottom: 62px;
+}
+
+.gn_loading_line {
+   width: 640px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 711px 1668px;
+}
+
+.gn_loading_line.left {
+   padding-left: 640px;
+   padding-bottom: 30px;
+}
+
+.gn_loading_line_bg {
+   width: 640px;
+   height: 32px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 711px 1703px;
+}
+
+.gn_loading_line_bg.left {
+   padding-left: 640px;
+   padding-bottom: 32px;
+}
+
+.gn_logo_bg_large {
+   width: 94px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 524px 217px;
+}
+
+.gn_logo_bg_large.left {
+   padding-left: 94px;
+   padding-bottom: 94px;
+}
+
+.gn_logo_bg_select {
+   width: 73px;
+   height: 73px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 370px 75px;
+}
+
+.gn_logo_bg_select.left {
+   padding-left: 73px;
+   padding-bottom: 73px;
+}
+
+.gn_logo_bg_small {
+   width: 73px;
+   height: 73px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 294px 75px;
+}
+
+.gn_logo_bg_small.left {
+   padding-left: 73px;
+   padding-bottom: 73px;
+}
+
+.gn_market_bg {
+   width: 396px;
+   height: 73px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1405px 736px;
+}
+
+.gn_market_bg.left {
+   padding-left: 396px;
+   padding-bottom: 73px;
+}
+
+.gn_number_bg {
+   width: 134px;
+   height: 35px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 277px 1385px;
+   transform: rotate(90deg);
+}
+
+.gn_number_bg.left {
+   padding-left: 134px;
+   padding-bottom: 35px;
+}
+
+.gn_number_bg_2 {
+   width: 83px;
+   height: 27px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1060px 585px;
+   transform: rotate(90deg);
+}
+
+.gn_number_bg_2.left {
+   padding-left: 83px;
+   padding-bottom: 27px;
+}
+
+.gn_panel_background {
+   width: 58px;
+   height: 63px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 221px 178px;
+}
+
+.gn_panel_background.left {
+   padding-left: 58px;
+   padding-bottom: 63px;
+}
+
+.gn_popupbg {
+   width: 254px;
+   height: 222px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1642px 589px;
+   transform: rotate(90deg);
+}
+
+.gn_popupbg.left {
+   padding-left: 254px;
+   padding-bottom: 222px;
+}
+
+.gn_process_guild_boss_blood {
+   width: 28px;
+   height: 10px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1848px 11px;
+}
+
+.gn_process_guild_boss_blood.left {
+   padding-left: 28px;
+   padding-bottom: 10px;
+}
+
+.gn_rank_exp {
+   width: 448px;
+   height: 18px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1706px 511px;
+   transform: rotate(90deg);
+}
+
+.gn_rank_exp.left {
+   padding-left: 448px;
+   padding-bottom: 18px;
+}
+
+.gn_rank_exp2 {
+   width: 170px;
+   height: 15px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 527px 1205px;
+}
+
+.gn_rank_exp2.left {
+   padding-left: 170px;
+   padding-bottom: 15px;
+}
+
+.gn_rank_exp_bg {
+   width: 453px;
+   height: 24px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1733px 511px;
+   transform: rotate(90deg);
+}
+
+.gn_rank_exp_bg.left {
+   padding-left: 453px;
+   padding-bottom: 24px;
+}
+
+.gn_rank_exp_bg2 {
+   width: 174px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 527px 1227px;
+}
+
+.gn_rank_exp_bg2.left {
+   padding-left: 174px;
+   padding-bottom: 19px;
+}
+
+.gn_select_icon_green {
+   width: 23px;
+   height: 23px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1733px 55px;
+}
+
+.gn_select_icon_green.left {
+   padding-left: 23px;
+   padding-bottom: 23px;
+}
+
+.gn_select_icon_white {
+   width: 28px;
+   height: 28px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 82px 636px;
+}
+
+.gn_select_icon_white.left {
+   padding-left: 28px;
+   padding-bottom: 28px;
+}
+
+.gn_set_click_btn {
+   width: 186px;
+   height: 72px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 971px 846px;
+}
+
+.gn_set_click_btn.left {
+   padding-left: 186px;
+   padding-bottom: 72px;
+}
+
+.gn_set_help_btn {
+   width: 373px;
+   height: 72px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1405px 660px;
+}
+
+.gn_set_help_btn.left {
+   padding-left: 373px;
+   padding-bottom: 72px;
+}
+
+.gn_set_unclick_btn {
+   width: 186px;
+   height: 72px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 971px 771px;
+}
+
+.gn_set_unclick_btn.left {
+   padding-left: 186px;
+   padding-bottom: 72px;
+}
+
+.gn_skill_tips_bg {
+   width: 566px;
+   height: 151px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1352px 1388px;
+}
+
+.gn_skill_tips_bg.left {
+   padding-left: 566px;
+   padding-bottom: 151px;
+}
+
+.gn_steps_alone_fighting_dark {
+   width: 176px;
+   height: 35px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 775px 954px;
+}
+
+.gn_steps_alone_fighting_dark.left {
+   padding-left: 176px;
+   padding-bottom: 35px;
+}
+
+.gn_steps_bg_frame {
+   width: 526px;
+   height: 235px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1353px 1626px;
+}
+
+.gn_steps_bg_frame.left {
+   padding-left: 526px;
+   padding-bottom: 235px;
+}
+
+.gn_steps_black_bg2_1 {
+   width: 32px;
+   height: 103px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 36px 1317px;
+}
+
+.gn_steps_black_bg2_1.left {
+   padding-left: 32px;
+   padding-bottom: 103px;
+}
+
+.gn_steps_black_bg2_2 {
+   width: 32px;
+   height: 103px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 139px 1198px;
+   transform: rotate(90deg);
+}
+
+.gn_steps_black_bg2_2.left {
+   padding-left: 32px;
+   padding-bottom: 103px;
+}
+
+.gn_steps_brave {
+   width: 487px;
+   height: 85px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1405px 946px;
+}
+
+.gn_steps_brave.left {
+   padding-left: 487px;
+   padding-bottom: 85px;
+}
+
+.gn_steps_dark {
+   width: 122px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 184px 1603px;
+   transform: rotate(90deg);
+}
+
+.gn_steps_dark.left {
+   padding-left: 122px;
+   padding-bottom: 30px;
+}
+
+.gn_steps_dark_0 {
+   width: 37px;
+   height: 10px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1888px 11px;
+}
+
+.gn_steps_dark_0.left {
+   padding-left: 37px;
+   padding-bottom: 10px;
+}
+
+.gn_steps_dark_1 {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 288px 747px;
+}
+
+.gn_steps_dark_1.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_steps_dark_2 {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 84px 475px;
+}
+
+.gn_steps_dark_2.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_steps_dark_3 {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 84px 442px;
+}
+
+.gn_steps_dark_3.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_steps_fixed {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 51px 446px;
+}
+
+.gn_steps_fixed.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_steps_fixed01 {
+   width: 30px;
+   height: 73px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 823px 1464px;
+}
+
+.gn_steps_fixed01.left {
+   padding-left: 30px;
+   padding-bottom: 73px;
+}
+
+.gn_steps_fixed02 {
+   width: 30px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 148px 313px;
+   transform: rotate(90deg);
+}
+
+.gn_steps_fixed02.left {
+   padding-left: 30px;
+   padding-bottom: 40px;
+}
+
+.gn_steps_floa_bright {
+   width: 126px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1204px 99px;
+}
+
+.gn_steps_floa_bright.left {
+   padding-left: 126px;
+   padding-bottom: 98px;
+}
+
+.gn_steps_floa_bright01 {
+   width: 127px;
+   height: 104px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 882px 1069px;
+   transform: rotate(90deg);
+}
+
+.gn_steps_floa_bright01.left {
+   padding-left: 127px;
+   padding-bottom: 104px;
+}
+
+.gn_steps_floa_bright02 {
+   width: 24px;
+   height: 20px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 751px 1626px;
+}
+
+.gn_steps_floa_bright02.left {
+   padding-left: 24px;
+   padding-bottom: 20px;
+}
+
+.gn_steps_floa_bright03 {
+   width: 50px;
+   height: 50px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 161px 72px;
+}
+
+.gn_steps_floa_bright03.left {
+   padding-left: 50px;
+   padding-bottom: 50px;
+}
+
+.gn_steps_floa_bright04 {
+   width: 24px;
+   height: 20px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 805px 696px;
+   transform: rotate(90deg);
+}
+
+.gn_steps_floa_bright04.left {
+   padding-left: 24px;
+   padding-bottom: 20px;
+}
+
+.gn_steps_floa_bright05 {
+   width: 150px;
+   height: 150px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1212px 371px;
+}
+
+.gn_steps_floa_bright05.left {
+   padding-left: 150px;
+   padding-bottom: 150px;
+}
+
+.gn_steps_floa_bright_blod_border {
+   width: 124px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 940px 240px;
+   transform: rotate(90deg);
+}
+
+.gn_steps_floa_bright_blod_border.left {
+   padding-left: 124px;
+   padding-bottom: 94px;
+}
+
+.gn_steps_floa_dark {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 83px 409px;
+}
+
+.gn_steps_floa_dark.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_steps_floa_dark_1 {
+   width: 18px;
+   height: 21px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 214px 1603px;
+   transform: rotate(90deg);
+}
+
+.gn_steps_floa_dark_1.left {
+   padding-left: 18px;
+   padding-bottom: 21px;
+}
+
+.gn_steps_floa_dark_2 {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 50px 413px;
+}
+
+.gn_steps_floa_dark_2.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_steps_floa_dark_3 {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 50px 380px;
+}
+
+.gn_steps_floa_dark_3.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_steps_goess {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 145px 1404px;
+}
+
+.gn_steps_goess.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.gn_steps_goess_1 {
+   width: 68px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1075px 99px;
+}
+
+.gn_steps_goess_1.left {
+   padding-left: 68px;
+   padding-bottom: 98px;
+}
+
+.gn_steps_green {
+   width: 50px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1539px 113px;
+   transform: rotate(90deg);
+}
+
+.gn_steps_green.left {
+   padding-left: 50px;
+   padding-bottom: 100px;
+}
+
+.gn_steps_guild_bg {
+   width: 32px;
+   height: 32px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 33px 1211px;
+}
+
+.gn_steps_guild_bg.left {
+   padding-left: 32px;
+   padding-bottom: 32px;
+}
+
+.gn_steps_head_dark {
+   width: 53px;
+   height: 155px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 527px 1187px;
+   transform: rotate(90deg);
+}
+
+.gn_steps_head_dark.left {
+   padding-left: 53px;
+   padding-bottom: 155px;
+}
+
+.gn_steps_info {
+   width: 50px;
+   height: 50px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 264px 589px;
+}
+
+.gn_steps_info.left {
+   padding-left: 50px;
+   padding-bottom: 50px;
+}
+
+.gn_steps_info_shade {
+   width: 50px;
+   height: 64px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 183px 853px;
+}
+
+.gn_steps_info_shade.left {
+   padding-left: 50px;
+   padding-bottom: 64px;
+}
+
+.gn_steps_input {
+   width: 58px;
+   height: 58px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 63px 986px;
+}
+
+.gn_steps_input.left {
+   padding-left: 58px;
+   padding-bottom: 58px;
+}
+
+.gn_steps_lock {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 139px 1301px;
+}
+
+.gn_steps_lock.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.gn_steps_lockey {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 735px 151px;
+}
+
+.gn_steps_lockey.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.gn_steps_lv {
+   width: 48px;
+   height: 50px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 224px 652px;
+}
+
+.gn_steps_lv.left {
+   padding-left: 48px;
+   padding-bottom: 50px;
+}
+
+.gn_steps_menu_bg {
+   width: 199px;
+   height: 165px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1414px 371px;
+}
+
+.gn_steps_menu_bg.left {
+   padding-left: 199px;
+   padding-bottom: 165px;
+}
+
+.gn_steps_name {
+   width: 220px;
+   height: 44px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 751px 1460px;
+}
+
+.gn_steps_name.left {
+   padding-left: 220px;
+   padding-bottom: 44px;
+}
+
+.gn_steps_name_castle {
+   width: 167px;
+   height: 51px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 783px 1289px;
+}
+
+.gn_steps_name_castle.left {
+   padding-left: 167px;
+   padding-bottom: 51px;
+}
+
+.gn_steps_newsystem {
+   width: 431px;
+   height: 119px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1405px 858px;
+}
+
+.gn_steps_newsystem.left {
+   padding-left: 431px;
+   padding-bottom: 119px;
+}
+
+.gn_steps_nothing {
+   width: 125px;
+   height: 106px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 971px 369px;
+   transform: rotate(90deg);
+}
+
+.gn_steps_nothing.left {
+   padding-left: 125px;
+   padding-bottom: 106px;
+}
+
+.gn_steps_res {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 319px 488px;
+}
+
+.gn_steps_res.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.gn_steps_res_2 {
+   width: 107px;
+   height: 107px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 637px 279px;
+}
+
+.gn_steps_res_2.left {
+   padding-left: 107px;
+   padding-bottom: 107px;
+}
+
+.gn_steps_ribbon_red {
+   width: 68px;
+   height: 63px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 267px 1054px;
+}
+
+.gn_steps_ribbon_red.left {
+   padding-left: 68px;
+   padding-bottom: 63px;
+}
+
+.gn_steps_sell_dark {
+   width: 198px;
+   height: 35px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1006px 696px;
+}
+
+.gn_steps_sell_dark.left {
+   padding-left: 198px;
+   padding-bottom: 35px;
+}
+
+.gn_steps_shade {
+   width: 50px;
+   height: 50px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 240px 705px;
+}
+
+.gn_steps_shade.left {
+   padding-left: 50px;
+   padding-bottom: 50px;
+}
+
+.gn_steps_solid {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 62px 347px;
+}
+
+.gn_steps_solid.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_steps_solid01 {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 60px 314px;
+}
+
+.gn_steps_solid01.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_steps_stop_service {
+   width: 60px;
+   height: 60px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 569px 61px;
+}
+
+.gn_steps_stop_service.left {
+   padding-left: 60px;
+   padding-bottom: 60px;
+}
+
+.gn_steps_strong_left_bg {
+   width: 96px;
+   height: 73px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 319px 385px;
+}
+
+.gn_steps_strong_left_bg.left {
+   padding-left: 96px;
+   padding-bottom: 73px;
+}
+
+.gn_steps_tab {
+   width: 50px;
+   height: 52px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 169px 967px;
+}
+
+.gn_steps_tab.left {
+   padding-left: 50px;
+   padding-bottom: 52px;
+}
+
+.gn_steps_title_all {
+   width: 606px;
+   height: 137px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1320px 1766px;
+}
+
+.gn_steps_title_all.left {
+   padding-left: 606px;
+   padding-bottom: 137px;
+}
+
+.gn_steps_title_half1 {
+   width: 497px;
+   height: 152px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1888px 511px;
+   transform: rotate(90deg);
+}
+
+.gn_steps_title_half1.left {
+   padding-left: 497px;
+   padding-bottom: 152px;
+}
+
+.gn_steps_top_bg {
+   width: 396px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 1685px 511px;
+   transform: rotate(90deg);
+}
+
+.gn_steps_top_bg.left {
+   padding-left: 396px;
+   padding-bottom: 40px;
+}
+
+.gn_steps_worldmap_green {
+   width: 148px;
+   height: 46px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 591px 961px;
+}
+
+.gn_steps_worldmap_green.left {
+   padding-left: 148px;
+   padding-bottom: 46px;
+}
+
+.gn_steps_worldmap_orange {
+   width: 148px;
+   height: 46px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 606px 740px;
+}
+
+.gn_steps_worldmap_orange.left {
+   padding-left: 148px;
+   padding-bottom: 46px;
+}
+
+.gn_steps_yellow_line_bg {
+   width: 602px;
+   height: 65px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 711px 1771px;
+}
+
+.gn_steps_yellow_line_bg.left {
+   padding-left: 602px;
+   padding-bottom: 65px;
+}
+
+.gn_strip_1_1 {
+   width: 22px;
+   height: 22px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 605px 1189px;
+}
+
+.gn_strip_1_1.left {
+   padding-left: 22px;
+   padding-bottom: 22px;
+}
+
+.gn_strip_1_2 {
+   width: 22px;
+   height: 22px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 267px 1087px;
+}
+
+.gn_strip_1_2.left {
+   padding-left: 22px;
+   padding-bottom: 22px;
+}
+
+.gn_strip_1_3 {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 45px 281px;
+}
+
+.gn_strip_1_3.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_strip_1_4 {
+   width: 22px;
+   height: 22px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 103px 268px;
+}
+
+.gn_strip_1_4.left {
+   padding-left: 22px;
+   padding-bottom: 22px;
+}
+
+.gn_strip_3 {
+   width: 100px;
+   height: 26px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 735px 38px;
+}
+
+.gn_strip_3.left {
+   padding-left: 100px;
+   padding-bottom: 26px;
+}
+
+.gn_tab_line {
+   width: 36px;
+   height: 2px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 427px 217px;
+   transform: rotate(90deg);
+}
+
+.gn_tab_line.left {
+   padding-left: 36px;
+   padding-bottom: 2px;
+}
+
+.gn_task_exp {
+   width: 64px;
+   height: 18px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 267px 988px;
+}
+
+.gn_task_exp.left {
+   padding-left: 64px;
+   padding-bottom: 18px;
+}
+
+.gn_task_exp_bg {
+   width: 64px;
+   height: 22px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 136px 1635px;
+}
+
+.gn_task_exp_bg.left {
+   padding-left: 64px;
+   padding-bottom: 22px;
+}
+
+.gn_top_bg_2 {
+   width: 604px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 721px 1814px;
+}
+
+.gn_top_bg_2.left {
+   padding-left: 604px;
+   padding-bottom: 40px;
+}
+
+.gn_vertical_line {
+   width: 8px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 805px 669px;
+   transform: rotate(90deg);
+}
+
+.gn_vertical_line.left {
+   padding-left: 8px;
+   padding-bottom: 16px;
+}
+
+.gn_vip_dot {
+   width: 18px;
+   height: 20px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 448px 120px;
+}
+
+.gn_vip_dot.left {
+   padding-left: 18px;
+   padding-bottom: 20px;
+}
+
+.gn_word_bg {
+   width: 81px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/button.png') 169px 1088px;
+}
+
+.gn_word_bg.left {
+   padding-left: 81px;
+   padding-bottom: 30px;
+}

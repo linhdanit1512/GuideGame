@@ -1,0 +1,55 @@
+
+sp_sk_hit_shengmingjifa.png
+size: 462,462
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+battle_elfhpup
+  rotate: false
+  xy: 79, 42
+  size: 117, 122
+  orig: 117, 122
+  offset: 0, 0
+  index: -1
+battle_hpleaf
+  rotate: true
+  xy: 250, 126
+  size: 103, 107
+  orig: 103, 107
+  offset: 0, 0
+  index: -1
+battle_hpleaf2
+  rotate: false
+  xy: 359, 133
+  size: 60, 96
+  orig: 60, 96
+  offset: 0, 0
+  index: -1
+ciguang
+  rotate: false
+  xy: 198, 113
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+faguang
+  rotate: true
+  xy: 250, 231
+  size: 231, 212
+  orig: 231, 212
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 0, 1
+  size: 77, 163
+  orig: 77, 163
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 0, 166
+  size: 248, 296
+  orig: 248, 296
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,300 @@
+
+aleck sally.png
+size: 520,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy: 468, 66
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+er1
+  rotate: false
+  xy: 395, 114
+  size: 44, 82
+  orig: 44, 82
+  offset: 0, 0
+  index: -1
+er2
+  rotate: false
+  xy: 156, 65
+  size: 36, 81
+  orig: 36, 81
+  offset: 0, 0
+  index: -1
+g0001
+  rotate: false
+  xy: 250, 225
+  size: 149, 139
+  orig: 158, 152
+  offset: 0, 2
+  index: -1
+g0002
+  rotate: false
+  xy: 196, 366
+  size: 158, 152
+  orig: 158, 152
+  offset: 0, 0
+  index: -1
+g0003
+  rotate: true
+  xy: 2, 5
+  size: 158, 152
+  orig: 158, 152
+  offset: 0, 0
+  index: -1
+g0004
+  rotate: false
+  xy: 356, 366
+  size: 158, 152
+  orig: 158, 152
+  offset: 0, 0
+  index: -1
+g0005
+  rotate: false
+  xy: 157, 177
+  size: 91, 152
+  orig: 158, 152
+  offset: 0, 0
+  index: -1
+guashi
+  rotate: false
+  xy: 397, 69
+  size: 20, 43
+  orig: 20, 43
+  offset: 0, 0
+  index: -1
+hushen
+  rotate: false
+  xy: 196, 335
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+hutou
+  rotate: true
+  xy: 194, 52
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 401, 198
+  size: 103, 60
+  orig: 103, 60
+  offset: 0, 0
+  index: -1
+qun1
+  rotate: true
+  xy: 441, 124
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 157, 148
+  size: 90, 27
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 247, 55
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 401, 260
+  size: 117, 104
+  orig: 117, 104
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 250, 103
+  size: 143, 120
+  orig: 143, 120
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 441, 97
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 2, 331
+  size: 192, 187
+  orig: 192, 187
+  offset: 0, 0
+  index: -1
+xuanzhuan
+  rotate: false
+  xy: 2, 165
+  size: 153, 164
+  orig: 153, 164
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 156, 7
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 494, 132
+  size: 64, 13
+  orig: 64, 13
+  offset: 0, 0
+  index: -1
+yhtui1
+  rotate: true
+  xy: 322, 45
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+yhtui2
+  rotate: true
+  xy: 506, 232
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+yhtui2_1
+  rotate: true
+  xy: 397, 54
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+yqtui1
+  rotate: false
+  xy: 506, 245
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+yqtui2
+  rotate: false
+  xy: 342, 45
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+yqtui3
+  rotate: true
+  xy: 480, 105
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: false
+  xy: 489, 72
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: true
+  xy: 351, 60
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: true
+  xy: 494, 99
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+ytui1
+  rotate: true
+  xy: 184, 27
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+ytui2
+  rotate: false
+  xy: 419, 70
+  size: 16, 42
+  orig: 16, 42
+  offset: 0, 0
+  index: -1
+zhtui1
+  rotate: true
+  xy: 437, 52
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+zhtui2
+  rotate: true
+  xy: 300, 46
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+zqtui1
+  rotate: true
+  xy: 419, 51
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+zqtui2
+  rotate: true
+  xy: 489, 54
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: true
+  xy: 437, 69
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: true
+  xy: 300, 61
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: false
+  xy: 226, 4
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+ztui1
+  rotate: true
+  xy: 194, 112
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+ztui2
+  rotate: true
+  xy: 184, 2
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1

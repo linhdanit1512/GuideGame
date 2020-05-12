@@ -1,0 +1,48 @@
+
+sp_sk_fly_red_elec_stand.png
+size: 768,83
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 2, 50
+  size: 300, 31
+  orig: 300, 46
+  offset: 0, 12
+  index: -1
+b2
+  rotate: false
+  xy: 304, 44
+  size: 293, 37
+  orig: 300, 46
+  offset: 2, 4
+  index: -1
+b3
+  rotate: false
+  xy: 2, 10
+  size: 286, 38
+  orig: 300, 46
+  offset: 6, 1
+  index: -1
+b4
+  rotate: false
+  xy: 290, 4
+  size: 267, 38
+  orig: 300, 46
+  offset: 17, 1
+  index: -1
+b5
+  rotate: false
+  xy: 559, 2
+  size: 207, 39
+  orig: 300, 46
+  offset: 29, 1
+  index: -1
+b6
+  rotate: false
+  xy: 599, 43
+  size: 167, 38
+  orig: 300, 46
+  offset: 29, 3
+  index: -1

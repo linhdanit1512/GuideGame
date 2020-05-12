@@ -1,0 +1,27 @@
+
+sp_sk_fly_pet_green_2_SF.png
+size: 340,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00001
+  rotate: true
+  xy: 0, 3
+  size: 92, 166
+  orig: 92, 166
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 280, 293
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+g0005
+  rotate: false
+  xy: 0, 97
+  size: 278, 243
+  orig: 278, 243
+  offset: 0, 0
+  index: -1

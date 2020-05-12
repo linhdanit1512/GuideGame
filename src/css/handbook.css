@@ -1,0 +1,128 @@
+:root {
+   --sp-green: #28b99a;
+   --sp-green-light: #c8f0e7;
+}
+
+.sp-box-title .img-title {
+   float: left;
+   padding: 0px 8px;
+}
+
+.sp-box-title .text-title {
+   font-family: Condensed;
+   font-weight: bold;
+   border-bottom: 1px dashed gray;
+}
+
+.sp-box-title .text-title .sub-title {
+   display: flex;
+}
+
+.hb, .cal {
+   text-align: center;
+}
+
+.hb-item, .cal-item {
+   text-align: center;
+   display: inline-block;
+   border: 1px solid lightgray;
+   margin: 2px;
+   cursor: pointer;
+   color: ghostwhite;
+}
+
+@keyframes light {
+   0% {
+      filter: contrast(1);
+   }
+   25% {
+      filter: contrast(1.5);
+   }
+   50% {
+      filter: contrast(1);
+   }
+   75% {
+      filter: contrast(0.8);
+   }
+   100% {
+      filter: contrast(1);
+   }
+}
+
+.hb-item:hover, .hb-item:focus, .cal-item:hover, .cal-item:focus {
+   outline: 2px solid var(--sp-green);
+   background-color: var(--sp-green-light);
+   color: var(--cyan);
+   text-decoration: none;
+}
+
+@-moz-keyframes spin {
+   from {
+      -moz-transform: rotate(0deg);
+   }
+   to {
+      -moz-transform: rotate(360deg);
+   }
+}
+
+@-webkit-keyframes spin {
+   from {
+      -webkit-transform: rotate(0deg);
+   }
+   to {
+      -webkit-transform: rotate(360deg);
+   }
+}
+
+@keyframes spin {
+   from {
+      transform: rotate(0deg);
+   }
+   to {
+      transform: rotate(360deg);
+   }
+}
+
+@keyframes waggle {
+   0% {
+      transform: rotate(0deg);
+   }
+   25% {
+      transform: rotate(15deg);
+   }
+   0% {
+      transform: rotate(0deg);
+   }
+   75% {
+      transform: rotate(-15deg);
+   }
+   0% {
+      transform: rotate(0deg);
+   }
+}
+
+.hb-item .hb-img, .cal-item .cal-img {
+   height: 90px;
+   width: 120px;
+   margin: auto;
+   padding: 5px 8px;
+   /* animation: light 2s infinite; */
+}
+
+.hb-item .hb-img:hover, .cal-item .cal-img:hover {
+   filter: contrast(1.6);
+}
+
+.hb-item .hb-img div, .cal-item .cal-img div {
+   margin: auto;
+}
+
+.hb-item .hb-text, .cal-item .cal-text {
+   display: inline;
+   filter: drop-shadow(0px 0px 1px black);
+   font-size: x-large;
+}
+
+.top-left-transform {
+   transform-origin: top left;
+}

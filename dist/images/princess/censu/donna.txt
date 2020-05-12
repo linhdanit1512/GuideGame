@@ -1,0 +1,139 @@
+
+donna.png
+size: 338,338
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: false
+  xy: 234, 33
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: false
+  xy: 278, 40
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: true
+  xy: 285, 93
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: false
+  xy: 278, 1
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 279, 191
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 219, 30
+  size: 61, 13
+  orig: 61, 13
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: false
+  xy: 214, 4
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 308, 159
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: true
+  xy: 183, 2
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 0, 3
+  size: 129, 181
+  orig: 129, 181
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 271, 135
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 183, 39
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: true
+  xy: 183, 93
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: true
+  xy: 236, 81
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+SkirtL
+  rotate: false
+  xy: 181, 258
+  size: 96, 80
+  orig: 96, 80
+  offset: 0, 0
+  index: -1
+WeaponL
+  rotate: true
+  xy: 181, 135
+  size: 121, 59
+  orig: 121, 59
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 0, 134
+  size: 179, 204
+  orig: 179, 204
+  offset: 0, 0
+  index: -1
+qungzi
+  rotate: true
+  xy: 279, 262
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 242, 126
+  size: 130, 27
+  orig: 130, 27
+  offset: 0, 0
+  index: -1

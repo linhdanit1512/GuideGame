@@ -1,0 +1,1109 @@
+
+.princess-card {
+   width: 150px;
+   height: 233px;
+   margin-top: 0px;
+   transform: scale(0.13);
+   transform-origin: top left;
+   cursor: pointer;
+   display: inline-block;
+}
+
+.hero-card-gallery .princess-card:hover, .hero-card-gallery princess-card.active{
+   animation: blink_select_hero 1.5s infinite;
+}
+
+.princess-card .princess-image{
+   width: 970px;
+   height: 1450px;
+   background-position: top left;
+}
+
+   .princess-cr_h_honest_chicken_1{
+      background-image: url(/images/princess/full/cooler/01-syia.jpg);
+   }
+   
+   .princess-cr_h_woodcutter_1{
+      background-image: url(/images/princess/full/cooler/02-bins.jpg);
+   }
+   
+   .princess-cr_h_old_miner_1{
+      background-image: url(/images/princess/full/cooler/03-acan.jpg);
+   }
+   
+   .princess-cr_h_nyarlathotep_2{
+      background-image: url(/images/princess/full/cooler/04-sherry.jpg);
+   }
+   
+   .princess-cr_h_locke_2{
+      background-image: url(/images/princess/full/cooler/05-lonbo.jpg);
+   }
+   
+   .princess-cr_h_dungeon_guard_2{
+      background-image: url(/images/princess/full/cooler/06-huy.jpg);
+   }
+   
+   .princess-cr_h_single_wheel_2{
+      background-image: url(/images/princess/full/cooler/07-laya.jpg);
+   }
+   
+   .princess-cr_h_rock_jack_3{
+      background-image: url(/images/princess/full/cooler/08-dame-hansin.jpg);
+   }
+   
+   .princess-cr_h_sword_boy_3{
+      background-image: url(/images/princess/full/cooler/09-jane.jpg);
+   }
+   
+   .princess-cr_h_harun_3{
+      background-image: url(/images/princess/full/cooler/10-dame-pearl.jpg);
+   }
+   
+   .princess-cr_h_landlady_3{
+      background-image: url(/images/princess/full/cooler/11-ruby.jpg);
+   }
+   
+   .princess-cr_h_rocket_3{
+      background-image: url(/images/princess/full/cooler/12-femi.jpg);
+   }
+   
+   .princess-cr_h_frost_knight_4{
+      background-image: url(/images/princess/full/cooler/13-linlin.jpg);
+   }
+   
+   .princess-cr_h_warrior_4{
+      background-image: url(/images/princess/full/cooler/14-julia.jpg);
+   }
+   
+   .princess-cr_h_blue_hat_4{
+      background-image: url(/images/princess/full/cooler/15-heechul.jpg);
+   }
+   
+   .princess-cr_h_ovelia_4{
+      background-image: url(/images/princess/full/cooler/16-salie.jpg);
+   }
+   
+   .princess-cr_h_paladin_4{
+      background-image: url(/images/princess/full/cooler/17-jame.jpg);
+   }
+   
+   .princess-cr_h_storm_hudde_4{
+      background-image: url(/images/princess/full/cooler/18-yuso.jpg);
+   }
+   
+   .princess-cr_h_captain_4{
+      background-image: url(/images/princess/full/cooler/19-muze.jpg);
+   }
+   
+   .princess-cr_h_onion_4{
+      background-image: url(/images/princess/full/cooler/20-himin.jpg);
+   }
+   
+   .princess-cr_h_frost_knight_5{
+      background-image: url(/images/princess/full/cooler/21-linlin-5.jpg);
+   }
+   
+   .princess-cr_h_warrior_5{
+      background-image: url(/images/princess/full/cooler/22-julia-5.jpg);
+   }
+   
+   .princess-cr_h_blue_hat_5{
+      background-image: url(/images/princess/full/cooler/23-heechul-5.jpg);
+   }
+   
+   .princess-cr_h_ovelia_5{
+      background-image: url(/images/princess/full/cooler/24-salie-5.jpg);
+   }
+   
+   .princess-cr_h_storm_hudde_5{
+      background-image: url(/images/princess/full/cooler/25-yuso-5.jpg);
+   }
+   
+   .princess-cr_h_paladin_5{
+      background-image: url(/images/princess/full/cooler/26-jame-5.jpg);
+   }
+   
+   .princess-cr_h_captain_5{
+      background-image: url(/images/princess/full/cooler/27-muze-5.jpg);
+   }
+   
+   .princess-cr_h_onion_5{
+      background-image: url(/images/princess/full/cooler/28-himin-5.jpg);
+   }
+   
+   .princess-cr_h_lion_heart_5{
+      background-image: url(/images/princess/full/cooler/29-hili-5.jpg);
+   }
+   
+   .princess-cr_h_tesla_5{
+      background-image: url(/images/princess/full/cooler/30-roy-5.jpg);
+   }
+   
+   .princess-cr_h_katana_samurai_5{
+      background-image: url(/images/princess/full/cooler/31-mino-5.jpg);
+   }
+   
+   .princess-cr_h_mulan_5{
+      background-image: url(/images/princess/full/cooler/32-jinhan-5.jpg);
+   }
+   
+   .princess-cr_h_saw_machine_5{
+      background-image: url(/images/princess/full/cooler/33-yaer-5.jpg);
+   }
+   
+   .princess-cr_h_ultima_5{
+      background-image: url(/images/princess/full/cooler/34-agatha-5.jpg);
+   }
+   
+   .princess-cr_h_vivienne_5{
+      background-image: url(/images/princess/full/cooler/35-dorothy-5.jpg);
+   }
+   
+   .princess-cr_h_xueyuanlu_5{
+      background-image: url(/images/princess/full/cooler/36-ice-flash-5.jpg);
+   }
+   
+   .princess-cr_h_flame_strike_5{
+      background-image: url(/images/princess/full/cooler/37-alizabeth-5.jpg);
+   }
+   
+   .princess-cr_h_ice_blink_5{
+      background-image: url(/images/princess/full/cooler/38-teresa-5.jpg);
+   }
+   
+   .princess-cr_h_aqua_5{
+      background-image: url(/images/princess/full/cooler/aqua-5.jpg);
+   }
+   
+   .princess-cr_h_hikari_5{
+      background-image: url(/images/princess/full/cooler/39-hikari-5.png);
+   }
+   
+   .princess-cr_h_frost_knight_6{
+      background-image: url(/images/princess/full/cooler/39-linlin-6.jpg);
+   }
+   
+   .princess-cr_h_warrior_6{
+      background-image: url(/images/princess/full/cooler/40-julia-6.jpg);
+   }
+   
+   .princess-cr_h_ovelia_6{
+      background-image: url(/images/princess/full/cooler/41-salie-6.jpg);
+   }
+   
+   .princess-cr_h_lion_heart_6{
+      background-image: url(/images/princess/full/cooler/42-hili-6.jpg);
+   }
+   
+   .princess-cr_h_tesla_6{
+      background-image: url(/images/princess/full/cooler/43-roy-6.jpg);
+   }
+   
+   .princess-cr_h_katana_samurai_6{
+      background-image: url(/images/princess/full/cooler/44-mino-6.jpg);
+   }
+   
+   .princess-cr_h_mulan_6{
+      background-image: url(/images/princess/full/cooler/45-jinhan-6.jpg);
+   }
+   
+   .princess-cr_h_saw_machine_6{
+      background-image: url(/images/princess/full/cooler/46-yaer-6.jpg);
+   }
+   
+   .princess-cr_h_ultima_6{
+      background-image: url(/images/princess/full/cooler/47-agatha-6.jpg);
+   }
+   
+   .princess-cr_h_vivienne_6{
+      background-image: url(/images/princess/full/cooler/48-dorothy-6.jpg);
+   }
+   
+   .princess-cr_h_xueyuanlu_6{
+      background-image: url(/images/princess/full/cooler/49-ice-flash-6.jpg);
+   }
+   
+   .princess-cr_h_flame_strike_6{
+      background-image: url(/images/princess/full/cooler/50-elizabeth-6.jpg);
+   }
+   
+   .princess-cr_h_ice_blink_6{
+      background-image: url(/images/princess/full/cooler/51-teresa-6.jpg);
+   }
+   
+   .princess-cr_h_aqua_6{
+      background-image: url(/images/princess/full/cooler/aqua-6.jpg);
+   }
+   
+   .princess-cr_h_hikari_6{
+      background-image: url(/images/princess/full/cooler/52-hikari-6.png);
+   }
+   
+   .princess-cr_h_lion_heart_6{
+      background-image: url(/images/princess/full/cooler/52-hili-10.jpg);
+   }
+   
+   .princess-cr_h_tesla_6{
+      background-image: url(/images/princess/full/cooler/53-roy-10.jpg);
+   }
+   
+   .princess-cr_h_katana_samurai_6{
+      background-image: url(/images/princess/full/cooler/54-mino-10.jpg);
+   }
+   
+   .princess-cr_h_mulan_6{
+      background-image: url(/images/princess/full/cooler/55-jinhan-10.jpg);
+   }
+   
+   .princess-cr_h_saw_machine_6{
+      background-image: url(/images/princess/full/cooler/56-yaer-10.jpg);
+   }
+   
+   .princess-cr_h_ultima_6{
+      background-image: url(/images/princess/full/cooler/57-agatha-10.jpg);
+   }
+   
+   .princess-cr_h_vivienne_6{
+      background-image: url(/images/princess/full/cooler/58-dorothy-10.jpg);
+   }
+   
+   .princess-cr_h_xueyuanlu_6{
+      background-image: url(/images/princess/full/cooler/59-ice-flash-10.jpg);
+   }
+   
+   .princess-cr_h_flame_strike_6{
+      background-image: url(/images/princess/full/cooler/60-elizabeth-10.jpg);
+   }
+   
+   .princess-cr_h_ice_blink_6{
+      background-image: url(/images/princess/full/cooler/61-teresa-10.jpg);
+   }
+   
+   .princess-cr_h_aqua_6{
+      background-image: url(/images/princess/full/cooler/aqua-10.jpg);
+   }
+   
+   .princess-cr_h_hikari_6{
+      background-image: url(/images/princess/full/cooler/62-hikari-10.png);
+   }
+   
+   .princess-cr_o_little_bat_1{
+      background-image: url(/images/princess/full/efreet/01-chem.jpg);
+   }
+   
+   .princess-cr_o_gbl_1{
+      background-image: url(/images/princess/full/efreet/02-cime.jpg);
+   }
+   
+   .princess-cr_o_little_murloc_1{
+      background-image: url(/images/princess/full/efreet/03-ciera.jpg);
+   }
+   
+   .princess-cr_o_little_knife_2{
+      background-image: url(/images/princess/full/efreet/04-juli.jpg);
+   }
+   
+   .princess-cr_o_akash_2{
+      background-image: url(/images/princess/full/efreet/05-guma.jpg);
+   }
+   
+   .princess-cr_o_rednose_2{
+      background-image: url(/images/princess/full/efreet/06-hongda.jpg);
+   }
+   
+   .princess-cr_o_techies_2{
+      background-image: url(/images/princess/full/efreet/07-yer.jpg);
+   }
+   
+   .princess-cr_o_big_mouth_3{
+      background-image: url(/images/princess/full/efreet/08-joy.jpg);
+   }
+   
+   .princess-cr_o_munter_3{
+      background-image: url(/images/princess/full/efreet/09-rame.jpg);
+   }
+   
+   .princess-cr_o_bat_king_3{
+      background-image: url(/images/princess/full/efreet/10-oran.jpg);
+   }
+   
+   .princess-cr_o_runner_3{
+      background-image: url(/images/princess/full/efreet/11-hono.jpg);
+   }
+   
+   .princess-cr_o_stone_3{
+      background-image: url(/images/princess/full/efreet/12-fire-finch.jpg);
+   }
+   
+   .princess-cr_o_orc_warrior_4{
+      background-image: url(/images/princess/full/efreet/13-fei-doris.jpg);
+   }
+   
+   .princess-cr_o_murloc_4{
+      background-image: url(/images/princess/full/efreet/14-weinzweig.jpg);
+   }
+   
+   .princess-cr_o_kharich_4{
+      background-image: url(/images/princess/full/efreet/15-nora.jpg);
+   }
+   
+   .princess-cr_o_witcher_4{
+      background-image: url(/images/princess/full/efreet/16-vingor.jpg);
+   }
+   
+   .princess-cr_o_eagleeye_shaman_4{
+      background-image: url(/images/princess/full/efreet/17-rod.jpg);
+   }
+   
+   .princess-cr_o_rlyeh_4{
+      background-image: url(/images/princess/full/efreet/18-dame-roc.jpg);
+   }
+   
+   .princess-cr_o_ogre_4{
+      background-image: url(/images/princess/full/efreet/19-rainbow.jpg);
+   }
+   
+   .princess-cr_o_shaman_assasin_4{
+      background-image: url(/images/princess/full/efreet/20-clouds.jpg);
+   }
+   
+   .princess-cr_o_orc_warrior_5{
+      background-image: url(/images/princess/full/efreet/21-fei-doris-5.jpg);
+   }
+   
+   .princess-cr_o_murloc_5{
+      background-image: url(/images/princess/full/efreet/22-weinzweig-5.jpg);
+   }
+   
+   .princess-cr_o_kharich_5{
+      background-image: url(/images/princess/full/efreet/23-nora-5.jpg);
+   }
+   
+   .princess-cr_o_witcher_5{
+      background-image: url(/images/princess/full/efreet/24-vingor-5.jpg);
+   }
+   
+   .princess-cr_o_eagleeye_shaman_5{
+      background-image: url(/images/princess/full/efreet/25-rod-5.jpg);
+   }
+   
+   .princess-cr_o_rlyeh_5{
+      background-image: url(/images/princess/full/efreet/26-dame-roc-5.jpg);
+   }
+   
+   .princess-cr_o_ogre_5{
+      background-image: url(/images/princess/full/efreet/27-rainbow-5.jpg);
+   }
+   
+   .princess-cr_o_shaman_assasin_5{
+      background-image: url(/images/princess/full/efreet/28-clouds-5.jpg);
+   }
+   
+   .princess-cr_o_wolf_rider_5{
+      background-image: url(/images/princess/full/efreet/29-rhinoceros-5.jpg);
+   }
+   
+   .princess-cr_o_sword_master_5{
+      background-image: url(/images/princess/full/efreet/30-titi-5.jpg);
+   }
+   
+   .princess-cr_o_scarlet_5{
+      background-image: url(/images/princess/full/efreet/31-hedi-5.jpg);
+   }
+   
+   .princess-cr_o_minotaur_5{
+      background-image: url(/images/princess/full/efreet/32-ruina-5.jpg);
+   }
+   
+   .princess-cr_o_lord_balrog_5{
+      background-image: url(/images/princess/full/efreet/33-pasha-5.jpg);
+   }
+   
+   .princess-cr_o_medusa_5{
+      background-image: url(/images/princess/full/efreet/34-mukedasi-5.jpg);
+   }
+   
+   .princess-cr_o_barea_5{
+      background-image: url(/images/princess/full/efreet/35-kerim-5.jpg);
+   }
+   
+   .princess-cr_d_das_moge_5{
+      background-image: url(/images/princess/full/efreet/36-dragonet-5.jpg);
+   }
+   
+   .princess-cr_o_rin_5{
+      background-image: url(/images/princess/full/efreet/37-hong-ling-5.jpg);
+   }
+   
+   .princess-cr_o_karen_5{
+      background-image: url(/images/princess/full/efreet/karen-5.jpg);
+   }
+   
+   .princess-cr_o_eagleeye_shaman_6{
+      background-image: url(/images/princess/full/efreet/38-rod-6.jpg);
+   }
+   
+   .princess-cr_o_kharich_6{
+      background-image: url(/images/princess/full/efreet/39-nora-6.jpg);
+   }
+   
+   .princess-cr_o_rlyeh_6{
+      background-image: url(/images/princess/full/efreet/40-dame-roc-6.jpg);
+   }
+   
+   .princess-cr_o_wolf_rider_6{
+      background-image: url(/images/princess/full/efreet/41-rhinoceros-6.jpg);
+   }
+   
+   .princess-cr_o_sword_master_6{
+      background-image: url(/images/princess/full/efreet/42-titi-6.jpg);
+   }
+   
+   .princess-cr_o_scarlet_6{
+      background-image: url(/images/princess/full/efreet/43-hedi-6.jpg);
+   }
+   
+   .princess-cr_o_minotaur_6{
+      background-image: url(/images/princess/full/efreet/44-ruina-6.jpg);
+   }
+   
+   .princess-cr_o_lord_balrog_6{
+      background-image: url(/images/princess/full/efreet/45-pasha-6.jpg);
+   }
+   
+   .princess-cr_o_medusa_6{
+      background-image: url(/images/princess/full/efreet/46-mukedasi-6.jpg);
+   }
+   
+   .princess-cr_o_barea_6{
+      background-image: url(/images/princess/full/efreet/47-kerim-6.jpg);
+   }
+   
+   .princess-cr_d_das_moge_6{
+      background-image: url(/images/princess/full/efreet/48-dragonet-6.jpg);
+   }
+   
+   .princess-cr_o_rin_6{
+      background-image: url(/images/princess/full/efreet/49-hong-ling-6.jpg);
+   }
+   
+   .princess-cr_o_karen_6{
+      background-image: url(/images/princess/full/efreet/karen-6.jpg);
+   }
+   
+   .princess-cr_o_wolf_rider_6{
+      background-image: url(/images/princess/full/efreet/50-rhinoceros-10.jpg);
+   }
+   
+   .princess-cr_o_sword_master_6{
+      background-image: url(/images/princess/full/efreet/51-titi-10.jpg);
+   }
+   
+   .princess-cr_o_scarlet_6{
+      background-image: url(/images/princess/full/efreet/52-hedi-10.jpg);
+   }
+   
+   .princess-cr_o_minotaur_6{
+      background-image: url(/images/princess/full/efreet/53-ruina-10.jpg);
+   }
+   
+   .princess-cr_o_lord_balrog_6{
+      background-image: url(/images/princess/full/efreet/54-pasha-10.jpg);
+   }
+   
+   .princess-cr_o_medusa_6{
+      background-image: url(/images/princess/full/efreet/55-mukedasi-10.jpg);
+   }
+   
+   .princess-cr_o_barea_6{
+      background-image: url(/images/princess/full/efreet/56-kerim-10.jpg);
+   }
+   
+   .princess-cr_d_das_moge_6{
+      background-image: url(/images/princess/full/efreet/57-dragonet-10.jpg);
+   }
+   
+   .princess-cr_o_rin_6{
+      background-image: url(/images/princess/full/efreet/58-hong-ling-10.jpg);
+   }
+   
+   .princess-cr_o_karen_6{
+      background-image: url(/images/princess/full/efreet/karen-10.jpg);
+   }
+   
+   .princess-cr_e_earthbound_1{
+      background-image: url(/images/princess/full/laiquendi/01-pixie.jpg);
+   }
+   
+   .princess-cr_e_bomb_1{
+      background-image: url(/images/princess/full/laiquendi/02-arui.jpg);
+   }
+   
+   .princess-cr_e_elf_dog_2{
+      background-image: url(/images/princess/full/laiquendi/03-jas.jpg);
+   }
+   
+   .princess-cr_e_greed_2{
+      background-image: url(/images/princess/full/laiquendi/04-honey-human.jpg);
+   }
+   
+   .princess-cr_e_dragon_baby_2{
+      background-image: url(/images/princess/full/laiquendi/05-aya.jpg);
+   }
+   
+   .princess-cr_e_mushroom_soldier_1{
+      background-image: url(/images/princess/full/laiquendi/06-meid.jpg);
+   }
+   
+   .princess-cr_e_ent_baby_2{
+      background-image: url(/images/princess/full/laiquendi/07-dame-fushi.jpg);
+   }
+   
+   .princess-cr_e_robin_3{
+      background-image: url(/images/princess/full/laiquendi/08-millet.jpg);
+   }
+   
+   .princess-cr_e_elf_cat_3{
+      background-image: url(/images/princess/full/laiquendi/09-motan.jpg);
+   }
+   
+   .princess-cr_e_dragon_shaman_3{
+      background-image: url(/images/princess/full/laiquendi/10-dame-lily.jpg);
+   }
+   
+   .princess-cr_e_boxing_frog_3{
+      background-image: url(/images/princess/full/laiquendi/11-lanc.jpg);
+   }
+   
+   .princess-cr_e_popoya_3{
+      background-image: url(/images/princess/full/laiquendi/12-ayu.jpg);
+   }
+   
+   .princess-cr_e_megaw_4{
+      background-image: url(/images/princess/full/laiquendi/13-dame-rose.jpg);
+   }
+   
+   .princess-cr_e_treant_4{
+      background-image: url(/images/princess/full/laiquendi/14-wood-vhun.jpg);
+   }
+   
+   .princess-cr_e_werewolf_4{
+      background-image: url(/images/princess/full/laiquendi/15-well-zir.jpg);
+   }
+   
+   .princess-cr_e_shaly_4{
+      background-image: url(/images/princess/full/laiquendi/16-well-xun.jpg);
+   }
+   
+   .princess-cr_e_forest_healer_4{
+      background-image: url(/images/princess/full/laiquendi/17-wood-ying.jpg);
+   }
+   
+   .princess-cr_e_kun_chin_4{
+      background-image: url(/images/princess/full/laiquendi/18-well-ju.jpg);
+   }
+   
+   .princess-cr_e_amy_4{
+      background-image: url(/images/princess/full/laiquendi/19-well-xin.jpg);
+   }
+   
+   .princess-cr_e_elf_ranger_4{
+      background-image: url(/images/princess/full/laiquendi/20-well-taotao.jpg);
+   }
+   
+   .princess-cr_e_megaw_5{
+      background-image: url(/images/princess/full/laiquendi/21-dame-rose-5.jpg);
+   }
+   
+   .princess-cr_e_treant_5{
+      background-image: url(/images/princess/full/laiquendi/22-wood-vhun-5.jpg);
+   }
+   
+   .princess-cr_e_werewolf_5{
+      background-image: url(/images/princess/full/laiquendi/23-well-zir-5.jpg);
+   }
+   
+   .princess-cr_e_shaly_5{
+      background-image: url(/images/princess/full/laiquendi/24-well-xun-5.jpg);
+   }
+   
+   .princess-cr_e_forest_healer_5{
+      background-image: url(/images/princess/full/laiquendi/25-wood-ying-5.jpg);
+   }
+   
+   .princess-cr_e_kun_chin_5{
+      background-image: url(/images/princess/full/laiquendi/26-well-ju-5.jpg);
+   }
+   
+   .princess-cr_e_amy_5{
+      background-image: url(/images/princess/full/laiquendi/27-well-xin-5.jpg);
+   }
+   
+   .princess-cr_e_elf_ranger_5{
+      background-image: url(/images/princess/full/laiquendi/28-well-taotao-5.jpg);
+   }
+   
+   .princess-cr_e_orphee_5{
+      background-image: url(/images/princess/full/laiquendi/29-aster-zen-5.jpg);
+   }
+   
+   .princess-cr_e_rosa_5{
+      background-image: url(/images/princess/full/laiquendi/30-wood-mo-5.jpg);
+   }
+   
+   .princess-cr_e_eddga_5{
+      background-image: url(/images/princess/full/laiquendi/31-well-feng-5.jpg);
+   }
+   
+   .princess-cr_e_centaur_5{
+      background-image: url(/images/princess/full/laiquendi/32-berry-5.jpg);
+   }
+   
+   .princess-cr_e_tiger_5{
+      background-image: url(/images/princess/full/laiquendi/33-esmeralda-5.jpg);
+   }
+   
+   .princess-cr_e_faceless_5{
+      background-image: url(/images/princess/full/laiquendi/34-mosheng-5.jpg);
+   }
+   
+   .princess-cr_e_grand_5{
+      background-image: url(/images/princess/full/laiquendi/35-hoshino-5.jpg);
+   }
+   
+   .princess-cr_e_luna_5{
+      background-image: url(/images/princess/full/laiquendi/36-ophelia-5.jpg);
+   }
+   
+   .princess-cr_e_megaw_6{
+      background-image: url(/images/princess/full/laiquendi/37-dame-rose-6.jpg);
+   }
+   
+   .princess-cr_e_werewolf_6{
+      background-image: url(/images/princess/full/laiquendi/38-well-zir-6.jpg);
+   }
+   
+   .princess-cr_e_forest_healer_6{
+      background-image: url(/images/princess/full/laiquendi/39-wood-ying-6.jpg);
+   }
+   
+   .princess-cr_e_orphee_6{
+      background-image: url(/images/princess/full/laiquendi/40-aster-zen-6.jpg);
+   }
+   
+   .princess-cr_e_rosa_6{
+      background-image: url(/images/princess/full/laiquendi/41-wood-mo-6.jpg);
+   }
+   
+   .princess-cr_e_eddga_6{
+      background-image: url(/images/princess/full/laiquendi/42-well-feng-6.jpg);
+   }
+   
+   .princess-cr_e_centaur_6{
+      background-image: url(/images/princess/full/laiquendi/43-berry-6.jpg);
+   }
+   
+   .princess-cr_e_tiger_6{
+      background-image: url(/images/princess/full/laiquendi/44-esmeralda-6.jpg);
+   }
+   
+   .princess-cr_e_faceless_6{
+      background-image: url(/images/princess/full/laiquendi/45-mosheng-6.jpg);
+   }
+   
+   .princess-cr_e_grand_6{
+      background-image: url(/images/princess/full/laiquendi/46-hoshino-6.jpg);
+   }
+   
+   .princess-cr_e_luna_6{
+      background-image: url(/images/princess/full/laiquendi/47-ophelia-6.jpg);
+   }
+   
+   .princess-cr_e_orphee_6{
+      background-image: url(/images/princess/full/laiquendi/48-aster-zen-10.jpg);
+   }
+   
+   .princess-cr_e_rosa_6{
+      background-image: url(/images/princess/full/laiquendi/49-wood-mo-10.jpg);
+   }
+   
+   .princess-cr_e_eddga_6{
+      background-image: url(/images/princess/full/laiquendi/50-well-feng-10.jpg);
+   }
+   
+   .princess-cr_e_centaur_6{
+      background-image: url(/images/princess/full/laiquendi/51-berry-10.jpg);
+   }
+   
+   .princess-cr_e_tiger_6{
+      background-image: url(/images/princess/full/laiquendi/52-esmeralda-10.jpg);
+   }
+   
+   .princess-cr_e_faceless_6{
+      background-image: url(/images/princess/full/laiquendi/53-mosheng-10.jpg);
+   }
+   
+   .princess-cr_e_grand_6{
+      background-image: url(/images/princess/full/laiquendi/54-hoshino-10.jpg);
+   }
+   
+   .princess-cr_e_luna_6{
+      background-image: url(/images/princess/full/laiquendi/55-ophelia-10.jpg);
+   }
+   
+   .princess-cr_u_little_zombie_1{
+      background-image: url(/images/princess/full/censu/01-beth.jpg);
+   }
+   
+   .princess-cr_u_ghost_mage_1{
+      background-image: url(/images/princess/full/censu/02-elaine.jpg);
+   }
+   
+   .princess-cr_u_bone_little_1{
+      background-image: url(/images/princess/full/censu/03-janessa.jpg);
+   }
+   
+   .princess-cr_u_pugna_2{
+      background-image: url(/images/princess/full/censu/04-josephine.jpg);
+   }
+   
+   .princess-cr_u_buuny_2{
+      background-image: url(/images/princess/full/censu/05-torres.jpg);
+   }
+   
+   .princess-cr_u_bone_archer_2{
+      background-image: url(/images/princess/full/censu/06-dale.jpg);
+   }
+   
+   .princess-cr_u_bone_pumpkin_2{
+      background-image: url(/images/princess/full/censu/07-karve.jpg);
+   }
+   
+   .princess-cr_u_yu_3{
+      background-image: url(/images/princess/full/censu/08-jane.jpg);
+   }
+   
+   .princess-cr_u_joker_3{
+      background-image: url(/images/princess/full/censu/09-donna.jpg);
+   }
+   
+   .princess-cr_u_shirley_3{
+      background-image: url(/images/princess/full/censu/10-lord-uther.jpg);
+   }
+   
+   .princess-cr_u_raven_messenger_3{
+      background-image: url(/images/princess/full/censu/11-giselle.jpg);
+   }
+   
+   .princess-cr_u_ice_troll_3{
+      background-image: url(/images/princess/full/censu/12-charle.jpg);
+   }
+   
+   .princess-cr_u_frankenstein_4{
+      background-image: url(/images/princess/full/censu/13-frida.jpg);
+   }
+   
+   .princess-cr_u_pumpkin_warrior_4{
+      background-image: url(/images/princess/full/censu/14-geraldine.jpg);
+   }
+   
+   .princess-cr_u_chemical_butcher_4{
+      background-image: url(/images/princess/full/censu/15-mimmy.jpg);
+   }
+   
+   .princess-cr_u_glen_4{
+      background-image: url(/images/princess/full/censu/16-gaby-larry.jpg);
+   }
+   
+   .princess-cr_u_anubis_4{
+      background-image: url(/images/princess/full/censu/17-madeline.jpg);
+   }
+   
+   .princess-cr_u_bird_archer_4{
+      background-image: url(/images/princess/full/censu/18-iyer.jpg);
+   }
+   
+   .princess-cr_u_puppet_maid_4{
+      background-image: url(/images/princess/full/censu/19-graco-diss.jpg);
+   }
+   
+   .princess-cr_u_exdeath_4{
+      background-image: url(/images/princess/full/censu/20-alexia.jpg);
+   }
+   
+   .princess-cr_u_frankenstein_5{
+      background-image: url(/images/princess/full/censu/21-frida-5.jpg);
+   }
+   
+   .princess-cr_u_pumpkin_warrior_5{
+      background-image: url(/images/princess/full/censu/22-geraldine-5.jpg);
+   }
+   
+   .princess-cr_u_chemical_butcher_5{
+      background-image: url(/images/princess/full/censu/23-mimmy-5.jpg);
+   }
+   
+   .princess-cr_u_glen_5{
+      background-image: url(/images/princess/full/censu/24-gaby-larry-5.jpg);
+   }
+   
+   .princess-cr_u_anubis_5{
+      background-image: url(/images/princess/full/censu/25-madeline-5.jpg);
+   }
+   
+   .princess-cr_u_bird_archer_5{
+      background-image: url(/images/princess/full/censu/26-iyer-5.jpg);
+   }
+   
+   .princess-cr_u_puppet_maid_5{
+      background-image: url(/images/princess/full/censu/27-graco-diss-5.jpg);
+   }
+   
+   .princess-cr_u_exdeath_5{
+      background-image: url(/images/princess/full/censu/28-alexia-5.jpg);
+   }
+   
+   .princess-cr_u_hester_5{
+      background-image: url(/images/princess/full/censu/29-frederica-5.jpg);
+   }
+   
+   .princess-cr_u_dziewona_5{
+      background-image: url(/images/princess/full/censu/30-aleck-sally-5.jpg);
+   }
+   
+   .princess-cr_u_bone_king_5{
+      background-image: url(/images/princess/full/censu/31-carmen-5.jpg);
+   }
+   
+   .princess-cr_u_curse_5{
+      background-image: url(/images/princess/full/censu/32-aynur-5.jpg);
+   }
+   
+   .princess-cr_u_field_5{
+      background-image: url(/images/princess/full/censu/33-angela-5.jpg);
+   }
+   
+   .princess-cr_u_death_5{
+      background-image: url(/images/princess/full/censu/34-aruna-5.jpg);
+   }
+   
+   .princess-cr_u_blood_blade_5{
+      background-image: url(/images/princess/full/censu/35-tamamo-no-mae-5.jpg);
+   }
+   
+   .princess-cr_u_walter_5{
+      background-image: url(/images/princess/full/censu/36-lucia-5.jpg);
+   }
+   
+   .princess-cr_u_glen_6{
+      background-image: url(/images/princess/full/censu/37-gaby-larry-6.jpg);
+   }
+   
+   .princess-cr_u_puppet_maid_6{
+      background-image: url(/images/princess/full/censu/38-graco-diss-6.jpg);
+   }
+   
+   .princess-cr_u_exdeath_6{
+      background-image: url(/images/princess/full/censu/39-alexia-6.jpg);
+   }
+   
+   .princess-cr_u_hester_6{
+      background-image: url(/images/princess/full/censu/40-frederica-6.jpg);
+   }
+   
+   .princess-cr_u_dziewona_6{
+      background-image: url(/images/princess/full/censu/41-aleck-sally-6.jpg);
+   }
+   
+   .princess-cr_u_bone_king_6{
+      background-image: url(/images/princess/full/censu/42-carmenn-6.jpg);
+   }
+   
+   .princess-cr_u_curse_6{
+      background-image: url(/images/princess/full/censu/43-aynur-6.jpg);
+   }
+   
+   .princess-cr_u_field_6{
+      background-image: url(/images/princess/full/censu/44-angela-6.jpg);
+   }
+   
+   .princess-cr_u_death_6{
+      background-image: url(/images/princess/full/censu/45-aruna-6.jpg);
+   }
+   
+   .princess-cr_u_blood_blade_6{
+      background-image: url(/images/princess/full/censu/46-tamamo-no-mae-6.jpg);
+   }
+   
+   .princess-cr_u_walter_6{
+      background-image: url(/images/princess/full/censu/47-lucia-6.jpg);
+   }
+   
+   .princess-cr_u_hester_6{
+      background-image: url(/images/princess/full/censu/48-frederica-10.jpg);
+   }
+   
+   .princess-cr_u_dziewona_6{
+      background-image: url(/images/princess/full/censu/49-aleck-sally-10.jpg);
+   }
+   
+   .princess-cr_u_bone_king_6{
+      background-image: url(/images/princess/full/censu/50-carmen-10.jpg);
+   }
+   
+   .princess-cr_u_curse_6{
+      background-image: url(/images/princess/full/censu/51-aynur-10.jpg);
+   }
+   
+   .princess-cr_u_field_6{
+      background-image: url(/images/princess/full/censu/52-angela-10.jpg);
+   }
+   
+   .princess-cr_u_death_6{
+      background-image: url(/images/princess/full/censu/53-aruna-10.jpg);
+   }
+   
+   .princess-cr_u_blood_blade_6{
+      background-image: url(/images/princess/full/censu/54-tamamo-no-mae-10.jpg);
+   }
+   
+   .princess-cr_u_walter_6{
+      background-image: url(/images/princess/full/censu/55-lucia-10.jpg);
+   }
+   
+   .princess-cr_l_heaven_guard_3{
+      background-image: url(/images/princess/full/soma/01-canyon-maid.jpg);
+   }
+   
+   .princess-cr_l_golden_pastor_4{
+      background-image: url(/images/princess/full/soma/02-aft.jpg);
+   }
+   
+   .princess-cr_l_morgan_4{
+      background-image: url(/images/princess/full/soma/03-deml.jpg);
+   }
+   
+   .princess-cr_l_divine_spirit_4{
+      background-image: url(/images/princess/full/soma/04-sumo.jpg);
+   }
+   
+   .princess-cr_l_golden_pastor_5{
+      background-image: url(/images/princess/full/soma/05-aft-5.jpg);
+   }
+   
+   .princess-cr_l_morgan_5{
+      background-image: url(/images/princess/full/soma/06-deml-5.jpg);
+   }
+   
+   .princess-cr_l_divine_spirit_5{
+      background-image: url(/images/princess/full/soma/07-sumo-5.jpg);
+   }
+   
+   .princess-cr_l_gerke_5{
+      background-image: url(/images/princess/full/soma/08-kaguya-5.jpg);
+   }
+   
+   .princess-cr_l_nameless_5{
+      background-image: url(/images/princess/full/soma/09-helena-5.jpg);
+   }
+   
+   .princess-cr_l_michelle_5{
+      background-image: url(/images/princess/full/soma/10-michael-5.jpg);
+   }
+   
+   .princess-cr_l_divine_spirit_6{
+      background-image: url(/images/princess/full/soma/11-sumo-6.jpg);
+   }
+   
+   .princess-cr_l_gerke_6{
+      background-image: url(/images/princess/full/soma/12-kaguya-6.jpg);
+   }
+   
+   .princess-cr_l_nameless_6{
+      background-image: url(/images/princess/full/soma/13-helena-6.jpg);
+   }
+   
+   .princess-cr_l_michelle_6{
+      background-image: url(/images/princess/full/soma/14-michael-6.jpg);
+   }
+   
+   .princess-cr_l_gerke_6{
+      background-image: url(/images/princess/full/soma/15-kaguya-10.jpg);
+   }
+   
+   .princess-cr_l_nameless_6{
+      background-image: url(/images/princess/full/soma/16-helena-10.jpg);
+   }
+   
+   .princess-cr_l_michelle_6{
+      background-image: url(/images/princess/full/soma/17-michael-10.jpg);
+   }
+   
+   .princess-cr_d_dark_mage_3{
+      background-image: url(/images/princess/full/spirit/01-feiya.jpg);
+   }
+   
+   .princess-cr_d_belial_4{
+      background-image: url(/images/princess/full/spirit/02-paul.jpg);
+   }
+   
+   .princess-cr_d_aura_4{
+      background-image: url(/images/princess/full/spirit/03-toly.jpg);
+   }
+   
+   .princess-cr_d_dark_judge_4{
+      background-image: url(/images/princess/full/spirit/04-muduo.jpg);
+   }
+   
+   .princess-cr_d_belial_5{
+      background-image: url(/images/princess/full/spirit/05-paul-5.jpg);
+   }
+   
+   .princess-cr_d_aura_5{
+      background-image: url(/images/princess/full/spirit/06-toly-5.jpg);
+   }
+   
+   .princess-cr_d_dark_judge_5{
+      background-image: url(/images/princess/full/spirit/07-muduo-5.jpg);
+   }
+   
+   .princess-cr_d_forett_5{
+      background-image: url(/images/princess/full/spirit/08-harty-ernie-5.jpg);
+   }
+   
+   .princess-cr_d_sleepless_5{
+      background-image: url(/images/princess/full/spirit/09-noire-5.jpg);
+   }
+   
+   .princess-cr_o_karim_5{
+      background-image: url(/images/princess/full/spirit/10-yerin-5.jpg);
+   }
+   
+   .princess-cr_d_dark_judge_6{
+      background-image: url(/images/princess/full/spirit/11-muduo-6.jpg);
+   }
+   
+   .princess-cr_d_forett_6{
+      background-image: url(/images/princess/full/spirit/12-harty-ernie-6.jpg);
+   }
+   
+   .princess-cr_d_sleepless_6{
+      background-image: url(/images/princess/full/spirit/13-noire-6.jpg);
+   }
+   
+   .princess-cr_o_karim_6{
+      background-image: url(/images/princess/full/spirit/14-yerin-6.jpg);
+   }
+   
+   .princess-cr_d_forett_6{
+      background-image: url(/images/princess/full/spirit/15-harty-ernie-10.jpg);
+   }
+   
+   .princess-cr_d_sleepless_6{
+      background-image: url(/images/princess/full/spirit/16-noire-10.jpg);
+   }
+   
+   .princess-cr_o_karim_6{
+      background-image: url(/images/princess/full/spirit/17-yerin-10.jpg);
+   }
+   

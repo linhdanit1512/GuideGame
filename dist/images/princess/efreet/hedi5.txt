@@ -1,0 +1,146 @@
+
+hedi5.png
+size: 332,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 0, 41
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+HairBR
+  rotate: false
+  xy: 0, 143
+  size: 110, 189
+  orig: 110, 189
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: true
+  xy: 102, 22
+  size: 35, 83
+  orig: 35, 83
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: true
+  xy: 226, 140
+  size: 43, 86
+  orig: 43, 86
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 102, 59
+  size: 79, 69
+  orig: 79, 69
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 230, 272
+  size: 92, 60
+  orig: 92, 60
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 112, 130
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 230, 211
+  size: 59, 91
+  orig: 59, 91
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 112, 214
+  size: 116, 118
+  orig: 116, 118
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 234, 84
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 234, 21
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 204, 146
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: false
+  xy: 187, 4
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: false
+  xy: 290, 101
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: false
+  xy: 234, 51
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: true
+  xy: 226, 185
+  size: 24, 106
+  orig: 24, 106
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: true
+  xy: 183, 65
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: true
+  xy: 0, 0
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: false
+  xy: 50, 7
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: true
+  xy: 112, 169
+  size: 43, 112
+  orig: 43, 112
+  offset: 0, 0
+  index: -1

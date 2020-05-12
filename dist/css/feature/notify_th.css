@@ -1,0 +1,492 @@
+
+.cr_digit_e_th {
+   width: 31px;
+   height: 21px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 382px 139px;
+   transform: rotate(90deg);
+}
+
+.cr_digit_e_th.left {
+   padding-left: 31px;
+   padding-bottom: 21px;
+}
+
+.cr_digit_r_th {
+   width: 51px;
+   height: 21px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 1513px 471px;
+}
+
+.cr_digit_r_th.left {
+   padding-left: 51px;
+   padding-bottom: 21px;
+}
+
+.cr_digit_w_th {
+   width: 27px;
+   height: 21px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 1199px 471px;
+}
+
+.cr_digit_w_th.left {
+   padding-left: 27px;
+   padding-bottom: 21px;
+}
+
+.gn_icon_complete_th {
+   width: 101px;
+   height: 101px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 485px 150px;
+}
+
+.gn_icon_complete_th.left {
+   padding-left: 101px;
+   padding-bottom: 101px;
+}
+
+.gn_icon_passed_th {
+   width: 101px;
+   height: 101px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 485px 150px;
+}
+
+.gn_icon_passed_th.left {
+   padding-left: 101px;
+   padding-bottom: 101px;
+}
+
+.gn_icon_purchased_th {
+   width: 101px;
+   height: 101px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 268px 105px;
+}
+
+.gn_icon_purchased_th.left {
+   padding-left: 101px;
+   padding-bottom: 101px;
+}
+
+.gn_icon_vs_lost_th {
+   width: 110px;
+   height: 101px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 598px 150px;
+}
+
+.gn_icon_vs_lost_th.left {
+   padding-left: 110px;
+   padding-bottom: 101px;
+}
+
+.gn_icon_vs_win_th {
+   width: 110px;
+   height: 101px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 381px 105px;
+}
+
+.gn_icon_vs_win_th.left {
+   padding-left: 110px;
+   padding-bottom: 101px;
+}
+
+.sy_activ2_wsj2_bj_th {
+   width: 177px;
+   height: 47px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 779px 142px;
+}
+
+.sy_activ2_wsj2_bj_th.left {
+   padding-left: 177px;
+   padding-bottom: 47px;
+}
+
+.sy_activ_arena_title_th {
+   width: 235px;
+   height: 39px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 40px 1016px;
+   transform: rotate(90deg);
+}
+
+.sy_activ_arena_title_th.left {
+   padding-left: 235px;
+   padding-bottom: 39px;
+}
+
+.sy_activ_pet_bag_th {
+   width: 408px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 1102px 608px;
+}
+
+.sy_activ_pet_bag_th.left {
+   padding-left: 408px;
+   padding-bottom: 110px;
+}
+
+.sy_activity_4_cultivate_t_th {
+   width: 402px;
+   height: 201px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 1405px 1016px;
+}
+
+.sy_activity_4_cultivate_t_th.left {
+   padding-left: 402px;
+   padding-bottom: 201px;
+}
+
+.sy_activity_5_cultivate_t_th {
+   width: 402px;
+   height: 201px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 1000px 1016px;
+}
+
+.sy_activity_5_cultivate_t_th.left {
+   padding-left: 402px;
+   padding-bottom: 201px;
+}
+
+.sy_activity_6_cultivate_t_th {
+   width: 402px;
+   height: 201px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 595px 1016px;
+}
+
+.sy_activity_6_cultivate_t_th.left {
+   padding-left: 402px;
+   padding-bottom: 201px;
+}
+
+.sy_activity_7_cultivate_t_th {
+   width: 402px;
+   height: 201px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 1405px 812px;
+}
+
+.sy_activity_7_cultivate_t_th.left {
+   padding-left: 402px;
+   padding-bottom: 201px;
+}
+
+.sy_activity_8_cultivate_t_th {
+   width: 402px;
+   height: 201px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 1000px 812px;
+}
+
+.sy_activity_8_cultivate_t_th.left {
+   padding-left: 402px;
+   padding-bottom: 201px;
+}
+
+.sy_activity_9_cultivate_t_th {
+   width: 402px;
+   height: 201px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 595px 812px;
+}
+
+.sy_activity_9_cultivate_t_th.left {
+   padding-left: 402px;
+   padding-bottom: 201px;
+}
+
+.sy_activity_bg_Month_card_small_th {
+   width: 237px;
+   height: 299px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 1440px 468px;
+}
+
+.sy_activity_bg_Month_card_small_th.left {
+   padding-left: 237px;
+   padding-bottom: 299px;
+}
+
+.sy_activity_bg_Month_card_th {
+   width: 237px;
+   height: 299px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 939px 382px;
+   transform: rotate(90deg);
+}
+
+.sy_activity_bg_Month_card_th.left {
+   padding-left: 237px;
+   padding-bottom: 299px;
+}
+
+.sy_activity_bg_fusion_time_th {
+   width: 377px;
+   height: 223px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 1879px 382px;
+   transform: rotate(90deg);
+}
+
+.sy_activity_bg_fusion_time_th.left {
+   padding-left: 377px;
+   padding-bottom: 223px;
+}
+
+.sy_activity_bg_hero_time_th {
+   width: 256px;
+   height: 251px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 656px 401px;
+}
+
+.sy_activity_bg_hero_time_th.left {
+   padding-left: 256px;
+   padding-bottom: 251px;
+}
+
+.sy_activity_bg_heroic_time_th {
+   width: 202px;
+   height: 239px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 313px 605px;
+   transform: rotate(90deg);
+}
+
+.sy_activity_bg_heroic_time_th.left {
+   padding-left: 202px;
+   padding-bottom: 239px;
+}
+
+.sy_activity_bg_lucky_time_th {
+   width: 168px;
+   height: 251px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 1482px 169px;
+   transform: rotate(90deg);
+}
+
+.sy_activity_bg_lucky_time_th.left {
+   padding-left: 168px;
+   padding-bottom: 251px;
+}
+
+.sy_activity_bg_mouthly_package_th {
+   width: 169px;
+   height: 54px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 1035px 185px;
+   transform: rotate(90deg);
+}
+
+.sy_activity_bg_mouthly_package_th.left {
+   padding-left: 169px;
+   padding-bottom: 54px;
+}
+
+.sy_activity_bg_redeem_th {
+   width: 262px;
+   height: 66px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 379px 405px;
+   transform: rotate(90deg);
+}
+
+.sy_activity_bg_redeem_th.left {
+   padding-left: 262px;
+   padding-bottom: 66px;
+}
+
+.sy_activity_bg_summon_limit_th {
+   width: 197px;
+   height: 258px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 1199px 386px;
+   transform: rotate(90deg);
+}
+
+.sy_activity_bg_summon_limit_th.left {
+   padding-left: 197px;
+   padding-bottom: 258px;
+}
+
+.sy_activity_bg_summon_special_th {
+   width: 355px;
+   height: 211px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 1645px 378px;
+   transform: rotate(90deg);
+}
+
+.sy_activity_bg_summon_special_th.left {
+   padding-left: 355px;
+   padding-bottom: 211px;
+}
+
+.sy_activity_bg_tavern_th {
+   width: 201px;
+   height: 234px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 308px 395px;
+}
+
+.sy_activity_bg_tavern_th.left {
+   padding-left: 201px;
+   padding-bottom: 234px;
+}
+
+.sy_activity_bg_tree_time_th {
+   width: 363px;
+   height: 246px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 1876px 631px;
+}
+
+.sy_activity_bg_tree_time_th.left {
+   padding-left: 363px;
+   padding-bottom: 246px;
+}
+
+.sy_activity_bg_value_package_th {
+   width: 197px;
+   height: 70px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 980px 142px;
+}
+
+.sy_activity_bg_value_package_th.left {
+   padding-left: 197px;
+   padding-bottom: 70px;
+}
+
+.sy_activity_bg_weekly_package_th {
+   width: 194px;
+   height: 62px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 978px 68px;
+}
+
+.sy_activity_bg_weekly_package_th.left {
+   padding-left: 194px;
+   padding-bottom: 62px;
+}
+
+.sy_activity_elite_hero_t_th {
+   width: 408px;
+   height: 134px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 1513px 608px;
+}
+
+.sy_activity_elite_hero_t_th.left {
+   padding-left: 408px;
+   padding-bottom: 134px;
+}
+
+.sy_activity_first_gift_t_th {
+   width: 408px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 691px 608px;
+}
+
+.sy_activity_first_gift_t_th.left {
+   padding-left: 408px;
+   padding-bottom: 110px;
+}
+
+.sy_activity_level_gift_t_th {
+   width: 408px;
+   height: 147px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 190px 1016px;
+   transform: rotate(90deg);
+}
+
+.sy_activity_level_gift_t_th.left {
+   padding-left: 408px;
+   padding-bottom: 147px;
+}
+
+.sy_activity_pass_chechpoint_t_th {
+   width: 402px;
+   height: 107px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 1102px 495px;
+}
+
+.sy_activity_pass_chechpoint_t_th.left {
+   padding-left: 402px;
+   padding-bottom: 107px;
+}
+
+.sy_activity_slot_machine_t_th {
+   width: 219px;
+   height: 55px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 308px 162px;
+}
+
+.sy_activity_slot_machine_t_th.left {
+   padding-left: 219px;
+   padding-bottom: 55px;
+}
+
+.sy_fund_txt_th {
+   width: 336px;
+   height: 88px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 696px 484px;
+}
+
+.sy_fund_txt_th.left {
+   padding-left: 336px;
+   padding-bottom: 88px;
+}
+
+.sy_guild_castle_flag_th {
+   width: 147px;
+   height: 156px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 1185px 185px;
+}
+
+.sy_guild_castle_flag_th.left {
+   padding-left: 147px;
+   padding-bottom: 156px;
+}
+
+.sy_guild_main_castle_th {
+   width: 471px;
+   height: 383px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 1879px 1016px;
+}
+
+.sy_guild_main_castle_th.left {
+   padding-left: 471px;
+   padding-bottom: 383px;
+}
+
+.sy_sevenday_txt_th {
+   width: 231px;
+   height: 71px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/notify_th.png') 104px 396px;
+   transform: rotate(90deg);
+}
+
+.sy_sevenday_txt_th.left {
+   padding-left: 231px;
+   padding-bottom: 71px;
+}

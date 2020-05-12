@@ -1,0 +1,167 @@
+
+sp_cr_e_kun_chin_4.png
+size: 438,438
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 50, 0
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 363, 298
+  size: 63, 91
+  orig: 63, 91
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 301, 32
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 18, 300
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 0, 0
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 363, 391
+  size: 47, 70
+  orig: 47, 70
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 351, 109
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 263, 31
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 406, 99
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 0, 300
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 351, 183
+  size: 84, 113
+  orig: 84, 113
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 89, 0
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 351, 156
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 145, 11
+  size: 116, 125
+  orig: 116, 125
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 340, 33
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 408, 152
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 0, 319
+  size: 361, 119
+  orig: 361, 119
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 263, 113
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 428, 338
+  size: 51, 9
+  orig: 51, 9
+  offset: 0, 0
+  index: -1
+bizhui
+  rotate: true
+  xy: 120, 2
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: true
+  xy: 145, 138
+  size: 179, 204
+  orig: 179, 204
+  offset: 0, 0
+  index: -1
+gggg
+  rotate: true
+  xy: 0, 30
+  size: 266, 141
+  orig: 266, 141
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 263, 78
+  size: 138, 29
+  orig: 138, 29
+  offset: 0, 0
+  index: -1

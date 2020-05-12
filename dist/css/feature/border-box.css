@@ -1,0 +1,136 @@
+
+.gn_bg_2 {
+   width: 604px;
+   height: 901px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/border-box.png') 881px 1096px;
+}
+
+.gn_bg_2.left {
+   padding-left: 604px;
+   padding-bottom: 901px;
+}
+
+.gn_bg_headband {
+   width: 56px;
+   height: 28px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/border-box.png') 169px 1705px;
+}
+
+.gn_bg_headband.left {
+   padding-left: 56px;
+   padding-bottom: 28px;
+}
+
+.gn_bg_pure_color {
+   width: 14px;
+   height: 14px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/border-box.png') 146px 1674px;
+}
+
+.gn_bg_pure_color.left {
+   padding-left: 14px;
+   padding-bottom: 14px;
+}
+
+.gn_bg_pure_color_with_outline {
+   width: 20px;
+   height: 20px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/border-box.png') 169px 1674px;
+}
+
+.gn_bg_pure_color_with_outline.left {
+   padding-left: 20px;
+   padding-bottom: 20px;
+}
+
+.gn_bg_pure_color_with_radius {
+   width: 30px;
+   height: 38px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/border-box.png') 55px 1662px;
+   transform: rotate(90deg);
+}
+
+.gn_bg_pure_color_with_radius.left {
+   padding-left: 30px;
+   padding-bottom: 38px;
+}
+
+.gn_bg_square_outline {
+   width: 52px;
+   height: 47px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/border-box.png') 110px 1705px;
+}
+
+.gn_bg_square_outline.left {
+   padding-left: 52px;
+   padding-bottom: 47px;
+}
+
+.gn_bg_square_with_outline {
+   width: 606px;
+   height: 626px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/border-box.png') 881px 1705px;
+   transform: rotate(90deg);
+}
+
+.gn_bg_square_with_outline.left {
+   padding-left: 606px;
+   padding-bottom: 626px;
+}
+
+.gn_bg_summon_hero_box_title {
+   width: 45px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/border-box.png') 55px 1705px;
+}
+
+.gn_bg_summon_hero_box_title.left {
+   padding-left: 45px;
+   padding-bottom: 40px;
+}
+
+.gn_bg_white_with_border {
+   width: 80px;
+   height: 80px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/border-box.png') 252px 1705px;
+}
+
+.gn_bg_white_with_border.left {
+   padding-left: 80px;
+   padding-bottom: 80px;
+}
+
+.pet_bg_lock {
+   width: 546px;
+   height: 273px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/border-box.png') 274px 1096px;
+   transform: rotate(90deg);
+}
+
+.pet_bg_lock.left {
+   padding-left: 546px;
+   padding-bottom: 273px;
+}
+
+.pet_bg_unlock {
+   width: 546px;
+   height: 273px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/border-box.png') 274px 547px;
+   transform: rotate(90deg);
+}
+
+.pet_bg_unlock.left {
+   padding-left: 546px;
+   padding-bottom: 273px;
+}

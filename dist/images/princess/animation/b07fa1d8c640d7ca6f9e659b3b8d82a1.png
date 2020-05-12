@@ -1,0 +1,34 @@
+
+sp_bt_bladelight2_arrow.png
+size: 670,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian_00008
+  rotate: false
+  xy: 2, 2
+  size: 171, 168
+  orig: 300, 300
+  offset: 74, 77
+  index: -1
+jian_00009
+  rotate: false
+  xy: 175, 4
+  size: 171, 166
+  orig: 300, 300
+  offset: 74, 78
+  index: -1
+jian_00010
+  rotate: false
+  xy: 508, 13
+  size: 160, 157
+  orig: 300, 300
+  offset: 79, 83
+  index: -1
+jian_00011
+  rotate: false
+  xy: 348, 9
+  size: 158, 161
+  orig: 300, 300
+  offset: 80, 81
+  index: -1

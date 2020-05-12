@@ -1,0 +1,20 @@
+
+sp_bf_last_bleed.png
+size: 38,38
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+green_23
+  rotate: false
+  xy: 2, 15
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+green_sdfsf2
+  rotate: false
+  xy: 2, 2
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1

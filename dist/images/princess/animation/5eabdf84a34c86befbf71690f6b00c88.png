@@ -1,0 +1,104 @@
+
+sp_wind_blade.png
+size: 305,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10001
+  rotate: false
+  xy: 146, 91
+  size: 67, 38
+  orig: 150, 72
+  offset: 83, 3
+  index: -1
+10002
+  rotate: true
+  xy: 2, 80
+  size: 150, 68
+  orig: 150, 72
+  offset: 0, 2
+  index: -1
+10003
+  rotate: false
+  xy: 2, 232
+  size: 148, 71
+  orig: 150, 72
+  offset: 0, 1
+  index: -1
+10004
+  rotate: true
+  xy: 72, 94
+  size: 136, 72
+  orig: 150, 72
+  offset: 0, 0
+  index: -1
+10005
+  rotate: false
+  xy: 152, 231
+  size: 128, 72
+  orig: 150, 72
+  offset: 0, 0
+  index: -1
+10006
+  rotate: false
+  xy: 2, 7
+  size: 106, 71
+  orig: 150, 72
+  offset: 1, 1
+  index: -1
+10007
+  rotate: false
+  xy: 110, 34
+  size: 32, 58
+  orig: 150, 72
+  offset: 4, 13
+  index: -1
+d0001
+  rotate: true
+  xy: 259, 13
+  size: 42, 44
+  orig: 54, 61
+  offset: 6, 10
+  index: -1
+d0002
+  rotate: false
+  xy: 245, 168
+  size: 52, 61
+  orig: 54, 61
+  offset: 2, 0
+  index: -1
+d0003
+  rotate: false
+  xy: 245, 105
+  size: 53, 61
+  orig: 54, 61
+  offset: 1, 0
+  index: -1
+d0004
+  rotate: true
+  xy: 144, 35
+  size: 54, 58
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+d0005
+  rotate: false
+  xy: 204, 30
+  size: 53, 59
+  orig: 54, 61
+  offset: 1, 0
+  index: -1
+g
+  rotate: true
+  xy: 259, 57
+  size: 46, 43
+  orig: 50, 49
+  offset: 2, 3
+  index: -1
+q
+  rotate: false
+  xy: 146, 131
+  size: 97, 98
+  orig: 100, 100
+  offset: 2, 1
+  index: -1

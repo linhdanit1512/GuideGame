@@ -1,0 +1,3819 @@
+
+.it_coin_advanced {
+   width: 76px;
+   height: 88px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 355px 313px;
+   transform: rotate(90deg);
+}
+
+.it_coin_advanced.left {
+   padding-left: 76px;
+   padding-bottom: 88px;
+}
+
+.it_coin_awaken_assassin {
+   width: 86px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 775px 1157px;
+}
+
+.it_coin_awaken_assassin.left {
+   padding-left: 86px;
+   padding-bottom: 96px;
+}
+
+.it_coin_awaken_priest {
+   width: 86px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1717px 378px;
+   transform: rotate(90deg);
+}
+
+.it_coin_awaken_priest.left {
+   padding-left: 86px;
+   padding-bottom: 96px;
+}
+
+.it_coin_awaken_ranger {
+   width: 86px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1422px 607px;
+   transform: rotate(90deg);
+}
+
+.it_coin_awaken_ranger.left {
+   padding-left: 86px;
+   padding-bottom: 96px;
+}
+
+.it_coin_awaken_soldier {
+   width: 86px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1521px 520px;
+   transform: rotate(90deg);
+}
+
+.it_coin_awaken_soldier.left {
+   padding-left: 86px;
+   padding-bottom: 96px;
+}
+
+.it_coin_awaken_wizard {
+   width: 86px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 516px 773px;
+   transform: rotate(90deg);
+}
+
+.it_coin_awaken_wizard.left {
+   padding-left: 86px;
+   padding-bottom: 96px;
+}
+
+.it_coin_boos {
+   width: 76px;
+   height: 80px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 83px 495px;
+}
+
+.it_coin_boos.left {
+   padding-left: 76px;
+   padding-bottom: 80px;
+}
+
+.it_coin_boss_ticket {
+   width: 88px;
+   height: 86px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 352px 403px;
+}
+
+.it_coin_boss_ticket.left {
+   padding-left: 88px;
+   padding-bottom: 86px;
+}
+
+.it_coin_coin_soul {
+   width: 94px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 286px 1057px;
+}
+
+.it_coin_coin_soul.left {
+   padding-left: 94px;
+   padding-bottom: 94px;
+}
+
+.it_coin_diamond {
+   width: 72px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 923px 490px;
+   transform: rotate(90deg);
+}
+
+.it_coin_diamond.left {
+   padding-left: 72px;
+   padding-bottom: 96px;
+}
+
+.it_coin_dragon_coin {
+   width: 100px;
+   height: 82px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1598px 1160px;
+}
+
+.it_coin_dragon_coin.left {
+   padding-left: 100px;
+   padding-bottom: 82px;
+}
+
+.it_coin_dust {
+   width: 88px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 97px 955px;
+   transform: rotate(90deg);
+}
+
+.it_coin_dust.left {
+   padding-left: 88px;
+   padding-bottom: 94px;
+}
+
+.it_coin_elite_hero {
+   width: 80px;
+   height: 81px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 169px 410px;
+}
+
+.it_coin_elite_hero.left {
+   padding-left: 80px;
+   padding-bottom: 81px;
+}
+
+.it_coin_exp {
+   width: 84px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1422px 518px;
+   transform: rotate(90deg);
+}
+
+.it_coin_exp.left {
+   padding-left: 84px;
+   padding-bottom: 96px;
+}
+
+.it_coin_glory_coin {
+   width: 70px;
+   height: 80px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 921px 151px;
+   transform: rotate(90deg);
+}
+
+.it_coin_glory_coin.left {
+   padding-left: 70px;
+   padding-bottom: 80px;
+}
+
+.it_coin_gold {
+   width: 92px;
+   height: 92px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 290px 862px;
+}
+
+.it_coin_gold.left {
+   padding-left: 92px;
+   padding-bottom: 92px;
+}
+
+.it_coin_guild_exp {
+   width: 84px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 121px 764px;
+   transform: rotate(90deg);
+}
+
+.it_coin_guild_exp.left {
+   padding-left: 84px;
+   padding-bottom: 94px;
+}
+
+.it_coin_guled {
+   width: 92px;
+   height: 92px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 724px 494px;
+}
+
+.it_coin_guled.left {
+   padding-left: 92px;
+   padding-bottom: 92px;
+}
+
+.it_coin_heart {
+   width: 90px;
+   height: 80px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 532px 685px;
+   transform: rotate(90deg);
+}
+
+.it_coin_heart.left {
+   padding-left: 90px;
+   padding-bottom: 80px;
+}
+
+.it_coin_hero_normal {
+   width: 94px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 491px 1058px;
+   transform: rotate(90deg);
+}
+
+.it_coin_hero_normal.left {
+   padding-left: 94px;
+   padding-bottom: 98px;
+}
+
+.it_coin_hero_super {
+   width: 94px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 390px 1058px;
+   transform: rotate(90deg);
+}
+
+.it_coin_hero_super.left {
+   padding-left: 94px;
+   padding-bottom: 98px;
+}
+
+.it_coin_jiaozi {
+   width: 100px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1495px 1156px;
+}
+
+.it_coin_jiaozi.left {
+   padding-left: 100px;
+   padding-bottom: 94px;
+}
+
+.it_coin_lucky_coin {
+   width: 84px;
+   height: 88px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 264px 309px;
+   transform: rotate(90deg);
+}
+
+.it_coin_lucky_coin.left {
+   padding-left: 84px;
+   padding-bottom: 88px;
+}
+
+.it_coin_pet_circle {
+   width: 82px;
+   height: 74px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1009px 77px;
+}
+
+.it_coin_pet_circle.left {
+   padding-left: 82px;
+   padding-bottom: 74px;
+}
+
+.it_coin_pet_up {
+   width: 82px;
+   height: 74px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 924px 77px;
+}
+
+.it_coin_pet_up.left {
+   padding-left: 82px;
+   padding-bottom: 74px;
+}
+
+.it_coin_quest_energy {
+   width: 88px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 443px 495px;
+}
+
+.it_coin_quest_energy.left {
+   padding-left: 88px;
+   padding-bottom: 90px;
+}
+
+.it_coin_quest_normal {
+   width: 94px;
+   height: 88px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 988px 965px;
+}
+
+.it_coin_quest_normal.left {
+   padding-left: 94px;
+   padding-bottom: 88px;
+}
+
+.it_coin_quest_super {
+   width: 96px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 93px 1057px;
+   transform: rotate(90deg);
+}
+
+.it_coin_quest_super.left {
+   padding-left: 96px;
+   padding-bottom: 90px;
+}
+
+.it_coin_slotmachine_one {
+   width: 74px;
+   height: 72px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 530px 75px;
+   transform: rotate(90deg);
+}
+
+.it_coin_slotmachine_one.left {
+   padding-left: 74px;
+   padding-bottom: 72px;
+}
+
+.it_coin_slotmachine_ten {
+   width: 74px;
+   height: 72px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 455px 75px;
+   transform: rotate(90deg);
+}
+
+.it_coin_slotmachine_ten.left {
+   padding-left: 74px;
+   padding-bottom: 72px;
+}
+
+.it_coin_soul {
+   width: 76px;
+   height: 86px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1428px 337px;
+}
+
+.it_coin_soul.left {
+   padding-left: 76px;
+   padding-bottom: 86px;
+}
+
+.it_coin_special_drop1 {
+   width: 78px;
+   height: 80px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 86px 410px;
+}
+
+.it_coin_special_drop1.left {
+   padding-left: 78px;
+   padding-bottom: 80px;
+}
+
+.it_coin_strength {
+   width: 74px;
+   height: 86px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 80px 682px;
+}
+
+.it_coin_strength.left {
+   padding-left: 74px;
+   padding-bottom: 86px;
+}
+
+.it_coin_ticket {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 848px 1260px;
+}
+
+.it_coin_ticket.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.it_coin_tree_coin {
+   width: 92px;
+   height: 92px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 629px 493px;
+}
+
+.it_coin_tree_coin.left {
+   padding-left: 92px;
+   padding-bottom: 92px;
+}
+
+.it_coin_tree_summon {
+   width: 96px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1710px 960px;
+}
+
+.it_coin_tree_summon.left {
+   padding-left: 96px;
+   padding-bottom: 94px;
+}
+
+.it_coin_vip_exp {
+   width: 90px;
+   height: 76px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1323px 350px;
+}
+
+.it_coin_vip_exp.left {
+   padding-left: 90px;
+   padding-bottom: 76px;
+}
+
+.it_coin_water {
+   width: 96px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1622px 198px;
+   transform: rotate(90deg);
+}
+
+.it_coin_water.left {
+   padding-left: 96px;
+   padding-bottom: 90px;
+}
+
+.it_coin_wish {
+   width: 96px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 586px 960px;
+}
+
+.it_coin_wish.left {
+   padding-left: 96px;
+   padding-bottom: 94px;
+}
+
+.it_coin_wish_100 {
+   width: 98px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 189px 1159px;
+}
+
+.it_coin_wish_100.left {
+   padding-left: 98px;
+   padding-bottom: 96px;
+}
+
+.it_coin_wish_40 {
+   width: 40px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1617px 249px;
+}
+
+.it_coin_wish_40.left {
+   padding-left: 40px;
+   padding-bottom: 40px;
+}
+
+.it_coin_wish_super {
+   width: 96px;
+   height: 92px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1118px 602px;
+}
+
+.it_coin_wish_super.left {
+   padding-left: 96px;
+   padding-bottom: 92px;
+}
+
+.it_coin_world_boss {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1706px 1152px;
+}
+
+.it_coin_world_boss.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.it_coin_yarn_ball {
+   width: 80px;
+   height: 72px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1259px 72px;
+}
+
+.it_coin_yarn_ball.left {
+   padding-left: 80px;
+   padding-bottom: 72px;
+}
+
+.it_digit_0 {
+   width: 17px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1819px 97px;
+   transform: rotate(90deg);
+}
+
+.it_digit_0.left {
+   padding-left: 17px;
+   padding-bottom: 19px;
+}
+
+.it_digit_1 {
+   width: 11px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 169px 326px;
+   transform: rotate(90deg);
+}
+
+.it_digit_1.left {
+   padding-left: 11px;
+   padding-bottom: 19px;
+}
+
+.it_digit_2 {
+   width: 17px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1797px 97px;
+   transform: rotate(90deg);
+}
+
+.it_digit_2.left {
+   padding-left: 17px;
+   padding-bottom: 19px;
+}
+
+.it_digit_3 {
+   width: 16px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 832px 171px;
+   transform: rotate(90deg);
+}
+
+.it_digit_3.left {
+   padding-left: 16px;
+   padding-bottom: 19px;
+}
+
+.it_digit_4 {
+   width: 16px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 832px 152px;
+   transform: rotate(90deg);
+}
+
+.it_digit_4.left {
+   padding-left: 16px;
+   padding-bottom: 19px;
+}
+
+.it_digit_5 {
+   width: 16px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 232px 39px;
+}
+
+.it_digit_5.left {
+   padding-left: 16px;
+   padding-bottom: 19px;
+}
+
+.it_digit_6 {
+   width: 17px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1775px 97px;
+   transform: rotate(90deg);
+}
+
+.it_digit_6.left {
+   padding-left: 17px;
+   padding-bottom: 19px;
+}
+
+.it_digit_7 {
+   width: 16px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 232px 17px;
+   transform: rotate(90deg);
+}
+
+.it_digit_7.left {
+   padding-left: 16px;
+   padding-bottom: 19px;
+}
+
+.it_digit_8 {
+   width: 17px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1753px 97px;
+   transform: rotate(90deg);
+}
+
+.it_digit_8.left {
+   padding-left: 17px;
+   padding-bottom: 19px;
+}
+
+.it_digit_9 {
+   width: 17px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 18px 165px;
+}
+
+.it_digit_9.left {
+   padding-left: 17px;
+   padding-bottom: 19px;
+}
+
+.it_digit_a {
+   width: 18px;
+   height: 24px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1461px 19px;
+   transform: rotate(90deg);
+}
+
+.it_digit_a.left {
+   padding-left: 18px;
+   padding-bottom: 24px;
+}
+
+.it_digit_b {
+   width: 18px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 24px 743px;
+}
+
+.it_digit_b.left {
+   padding-left: 18px;
+   padding-bottom: 19px;
+}
+
+.it_digit_e {
+   width: 41px;
+   height: 21px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1273px 269px;
+}
+
+.it_digit_e.left {
+   padding-left: 41px;
+   padding-bottom: 21px;
+}
+
+.it_digit_k {
+   width: 20px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1551px 249px;
+}
+
+.it_digit_k.left {
+   padding-left: 20px;
+   padding-bottom: 19px;
+}
+
+.it_digit_m {
+   width: 23px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 24px 765px;
+}
+
+.it_digit_m.left {
+   padding-left: 23px;
+   padding-bottom: 19px;
+}
+
+.it_digit_q {
+   width: 18px;
+   height: 11px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 208px 63px;
+}
+
+.it_digit_q.left {
+   padding-left: 18px;
+   padding-bottom: 11px;
+}
+
+.it_digit_r {
+   width: 41px;
+   height: 21px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1461px 63px;
+   transform: rotate(90deg);
+}
+
+.it_digit_r.left {
+   padding-left: 41px;
+   padding-bottom: 21px;
+}
+
+.it_digit_w {
+   width: 21px;
+   height: 21px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 232px 63px;
+}
+
+.it_digit_w.left {
+   padding-left: 21px;
+   padding-bottom: 21px;
+}
+
+.it_equi_access_1 {
+   width: 82px;
+   height: 78px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1345px 147px;
+}
+
+.it_equi_access_1.left {
+   padding-left: 82px;
+   padding-bottom: 78px;
+}
+
+.it_equi_access_10 {
+   width: 64px;
+   height: 70px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 102px 63px;
+   transform: rotate(90deg);
+}
+
+.it_equi_access_10.left {
+   padding-left: 64px;
+   padding-bottom: 70px;
+}
+
+.it_equi_access_11 {
+   width: 76px;
+   height: 76px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 725px 164px;
+}
+
+.it_equi_access_11.left {
+   padding-left: 76px;
+   padding-bottom: 76px;
+}
+
+.it_equi_access_12 {
+   width: 72px;
+   height: 80px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1256px 154px;
+}
+
+.it_equi_access_12.left {
+   padding-left: 72px;
+   padding-bottom: 80px;
+}
+
+.it_equi_access_13 {
+   width: 94px;
+   height: 84px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1508px 802px;
+}
+
+.it_equi_access_13.left {
+   padding-left: 94px;
+   padding-bottom: 84px;
+}
+
+.it_equi_access_14 {
+   width: 72px;
+   height: 88px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 354px 235px;
+   transform: rotate(90deg);
+}
+
+.it_equi_access_14.left {
+   padding-left: 72px;
+   padding-bottom: 88px;
+}
+
+.it_equi_access_15 {
+   width: 92px;
+   height: 86px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1524px 335px;
+}
+
+.it_equi_access_15.left {
+   padding-left: 92px;
+   padding-bottom: 86px;
+}
+
+.it_equi_access_16 {
+   width: 82px;
+   height: 92px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1029px 415px;
+   transform: rotate(90deg);
+}
+
+.it_equi_access_16.left {
+   padding-left: 82px;
+   padding-bottom: 92px;
+}
+
+.it_equi_access_17 {
+   width: 72px;
+   height: 88px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 265px 222px;
+   transform: rotate(90deg);
+}
+
+.it_equi_access_17.left {
+   padding-left: 72px;
+   padding-bottom: 88px;
+}
+
+.it_equi_access_2 {
+   width: 82px;
+   height: 78px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 505px 223px;
+}
+
+.it_equi_access_2.left {
+   padding-left: 82px;
+   padding-bottom: 78px;
+}
+
+.it_equi_access_3 {
+   width: 82px;
+   height: 78px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 183px 147px;
+   transform: rotate(90deg);
+}
+
+.it_equi_access_3.left {
+   padding-left: 82px;
+   padding-bottom: 78px;
+}
+
+.it_equi_access_4 {
+   width: 82px;
+   height: 80px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 102px 149px;
+   transform: rotate(90deg);
+}
+
+.it_equi_access_4.left {
+   padding-left: 82px;
+   padding-bottom: 80px;
+}
+
+.it_equi_access_5 {
+   width: 74px;
+   height: 74px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 844px 72px;
+}
+
+.it_equi_access_5.left {
+   padding-left: 74px;
+   padding-bottom: 74px;
+}
+
+.it_equi_access_6 {
+   width: 74px;
+   height: 74px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 767px 72px;
+}
+
+.it_equi_access_6.left {
+   padding-left: 74px;
+   padding-bottom: 74px;
+}
+
+.it_equi_access_7 {
+   width: 74px;
+   height: 74px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 690px 72px;
+}
+
+.it_equi_access_7.left {
+   padding-left: 74px;
+   padding-bottom: 74px;
+}
+
+.it_equi_access_8 {
+   width: 74px;
+   height: 74px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 613px 72px;
+}
+
+.it_equi_access_8.left {
+   padding-left: 74px;
+   padding-bottom: 74px;
+}
+
+.it_equi_access_9 {
+   width: 78px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1018px 496px;
+   transform: rotate(90deg);
+}
+
+.it_equi_access_9.left {
+   padding-left: 78px;
+   padding-bottom: 96px;
+}
+
+.it_equi_access_empty {
+   width: 94px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 486px 960px;
+}
+
+.it_equi_access_empty.left {
+   padding-left: 94px;
+   padding-bottom: 96px;
+}
+
+.it_equi_armor_1 {
+   width: 76px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1922px 78px;
+   transform: rotate(90deg);
+}
+
+.it_equi_armor_1.left {
+   padding-left: 76px;
+   padding-bottom: 94px;
+}
+
+.it_equi_armor_10 {
+   width: 90px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 786px 960px;
+   transform: rotate(90deg);
+}
+
+.it_equi_armor_10.left {
+   padding-left: 90px;
+   padding-bottom: 98px;
+}
+
+.it_equi_armor_11 {
+   width: 90px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 388px 863px;
+   transform: rotate(90deg);
+}
+
+.it_equi_armor_11.left {
+   padding-left: 90px;
+   padding-bottom: 98px;
+}
+
+.it_equi_armor_12 {
+   width: 94px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 822px 684px;
+}
+
+.it_equi_armor_12.left {
+   padding-left: 94px;
+   padding-bottom: 90px;
+}
+
+.it_equi_armor_13 {
+   width: 86px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1515px 890px;
+   transform: rotate(90deg);
+}
+
+.it_equi_armor_13.left {
+   padding-left: 86px;
+   padding-bottom: 98px;
+}
+
+.it_equi_armor_14 {
+   width: 88px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1119px 506px;
+   transform: rotate(90deg);
+}
+
+.it_equi_armor_14.left {
+   padding-left: 88px;
+   padding-bottom: 96px;
+}
+
+.it_equi_armor_15 {
+   width: 94px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 389px 961px;
+}
+
+.it_equi_armor_15.left {
+   padding-left: 94px;
+   padding-bottom: 96px;
+}
+
+.it_equi_armor_16 {
+   width: 94px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 188px 1063px;
+}
+
+.it_equi_armor_16.left {
+   padding-left: 94px;
+   padding-bottom: 98px;
+}
+
+.it_equi_armor_17 {
+   width: 94px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 291px 962px;
+}
+
+.it_equi_armor_17.left {
+   padding-left: 94px;
+   padding-bottom: 96px;
+}
+
+.it_equi_armor_2 {
+   width: 68px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1320px 420px;
+   transform: rotate(90deg);
+}
+
+.it_equi_armor_2.left {
+   padding-left: 68px;
+   padding-bottom: 96px;
+}
+
+.it_equi_armor_3 {
+   width: 72px;
+   height: 88px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1430px 250px;
+}
+
+.it_equi_armor_3.left {
+   padding-left: 72px;
+   padding-bottom: 88px;
+}
+
+.it_equi_armor_4 {
+   width: 72px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 739px 402px;
+   transform: rotate(90deg);
+}
+
+.it_equi_armor_4.left {
+   padding-left: 72px;
+   padding-bottom: 94px;
+}
+
+.it_equi_armor_5 {
+   width: 82px;
+   height: 88px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 442px 402px;
+   transform: rotate(90deg);
+}
+
+.it_equi_armor_5.left {
+   padding-left: 82px;
+   padding-bottom: 88px;
+}
+
+.it_equi_armor_6 {
+   width: 82px;
+   height: 92px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 934px 417px;
+   transform: rotate(90deg);
+}
+
+.it_equi_armor_6.left {
+   padding-left: 82px;
+   padding-bottom: 92px;
+}
+
+.it_equi_armor_7 {
+   width: 86px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1229px 332px;
+   transform: rotate(90deg);
+}
+
+.it_equi_armor_7.left {
+   padding-left: 86px;
+   padding-bottom: 90px;
+}
+
+.it_equi_armor_8 {
+   width: 86px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 689px 865px;
+   transform: rotate(90deg);
+}
+
+.it_equi_armor_8.left {
+   padding-left: 86px;
+   padding-bottom: 98px;
+}
+
+.it_equi_armor_9 {
+   width: 96px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 193px 962px;
+}
+
+.it_equi_armor_9.left {
+   padding-left: 96px;
+   padding-bottom: 94px;
+}
+
+.it_equi_armor_empty {
+   width: 94px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1716px 773px;
+}
+
+.it_equi_armor_empty.left {
+   padding-left: 94px;
+   padding-bottom: 96px;
+}
+
+.it_equi_artif_2_career_1 {
+   width: 96px;
+   height: 82px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 823px 492px;
+}
+
+.it_equi_artif_2_career_1.left {
+   padding-left: 96px;
+   padding-bottom: 82px;
+}
+
+.it_equi_artif_2_career_2 {
+   width: 96px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 785px 1058px;
+   transform: rotate(90deg);
+}
+
+.it_equi_artif_2_career_2.left {
+   padding-left: 96px;
+   padding-bottom: 98px;
+}
+
+.it_equi_artif_2_career_3 {
+   width: 98px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1819px 314px;
+}
+
+.it_equi_artif_2_career_3.left {
+   padding-left: 98px;
+   padding-bottom: 98px;
+}
+
+.it_equi_artif_2_career_4 {
+   width: 98px;
+   height: 92px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 686px 960px;
+}
+
+.it_equi_artif_2_career_4.left {
+   padding-left: 98px;
+   padding-bottom: 92px;
+}
+
+.it_equi_artif_2_career_5 {
+   width: 86px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 591px 863px;
+   transform: rotate(90deg);
+}
+
+.it_equi_artif_2_career_5.left {
+   padding-left: 86px;
+   padding-bottom: 98px;
+}
+
+.it_equi_artif_3_career_1 {
+   width: 86px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 489px 862px;
+   transform: rotate(90deg);
+}
+
+.it_equi_artif_3_career_1.left {
+   padding-left: 86px;
+   padding-bottom: 98px;
+}
+
+.it_equi_artif_3_career_2 {
+   width: 84px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 800px 866px;
+   transform: rotate(90deg);
+}
+
+.it_equi_artif_3_career_2.left {
+   padding-left: 84px;
+   padding-bottom: 100px;
+}
+
+.it_equi_artif_3_career_3 {
+   width: 92px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1530px 250px;
+}
+
+.it_equi_artif_3_career_3.left {
+   padding-left: 92px;
+   padding-bottom: 90px;
+}
+
+.it_equi_artif_3_career_4 {
+   width: 96px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 687px 1057px;
+}
+
+.it_equi_artif_3_career_4.left {
+   padding-left: 96px;
+   padding-bottom: 96px;
+}
+
+.it_equi_artif_3_career_5 {
+   width: 90px;
+   height: 88px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 172px 676px;
+}
+
+.it_equi_artif_3_career_5.left {
+   padding-left: 90px;
+   padding-bottom: 88px;
+}
+
+.it_equi_artif_4_career_1 {
+   width: 86px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1505px 1060px;
+   transform: rotate(90deg);
+}
+
+.it_equi_artif_4_career_1.left {
+   padding-left: 86px;
+   padding-bottom: 100px;
+}
+
+.it_equi_artif_4_career_2 {
+   width: 94px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1719px 674px;
+}
+
+.it_equi_artif_4_career_2.left {
+   padding-left: 94px;
+   padding-bottom: 96px;
+}
+
+.it_equi_artif_4_career_3 {
+   width: 86px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1136px 330px;
+   transform: rotate(90deg);
+}
+
+.it_equi_artif_4_career_3.left {
+   padding-left: 86px;
+   padding-bottom: 90px;
+}
+
+.it_equi_artif_4_career_4 {
+   width: 94px;
+   height: 92px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 824px 589px;
+}
+
+.it_equi_artif_4_career_4.left {
+   padding-left: 94px;
+   padding-bottom: 92px;
+}
+
+.it_equi_artif_4_career_5 {
+   width: 88px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 88px 1157px;
+}
+
+.it_equi_artif_4_career_5.left {
+   padding-left: 88px;
+   padding-bottom: 100px;
+}
+
+.it_equi_artif_5_career_1 {
+   width: 90px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1720px 288px;
+   transform: rotate(90deg);
+}
+
+.it_equi_artif_5_career_1.left {
+   padding-left: 90px;
+   padding-bottom: 98px;
+}
+
+.it_equi_artif_5_career_2 {
+   width: 92px;
+   height: 92px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1618px 342px;
+}
+
+.it_equi_artif_5_career_2.left {
+   padding-left: 92px;
+   padding-bottom: 92px;
+}
+
+.it_equi_artif_5_career_3 {
+   width: 96px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 909px 780px;
+}
+
+.it_equi_artif_5_career_3.left {
+   padding-left: 96px;
+   padding-bottom: 90px;
+}
+
+.it_equi_artif_5_career_4 {
+   width: 94px;
+   height: 86px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 217px 769px;
+}
+
+.it_equi_artif_5_career_4.left {
+   padding-left: 94px;
+   padding-bottom: 86px;
+}
+
+.it_equi_artif_5_career_5 {
+   width: 88px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1399px 1060px;
+   transform: rotate(90deg);
+}
+
+.it_equi_artif_5_career_5.left {
+   padding-left: 88px;
+   padding-bottom: 100px;
+}
+
+.it_equi_artif_5_hit_rat {
+   width: 100px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 748px 1261px;
+}
+
+.it_equi_artif_5_hit_rat.left {
+   padding-left: 100px;
+   padding-bottom: 96px;
+}
+
+.it_equi_artif_5_speed {
+   width: 84px;
+   height: 92px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 532px 589px;
+}
+
+.it_equi_artif_5_speed.left {
+   padding-left: 84px;
+   padding-bottom: 92px;
+}
+
+.it_equi_artif_6_career_1 {
+   width: 90px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1317px 790px;
+   transform: rotate(90deg);
+}
+
+.it_equi_artif_6_career_1.left {
+   padding-left: 90px;
+   padding-bottom: 98px;
+}
+
+.it_equi_artif_6_career_2 {
+   width: 86px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1705px 1049px;
+   transform: rotate(90deg);
+}
+
+.it_equi_artif_6_career_2.left {
+   padding-left: 86px;
+   padding-bottom: 100px;
+}
+
+.it_equi_artif_6_career_3 {
+   width: 92px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1527px 156px;
+}
+
+.it_equi_artif_6_career_3.left {
+   padding-left: 92px;
+   padding-bottom: 90px;
+}
+
+.it_equi_artif_6_career_4 {
+   width: 92px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 449px 684px;
+}
+
+.it_equi_artif_6_career_4.left {
+   padding-left: 92px;
+   padding-bottom: 90px;
+}
+
+.it_equi_artif_6_career_5 {
+   width: 92px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1295px 1060px;
+   transform: rotate(90deg);
+}
+
+.it_equi_artif_6_career_5.left {
+   padding-left: 92px;
+   padding-bottom: 100px;
+}
+
+.it_equi_artif_6_damage_redu {
+   width: 94px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1717px 578px;
+}
+
+.it_equi_artif_6_damage_redu.left {
+   padding-left: 94px;
+   padding-bottom: 96px;
+}
+
+.it_equi_artif_6_damage_true {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1820px 214px;
+}
+
+.it_equi_artif_6_damage_true.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.it_equi_artif_6_faction_1 {
+   width: 96px;
+   height: 86px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1711px 863px;
+}
+
+.it_equi_artif_6_faction_1.left {
+   padding-left: 96px;
+   padding-bottom: 86px;
+}
+
+.it_equi_artif_6_faction_2 {
+   width: 90px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 358px 673px;
+}
+
+.it_equi_artif_6_faction_2.left {
+   padding-left: 90px;
+   padding-bottom: 90px;
+}
+
+.it_equi_artif_6_faction_3 {
+   width: 94px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1715px 477px;
+}
+
+.it_equi_artif_6_faction_3.left {
+   padding-left: 94px;
+   padding-bottom: 96px;
+}
+
+.it_equi_artif_6_faction_4 {
+   width: 100px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1392px 1155px;
+}
+
+.it_equi_artif_6_faction_4.left {
+   padding-left: 100px;
+   padding-bottom: 94px;
+}
+
+.it_equi_artif_6_faction_5 {
+   width: 90px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 266px 676px;
+}
+
+.it_equi_artif_6_faction_5.left {
+   padding-left: 90px;
+   padding-bottom: 90px;
+}
+
+.it_equi_artif_6_faction_6 {
+   width: 92px;
+   height: 88px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 533px 495px;
+   transform: rotate(90deg);
+}
+
+.it_equi_artif_6_faction_6.left {
+   padding-left: 92px;
+   padding-bottom: 88px;
+}
+
+.it_equi_artif_6_hit_rat {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 540px 1260px;
+   transform: rotate(90deg);
+}
+
+.it_equi_artif_6_hit_rat.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.it_equi_artif_6_speed {
+   width: 68px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1614px 801px;
+   transform: rotate(90deg);
+}
+
+.it_equi_artif_6_speed.left {
+   padding-left: 68px;
+   padding-bottom: 98px;
+}
+
+.it_equi_artif_dust {
+   width: 100px;
+   height: 82px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1603px 982px;
+}
+
+.it_equi_artif_dust.left {
+   padding-left: 100px;
+   padding-bottom: 82px;
+}
+
+.it_equi_artif_empty {
+   width: 94px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1612px 899px;
+}
+
+.it_equi_artif_empty.left {
+   padding-left: 94px;
+   padding-bottom: 96px;
+}
+
+.it_equi_artif_piece_3 {
+   width: 86px;
+   height: 70px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1097px 149px;
+}
+
+.it_equi_artif_piece_3.left {
+   padding-left: 86px;
+   padding-bottom: 70px;
+}
+
+.it_equi_artif_piece_4 {
+   width: 86px;
+   height: 70px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 769px 237px;
+}
+
+.it_equi_artif_piece_4.left {
+   padding-left: 86px;
+   padding-bottom: 70px;
+}
+
+.it_equi_artif_piece_5 {
+   width: 86px;
+   height: 70px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 680px 237px;
+}
+
+.it_equi_artif_piece_5.left {
+   padding-left: 86px;
+   padding-bottom: 70px;
+}
+
+.it_equi_artif_piece_6 {
+   width: 98px;
+   height: 88px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1414px 795px;
+}
+
+.it_equi_artif_piece_6.left {
+   padding-left: 98px;
+   padding-bottom: 88px;
+}
+
+.it_equi_artif_piece_special_5 {
+   width: 80px;
+   height: 76px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 87px 243px;
+}
+
+.it_equi_artif_piece_special_5.left {
+   padding-left: 80px;
+   padding-bottom: 76px;
+}
+
+.it_equi_artif_piece_special_6 {
+   width: 98px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 888px 959px;
+}
+
+.it_equi_artif_piece_special_6.left {
+   padding-left: 98px;
+   padding-bottom: 90px;
+}
+
+.it_equi_artif_xxx {
+   width: 96px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 587px 1059px;
+}
+
+.it_equi_artif_xxx.left {
+   padding-left: 96px;
+   padding-bottom: 96px;
+}
+
+.it_equi_gen_1 {
+   width: 98px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1192px 1061px;
+}
+
+.it_equi_gen_1.left {
+   padding-left: 98px;
+   padding-bottom: 94px;
+}
+
+.it_equi_gen_2 {
+   width: 98px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 889px 1060px;
+}
+
+.it_equi_gen_2.left {
+   padding-left: 98px;
+   padding-bottom: 96px;
+}
+
+.it_equi_gen_3 {
+   width: 100px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 645px 1262px;
+}
+
+.it_equi_gen_3.left {
+   padding-left: 100px;
+   padding-bottom: 96px;
+}
+
+.it_equi_gen_4 {
+   width: 100px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1289px 1160px;
+}
+
+.it_equi_gen_4.left {
+   padding-left: 100px;
+   padding-bottom: 94px;
+}
+
+.it_equi_gen_5 {
+   width: 96px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 196px 867px;
+}
+
+.it_equi_gen_5.left {
+   padding-left: 96px;
+   padding-bottom: 94px;
+}
+
+.it_equi_gen_6 {
+   width: 98px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1090px 1061px;
+}
+
+.it_equi_gen_6.left {
+   padding-left: 98px;
+   padding-bottom: 94px;
+}
+
+.it_equi_gen_7 {
+   width: 98px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 989px 1061px;
+}
+
+.it_equi_gen_7.left {
+   padding-left: 98px;
+   padding-bottom: 94px;
+}
+
+.it_equi_shoes_1 {
+   width: 84px;
+   height: 78px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 592px 225px;
+}
+
+.it_equi_shoes_1.left {
+   padding-left: 84px;
+   padding-bottom: 78px;
+}
+
+.it_equi_shoes_10 {
+   width: 76px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1824px 77px;
+   transform: rotate(90deg);
+}
+
+.it_equi_shoes_10.left {
+   padding-left: 76px;
+   padding-bottom: 94px;
+}
+
+.it_equi_shoes_11 {
+   width: 72px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 641px 400px;
+   transform: rotate(90deg);
+}
+
+.it_equi_shoes_11.left {
+   padding-left: 72px;
+   padding-bottom: 94px;
+}
+
+.it_equi_shoes_12 {
+   width: 82px;
+   height: 84px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 355px 158px;
+   transform: rotate(90deg);
+}
+
+.it_equi_shoes_12.left {
+   padding-left: 82px;
+   padding-bottom: 84px;
+}
+
+.it_equi_shoes_13 {
+   width: 82px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 415px 768px;
+   transform: rotate(90deg);
+}
+
+.it_equi_shoes_13.left {
+   padding-left: 82px;
+   padding-bottom: 96px;
+}
+
+.it_equi_shoes_14 {
+   width: 76px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 838px 409px;
+   transform: rotate(90deg);
+}
+
+.it_equi_shoes_14.left {
+   padding-left: 76px;
+   padding-bottom: 94px;
+}
+
+.it_equi_shoes_15 {
+   width: 78px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 543px 399px;
+   transform: rotate(90deg);
+}
+
+.it_equi_shoes_15.left {
+   padding-left: 78px;
+   padding-bottom: 94px;
+}
+
+.it_equi_shoes_16 {
+   width: 78px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1500px 971px;
+   transform: rotate(90deg);
+}
+
+.it_equi_shoes_16.left {
+   padding-left: 78px;
+   padding-bottom: 100px;
+}
+
+.it_equi_shoes_17 {
+   width: 86px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 316px 766px;
+   transform: rotate(90deg);
+}
+
+.it_equi_shoes_17.left {
+   padding-left: 86px;
+   padding-bottom: 96px;
+}
+
+.it_equi_shoes_2 {
+   width: 84px;
+   height: 76px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1184px 150px;
+}
+
+.it_equi_shoes_2.left {
+   padding-left: 84px;
+   padding-bottom: 76px;
+}
+
+.it_equi_shoes_3 {
+   width: 72px;
+   height: 78px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1176px 71px;
+   transform: rotate(90deg);
+}
+
+.it_equi_shoes_3.left {
+   padding-left: 72px;
+   padding-bottom: 78px;
+}
+
+.it_equi_shoes_4 {
+   width: 72px;
+   height: 78px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 380px 73px;
+   transform: rotate(90deg);
+}
+
+.it_equi_shoes_4.left {
+   padding-left: 72px;
+   padding-bottom: 78px;
+}
+
+.it_equi_shoes_5 {
+   width: 82px;
+   height: 86px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1273px 239px;
+   transform: rotate(90deg);
+}
+
+.it_equi_shoes_5.left {
+   padding-left: 82px;
+   padding-bottom: 86px;
+}
+
+.it_equi_shoes_6 {
+   width: 84px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 675px 323px;
+   transform: rotate(90deg);
+}
+
+.it_equi_shoes_6.left {
+   padding-left: 84px;
+   padding-bottom: 90px;
+}
+
+.it_equi_shoes_7 {
+   width: 82px;
+   height: 84px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 271px 148px;
+   transform: rotate(90deg);
+}
+
+.it_equi_shoes_7.left {
+   padding-left: 82px;
+   padding-bottom: 84px;
+}
+
+.it_equi_shoes_8 {
+   width: 82px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1126px 414px;
+   transform: rotate(90deg);
+}
+
+.it_equi_shoes_8.left {
+   padding-left: 82px;
+   padding-bottom: 94px;
+}
+
+.it_equi_shoes_9 {
+   width: 68px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 488px 319px;
+}
+
+.it_equi_shoes_9.left {
+   padding-left: 68px;
+   padding-bottom: 90px;
+}
+
+.it_equi_shoes_empty {
+   width: 94px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 95px 863px;
+}
+
+.it_equi_shoes_empty.left {
+   padding-left: 94px;
+   padding-bottom: 96px;
+}
+
+.it_equi_treas_1 {
+   width: 86px;
+   height: 74px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 75px 589px;
+   transform: rotate(90deg);
+}
+
+.it_equi_treas_1.left {
+   padding-left: 86px;
+   padding-bottom: 74px;
+}
+
+.it_equi_treas_2_attack {
+   width: 86px;
+   height: 86px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1184px 240px;
+}
+
+.it_equi_treas_2_attack.left {
+   padding-left: 86px;
+   padding-bottom: 86px;
+}
+
+.it_equi_treas_2_hp {
+   width: 86px;
+   height: 86px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1095px 237px;
+}
+
+.it_equi_treas_2_hp.left {
+   padding-left: 86px;
+   padding-bottom: 86px;
+}
+
+.it_equi_treas_3_attack {
+   width: 94px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 711px 775px;
+}
+
+.it_equi_treas_3_attack.left {
+   padding-left: 94px;
+   padding-bottom: 90px;
+}
+
+.it_equi_treas_3_crit {
+   width: 94px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 726px 682px;
+}
+
+.it_equi_treas_3_crit.left {
+   padding-left: 94px;
+   padding-bottom: 90px;
+}
+
+.it_equi_treas_3_hit_rate {
+   width: 94px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 629px 682px;
+}
+
+.it_equi_treas_3_hit_rate.left {
+   padding-left: 94px;
+   padding-bottom: 90px;
+}
+
+.it_equi_treas_3_hitrate {
+   width: 70px;
+   height: 80px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 173px 223px;
+   transform: rotate(90deg);
+}
+
+.it_equi_treas_3_hitrate.left {
+   padding-left: 70px;
+   padding-bottom: 80px;
+}
+
+.it_equi_treas_3_hp {
+   width: 94px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1520px 431px;
+}
+
+.it_equi_treas_3_hp.left {
+   padding-left: 94px;
+   padding-bottom: 90px;
+}
+
+.it_equi_treas_4_armor_break {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 439px 1260px;
+   transform: rotate(90deg);
+}
+
+.it_equi_treas_4_armor_break.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.it_equi_treas_4_attack {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 336px 1260px;
+   transform: rotate(90deg);
+}
+
+.it_equi_treas_4_attack.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.it_equi_treas_4_crit {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 233px 1260px;
+   transform: rotate(90deg);
+}
+
+.it_equi_treas_4_crit.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.it_equi_treas_4_dodge {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 130px 1260px;
+   transform: rotate(90deg);
+}
+
+.it_equi_treas_4_dodge.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.it_equi_treas_4_hit_rate {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1728px 97px;
+   transform: rotate(90deg);
+}
+
+.it_equi_treas_4_hit_rate.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.it_equi_treas_4_hp {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1186px 1157px;
+   transform: rotate(90deg);
+}
+
+.it_equi_treas_4_hp.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.it_equi_treas_5_armor_break {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1084px 1157px;
+   transform: rotate(90deg);
+}
+
+.it_equi_treas_5_armor_break.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.it_equi_treas_5_attack {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 981px 1157px;
+   transform: rotate(90deg);
+}
+
+.it_equi_treas_5_attack.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.it_equi_treas_5_attack_per {
+   width: 78px;
+   height: 80px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 86px 327px;
+}
+
+.it_equi_treas_5_attack_per.left {
+   padding-left: 78px;
+   padding-bottom: 80px;
+}
+
+.it_equi_treas_5_crit {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 878px 1157px;
+   transform: rotate(90deg);
+}
+
+.it_equi_treas_5_crit.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.it_equi_treas_5_crit_damage {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 686px 1161px;
+}
+
+.it_equi_treas_5_crit_damage.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.it_equi_treas_5_damage_skill {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 587px 1161px;
+}
+
+.it_equi_treas_5_damage_skill.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.it_equi_treas_5_dodge {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 488px 1161px;
+}
+
+.it_equi_treas_5_dodge.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.it_equi_treas_5_hit_rate {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 389px 1161px;
+}
+
+.it_equi_treas_5_hit_rate.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.it_equi_treas_5_hp {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 290px 1161px;
+}
+
+.it_equi_treas_5_hp.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.it_equi_treas_5_hp_per {
+   width: 78px;
+   height: 80px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 810px 164px;
+   transform: rotate(90deg);
+}
+
+.it_equi_treas_5_hp_per.left {
+   padding-left: 78px;
+   padding-bottom: 80px;
+}
+
+.it_equi_treas_6_armor_break {
+   width: 100px;
+   height: 84px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1603px 1072px;
+}
+
+.it_equi_treas_6_armor_break.left {
+   padding-left: 100px;
+   padding-bottom: 84px;
+}
+
+.it_equi_treas_6_attack {
+   width: 100px;
+   height: 84px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1397px 969px;
+}
+
+.it_equi_treas_6_attack.left {
+   padding-left: 100px;
+   padding-bottom: 84px;
+}
+
+.it_equi_treas_6_attack_per {
+   width: 100px;
+   height: 84px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1294px 965px;
+}
+
+.it_equi_treas_6_attack_per.left {
+   padding-left: 100px;
+   padding-bottom: 84px;
+}
+
+.it_equi_treas_6_crit {
+   width: 100px;
+   height: 84px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1191px 961px;
+}
+
+.it_equi_treas_6_crit.left {
+   padding-left: 100px;
+   padding-bottom: 84px;
+}
+
+.it_equi_treas_6_crit_damage {
+   width: 100px;
+   height: 84px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1088px 961px;
+}
+
+.it_equi_treas_6_crit_damage.left {
+   padding-left: 100px;
+   padding-bottom: 84px;
+}
+
+.it_equi_treas_6_damage_skill {
+   width: 100px;
+   height: 84px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1414px 882px;
+}
+
+.it_equi_treas_6_damage_skill.left {
+   padding-left: 100px;
+   padding-bottom: 84px;
+}
+
+.it_equi_treas_6_damage_true {
+   width: 100px;
+   height: 84px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1311px 878px;
+}
+
+.it_equi_treas_6_damage_true.left {
+   padding-left: 100px;
+   padding-bottom: 84px;
+}
+
+.it_equi_treas_6_dodge {
+   width: 100px;
+   height: 84px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1208px 874px;
+}
+
+.it_equi_treas_6_dodge.left {
+   padding-left: 100px;
+   padding-bottom: 84px;
+}
+
+.it_equi_treas_6_hit_rate {
+   width: 100px;
+   height: 84px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1105px 874px;
+}
+
+.it_equi_treas_6_hit_rate.left {
+   padding-left: 100px;
+   padding-bottom: 84px;
+}
+
+.it_equi_treas_6_hp {
+   width: 100px;
+   height: 84px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1002px 870px;
+}
+
+.it_equi_treas_6_hp.left {
+   padding-left: 100px;
+   padding-bottom: 84px;
+}
+
+.it_equi_treas_6_hp_per {
+   width: 100px;
+   height: 84px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 899px 866px;
+}
+
+.it_equi_treas_6_hp_per.left {
+   padding-left: 100px;
+   padding-bottom: 84px;
+}
+
+.it_equi_treas_7_armor_break {
+   width: 96px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1625px 94px;
+   transform: rotate(90deg);
+}
+
+.it_equi_treas_7_armor_break.left {
+   padding-left: 96px;
+   padding-bottom: 94px;
+}
+
+.it_equi_treas_7_attack {
+   width: 96px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1619px 727px;
+}
+
+.it_equi_treas_7_attack.left {
+   padding-left: 96px;
+   padding-bottom: 94px;
+}
+
+.it_equi_treas_7_attack_per {
+   width: 96px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1619px 630px;
+}
+
+.it_equi_treas_7_attack_per.left {
+   padding-left: 96px;
+   padding-bottom: 94px;
+}
+
+.it_equi_treas_7_crit {
+   width: 96px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1619px 533px;
+}
+
+.it_equi_treas_7_crit.left {
+   padding-left: 96px;
+   padding-bottom: 94px;
+}
+
+.it_equi_treas_7_crit_damage {
+   width: 96px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1520px 711px;
+}
+
+.it_equi_treas_7_crit_damage.left {
+   padding-left: 96px;
+   padding-bottom: 94px;
+}
+
+.it_equi_treas_7_damage_redu {
+   width: 96px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1520px 614px;
+}
+
+.it_equi_treas_7_damage_redu.left {
+   padding-left: 96px;
+   padding-bottom: 94px;
+}
+
+.it_equi_treas_7_damage_skill {
+   width: 96px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1421px 701px;
+}
+
+.it_equi_treas_7_damage_skill.left {
+   padding-left: 96px;
+   padding-bottom: 94px;
+}
+
+.it_equi_treas_7_damage_true {
+   width: 96px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1322px 695px;
+}
+
+.it_equi_treas_7_damage_true.left {
+   padding-left: 96px;
+   padding-bottom: 94px;
+}
+
+.it_equi_treas_7_dodge {
+   width: 96px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1021px 687px;
+}
+
+.it_equi_treas_7_dodge.left {
+   padding-left: 96px;
+   padding-bottom: 94px;
+}
+
+.it_equi_treas_7_hit_rate {
+   width: 96px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1021px 590px;
+}
+
+.it_equi_treas_7_hit_rate.left {
+   padding-left: 96px;
+   padding-bottom: 94px;
+}
+
+.it_equi_treas_7_hp {
+   width: 96px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 810px 776px;
+}
+
+.it_equi_treas_7_hp.left {
+   padding-left: 96px;
+   padding-bottom: 94px;
+}
+
+.it_equi_treas_7_hp_per {
+   width: 96px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 922px 683px;
+}
+
+.it_equi_treas_7_hp_per.left {
+   padding-left: 96px;
+   padding-bottom: 94px;
+}
+
+.it_equi_treas_7_speed {
+   width: 96px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 922px 586px;
+   transform: rotate(90deg);
+}
+
+.it_equi_treas_7_speed.left {
+   padding-left: 96px;
+   padding-bottom: 94px;
+}
+
+.it_equi_treas_empty {
+   width: 90px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1212px 786px;
+   transform: rotate(90deg);
+}
+
+.it_equi_treas_empty.left {
+   padding-left: 90px;
+   padding-bottom: 98px;
+}
+
+.it_equi_treas_xxx {
+   width: 90px;
+   height: 92px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 447px 591px;
+}
+
+.it_equi_treas_xxx.left {
+   padding-left: 90px;
+   padding-bottom: 92px;
+}
+
+.it_equi_weapon_1 {
+   width: 84px;
+   height: 84px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1006px 237px;
+}
+
+.it_equi_weapon_1.left {
+   padding-left: 84px;
+   padding-bottom: 84px;
+}
+
+.it_equi_weapon_10 {
+   width: 88px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 614px 772px;
+   transform: rotate(90deg);
+}
+
+.it_equi_weapon_10.left {
+   padding-left: 88px;
+   padding-bottom: 96px;
+}
+
+.it_equi_weapon_11 {
+   width: 82px;
+   height: 82px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 173px 496px;
+}
+
+.it_equi_weapon_11.left {
+   padding-left: 82px;
+   padding-bottom: 82px;
+}
+
+.it_equi_weapon_12 {
+   width: 88px;
+   height: 86px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1433px 157px;
+   transform: rotate(90deg);
+}
+
+.it_equi_weapon_12.left {
+   padding-left: 88px;
+   padding-bottom: 86px;
+}
+
+.it_equi_weapon_13 {
+   width: 82px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1222px 417px;
+   transform: rotate(90deg);
+}
+
+.it_equi_weapon_13.left {
+   padding-left: 82px;
+   padding-bottom: 96px;
+}
+
+.it_equi_weapon_14 {
+   width: 94px;
+   height: 92px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 728px 590px;
+}
+
+.it_equi_weapon_14.left {
+   padding-left: 94px;
+   padding-bottom: 92px;
+}
+
+.it_equi_weapon_15 {
+   width: 92px;
+   height: 94px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1617px 439px;
+   transform: rotate(90deg);
+}
+
+.it_equi_weapon_15.left {
+   padding-left: 92px;
+   padding-bottom: 94px;
+}
+
+.it_equi_weapon_16 {
+   width: 90px;
+   height: 84px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 767px 325px;
+}
+
+.it_equi_weapon_16.left {
+   padding-left: 90px;
+   padding-bottom: 84px;
+}
+
+.it_equi_weapon_17 {
+   width: 94px;
+   height: 92px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 630px 589px;
+}
+
+.it_equi_weapon_17.left {
+   padding-left: 94px;
+   padding-bottom: 92px;
+}
+
+.it_equi_weapon_2 {
+   width: 84px;
+   height: 84px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 919px 237px;
+}
+
+.it_equi_weapon_2.left {
+   padding-left: 84px;
+   padding-bottom: 84px;
+}
+
+.it_equi_weapon_3 {
+   width: 84px;
+   height: 84px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 173px 309px;
+}
+
+.it_equi_weapon_3.left {
+   padding-left: 84px;
+   padding-bottom: 84px;
+}
+
+.it_equi_weapon_4 {
+   width: 74px;
+   height: 84px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1098px 75px;
+   transform: rotate(90deg);
+}
+
+.it_equi_weapon_4.left {
+   padding-left: 74px;
+   padding-bottom: 84px;
+}
+
+.it_equi_weapon_5 {
+   width: 82px;
+   height: 88px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1360px 250px;
+}
+
+.it_equi_weapon_5.left {
+   padding-left: 82px;
+   padding-bottom: 88px;
+}
+
+.it_equi_weapon_6 {
+   width: 90px;
+   height: 88px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 351px 496px;
+   transform: rotate(90deg);
+}
+
+.it_equi_weapon_6.left {
+   padding-left: 90px;
+   padding-bottom: 88px;
+}
+
+.it_equi_weapon_7 {
+   width: 90px;
+   height: 86px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 355px 585px;
+}
+
+.it_equi_weapon_7.left {
+   padding-left: 90px;
+   padding-bottom: 86px;
+}
+
+.it_equi_weapon_8 {
+   width: 90px;
+   height: 88px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 256px 584px;
+}
+
+.it_equi_weapon_8.left {
+   padding-left: 90px;
+   padding-bottom: 88px;
+}
+
+.it_equi_weapon_9 {
+   width: 98px;
+   height: 74px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1422px 431px;
+}
+
+.it_equi_weapon_9.left {
+   padding-left: 98px;
+   padding-bottom: 74px;
+}
+
+.it_equi_weapon_empty {
+   width: 94px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1718px 195px;
+}
+
+.it_equi_weapon_empty.left {
+   padding-left: 94px;
+   padding-bottom: 96px;
+}
+
+.it_equi_weapon_sword {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1814px 931px;
+}
+
+.it_equi_weapon_sword.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.it_fact_1 {
+   width: 64px;
+   height: 60px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1528px 63px;
+}
+
+.it_fact_1.left {
+   padding-left: 64px;
+   padding-bottom: 60px;
+}
+
+.it_fact_2 {
+   width: 64px;
+   height: 60px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 418px 318px;
+   transform: rotate(90deg);
+}
+
+.it_fact_2.left {
+   padding-left: 64px;
+   padding-bottom: 60px;
+}
+
+.it_fact_3 {
+   width: 64px;
+   height: 60px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 418px 251px;
+   transform: rotate(90deg);
+}
+
+.it_fact_3.left {
+   padding-left: 64px;
+   padding-bottom: 60px;
+}
+
+.it_fact_4 {
+   width: 64px;
+   height: 60px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 832px 238px;
+   transform: rotate(90deg);
+}
+
+.it_fact_4.left {
+   padding-left: 64px;
+   padding-bottom: 60px;
+}
+
+.it_fact_5 {
+   width: 64px;
+   height: 60px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 419px 184px;
+   transform: rotate(90deg);
+}
+
+.it_fact_5.left {
+   padding-left: 64px;
+   padding-bottom: 60px;
+}
+
+.it_fact_6 {
+   width: 64px;
+   height: 60px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 299px 63px;
+}
+
+.it_fact_6.left {
+   padding-left: 64px;
+   padding-bottom: 60px;
+}
+
+.it_frame_1 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1922px 1260px;
+}
+
+.it_frame_1.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.it_frame_2 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1922px 1152px;
+}
+
+.it_frame_2.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.it_frame_3 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1814px 1260px;
+}
+
+.it_frame_3.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.it_frame_4 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1922px 1044px;
+}
+
+.it_frame_4.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.it_frame_5 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1814px 1152px;
+}
+
+.it_frame_5.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.it_frame_6 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1706px 1260px;
+}
+
+.it_frame_6.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.it_frame_7 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1922px 936px;
+}
+
+.it_frame_7.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.it_frame_artifact_1 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1922px 1260px;
+}
+
+.it_frame_artifact_1.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.it_frame_artifact_2 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1922px 1152px;
+}
+
+.it_frame_artifact_2.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.it_frame_artifact_3 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1814px 1260px;
+}
+
+.it_frame_artifact_3.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.it_frame_artifact_4 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1922px 1044px;
+}
+
+.it_frame_artifact_4.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.it_frame_artifact_5 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1814px 1152px;
+}
+
+.it_frame_artifact_5.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.it_frame_artifact_6 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1706px 1260px;
+}
+
+.it_frame_artifact_6.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.it_frame_artifact_7 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1922px 936px;
+}
+
+.it_frame_artifact_7.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.it_hero_piece_3 {
+   width: 84px;
+   height: 66px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1432px 67px;
+}
+
+.it_hero_piece_3.left {
+   padding-left: 84px;
+   padding-bottom: 66px;
+}
+
+.it_hero_piece_4 {
+   width: 84px;
+   height: 66px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1345px 67px;
+}
+
+.it_hero_piece_4.left {
+   padding-left: 84px;
+   padding-bottom: 66px;
+}
+
+.it_hero_piece_5 {
+   width: 84px;
+   height: 66px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1007px 144px;
+}
+
+.it_hero_piece_5.left {
+   padding-left: 84px;
+   padding-bottom: 66px;
+}
+
+.it_icon_exp_0 {
+   width: 100px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 27px 1260px;
+   transform: rotate(90deg);
+}
+
+.it_icon_exp_0.left {
+   padding-left: 100px;
+   padding-bottom: 16px;
+}
+
+.it_icon_exp_1 {
+   width: 98px;
+   height: 11px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1819px 111px;
+}
+
+.it_icon_exp_1.left {
+   padding-left: 98px;
+   padding-bottom: 11px;
+}
+
+.it_icon_exp_2 {
+   width: 98px;
+   height: 10px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1423px 354px;
+}
+
+.it_icon_exp_2.left {
+   padding-left: 98px;
+   padding-bottom: 10px;
+}
+
+.it_icon_prompt_red {
+   width: 20px;
+   height: 20px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1574px 249px;
+}
+
+.it_icon_prompt_red.left {
+   padding-left: 20px;
+   padding-bottom: 20px;
+}
+
+.it_jewel_1 {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1814px 1044px;
+}
+
+.it_jewel_1.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.it_jewel_2 {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1598px 1260px;
+   transform: rotate(90deg);
+}
+
+.it_jewel_2.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.it_jewel_3 {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1922px 828px;
+}
+
+.it_jewel_3.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.it_jewel_4 {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1485px 1260px;
+   transform: rotate(90deg);
+}
+
+.it_jewel_4.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.it_jewel_5 {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1922px 715px;
+}
+
+.it_jewel_5.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.it_jewel_6 {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1372px 1260px;
+   transform: rotate(90deg);
+}
+
+.it_jewel_6.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.it_jewel_7 {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1922px 602px;
+}
+
+.it_jewel_7.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.it_num_bar {
+   width: 3px;
+   height: 3px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1321px 705px;
+}
+
+.it_num_bar.left {
+   padding-left: 3px;
+   padding-bottom: 3px;
+}
+
+.it_othe_coin_arena {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1819px 828px;
+}
+
+.it_othe_coin_arena.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.it_othe_coin_dragon {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1259px 1260px;
+}
+
+.it_othe_coin_dragon.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.it_othe_coin_guild {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1922px 489px;
+}
+
+.it_othe_coin_guild.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.it_othe_diamond {
+   width: 86px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1322px 601px;
+   transform: rotate(90deg);
+}
+
+.it_othe_diamond.left {
+   padding-left: 86px;
+   padding-bottom: 98px;
+}
+
+.it_othe_dust {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1819px 725px;
+}
+
+.it_othe_dust.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.it_othe_dust1 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1156px 1260px;
+}
+
+.it_othe_dust1.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.it_othe_exp {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1922px 386px;
+}
+
+.it_othe_exp.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.it_othe_gold {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1819px 622px;
+}
+
+.it_othe_gold.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.it_othe_spirit {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1053px 1260px;
+}
+
+.it_othe_spirit.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.it_othe_spirit1 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1922px 283px;
+}
+
+.it_othe_spirit1.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.it_othe_stone {
+   width: 100px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1819px 416px;
+}
+
+.it_othe_stone.left {
+   padding-left: 100px;
+   padding-bottom: 98px;
+}
+
+.it_othe_stone1 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1819px 519px;
+}
+
+.it_othe_stone1.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.it_star {
+   width: 20px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1551px 227px;
+}
+
+.it_star.left {
+   padding-left: 20px;
+   padding-bottom: 19px;
+}
+
+.it_step_1 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 168px 586px;
+}
+
+.it_step_1.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.it_step_2 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 261px 493px;
+}
+
+.it_step_2.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.it_step_3 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1043px 329px;
+}
+
+.it_step_3.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.it_step_4 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 951px 329px;
+}
+
+.it_step_4.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.it_step_5 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 859px 329px;
+}
+
+.it_step_5.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.it_step_6 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 581px 317px;
+}
+
+.it_step_6.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.it_step_7 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 261px 401px;
+}
+
+.it_step_7.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.it_step_diamond_1 {
+   width: 90px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1111px 786px;
+   transform: rotate(90deg);
+}
+
+.it_step_diamond_1.left {
+   padding-left: 90px;
+   padding-bottom: 98px;
+}
+
+.it_step_diamond_2 {
+   width: 90px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1223px 693px;
+   transform: rotate(90deg);
+}
+
+.it_step_diamond_2.left {
+   padding-left: 90px;
+   padding-bottom: 98px;
+}
+
+.it_step_diamond_3 {
+   width: 90px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1122px 693px;
+   transform: rotate(90deg);
+}
+
+.it_step_diamond_3.left {
+   padding-left: 90px;
+   padding-bottom: 98px;
+}
+
+.it_step_diamond_4 {
+   width: 90px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1221px 600px;
+   transform: rotate(90deg);
+}
+
+.it_step_diamond_4.left {
+   padding-left: 90px;
+   padding-bottom: 98px;
+}
+
+.it_step_diamond_5 {
+   width: 90px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1322px 511px;
+   transform: rotate(90deg);
+}
+
+.it_step_diamond_5.left {
+   padding-left: 90px;
+   padding-bottom: 98px;
+}
+
+.it_step_diamond_6 {
+   width: 90px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1221px 507px;
+   transform: rotate(90deg);
+}
+
+.it_step_diamond_6.left {
+   padding-left: 90px;
+   padding-bottom: 98px;
+}
+
+.it_step_diamond_7 {
+   width: 90px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1010px 782px;
+   transform: rotate(90deg);
+}
+
+.it_step_diamond_7.left {
+   padding-left: 90px;
+   padding-bottom: 98px;
+}
+
+.it_step_super_1 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 168px 586px;
+}
+
+.it_step_super_1.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.it_step_super_2 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 261px 493px;
+}
+
+.it_step_super_2.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.it_step_super_3 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1043px 329px;
+}
+
+.it_step_super_3.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.it_step_super_4 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 951px 329px;
+}
+
+.it_step_super_4.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.it_step_super_5 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 859px 329px;
+}
+
+.it_step_super_5.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.it_step_super_6 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 581px 317px;
+}
+
+.it_step_super_6.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.it_step_super_7 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 261px 401px;
+}
+
+.it_step_super_7.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.logo_ali_100 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 950px 1260px;
+}
+
+.logo_ali_100.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.logo_wx_100 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/material.png') 1922px 180px;
+}
+
+.logo_wx_100.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}

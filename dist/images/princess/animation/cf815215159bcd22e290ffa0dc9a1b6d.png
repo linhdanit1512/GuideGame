@@ -1,0 +1,20 @@
+
+sp_bt_result_bg_lost.png
+size: 605,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q3
+  rotate: false
+  xy: 563, 438
+  size: 40, 40
+  orig: 46, 45
+  offset: 4, 2
+  index: -1
+x2
+  rotate: false
+  xy: 2, 2
+  size: 559, 476
+  orig: 559, 476
+  offset: 0, 0
+  index: -1

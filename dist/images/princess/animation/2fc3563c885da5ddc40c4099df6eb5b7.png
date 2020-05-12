@@ -1,0 +1,55 @@
+
+sp_sk_hit_attacked_holy.png
+size: 573,573
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light01
+  rotate: true
+  xy: 274, 2
+  size: 76, 202
+  orig: 77, 210
+  offset: 0, 0
+  index: -1
+light02
+  rotate: false
+  xy: 289, 311
+  size: 273, 260
+  orig: 273, 260
+  offset: 0, 0
+  index: -1
+ring2
+  rotate: false
+  xy: 2, 14
+  size: 270, 270
+  orig: 275, 276
+  offset: 1, 4
+  index: -1
+shock
+  rotate: false
+  xy: 289, 80
+  size: 231, 229
+  orig: 232, 233
+  offset: 1, 2
+  index: -1
+star
+  rotate: false
+  xy: 2, 286
+  size: 285, 285
+  orig: 289, 288
+  offset: 2, 2
+  index: -1
+starparticle
+  rotate: false
+  xy: 478, 24
+  size: 54, 54
+  orig: 62, 62
+  offset: 4, 4
+  index: -1
+starparticle-tail
+  rotate: false
+  xy: 522, 119
+  size: 19, 190
+  orig: 19, 190
+  offset: 0, 0
+  index: -1

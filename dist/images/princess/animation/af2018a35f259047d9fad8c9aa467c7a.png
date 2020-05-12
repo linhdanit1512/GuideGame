@@ -1,0 +1,111 @@
+
+sp_sk_hit_life_absorb_green.png
+size: 380,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 104, 279
+  size: 99, 95
+  orig: 100, 95
+  offset: 1, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 278
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 101, 74
+  size: 100, 95
+  orig: 100, 95
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 2, 74
+  size: 100, 97
+  orig: 100, 97
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 292, 278
+  size: 83, 100
+  orig: 83, 100
+  offset: 0, 0
+  index: -1
+B0001
+  rotate: false
+  xy: 2, 45
+  size: 23, 27
+  orig: 100, 93
+  offset: 37, 34
+  index: -1
+B0002
+  rotate: true
+  xy: 299, 196
+  size: 80, 73
+  orig: 100, 93
+  offset: 9, 10
+  index: -1
+B0003
+  rotate: false
+  xy: 293, 14
+  size: 85, 81
+  orig: 100, 93
+  offset: 6, 5
+  index: -1
+B0004
+  rotate: true
+  xy: 292, 97
+  size: 88, 84
+  orig: 100, 93
+  offset: 5, 4
+  index: -1
+B0005
+  rotate: true
+  xy: 201, 286
+  size: 92, 88
+  orig: 100, 93
+  offset: 4, 2
+  index: -1
+B0006
+  rotate: false
+  xy: 201, 187
+  size: 96, 89
+  orig: 100, 93
+  offset: 2, 2
+  index: -1
+y0001
+  rotate: false
+  xy: 198, 2
+  size: 93, 82
+  orig: 100, 96
+  offset: 3, 11
+  index: -1
+y0002
+  rotate: false
+  xy: 104, 182
+  size: 95, 95
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+y0003
+  rotate: false
+  xy: 198, 86
+  size: 92, 94
+  orig: 100, 96
+  offset: 0, 0
+  index: -1

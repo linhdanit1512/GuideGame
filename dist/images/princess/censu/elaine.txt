@@ -1,0 +1,104 @@
+
+elaine.png
+size: 252,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng1
+  rotate: false
+  xy: 126, 172
+  size: 54, 80
+  orig: 54, 80
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 180, 113
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 160, 70
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 126, 114
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+sp_unit_shadow
+  rotate: true
+  xy: 121, 16
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+wizard_body
+  rotate: false
+  xy: 0, 20
+  size: 119, 86
+  orig: 119, 86
+  offset: 0, 0
+  index: -1
+wizard_hea2d
+  rotate: true
+  xy: 182, 168
+  size: 84, 45
+  orig: 84, 45
+  offset: 0, 0
+  index: -1
+wizard_head
+  rotate: false
+  xy: 0, 108
+  size: 124, 144
+  orig: 124, 144
+  offset: 0, 0
+  index: -1
+wizard_larm
+  rotate: false
+  xy: 160, 23
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+wizard_lhand
+  rotate: true
+  xy: 0, 0
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+wizard_lhand2
+  rotate: true
+  xy: 229, 198
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+wizard_lhand2_1
+  rotate: false
+  xy: 229, 175
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+wizard_rarm
+  rotate: false
+  xy: 202, 66
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+wizard_rhand
+  rotate: false
+  xy: 229, 222
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

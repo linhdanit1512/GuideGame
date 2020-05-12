@@ -1,0 +1,195 @@
+
+sp_cr_e_megaw_6.png
+size: 406,406
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: true
+  xy: 343, 215
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: true
+  xy: 343, 215
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: false
+  xy: 196, 45
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: false
+  xy: 294, 27
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 186, 97
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: false
+  xy: 0, 10
+  size: 57, 11
+  orig: 57, 11
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: false
+  xy: 343, 187
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+FootL
+  rotate: false
+  xy: 196, 31
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+FootR
+  rotate: false
+  xy: 343, 62
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+HairFL
+  rotate: true
+  xy: 152, 6
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+HairFR
+  rotate: false
+  xy: 329, 77
+  size: 30, 69
+  orig: 30, 69
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 127, 0
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: true
+  xy: 369, 150
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 234
+  size: 184, 172
+  orig: 184, 172
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 294, 76
+  size: 33, 70
+  orig: 33, 70
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 141, 96
+  size: 43, 65
+  orig: 43, 65
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: false
+  xy: 141, 163
+  size: 43, 69
+  orig: 43, 69
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: true
+  xy: 333, 275
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+WeaponL
+  rotate: true
+  xy: 186, 147
+  size: 259, 81
+  orig: 259, 81
+  offset: 0, 0
+  index: -1
+chibang1
+  rotate: true
+  xy: 333, 315
+  size: 91, 67
+  orig: 91, 67
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 0, 23
+  size: 125, 71
+  orig: 125, 71
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 127, 27
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+guangg
+  rotate: false
+  xy: 269, 186
+  size: 72, 85
+  orig: 72, 85
+  offset: 0, 0
+  index: -1
+guanghuan
+  rotate: false
+  xy: 269, 148
+  size: 98, 36
+  orig: 98, 36
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 265, 46
+  size: 99, 27
+  orig: 99, 27
+  offset: 0, 0
+  index: -1
+yp
+  rotate: false
+  xy: 269, 273
+  size: 62, 133
+  orig: 62, 133
+  offset: 0, 0
+  index: -1
+zp
+  rotate: false
+  xy: 0, 96
+  size: 139, 136
+  orig: 139, 136
+  offset: 0, 0
+  index: -1

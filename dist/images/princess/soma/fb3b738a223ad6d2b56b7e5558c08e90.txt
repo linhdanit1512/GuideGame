@@ -1,0 +1,146 @@
+
+sp_cr_l_divine_spirit_4.png
+size: 370,370
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 173, 75
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 250, 100
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 253, 250
+  size: 90, 120
+  orig: 90, 120
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 0, 2
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 152, 233
+  size: 99, 137
+  orig: 99, 137
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 226
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 117, 50
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 249, 166
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 250, 75
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 130, 106
+  size: 118, 41
+  orig: 118, 41
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: false
+  xy: 316, 156
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: false
+  xy: 305, 33
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: true
+  xy: 316, 94
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: true
+  xy: 173, 143
+  size: 88, 74
+  orig: 88, 74
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: false
+  xy: 324, 198
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: true
+  xy: 253, 196
+  size: 52, 69
+  orig: 52, 69
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: true
+  xy: 79, 52
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+zshou32x
+  rotate: true
+  xy: 173, 33
+  size: 40, 120
+  orig: 40, 120
+  offset: 0, 0
+  index: -1
+zshou3x
+  rotate: false
+  xy: 79, 112
+  size: 49, 112
+  orig: 49, 112
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: true
+  xy: 0, 41
+  size: 183, 77
+  orig: 183, 77
+  offset: 0, 0
+  index: -1

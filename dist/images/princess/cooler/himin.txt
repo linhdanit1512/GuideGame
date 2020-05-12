@@ -1,0 +1,153 @@
+
+himin.png
+size: 333,333
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: false
+  xy: 191, 21
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: false
+  xy: 228, 37
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: false
+  xy: 228, 13
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: false
+  xy: 303, 150
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 0, 0
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: false
+  xy: 277, 168
+  size: 56, 22
+  orig: 56, 22
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: false
+  xy: 218, 89
+  size: 54, 25
+  orig: 54, 25
+  offset: 0, 0
+  index: -1
+HairFL
+  rotate: false
+  xy: 163, 80
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 277, 145
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: true
+  xy: 281, 117
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 181, 192
+  size: 144, 141
+  orig: 144, 141
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 55, 1
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: true
+  xy: 163, 55
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: true
+  xy: 146, 23
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: true
+  xy: 218, 64
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+SkirtB
+  rotate: false
+  xy: 80, 56
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1
+SkirtF
+  rotate: false
+  xy: 99, 22
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+WeaponL
+  rotate: false
+  xy: 0, 40
+  size: 78, 87
+  orig: 78, 87
+  offset: 0, 0
+  index: -1
+WeaponR
+  rotate: false
+  xy: 181, 145
+  size: 94, 45
+  orig: 94, 45
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 0, 129
+  size: 179, 204
+  orig: 179, 204
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 181, 116
+  size: 98, 27
+  orig: 98, 27
+  offset: 0, 0
+  index: -1

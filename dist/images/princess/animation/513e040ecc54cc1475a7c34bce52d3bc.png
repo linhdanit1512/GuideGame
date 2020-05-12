@@ -1,0 +1,139 @@
+
+sp_sk_fly_pet_yellow_3.png
+size: 859,859
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c0001
+  rotate: false
+  xy: 2, 2
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+c0002
+  rotate: false
+  xy: 578, 154
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+c0003
+  rotate: false
+  xy: 104, 2
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+c0004
+  rotate: false
+  xy: 206, 2
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+c0005
+  rotate: false
+  xy: 308, 2
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+c0006
+  rotate: false
+  xy: 480, 56
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+c0007
+  rotate: false
+  xy: 582, 85
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+c0008
+  rotate: false
+  xy: 682, 184
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+c0009
+  rotate: false
+  xy: 684, 115
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+c0010
+  rotate: false
+  xy: 684, 46
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+g0001
+  rotate: false
+  xy: 480, 700
+  size: 200, 157
+  orig: 200, 157
+  offset: 0, 0
+  index: -1
+g0002
+  rotate: false
+  xy: 480, 541
+  size: 200, 157
+  orig: 200, 157
+  offset: 0, 0
+  index: -1
+g0003
+  rotate: true
+  xy: 682, 657
+  size: 200, 157
+  orig: 200, 157
+  offset: 0, 0
+  index: -1
+g0004
+  rotate: false
+  xy: 480, 382
+  size: 200, 157
+  orig: 200, 157
+  offset: 0, 0
+  index: -1
+g0005
+  rotate: true
+  xy: 682, 455
+  size: 200, 157
+  orig: 200, 157
+  offset: 0, 0
+  index: -1
+g0006
+  rotate: false
+  xy: 480, 223
+  size: 200, 157
+  orig: 200, 157
+  offset: 0, 0
+  index: -1
+g0007
+  rotate: true
+  xy: 682, 253
+  size: 200, 157
+  orig: 200, 157
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 480, 125
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 2, 71
+  size: 476, 786
+  orig: 476, 786
+  offset: 0, 0
+  index: -1

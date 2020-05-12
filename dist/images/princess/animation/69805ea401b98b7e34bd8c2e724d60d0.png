@@ -1,0 +1,20 @@
+
+sp_sk_fly_pet_yellow_2_SF.png
+size: 347,347
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sp_sk_fly_pet_elec_ball/Magic0002_4
+  rotate: false
+  xy: 0, 0
+  size: 136, 135
+  orig: 136, 135
+  offset: 0, 0
+  index: -1
+sp_sk_fly_pet_elec_ball/Magic0004_1
+  rotate: false
+  xy: 0, 137
+  size: 212, 210
+  orig: 212, 210
+  offset: 0, 0
+  index: -1

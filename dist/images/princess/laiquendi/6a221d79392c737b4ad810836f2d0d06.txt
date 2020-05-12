@@ -1,0 +1,153 @@
+
+sp_cr_e_werewolf_5.png
+size: 319,319
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 148, 219
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+dai1
+  rotate: false
+  xy: 148, 166
+  size: 81, 51
+  orig: 81, 51
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 130, 106
+  size: 75, 58
+  orig: 75, 58
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 0, 5
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 207, 98
+  size: 40, 66
+  orig: 40, 66
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 44
+  size: 128, 131
+  orig: 128, 131
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 250, 227
+  size: 62, 92
+  orig: 62, 92
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 130, 50
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 0, 177
+  size: 146, 142
+  orig: 146, 142
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 222, 1
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 231, 166
+  size: 51, 9
+  orig: 51, 9
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: true
+  xy: 242, 170
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: true
+  xy: 92, 2
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: false
+  xy: 287, 102
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: false
+  xy: 249, 113
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+ytui1
+  rotate: true
+  xy: 250, 200
+  size: 25, 60
+  orig: 25, 60
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: false
+  xy: 287, 130
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: false
+  xy: 141, 2
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: true
+  xy: 285, 170
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: false
+  xy: 186, 0
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+ztui1
+  rotate: true
+  xy: 186, 59
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1

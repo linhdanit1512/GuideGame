@@ -1,0 +1,85 @@
+
+.it_coin_wish_100 {
+   width: 98px;
+   height: 96px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/spin.png') 383px 210px;
+}
+
+.it_coin_wish_100.left {
+   padding-left: 98px;
+   padding-bottom: 96px;
+}
+
+.it_coin_wish_40 {
+   width: 40px;
+   height: 40px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/spin.png') 732px 115px;
+}
+
+.it_coin_wish_40.left {
+   padding-left: 40px;
+   padding-bottom: 40px;
+}
+
+.sy_bg_turntable {
+   width: 598px;
+   height: 642px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/spin.png') 1513px 599px;
+   transform: rotate(90deg);
+}
+
+.sy_bg_turntable.left {
+   padding-left: 598px;
+   padding-bottom: 642px;
+}
+
+.sy_tt_point_img {
+   width: 41px;
+   height: 83px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/spin.png') 776px 115px;
+}
+
+.sy_tt_point_img.left {
+   padding-left: 41px;
+   padding-bottom: 83px;
+}
+
+.sy_tt_reflash_btn {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/spin.png') 868px 115px;
+}
+
+.sy_tt_reflash_btn.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.sy_tt_table_img {
+   width: 481px;
+   height: 481px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/spin.png') 868px 599px;
+}
+
+.sy_tt_table_img.left {
+   padding-left: 481px;
+   padding-bottom: 481px;
+}
+
+.sy_tt_table_top {
+   width: 383px;
+   height: 384px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/spin.png') 384px 599px;
+}
+
+.sy_tt_table_top.left {
+   padding-left: 383px;
+   padding-bottom: 384px;
+}

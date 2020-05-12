@@ -1,0 +1,153 @@
+
+rhinoceros5.png
+size: 378,378
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2342
+  rotate: false
+  xy: 0, 281
+  size: 374, 97
+  orig: 374, 97
+  offset: 0, 0
+  index: -1
+3434
+  rotate: false
+  xy: 109, 120
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 109, 179
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+kl_fanguang
+  rotate: false
+  xy: 170, 20
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: true
+  xy: 102, 25
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+qunzi22
+  rotate: false
+  xy: 211, 218
+  size: 113, 61
+  orig: 113, 61
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 0, 0
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 211, 149
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 148
+  size: 107, 131
+  orig: 107, 131
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 0, 39
+  size: 100, 107
+  orig: 100, 107
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 102, 65
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 298, 139
+  size: 59, 13
+  orig: 59, 13
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: false
+  xy: 359, 116
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: false
+  xy: 286, 101
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: true
+  xy: 250, 72
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: false
+  xy: 250, 102
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+ytui1
+  rotate: false
+  xy: 326, 218
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: false
+  xy: 325, 97
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: false
+  xy: 205, 85
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: false
+  xy: 163, 66
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+ztui1
+  rotate: false
+  xy: 298, 154
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1

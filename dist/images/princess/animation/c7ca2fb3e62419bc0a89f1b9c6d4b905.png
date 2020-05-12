@@ -1,0 +1,62 @@
+
+sp_sk_hit_attacked_fire.png
+size: 614,614
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire-a
+  rotate: false
+  xy: 424, 433
+  size: 179, 179
+  orig: 180, 180
+  offset: 1, 0
+  index: -1
+fire-b
+  rotate: false
+  xy: 2, 3
+  size: 282, 236
+  orig: 282, 236
+  offset: 0, 0
+  index: -1
+fire-c
+  rotate: true
+  xy: 286, 2
+  size: 109, 111
+  orig: 109, 111
+  offset: 0, 0
+  index: -1
+firepiece
+  rotate: true
+  xy: 399, 24
+  size: 87, 57
+  orig: 87, 57
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 2, 241
+  size: 420, 371
+  orig: 420, 371
+  offset: 0, 0
+  index: -1
+shock
+  rotate: false
+  xy: 424, 248
+  size: 137, 183
+  orig: 137, 183
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 286, 113
+  size: 134, 126
+  orig: 134, 126
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 424, 116
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1

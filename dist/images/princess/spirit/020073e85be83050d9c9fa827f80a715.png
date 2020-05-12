@@ -1,0 +1,167 @@
+
+sp_cr_d_das_moge_6.png
+size: 396,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+232332
+  rotate: true
+  xy: 149, 141
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 149, 27
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+sp_unit_shadow
+  rotate: true
+  xy: 356, 306
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+unit_cgoblin_head
+  rotate: false
+  xy: 210, 268
+  size: 144, 128
+  orig: 144, 128
+  offset: 0, 0
+  index: -1
+unit_cgoblin_headxxxxx
+  rotate: false
+  xy: 149, 64
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+unit_goblin6_rocket2
+  rotate: false
+  xy: 0, 65
+  size: 147, 136
+  orig: 147, 136
+  offset: 0, 0
+  index: -1
+unit_goblin6_rocket3
+  rotate: false
+  xy: 0, 203
+  size: 208, 193
+  orig: 208, 193
+  offset: 0, 0
+  index: -1
+unit_goblin_bodyblue
+  rotate: false
+  xy: 210, 94
+  size: 102, 92
+  orig: 102, 92
+  offset: 0, 0
+  index: -1
+unit_goblin_bodybluexxx
+  rotate: true
+  xy: 210, 188
+  size: 78, 105
+  orig: 78, 105
+  offset: 0, 0
+  index: -1
+unit_goblin_hatblue
+  rotate: false
+  xy: 0, 15
+  size: 84, 48
+  orig: 84, 48
+  offset: 0, 0
+  index: -1
+unit_goblin_lhand
+  rotate: false
+  xy: 317, 181
+  size: 72, 85
+  orig: 72, 85
+  offset: 0, 0
+  index: -1
+unit_goblin_lhand2
+  rotate: false
+  xy: 362, 106
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+unit_goblin_lhandxxxx
+  rotate: true
+  xy: 199, 49
+  size: 43, 70
+  orig: 43, 70
+  offset: 0, 0
+  index: -1
+unit_goblin_lhandxxxx2
+  rotate: true
+  xy: 344, 59
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+unit_goblin_lleg
+  rotate: false
+  xy: 313, 57
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+unit_goblin_llegxxxx
+  rotate: false
+  xy: 86, 19
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+unit_goblin_llegxxxx2
+  rotate: false
+  xy: 271, 49
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+unit_goblin_rhand
+  rotate: true
+  xy: 356, 270
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+unit_goblin_rhandxsxxx
+  rotate: false
+  xy: 314, 111
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+unit_goblin_rhandxsxxx2
+  rotate: false
+  xy: 149, 0
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+unit_goblin_rleg
+  rotate: true
+  xy: 362, 141
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+unit_goblin_rlegxxxx
+  rotate: true
+  xy: 314, 92
+  size: 17, 41
+  orig: 17, 41
+  offset: 0, 0
+  index: -1
+yumao
+  rotate: false
+  xy: 129, 18
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1

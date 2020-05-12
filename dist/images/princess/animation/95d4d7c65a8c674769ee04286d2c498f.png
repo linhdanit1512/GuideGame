@@ -1,0 +1,55 @@
+
+sp_sk_rele_pet_screen_vimen.png
+size: 596,596
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangxian
+  rotate: false
+  xy: 222, 44
+  size: 19, 105
+  orig: 19, 105
+  offset: 0, 0
+  index: -1
+liuguang
+  rotate: false
+  xy: 222, 151
+  size: 68, 67
+  orig: 86, 85
+  offset: 9, 9
+  index: -1
+lizi
+  rotate: false
+  xy: 2, 220
+  size: 390, 374
+  orig: 390, 374
+  offset: 0, 0
+  index: -1
+shuipian
+  rotate: true
+  xy: 2, 2
+  size: 216, 218
+  orig: 225, 218
+  offset: 9, 0
+  index: -1
+suiguang
+  rotate: false
+  xy: 511, 435
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+tengman
+  rotate: false
+  xy: 394, 140
+  size: 115, 454
+  orig: 117, 454
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: false
+  xy: 511, 504
+  size: 83, 90
+  orig: 92, 104
+  offset: 9, 0
+  index: -1

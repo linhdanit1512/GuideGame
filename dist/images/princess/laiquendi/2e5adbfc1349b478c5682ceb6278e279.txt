@@ -1,0 +1,167 @@
+
+sp_cr_e_elf_ranger_5.png
+size: 349,349
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2130
+  rotate: false
+  xy: 235, 236
+  size: 82, 113
+  orig: 82, 113
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 114, 125
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+dsfas
+  rotate: false
+  xy: 114, 29
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 0, 75
+  size: 112, 274
+  orig: 112, 274
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: true
+  xy: 235, 198
+  size: 36, 80
+  orig: 36, 80
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 0, 36
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 234, 152
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1
+shentixxx
+  rotate: false
+  xy: 62, 0
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 114, 227
+  size: 119, 122
+  orig: 119, 122
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 210, 53
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 0, 0
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 301, 143
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: true
+  xy: 144, 0
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: false
+  xy: 266, 3
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: false
+  xy: 181, 1
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: true
+  xy: 210, 27
+  size: 24, 54
+  orig: 24, 54
+  offset: 0, 0
+  index: -1
+ytui1
+  rotate: false
+  xy: 266, 43
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+ytui22
+  rotate: false
+  xy: 216, 139
+  size: 16, 86
+  orig: 16, 86
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: true
+  xy: 106, 0
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: false
+  xy: 319, 307
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: false
+  xy: 301, 113
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: false
+  xy: 319, 245
+  size: 23, 60
+  orig: 23, 60
+  offset: 0, 0
+  index: -1
+ztui1
+  rotate: true
+  xy: 234, 109
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1

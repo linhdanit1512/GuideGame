@@ -1,0 +1,185 @@
+
+.sy_bg_void_for_door_1 {
+   width: 575px;
+   height: 565px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/gatesofvoid.png') 1998px 1144px;
+}
+
+.sy_bg_void_for_door_1.left {
+   padding-left: 575px;
+   padding-bottom: 565px;
+}
+
+.sy_bg_void_for_door_1_small {
+   width: 114px;
+   height: 85px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/gatesofvoid.png') 852px 170px;
+}
+
+.sy_bg_void_for_door_1_small.left {
+   padding-left: 114px;
+   padding-bottom: 85px;
+}
+
+.sy_bg_void_for_door_2 {
+   width: 575px;
+   height: 565px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/gatesofvoid.png') 1420px 1144px;
+}
+
+.sy_bg_void_for_door_2.left {
+   padding-left: 575px;
+   padding-bottom: 565px;
+}
+
+.sy_bg_void_for_door_2_small {
+   width: 114px;
+   height: 85px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/gatesofvoid.png') 735px 170px;
+}
+
+.sy_bg_void_for_door_2_small.left {
+   padding-left: 114px;
+   padding-bottom: 85px;
+}
+
+.sy_bg_void_for_door_3 {
+   width: 575px;
+   height: 565px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/gatesofvoid.png') 842px 1144px;
+}
+
+.sy_bg_void_for_door_3.left {
+   padding-left: 575px;
+   padding-bottom: 565px;
+}
+
+.sy_bg_void_for_door_3_small {
+   width: 114px;
+   height: 85px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/gatesofvoid.png') 618px 170px;
+}
+
+.sy_bg_void_for_door_3_small.left {
+   padding-left: 114px;
+   padding-bottom: 85px;
+}
+
+.sy_bg_void_for_door_4 {
+   width: 575px;
+   height: 565px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/gatesofvoid.png') 1998px 576px;
+   transform: rotate(90deg);
+}
+
+.sy_bg_void_for_door_4.left {
+   padding-left: 575px;
+   padding-bottom: 565px;
+}
+
+.sy_bg_void_for_door_4_small {
+   width: 114px;
+   height: 85px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/gatesofvoid.png') 501px 170px;
+}
+
+.sy_bg_void_for_door_4_small.left {
+   padding-left: 114px;
+   padding-bottom: 85px;
+}
+
+.sy_bg_void_for_door_5 {
+   width: 575px;
+   height: 565px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/gatesofvoid.png') 1430px 576px;
+}
+
+.sy_bg_void_for_door_5.left {
+   padding-left: 575px;
+   padding-bottom: 565px;
+}
+
+.sy_bg_void_for_door_5_small {
+   width: 114px;
+   height: 85px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/gatesofvoid.png') 384px 170px;
+   transform: rotate(90deg);
+}
+
+.sy_bg_void_for_door_5_small.left {
+   padding-left: 114px;
+   padding-bottom: 85px;
+}
+
+.sy_bg_void_for_door_rank_head {
+   width: 426px;
+   height: 216px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/gatesofvoid.png') 280px 572px;
+   transform: rotate(90deg);
+}
+
+.sy_bg_void_for_door_rank_head.left {
+   padding-left: 426px;
+   padding-bottom: 216px;
+}
+
+.sy_bg_void_for_door_shop {
+   width: 569px;
+   height: 258px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/gatesofvoid.png') 264px 1144px;
+   transform: rotate(90deg);
+}
+
+.sy_bg_void_for_door_shop.left {
+   padding-left: 569px;
+   padding-bottom: 258px;
+}
+
+.sy_bg_void_for_door_shop_font {
+   width: 569px;
+   height: 60px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/gatesofvoid.png') 61px 671px;
+   transform: rotate(90deg);
+}
+
+.sy_bg_void_for_door_shop_font.left {
+   padding-left: 569px;
+   padding-bottom: 60px;
+}
+
+.sy_bg_void_for_door_shop_head_1 {
+   width: 569px;
+   height: 258px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/gatesofvoid.png') 852px 576px;
+}
+
+.sy_bg_void_for_door_shop_head_1.left {
+   padding-left: 569px;
+   padding-bottom: 258px;
+}
+
+.sy_bg_void_for_door_shop_head_2 {
+   width: 569px;
+   height: 142px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/gatesofvoid.png') 852px 373px;
+}
+
+.sy_bg_void_for_door_shop_head_2.left {
+   padding-left: 569px;
+   padding-bottom: 142px;
+}

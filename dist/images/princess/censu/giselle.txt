@@ -1,0 +1,160 @@
+
+giselle.png
+size: 343,343
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: false
+  xy: 255, 93
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: true
+  xy: 310, 159
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: false
+  xy: 139, 0
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: true
+  xy: 304, 204
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 203, 60
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: false
+  xy: 239, 222
+  size: 63, 19
+  orig: 63, 19
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: false
+  xy: 238, 191
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: true
+  xy: 310, 119
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: true
+  xy: 282, 143
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 201
+  size: 135, 142
+  orig: 135, 142
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 256, 133
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 225, 136
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+MouthOpen
+  rotate: true
+  xy: 129, 111
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+SkirtL
+  rotate: false
+  xy: 0, 78
+  size: 127, 121
+  orig: 127, 121
+  offset: 0, 0
+  index: -1
+SkirtR
+  rotate: false
+  xy: 137, 227
+  size: 100, 116
+  orig: 100, 116
+  offset: 0, 0
+  index: -1
+WeaponR
+  rotate: false
+  xy: 129, 125
+  size: 94, 68
+  orig: 94, 68
+  offset: 0, 0
+  index: -1
+baoza
+  rotate: false
+  xy: 239, 243
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: true
+  xy: 203, 0
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 137, 195
+  size: 99, 30
+  orig: 99, 30
+  offset: 0, 0
+  index: -1
+shuidi
+  rotate: true
+  xy: 0, 3
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 139, 42
+  size: 62, 81
+  orig: 62, 81
+  offset: 0, 0
+  index: -1
+ztoufa
+  rotate: true
+  xy: 0, 19
+  size: 57, 137
+  orig: 57, 137
+  offset: 0, 0
+  index: -1

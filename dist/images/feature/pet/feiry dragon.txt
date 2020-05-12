@@ -1,0 +1,104 @@
+
+feiry dragon.png
+size: 385,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ArmUpF
+  rotate: false
+  xy: 260, 9
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+images/ArmUpL
+  rotate: false
+  xy: 147, 9
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+images/Body
+  rotate: false
+  xy: 196, 38
+  size: 62, 68
+  orig: 62, 68
+  offset: 0, 0
+  index: -1
+images/EarF
+  rotate: false
+  xy: 351, 5
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+images/EarL
+  rotate: false
+  xy: 310, 10
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+images/FootL
+  rotate: false
+  xy: 366, 95
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+images/FootR
+  rotate: false
+  xy: 286, 34
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+images/Head
+  rotate: false
+  xy: 2, 3
+  size: 115, 103
+  orig: 115, 103
+  offset: 0, 0
+  index: -1
+images/LegF
+  rotate: false
+  xy: 176, 10
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+images/LegL
+  rotate: false
+  xy: 201, 10
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+images/LegUpL
+  rotate: false
+  xy: 119, 2
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+images/SkirtB
+  rotate: false
+  xy: 260, 47
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+images/SkirtL
+  rotate: false
+  xy: 310, 61
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+images/SkirtR
+  rotate: false
+  xy: 119, 46
+  size: 75, 60
+  orig: 75, 60
+  offset: 0, 0
+  index: -1

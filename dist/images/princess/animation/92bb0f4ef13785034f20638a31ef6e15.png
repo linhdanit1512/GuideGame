@@ -1,0 +1,111 @@
+
+sp_speed_blade.png
+size: 257,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10001
+  rotate: false
+  xy: 149, 134
+  size: 102, 22
+  orig: 150, 41
+  offset: 48, 11
+  index: -1
+10002
+  rotate: false
+  xy: 145, 126
+  size: 59, 6
+  orig: 150, 41
+  offset: 61, 20
+  index: -1
+10003
+  rotate: false
+  xy: 2, 227
+  size: 150, 28
+  orig: 150, 41
+  offset: 0, 9
+  index: -1
+10004
+  rotate: false
+  xy: 2, 151
+  size: 145, 36
+  orig: 150, 41
+  offset: 5, 3
+  index: -1
+10005
+  rotate: false
+  xy: 2, 189
+  size: 148, 36
+  orig: 150, 41
+  offset: 0, 3
+  index: -1
+10006
+  rotate: false
+  xy: 2, 109
+  size: 141, 40
+  orig: 150, 41
+  offset: 0, 1
+  index: -1
+10007
+  rotate: false
+  xy: 48, 3
+  size: 59, 41
+  orig: 150, 41
+  offset: 38, 0
+  index: -1
+10008
+  rotate: false
+  xy: 109, 3
+  size: 59, 41
+  orig: 150, 41
+  offset: 38, 0
+  index: -1
+d0001
+  rotate: true
+  xy: 2, 2
+  size: 42, 44
+  orig: 54, 61
+  offset: 6, 10
+  index: -1
+d0002
+  rotate: false
+  xy: 57, 46
+  size: 52, 61
+  orig: 54, 61
+  offset: 2, 0
+  index: -1
+d0003
+  rotate: false
+  xy: 2, 46
+  size: 53, 61
+  orig: 54, 61
+  offset: 1, 0
+  index: -1
+d0004
+  rotate: false
+  xy: 170, 29
+  size: 54, 58
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+d0005
+  rotate: false
+  xy: 111, 48
+  size: 53, 59
+  orig: 54, 61
+  offset: 1, 0
+  index: -1
+g
+  rotate: false
+  xy: 206, 89
+  size: 46, 43
+  orig: 50, 49
+  offset: 2, 3
+  index: -1
+q
+  rotate: true
+  xy: 154, 158
+  size: 97, 98
+  orig: 100, 100
+  offset: 2, 1
+  index: -1

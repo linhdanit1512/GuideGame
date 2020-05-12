@@ -1,0 +1,27 @@
+
+sp_bt_dropsmoke.png
+size: 306,81
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PE/1
+  rotate: false
+  xy: 103, 6
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+PE/2
+  rotate: false
+  xy: 2, 2
+  size: 99, 77
+  orig: 100, 78
+  offset: 1, 1
+  index: -1
+PE/3
+  rotate: false
+  xy: 205, 12
+  size: 99, 67
+  orig: 100, 68
+  offset: 1, 1
+  index: -1

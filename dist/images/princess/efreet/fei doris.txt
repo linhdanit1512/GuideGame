@@ -1,0 +1,153 @@
+
+fei doris.png
+size: 375,375
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 108, 48
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 181, 117
+  size: 87, 258
+  orig: 87, 258
+  offset: 0, 0
+  index: -1
+ArmL
+  rotate: true
+  xy: 108, 4
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: true
+  xy: 327, 72
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: true
+  xy: 270, 110
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: false
+  xy: 0, 117
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 270, 263
+  size: 65, 112
+  orig: 65, 112
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 342, 221
+  size: 57, 19
+  orig: 57, 19
+  offset: 0, 0
+  index: -1
+EyeClose2
+  rotate: false
+  xy: 150, 6
+  size: 53, 24
+  orig: 53, 24
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 133, 127
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: false
+  xy: 222, 80
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: true
+  xy: 150, 68
+  size: 47, 70
+  orig: 47, 70
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: true
+  xy: 262, 71
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: true
+  xy: 150, 32
+  size: 34, 71
+  orig: 34, 71
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 0, 171
+  size: 179, 204
+  orig: 179, 204
+  offset: 0, 0
+  index: -1
+fuziguang
+  rotate: true
+  xy: 45, 121
+  size: 48, 86
+  orig: 48, 86
+  offset: 0, 0
+  index: -1
+quenzi
+  rotate: true
+  xy: 270, 162
+  size: 99, 70
+  orig: 99, 70
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 337, 280
+  size: 95, 28
+  orig: 95, 28
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 0, 0
+  size: 115, 106
+  orig: 115, 106
+  offset: 0, 0
+  index: -1
+z1
+  rotate: false
+  xy: 205, 21
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+z2
+  rotate: true
+  xy: 167, 155
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1

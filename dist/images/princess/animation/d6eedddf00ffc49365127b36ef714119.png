@@ -1,0 +1,48 @@
+
+sp_blue_elec_fly.png
+size: 304,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 2, 175
+  size: 300, 37
+  orig: 300, 46
+  offset: 0, 9
+  index: -1
+b2
+  rotate: false
+  xy: 2, 259
+  size: 297, 43
+  orig: 300, 46
+  offset: 0, 1
+  index: -1
+b3
+  rotate: false
+  xy: 2, 214
+  size: 292, 43
+  orig: 300, 46
+  offset: 3, 0
+  index: -1
+b4
+  rotate: false
+  xy: 2, 131
+  size: 273, 42
+  orig: 300, 46
+  offset: 14, 0
+  index: -1
+b5
+  rotate: false
+  xy: 2, 85
+  size: 213, 44
+  orig: 300, 46
+  offset: 26, 0
+  index: -1
+b6
+  rotate: false
+  xy: 2, 39
+  size: 173, 44
+  orig: 300, 46
+  offset: 26, 0
+  index: -1

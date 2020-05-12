@@ -1,0 +1,188 @@
+
+sp_cr_d_belial_4.png
+size: 460,460
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: false
+  xy: 407, 325
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: true
+  xy: 290, 166
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: false
+  xy: 412, 267
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: false
+  xy: 211, 294
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 343, 63
+  size: 65, 112
+  orig: 65, 112
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 205, 103
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: true
+  xy: 180, 103
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+FootL
+  rotate: false
+  xy: 148, 4
+  size: 28, 97
+  orig: 28, 97
+  offset: 0, 0
+  index: -1
+FootR
+  rotate: false
+  xy: 178, 9
+  size: 33, 92
+  orig: 33, 92
+  offset: 0, 0
+  index: -1
+HairBL
+  rotate: true
+  xy: 330, 279
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+HairBR
+  rotate: false
+  xy: 412, 135
+  size: 33, 62
+  orig: 33, 62
+  offset: 0, 0
+  index: -1
+HairFL
+  rotate: false
+  xy: 412, 199
+  size: 39, 66
+  orig: 39, 66
+  offset: 0, 0
+  index: -1
+HairFM1
+  rotate: true
+  xy: 330, 130
+  size: 147, 80
+  orig: 147, 80
+  offset: 0, 0
+  index: -1
+HairFR
+  rotate: false
+  xy: 0, 0
+  size: 44, 101
+  orig: 44, 101
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 180, 428
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: false
+  xy: 290, 129
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 222, 3
+  size: 119, 124
+  orig: 119, 124
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: false
+  xy: 407, 371
+  size: 53, 89
+  orig: 53, 89
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: false
+  xy: 290, 209
+  size: 38, 83
+  orig: 38, 83
+  offset: 0, 0
+  index: -1
+SkirtL
+  rotate: false
+  xy: 343, 3
+  size: 103, 58
+  orig: 103, 58
+  offset: 0, 0
+  index: -1
+WeaponR
+  rotate: false
+  xy: 0, 103
+  size: 178, 357
+  orig: 178, 357
+  offset: 0, 0
+  index: -1
+WingL
+  rotate: false
+  xy: 213, 352
+  size: 192, 108
+  orig: 192, 108
+  offset: 0, 0
+  index: -1
+WingR
+  rotate: true
+  xy: 180, 129
+  size: 163, 108
+  orig: 163, 108
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 273, 294
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+guangqiu
+  rotate: false
+  xy: 46, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 180, 294
+  size: 132, 29
+  orig: 132, 29
+  offset: 0, 0
+  index: -1

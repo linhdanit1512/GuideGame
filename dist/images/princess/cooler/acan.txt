@@ -1,0 +1,34 @@
+
+acan.png
+size: 177,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 0, 10
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+BF_bizi
+  rotate: false
+  xy: 60, 40
+  size: 62, 28
+  orig: 62, 28
+  offset: 0, 0
+  index: -1
+BF_tou
+  rotate: false
+  xy: 0, 70
+  size: 138, 107
+  orig: 138, 107
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 140, 87
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+sp_bf_end_freeze.png
+size: 261,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 159, 58
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 159, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+x
+  rotate: false
+  xy: 215, 14
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+yanhuo_3200007
+  rotate: false
+  xy: 2, 5
+  size: 155, 153
+  orig: 155, 153
+  offset: 0, 0
+  index: -1

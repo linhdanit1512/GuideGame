@@ -1,0 +1,146 @@
+
+sp_cr_e_dragon_shaman_3.png
+size: 273,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 0, 70
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 102, 86
+  size: 77, 84
+  orig: 77, 84
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 114, 173
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 206, 183
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 0, 11
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+shentixxx
+  rotate: false
+  xy: 181, 79
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 172
+  size: 112, 101
+  orig: 112, 101
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 118, 30
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 249, 134
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 224, 128
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: false
+  xy: 213, 38
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: false
+  xy: 174, 38
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: false
+  xy: 220, 10
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: false
+  xy: 245, 214
+  size: 27, 59
+  orig: 27, 59
+  offset: 0, 0
+  index: -1
+ytui1
+  rotate: false
+  xy: 77, 4
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: false
+  xy: 225, 84
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: true
+  xy: 179, 5
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: false
+  xy: 245, 184
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: true
+  xy: 118, 3
+  size: 25, 59
+  orig: 25, 59
+  offset: 0, 0
+  index: -1
+ztui1
+  rotate: false
+  xy: 181, 106
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1

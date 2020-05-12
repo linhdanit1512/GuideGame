@@ -1,0 +1,62 @@
+
+sp_ui_hero_levelup_down.png
+size: 1112,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ty_js_tx01
+  rotate: true
+  xy: 2, 2
+  size: 248, 299
+  orig: 340, 314
+  offset: 41, 14
+  index: -1
+ty_js_tx02
+  rotate: true
+  xy: 303, 33
+  size: 38, 261
+  orig: 38, 261
+  offset: 0, 0
+  index: -1
+ty_js_tx03
+  rotate: false
+  xy: 303, 73
+  size: 340, 177
+  orig: 340, 177
+  offset: 0, 0
+  index: -1
+ty_js_tx04 - 副本
+  rotate: false
+  xy: 566, 24
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+ty_js_tx05 - 副本
+  rotate: false
+  xy: 645, 27
+  size: 193, 223
+  orig: 193, 223
+  offset: 0, 0
+  index: -1
+ty_js_tx05 - 副本 (2)
+  rotate: true
+  xy: 986, 114
+  size: 136, 124
+  orig: 136, 124
+  offset: 0, 0
+  index: -1
+ty_js_tx05 - 副本 (3)
+  rotate: true
+  xy: 840, 26
+  size: 224, 144
+  orig: 224, 144
+  offset: 0, 0
+  index: -1
+ty_js_tx05 - 副本 (4)
+  rotate: false
+  xy: 986, 36
+  size: 123, 76
+  orig: 123, 76
+  offset: 0, 0
+  index: -1

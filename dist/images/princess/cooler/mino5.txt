@@ -1,0 +1,146 @@
+
+mino5.png
+size: 273,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1233
+  rotate: false
+  xy: 194, 0
+  size: 49, 17
+  orig: 49, 17
+  offset: 0, 0
+  index: -1
+34343434
+  rotate: false
+  xy: 192, 151
+  size: 41, 122
+  orig: 41, 122
+  offset: 0, 0
+  index: -1
+ArmL
+  rotate: true
+  xy: 224, 109
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: false
+  xy: 232, 67
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: true
+  xy: 139, 133
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: true
+  xy: 187, 68
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 0, 20
+  size: 44, 85
+  orig: 44, 85
+  offset: 0, 0
+  index: -1
+Body1
+  rotate: true
+  xy: 194, 19
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: false
+  xy: 0, 7
+  size: 57, 11
+  orig: 57, 11
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: true
+  xy: 168, 13
+  size: 53, 24
+  orig: 53, 24
+  offset: 0, 0
+  index: -1
+HairFM2
+  rotate: false
+  xy: 187, 103
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: false
+  xy: 0, 66
+  size: 112, 65
+  orig: 112, 65
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 133
+  size: 137, 140
+  orig: 137, 140
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 158, 68
+  size: 27, 63
+  orig: 27, 63
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 125, 9
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: false
+  xy: 114, 64
+  size: 42, 67
+  orig: 42, 67
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: false
+  xy: 87, 0
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 139, 159
+  size: 51, 114
+  orig: 51, 114
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 235, 174
+  size: 99, 27
+  orig: 99, 27
+  offset: 0, 0
+  index: -1
+shaoguang
+  rotate: false
+  xy: 226, 26
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1

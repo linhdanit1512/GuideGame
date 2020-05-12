@@ -1,0 +1,146 @@
+
+dorothy6.png
+size: 424,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 138, 88
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+chibang_y
+  rotate: true
+  xy: 264, 221
+  size: 101, 130
+  orig: 101, 130
+  offset: 0, 0
+  index: -1
+chibang_z
+  rotate: false
+  xy: 152, 292
+  size: 110, 130
+  orig: 110, 130
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: true
+  xy: 152, 190
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: true
+  xy: 2, 76
+  size: 166, 134
+  orig: 166, 134
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 138, 59
+  size: 90, 27
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 126, 6
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+shu
+  rotate: true
+  xy: 331, 89
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 244
+  size: 148, 178
+  orig: 148, 178
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 264, 324
+  size: 98, 141
+  orig: 98, 141
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 190, 3
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+xierke_shizi
+  rotate: true
+  xy: 240, 87
+  size: 79, 89
+  orig: 79, 89
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 230, 60
+  size: 68, 25
+  orig: 68, 25
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 407, 355
+  size: 67, 14
+  orig: 67, 14
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: false
+  xy: 369, 186
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: true
+  xy: 2, 25
+  size: 49, 122
+  orig: 49, 122
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: true
+  xy: 396, 292
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: false
+  xy: 246, 17
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: true
+  xy: 255, 168
+  size: 51, 112
+  orig: 51, 112
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: false
+  xy: 396, 260
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

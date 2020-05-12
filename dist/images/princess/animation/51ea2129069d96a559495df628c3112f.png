@@ -1,0 +1,83 @@
+
+sp_bf_end_petrify.png
+size: 123,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sp_frozonwave
+  rotate: false
+  xy: 66, 75
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+sp_frozonwave2
+  rotate: false
+  xy: 2, 61
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+sp_icefrozen
+  rotate: false
+  xy: 2, 23
+  size: 67, 36
+  orig: 67, 36
+  offset: 0, 0
+  index: -1
+sp_icefrozenflower
+  rotate: true
+  xy: 105, 32
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+sp_icefrozensbigpiece1
+  rotate: false
+  xy: 71, 48
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+sp_icefrozensbigpiece2
+  rotate: true
+  xy: 2, 2
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+sp_icefrozensbigpiece3
+  rotate: true
+  xy: 35, 3
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+sp_icefrozenssmallpiece1
+  rotate: false
+  xy: 71, 23
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+sp_icefrozenssmallpiece2
+  rotate: true
+  xy: 89, 29
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+sp_icefrozenssmallpiece3
+  rotate: true
+  xy: 69, 6
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+sp_icefrozenssmallpiece4
+  rotate: false
+  xy: 92, 50
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1

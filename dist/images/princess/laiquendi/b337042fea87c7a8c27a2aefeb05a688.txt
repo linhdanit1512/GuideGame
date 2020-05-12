@@ -1,0 +1,174 @@
+
+sp_cr_e_orphee_5.png
+size: 449,449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: true
+  xy: 173, 306
+  size: 32, 112
+  orig: 32, 112
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 339, 113
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 409, 99
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 246, 26
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 366, 67
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 303, 82
+  size: 61, 29
+  orig: 61, 29
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 247, 155
+  size: 39, 77
+  orig: 39, 77
+  offset: 0, 0
+  index: -1
+ArmL
+  rotate: false
+  xy: 361, 18
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: true
+  xy: 304, 38
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 339, 210
+  size: 75, 103
+  orig: 75, 103
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 326, 137
+  size: 57, 11
+  orig: 57, 11
+  offset: 0, 0
+  index: -1
+HairFM1
+  rotate: false
+  xy: 339, 145
+  size: 104, 63
+  orig: 104, 63
+  offset: 0, 0
+  index: -1
+HairFR
+  rotate: true
+  xy: 272, 196
+  size: 108, 65
+  orig: 108, 65
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 25
+  size: 127, 136
+  orig: 127, 136
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: true
+  xy: 339, 287
+  size: 41, 110
+  orig: 41, 110
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: true
+  xy: 164, 164
+  size: 32, 81
+  orig: 32, 81
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: true
+  xy: 129, 27
+  size: 134, 115
+  orig: 134, 115
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 0, 319
+  size: 171, 130
+  orig: 171, 130
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 246, 76
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 164, 198
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 331, 330
+  size: 117, 119
+  orig: 117, 119
+  offset: 0, 0
+  index: -1
+youpiaodai
+  rotate: true
+  xy: 173, 340
+  size: 109, 156
+  orig: 109, 156
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 114, 163
+  size: 154, 48
+  orig: 154, 48
+  offset: 0, 0
+  index: -1
+zuopiaodai
+  rotate: false
+  xy: 0, 163
+  size: 112, 154
+  orig: 112, 154
+  offset: 0, 0
+  index: -1

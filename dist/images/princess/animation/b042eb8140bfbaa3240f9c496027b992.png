@@ -1,0 +1,55 @@
+
+sp_sk_fly_pet_yellow_2.png
+size: 661,661
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Magic0002_4
+  rotate: true
+  xy: 526, 525
+  size: 136, 135
+  orig: 136, 135
+  offset: 0, 0
+  index: -1
+Magic0004_1
+  rotate: true
+  xy: 442, 235
+  size: 212, 210
+  orig: 212, 210
+  offset: 0, 0
+  index: -1
+Magic0004_2
+  rotate: true
+  xy: 240, 172
+  size: 230, 200
+  orig: 230, 200
+  offset: 0, 0
+  index: -1
+gb0003
+  rotate: false
+  xy: 0, 404
+  size: 291, 257
+  orig: 291, 257
+  offset: 0, 0
+  index: -1
+guangqiu
+  rotate: false
+  xy: 0, 164
+  size: 238, 238
+  orig: 238, 238
+  offset: 0, 0
+  index: -1
+guangqiu2
+  rotate: false
+  xy: 293, 449
+  size: 231, 212
+  orig: 231, 212
+  offset: 0, 0
+  index: -1
+tuowei
+  rotate: true
+  xy: 0, 112
+  size: 50, 185
+  orig: 50, 185
+  offset: 0, 0
+  index: -1

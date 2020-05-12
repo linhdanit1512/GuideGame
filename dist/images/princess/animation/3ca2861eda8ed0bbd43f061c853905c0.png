@@ -1,0 +1,27 @@
+
+sp_bt_result_card_select_down.png
+size: 367,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 163, 33
+  size: 150, 134
+  orig: 150, 136
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 2
+  size: 159, 165
+  orig: 161, 169
+  offset: 1, 2
+  index: -1
+g
+  rotate: false
+  xy: 315, 118
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1

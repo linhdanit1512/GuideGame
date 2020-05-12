@@ -1,0 +1,456 @@
+
+.sy_activ7_way_bg {
+   width: 401px;
+   height: 877px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 1019px 1378px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_bg.left {
+   padding-left: 401px;
+   padding-bottom: 877px;
+}
+
+.sy_activ7_way_bg2 {
+   width: 343px;
+   height: 438px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 1019px 974px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_bg2.left {
+   padding-left: 343px;
+   padding-bottom: 438px;
+}
+
+.sy_activ7_way_icon {
+   width: 66px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 104px 68px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon.left {
+   padding-left: 66px;
+   padding-bottom: 89px;
+}
+
+.sy_activ7_way_icon1 {
+   width: 80px;
+   height: 80px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 377px 428px;
+}
+
+.sy_activ7_way_icon1.left {
+   padding-left: 80px;
+   padding-bottom: 80px;
+}
+
+.sy_activ7_way_icon1_1_1 {
+   width: 56px;
+   height: 54px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 218px 60px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon1_1_1.left {
+   padding-left: 56px;
+   padding-bottom: 54px;
+}
+
+.sy_activ7_way_icon1_1_2 {
+   width: 78px;
+   height: 76px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 377px 345px;
+}
+
+.sy_activ7_way_icon1_1_2.left {
+   padding-left: 78px;
+   padding-bottom: 76px;
+}
+
+.sy_activ7_way_icon1_1_3 {
+   width: 56px;
+   height: 54px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 161px 60px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon1_1_3.left {
+   padding-left: 56px;
+   padding-bottom: 54px;
+}
+
+.sy_activ7_way_icon1_2_1 {
+   width: 176px;
+   height: 109px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 851px 185px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon1_2_1.left {
+   padding-left: 176px;
+   padding-bottom: 109px;
+}
+
+.sy_activ7_way_icon1_2_2 {
+   width: 198px;
+   height: 131px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 1019px 628px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon1_2_2.left {
+   padding-left: 198px;
+   padding-bottom: 131px;
+}
+
+.sy_activ7_way_icon1_2_3 {
+   width: 176px;
+   height: 109px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 739px 187px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon1_2_3.left {
+   padding-left: 176px;
+   padding-bottom: 109px;
+}
+
+.sy_activ7_way_icon2_1_1 {
+   width: 212px;
+   height: 79px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 541px 422px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon2_1_1.left {
+   padding-left: 212px;
+   padding-bottom: 79px;
+}
+
+.sy_activ7_way_icon2_1_2 {
+   width: 232px;
+   height: 99px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 820px 422px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon2_1_2.left {
+   padding-left: 232px;
+   padding-bottom: 99px;
+}
+
+.sy_activ7_way_icon2_1_3 {
+   width: 212px;
+   height: 79px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 459px 422px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon2_1_3.left {
+   padding-left: 212px;
+   padding-bottom: 79px;
+}
+
+.sy_activ7_way_icon2_2_1 {
+   width: 120px;
+   height: 137px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 139px 1199px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon2_2_1.left {
+   padding-left: 120px;
+   padding-bottom: 137px;
+}
+
+.sy_activ7_way_icon2_2_2 {
+   width: 140px;
+   height: 157px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 143px 953px;
+}
+
+.sy_activ7_way_icon2_2_2.left {
+   padding-left: 140px;
+   padding-bottom: 157px;
+}
+
+.sy_activ7_way_icon2_2_3 {
+   width: 120px;
+   height: 137px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 139px 1076px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon2_2_3.left {
+   padding-left: 120px;
+   padding-bottom: 137px;
+}
+
+.sy_activ7_way_icon2_3_1 {
+   width: 164px;
+   height: 145px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 294px 384px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon2_3_1.left {
+   padding-left: 164px;
+   padding-bottom: 145px;
+}
+
+.sy_activ7_way_icon2_3_2 {
+   width: 184px;
+   height: 165px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 1019px 185px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon2_3_2.left {
+   padding-left: 184px;
+   padding-bottom: 165px;
+}
+
+.sy_activ7_way_icon2_3_3 {
+   width: 164px;
+   height: 145px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 146px 374px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon2_3_3.left {
+   padding-left: 164px;
+   padding-bottom: 145px;
+}
+
+.sy_activ7_way_icon2_4_1 {
+   width: 145px;
+   height: 122px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 585px 553px;
+}
+
+.sy_activ7_way_icon2_4_1.left {
+   padding-left: 145px;
+   padding-bottom: 122px;
+}
+
+.sy_activ7_way_icon2_4_2 {
+   width: 166px;
+   height: 143px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 289px 553px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon2_4_2.left {
+   padding-left: 166px;
+   padding-bottom: 143px;
+}
+
+.sy_activ7_way_icon2_4_3 {
+   width: 145px;
+   height: 122px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 437px 553px;
+}
+
+.sy_activ7_way_icon2_4_3.left {
+   padding-left: 145px;
+   padding-bottom: 122px;
+}
+
+.sy_activ7_way_icon2_5_1 {
+   width: 177px;
+   height: 139px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 143px 793px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon2_5_1.left {
+   padding-left: 177px;
+   padding-bottom: 139px;
+}
+
+.sy_activ7_way_icon2_5_2 {
+   width: 197px;
+   height: 159px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 885px 628px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon2_5_2.left {
+   padding-left: 197px;
+   padding-bottom: 159px;
+}
+
+.sy_activ7_way_icon2_5_3 {
+   width: 176px;
+   height: 137px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 139px 1378px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon2_5_3.left {
+   padding-left: 176px;
+   padding-bottom: 137px;
+}
+
+.sy_activ7_way_icon3_1_1 {
+   width: 45px;
+   height: 134px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 143px 422px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon3_1_1.left {
+   padding-left: 45px;
+   padding-bottom: 134px;
+}
+
+.sy_activ7_way_icon3_1_2 {
+   width: 67px;
+   height: 154px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 218px 217px;
+}
+
+.sy_activ7_way_icon3_1_2.left {
+   padding-left: 67px;
+   padding-bottom: 154px;
+}
+
+.sy_activ7_way_icon3_1_3 {
+   width: 45px;
+   height: 134px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 148px 116px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon3_1_3.left {
+   padding-left: 45px;
+   padding-bottom: 134px;
+}
+
+.sy_activ7_way_icon3_2_1 {
+   width: 135px;
+   height: 188px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 143px 613px;
+}
+
+.sy_activ7_way_icon3_2_1.left {
+   padding-left: 135px;
+   padding-bottom: 188px;
+}
+
+.sy_activ7_way_icon3_2_2 {
+   width: 156px;
+   height: 210px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 377px 217px;
+}
+
+.sy_activ7_way_icon3_2_2.left {
+   padding-left: 156px;
+   padding-bottom: 210px;
+}
+
+.sy_activ7_way_icon3_2_3 {
+   width: 135px;
+   height: 188px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 723px 628px;
+}
+
+.sy_activ7_way_icon3_2_3.left {
+   padding-left: 135px;
+   padding-bottom: 188px;
+}
+
+.sy_activ7_way_icon4_1_1 {
+   width: 174px;
+   height: 214px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 718px 422px;
+}
+
+.sy_activ7_way_icon4_1_1.left {
+   padding-left: 174px;
+   padding-bottom: 214px;
+}
+
+.sy_activ7_way_icon4_1_2 {
+   width: 196px;
+   height: 234px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 1019px 422px;
+}
+
+.sy_activ7_way_icon4_1_2.left {
+   padding-left: 196px;
+   padding-bottom: 234px;
+}
+
+.sy_activ7_way_icon4_1_3 {
+   width: 174px;
+   height: 214px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 627px 205px;
+   transform: rotate(90deg);
+}
+
+.sy_activ7_way_icon4_1_3.left {
+   padding-left: 174px;
+   padding-bottom: 214px;
+}
+
+.sy_activ8_fund_bg {
+   width: 418px;
+   height: 432px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 578px 973px;
+   transform: rotate(90deg);
+}
+
+.sy_activ8_fund_bg.left {
+   padding-left: 418px;
+   padding-bottom: 432px;
+}
+
+.sy_activ8_fund_icon {
+   width: 100px;
+   height: 88px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/7day.png') 104px 207px;
+}
+
+.sy_activ8_fund_icon.left {
+   padding-left: 100px;
+   padding-bottom: 88px;
+}

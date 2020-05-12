@@ -1,0 +1,55 @@
+
+sp_sk_hit_shenglingzhiguang.png
+size: 585,585
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d
+  rotate: false
+  xy: 287, 103
+  size: 186, 92
+  orig: 186, 92
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 0, 0
+  size: 67, 326
+  orig: 67, 326
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: true
+  xy: 328, 6
+  size: 95, 168
+  orig: 95, 168
+  offset: 0, 0
+  index: -1
+guang5
+  rotate: true
+  xy: 299, 197
+  size: 188, 198
+  orig: 188, 198
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 299, 387
+  size: 285, 198
+  orig: 285, 198
+  offset: 0, 0
+  index: -1
+quanb
+  rotate: false
+  xy: 0, 69
+  size: 285, 214
+  orig: 285, 214
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 0, 285
+  size: 297, 300
+  orig: 297, 300
+  offset: 0, 0
+  index: -1

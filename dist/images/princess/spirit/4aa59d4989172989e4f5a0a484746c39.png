@@ -1,0 +1,160 @@
+
+sp_cr_d_dark_judge_6.png
+size: 367,367
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 178, 179
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 0, 138
+  size: 156, 81
+  orig: 156, 81
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 258, 140
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shent4i
+  rotate: false
+  xy: 258, 88
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 0, 7
+  size: 45, 89
+  orig: 45, 89
+  offset: 0, 0
+  index: -1
+shentixxx
+  rotate: true
+  xy: 130, 14
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 221
+  size: 176, 146
+  orig: 176, 146
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 165, 67
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 329, 281
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 354, 124
+  size: 53, 13
+  orig: 53, 13
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: false
+  xy: 91, 6
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: true
+  xy: 329, 333
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: false
+  xy: 165, 39
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+yshou4
+  rotate: false
+  xy: 0, 54
+  size: 127, 82
+  orig: 127, 82
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: false
+  xy: 324, 80
+  size: 28, 58
+  orig: 28, 58
+  offset: 0, 0
+  index: -1
+ytui1
+  rotate: true
+  xy: 158, 111
+  size: 66, 98
+  orig: 66, 98
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: false
+  xy: 129, 58
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: false
+  xy: 211, 73
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: true
+  xy: 129, 108
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: true
+  xy: 249, 58
+  size: 28, 58
+  orig: 28, 58
+  offset: 0, 0
+  index: -1
+ztui1
+  rotate: false
+  xy: 280, 179
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+ztui1xx
+  rotate: true
+  xy: 178, 281
+  size: 86, 149
+  orig: 86, 149
+  offset: 0, 0
+  index: -1

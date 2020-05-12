@@ -1,0 +1,97 @@
+
+sp_sk_hit_magic_bomb.png
+size: 436,560
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dfxc_chongjibo_xuli0002
+  rotate: false
+  xy: 100, 23
+  size: 98, 75
+  orig: 200, 164
+  offset: 44, 43
+  index: -1
+dfxc_chongjibo_xuli0004
+  rotate: false
+  xy: 290, 19
+  size: 106, 63
+  orig: 200, 164
+  offset: 36, 49
+  index: -1
+dfxc_chongjibo_xuli0006
+  rotate: false
+  xy: 321, 283
+  size: 106, 110
+  orig: 200, 164
+  offset: 35, 28
+  index: -1
+dfxc_chongjibo_xuli0008
+  rotate: false
+  xy: 321, 183
+  size: 101, 98
+  orig: 200, 164
+  offset: 29, 40
+  index: -1
+dfxc_chongjibo_xuli0010
+  rotate: false
+  xy: 316, 84
+  size: 118, 97
+  orig: 200, 164
+  offset: 30, 41
+  index: -1
+dfxc_chongjibo_xuli0012
+  rotate: false
+  xy: 2, 2
+  size: 96, 96
+  orig: 200, 164
+  offset: 35, 34
+  index: -1
+dfxc_chongjibo_xuli0014
+  rotate: false
+  xy: 2, 121
+  size: 84, 109
+  orig: 200, 164
+  offset: 41, 21
+  index: -1
+dfxc_chongjibo_xuli0016
+  rotate: false
+  xy: 200, 19
+  size: 88, 79
+  orig: 200, 164
+  offset: 35, 33
+  index: -1
+dfxc_chongjibo_xuli0018
+  rotate: false
+  xy: 2, 396
+  size: 189, 162
+  orig: 200, 164
+  offset: 0, 0
+  index: -1
+dfxc_chongjibo_xuli0020
+  rotate: false
+  xy: 193, 395
+  size: 178, 163
+  orig: 200, 164
+  offset: 13, 0
+  index: -1
+dfxc_chongjibo_xuli0022
+  rotate: false
+  xy: 2, 232
+  size: 179, 162
+  orig: 200, 164
+  offset: 14, 0
+  index: -1
+dfxc_chongjibo_xuli0024
+  rotate: false
+  xy: 183, 234
+  size: 136, 159
+  orig: 200, 164
+  offset: 18, 3
+  index: -1
+dfxc_chongjibo_xuli0026
+  rotate: false
+  xy: 183, 100
+  size: 131, 132
+  orig: 200, 164
+  offset: 20, 6
+  index: -1

@@ -1,0 +1,5143 @@
+
+.format_3v3_bg_1 {
+   width: 138px;
+   height: 579px;
+   background-color: transparent;
+   background: url(/images/feature/3v3.png) 208px 588px;
+   transform: rotate(-90deg);
+}
+.format_3v3_bg_1.left {
+   padding-left: 138px;
+   padding-bottom: 579px;
+}
+
+.format_3v3_bg_2 {
+   width: 207px;
+   height: 583px;
+   background-color: transparent;
+   background: url(/images/feature/3v3.png) 208px 1174px;
+   transform: rotate(-90deg);
+}
+.format_3v3_bg_2.left {
+   padding-left: 207px;
+   padding-bottom: 583px;
+}
+
+.format_3v3_bg_3 {
+   width: 579px;
+   height: 222px;
+   background-color: transparent;
+   background: url(/images/feature/3v3.png) 803px 349px;
+}
+.format_3v3_bg_3.left {
+   padding-left: 579px;
+   padding-bottom: 222px;
+}
+
+.format_3v3_bg_4 {
+   width: 592px;
+   height: 822px;
+   background-color: transparent;
+   background: url(/images/feature/3v3.png) 803px 1174px;
+}
+.format_3v3_bg_4.left {
+   padding-left: 592px;
+   padding-bottom: 822px;
+}
+
+.gn_btn_down {
+   width: 37px;
+   height: 37px;
+   background-color: transparent;
+   background: url(/images/feature/3v3.png) 67px 402px;
+}
+.gn_btn_down.left {
+   padding-left: 37px;
+   padding-bottom: 37px;
+}
+
+.gn_btn_up {
+   width: 37px;
+   height: 37px;
+   background-color: transparent;
+   background: url(/images/feature/3v3.png) 67px 362px;
+}
+.gn_btn_up.left {
+   padding-left: 37px;
+   padding-bottom: 37px;
+}
+
+.gn_frame_bg_1 {
+   width: 130px;
+   height: 123px;
+   background-color: transparent;
+   background: url(/images/feature/3v3.png) 803px 124px;
+   transform: rotate(-90deg);
+}
+.gn_frame_bg_1.left {
+   padding-left: 130px;
+   padding-bottom: 123px;
+}
+
+.gn_frame_bg_2 {
+   width: 126px;
+   height: 123px;
+   background-color: transparent;
+   background: url(/images/feature/3v3.png) 670px 124px;
+   transform: rotate(-90deg);
+}
+.gn_frame_bg_2.left {
+   padding-left: 126px;
+   padding-bottom: 123px;
+}
+
+.gn_frame_bg_3 {
+   width: 120px;
+   height: 123px;
+   background-color: transparent;
+   background: url(/images/feature/3v3.png) 541px 124px;
+   transform: rotate(-90deg);
+}
+.gn_frame_bg_3.left {
+   padding-left: 120px;
+   padding-bottom: 123px;
+}
+
+.gn_icon_ticket_pvp {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url(/images/feature/3v3.png) 418px 124px;
+}
+.gn_icon_ticket_pvp.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.gn_rand_1 {
+   width: 60px;
+   height: 59px;
+   background-color: transparent;
+   background: url(/images/feature/3v3.png) 67px 588px;
+}
+.gn_rand_1.left {
+   padding-left: 60px;
+   padding-bottom: 59px;
+}
+
+.gn_rand_2 {
+   width: 60px;
+   height: 59px;
+   background-color: transparent;
+   background: url(/images/feature/3v3.png) 67px 526px;
+}
+.gn_rand_2.left {
+   padding-left: 60px;
+   padding-bottom: 59px;
+}
+
+.gn_rand_3 {
+   width: 60px;
+   height: 59px;
+   background-color: transparent;
+   background: url(/images/feature/3v3.png) 67px 464px;
+}
+.gn_rand_3.left {
+   padding-left: 60px;
+   padding-bottom: 59px;
+}
+
+.sy_cast_building_altar {
+   width: 440px;
+   height: 436px;
+   background-color: transparent;
+   background: url(/images/feature/building.png) 485px 743px;
+}
+.sy_cast_building_altar.left {
+   padding-left: 440px;
+   padding-bottom: 436px;
+}
+
+.sy_cast_building_brave {
+   width: 319px;
+   height: 338px;
+   background-color: transparent;
+   background: url(/images/feature/building.png) 905px 381px;
+   transform: rotate(-90deg);
+}
+.sy_cast_building_brave.left {
+   padding-left: 319px;
+   padding-bottom: 338px;
+}
+
+.sy_cast_building_get_hero {
+   width: 451px;
+   height: 346px;
+   background-color: transparent;
+   background: url(/images/feature/building.png) 1977px 348px;
+   transform: rotate(-90deg);
+}
+.sy_cast_building_get_hero.left {
+   padding-left: 451px;
+   padding-bottom: 346px;
+}
+
+.sy_cast_building_hero_trial {
+   width: 301px;
+   height: 345px;
+   background-color: transparent;
+   background: url(/images/feature/building.png) 1523px 375px;
+}
+.sy_cast_building_hero_trial.left {
+   padding-left: 301px;
+   padding-bottom: 345px;
+}
+
+.sy_cast_building_hero_upgrade {
+   width: 484px;
+   height: 451px;
+   background-color: transparent;
+   background: url(/images/feature/building.png) 485px 1197px;
+}
+.sy_cast_building_hero_upgrade.left {
+   padding-left: 484px;
+   padding-bottom: 451px;
+}
+
+.sy_cast_building_pvp {
+   width: 392px;
+   height: 308px;
+   background-color: transparent;
+   background: url(/images/feature/building.png) 886px 701px;
+   transform: rotate(-90deg);
+}
+.sy_cast_building_pvp.left {
+   padding-left: 392px;
+   padding-bottom: 308px;
+}
+
+.sy_cast_building_rotary {
+   width: 256px;
+   height: 215px;
+   background-color: transparent;
+   background: url(/images/feature/building.png) 1484px 627px;
+}
+.sy_cast_building_rotary.left {
+   padding-left: 256px;
+   padding-bottom: 215px;
+}
+
+.sy_cast_building_shop {
+   width: 325px;
+   height: 299px;
+   background-color: transparent;
+   background: url(/images/feature/building.png) 583px 304px;
+   transform: rotate(-90deg);
+}
+.sy_cast_building_shop.left {
+   padding-left: 325px;
+   padding-bottom: 299px;
+}
+
+.sy_cast_building_smithy {
+   width: 336px;
+   height: 268px;
+   background-color: transparent;
+   background: url(/images/feature/building.png) 1225px 652px;
+}
+.sy_cast_building_smithy.left {
+   padding-left: 336px;
+   padding-bottom: 268px;
+}
+
+.sy_cast_building_tavern {
+   width: 212px;
+   height: 258px;
+   background-color: transparent;
+   background: url(/images/feature/building.png) 255px 304px;
+   transform: rotate(-90deg);
+}
+.sy_cast_building_tavern.left {
+   padding-left: 212px;
+   padding-bottom: 258px;
+}
+
+.sy_cast_building_tower {
+   width: 250px;
+   height: 542px;
+   background-color: transparent;
+   background: url(/images/feature/building.png) 1266px 1197px;
+}
+.sy_cast_building_tower.left {
+   padding-left: 250px;
+   padding-bottom: 542px;
+}
+
+.sy_cast_building_tree {
+   width: 311px;
+   height: 380px;
+   background-color: transparent;
+   background: url(/images/feature/building.png) 1219px 381px;
+}
+.sy_cast_building_tree.left {
+   padding-left: 311px;
+   padding-bottom: 380px;
+}
+
+.sy_cast_cloud_1 {
+   width: 221px;
+   height: 819px;
+   background-color: transparent;
+   background: url(/images/feature/building.png) 1708px 1197px;
+   transform: rotate(-90deg);
+}
+.sy_cast_cloud_1.left {
+   padding-left: 221px;
+   padding-bottom: 819px;
+}
+
+.sy_cast_cloud_2 {
+   width: 204px;
+   height: 493px;
+   background-color: transparent;
+   background: url(/images/feature/building.png) 1013px 1197px;
+   transform: rotate(-90deg);
+}
+.sy_cast_cloud_2.left {
+   padding-left: 204px;
+   padding-bottom: 493px;
+}
+
+.sy_cast_cloud_3 {
+   width: 266px;
+   height: 846px;
+   background-color: transparent;
+   background: url(/images/feature/building.png) 1977px 1197px;
+   transform: rotate(-90deg);
+}
+.sy_cast_cloud_3.left {
+   padding-left: 266px;
+   padding-bottom: 846px;
+}
+
+.sy_cast_cloud_4 {
+   width: 318px;
+   height: 492px;
+   background-color: transparent;
+   background: url(/images/feature/building.png) 806px 1197px;
+   transform: rotate(-90deg);
+}
+.sy_cast_cloud_4.left {
+   padding-left: 318px;
+   padding-bottom: 492px;
+}
+
+.sy_cast_cloud_5 {
+   width: 215px;
+   height: 567px;
+   background-color: transparent;
+   background: url(/images/feature/building.png) 1484px 1197px;
+   transform: rotate(-90deg);
+}
+.sy_cast_cloud_5.left {
+   padding-left: 215px;
+   padding-bottom: 567px;
+}
+
+.gn_vertical_line {
+   width: 8px;
+   height: 50px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 527px 279px;
+}
+.gn_vertical_line.left {
+   padding-left: 8px;
+   padding-bottom: 50px;
+}
+
+.gn_batt_arrow_1 {
+   width: 225px;
+   height: 216px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1642px 332px;
+}
+.gn_batt_arrow_1.left {
+   padding-left: 225px;
+   padding-bottom: 216px;
+}
+
+.gn_batt_arrow_2 {
+   width: 233px;
+   height: 98px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1414px 203px;
+   transform: rotate(-90deg);
+}
+.gn_batt_arrow_2.left {
+   padding-left: 233px;
+   padding-bottom: 98px;
+}
+
+.gn_batt_bg {
+   width: 562px;
+   height: 42px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1352px 1114px;
+}
+.gn_batt_bg.left {
+   padding-left: 562px;
+   padding-bottom: 42px;
+}
+
+.gn_batt_blood_back_0 {
+   width: 10px;
+   height: 60px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1655px 589px;
+   transform: rotate(-90deg);
+}
+.gn_batt_blood_back_0.left {
+   padding-left: 10px;
+   padding-bottom: 60px;
+}
+
+.gn_batt_blood_back_1 {
+   width: 14px;
+   height: 60px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 15px 1890px;
+   transform: rotate(-90deg);
+}
+.gn_batt_blood_back_1.left {
+   padding-left: 14px;
+   padding-bottom: 60px;
+}
+
+.gn_batt_blood_back_2 {
+   width: 6px;
+   height: 56px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 457px 120px;
+   transform: rotate(-90deg);
+}
+.gn_batt_blood_back_2.left {
+   padding-left: 6px;
+   padding-bottom: 56px;
+}
+
+.gn_batt_blood_green {
+   width: 56px;
+   height: 6px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1817px 11px;
+}
+.gn_batt_blood_green.left {
+   padding-left: 56px;
+   padding-bottom: 6px;
+}
+
+.gn_batt_blood_pet_back {
+   width: 60px;
+   height: 13px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 807px 15px;
+}
+.gn_batt_blood_pet_back.left {
+   padding-left: 60px;
+   padding-bottom: 13px;
+}
+
+.gn_batt_blood_pet_yellow {
+   width: 11px;
+   height: 56px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 652px 441px;
+   transform: rotate(-90deg);
+}
+.gn_batt_blood_pet_yellow.left {
+   padding-left: 11px;
+   padding-bottom: 56px;
+}
+
+.gn_batt_blood_red {
+   width: 56px;
+   height: 6px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 218px 14px;
+}
+.gn_batt_blood_red.left {
+   padding-left: 56px;
+   padding-bottom: 6px;
+}
+
+.gn_batt_blood_white {
+   width: 6px;
+   height: 56px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 613px 1293px;
+   transform: rotate(-90deg);
+}
+.gn_batt_blood_white.left {
+   padding-left: 6px;
+   padding-bottom: 56px;
+}
+
+.gn_batt_blood_yellow {
+   width: 6px;
+   height: 56px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 614px 1234px;
+   transform: rotate(-90deg);
+}
+.gn_batt_blood_yellow.left {
+   padding-left: 6px;
+   padding-bottom: 56px;
+}
+
+.gn_batt_btn_prompt {
+   width: 20px;
+   height: 20px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1030px 530px;
+}
+.gn_batt_btn_prompt.left {
+   padding-left: 20px;
+   padding-bottom: 20px;
+}
+
+.gn_batt_cure {
+   width: 12px;
+   height: 154px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 15px 2047px;
+   transform: rotate(-90deg);
+}
+.gn_batt_cure.left {
+   padding-left: 12px;
+   padding-bottom: 154px;
+}
+
+.gn_batt_hurt {
+   width: 154px;
+   height: 12px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 776px 848px;
+}
+.gn_batt_hurt.left {
+   padding-left: 154px;
+   padding-bottom: 12px;
+}
+
+.gn_batt_skip {
+   width: 55px;
+   height: 55px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 183px 786px;
+}
+.gn_batt_skip.left {
+   padding-left: 55px;
+   padding-bottom: 55px;
+}
+
+.gn_batt_speed_btn_1 {
+   width: 44px;
+   height: 80px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 48px 1506px;
+   transform: rotate(-90deg);
+}
+.gn_batt_speed_btn_1.left {
+   padding-left: 44px;
+   padding-bottom: 80px;
+}
+
+.gn_batt_speed_btn_2 {
+   width: 44px;
+   height: 80px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 246px 309px;
+   transform: rotate(-90deg);
+}
+.gn_batt_speed_btn_2.left {
+   padding-left: 44px;
+   padding-bottom: 80px;
+}
+
+.gn_batt_stop {
+   width: 64px;
+   height: 56px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 524px 120px;
+   transform: rotate(-90deg);
+}
+.gn_batt_stop.left {
+   padding-left: 64px;
+   padding-bottom: 56px;
+}
+
+.gn_bf_armor_break_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 92px 989px;
+}
+.gn_bf_armor_break_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_armor_break_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 360px 1575px;
+}
+.gn_bf_armor_break_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_armor_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 448px 97px;
+}
+.gn_bf_armor_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_armor_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 220px 331px;
+}
+.gn_bf_armor_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_attack_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 216px 406px;
+}
+.gn_bf_attack_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_attack_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 197px 406px;
+}
+.gn_bf_attack_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_contrl_immune_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1733px 29px;
+}
+.gn_bf_contrl_immune_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_contrl_immune_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 288px 714px;
+}
+.gn_bf_contrl_immune_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_crit_damage_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 255px 748px;
+}
+.gn_bf_crit_damage_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_crit_damage_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 83px 376px;
+}
+.gn_bf_crit_damage_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_crit_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 18px 446px;
+}
+.gn_bf_crit_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_crit_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 17px 427px;
+}
+.gn_bf_crit_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_dodge_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 17px 408px;
+}
+.gn_bf_dodge_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_dodge_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 17px 389px;
+}
+.gn_bf_dodge_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_hit_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 17px 370px;
+}
+.gn_bf_hit_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_hit_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 17px 351px;
+}
+.gn_bf_hit_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_hp_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 30px 198px;
+}
+.gn_bf_hp_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_hp_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 30px 179px;
+}
+.gn_bf_hp_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_reduce_damage_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 255px 729px;
+}
+.gn_bf_reduce_damage_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_skill_damage_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 25px 160px;
+}
+.gn_bf_skill_damage_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_skill_damage_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 25px 141px;
+}
+.gn_bf_skill_damage_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_speed_down {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 442px 487px;
+}
+.gn_bf_speed_down.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_speed_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 180px 1478px;
+}
+.gn_bf_speed_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bf_true_damage_up {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 180px 1459px;
+}
+.gn_bf_true_damage_up.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.gn_bg_brave_progress {
+   width: 539px;
+   height: 22px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 711px 1628px;
+}
+.gn_bg_brave_progress.left {
+   padding-left: 539px;
+   padding-bottom: 22px;
+}
+
+.gn_bg_process_guild_boss_blood {
+   width: 40px;
+   height: 17px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 200px 987px;
+}
+.gn_bg_process_guild_boss_blood.left {
+   padding-left: 40px;
+   padding-bottom: 17px;
+}
+
+.gn_bg_tips {
+   width: 177px;
+   height: 117px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 783px 1413px;
+   transform: rotate(-90deg);
+}
+.gn_bg_tips.left {
+   padding-left: 177px;
+   padding-bottom: 117px;
+}
+
+.gn_border_tips {
+   width: 97px;
+   height: 97px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 239px 1278px;
+}
+.gn_border_tips.left {
+   padding-left: 97px;
+   padding-bottom: 97px;
+}
+
+.gn_border_tips_2 {
+   width: 85px;
+   height: 85px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 428px 642px;
+}
+.gn_border_tips_2.left {
+   padding-left: 85px;
+   padding-bottom: 85px;
+}
+
+.gn_brave_progress {
+   width: 534px;
+   height: 18px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 751px 1603px;
+}
+.gn_brave_progress.left {
+   padding-left: 534px;
+   padding-bottom: 18px;
+}
+
+.gn_btn_artifact_1 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 106px 1820px;
+}
+.gn_btn_artifact_1.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.gn_btn_artifact_2 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 632px 169px;
+}
+.gn_btn_artifact_2.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.gn_btn_artifact_3 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 591px 1069px;
+}
+.gn_btn_artifact_3.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.gn_btn_artifact_4 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 483px 1069px;
+}
+.gn_btn_artifact_4.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.gn_btn_artifact_5 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 606px 848px;
+}
+.gn_btn_artifact_5.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.gn_btn_artifact_6 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 498px 848px;
+}
+.gn_btn_artifact_6.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.gn_btn_artifact_7 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 584px 456px;
+}
+.gn_btn_artifact_7.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.gn_btn_assist {
+   width: 40px;
+   height: 44px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 114px 605px;
+   transform: rotate(-90deg);
+}
+.gn_btn_assist.left {
+   padding-left: 40px;
+   padding-bottom: 44px;
+}
+
+.gn_btn_back {
+   width: 68px;
+   height: 68px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 669px 688px;
+}
+.gn_btn_back.left {
+   padding-left: 68px;
+   padding-bottom: 68px;
+}
+
+.gn_btn_big_yellow {
+   width: 304px;
+   height: 110px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1417px 484px;
+}
+.gn_btn_big_yellow.left {
+   padding-left: 304px;
+   padding-bottom: 110px;
+}
+
+.gn_btn_big_yellow02 {
+   width: 104px;
+   height: 224px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 122px 2047px;
+   transform: rotate(-90deg);
+}
+.gn_btn_big_yellow02.left {
+   padding-left: 104px;
+   padding-bottom: 224px;
+}
+
+.gn_btn_blue {
+   width: 36px;
+   height: 36px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 119px 557px;
+}
+.gn_btn_blue.left {
+   padding-left: 36px;
+   padding-bottom: 36px;
+}
+
+.gn_btn_box_blue {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 422px 487px;
+}
+.gn_btn_box_blue.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.gn_btn_box_gray {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 422px 384px;
+}
+.gn_btn_box_gray.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.gn_btn_box_green {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 422px 281px;
+}
+.gn_btn_box_green.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.gn_btn_box_gules {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 427px 178px;
+}
+.gn_btn_box_gules.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.gn_btn_box_orange {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 324px 178px;
+}
+.gn_btn_box_orange.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.gn_btn_box_round_ash {
+   width: 50px;
+   height: 51px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 116px 967px;
+}
+.gn_btn_box_round_ash.left {
+   padding-left: 50px;
+   padding-bottom: 51px;
+}
+
+.gn_btn_box_round_blue {
+   width: 50px;
+   height: 51px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 111px 913px;
+}
+.gn_btn_box_round_blue.left {
+   padding-left: 50px;
+   padding-bottom: 51px;
+}
+
+.gn_btn_box_round_green {
+   width: 50px;
+   height: 51px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 58px 925px;
+}
+.gn_btn_box_round_green.left {
+   padding-left: 50px;
+   padding-bottom: 51px;
+}
+
+.gn_btn_box_round_orange {
+   width: 51px;
+   height: 50px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 604px 1242px;
+   transform: rotate(-90deg);
+}
+.gn_btn_box_round_orange.left {
+   padding-left: 51px;
+   padding-bottom: 50px;
+}
+
+.gn_btn_box_round_purple {
+   width: 50px;
+   height: 51px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 580px 1189px;
+}
+.gn_btn_box_round_purple.left {
+   padding-left: 50px;
+   padding-bottom: 51px;
+}
+
+.gn_btn_box_round_red {
+   width: 48px;
+   height: 50px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 199px 331px;
+}
+.gn_btn_box_round_red.left {
+   padding-left: 48px;
+   padding-bottom: 50px;
+}
+
+.gn_btn_box_round_yellow {
+   width: 50px;
+   height: 51px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 220px 385px;
+}
+.gn_btn_box_round_yellow.left {
+   padding-left: 50px;
+   padding-bottom: 51px;
+}
+
+.gn_btn_box_small_White {
+   width: 54px;
+   height: 64px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 196px 1054px;
+}
+.gn_btn_box_small_White.left {
+   padding-left: 54px;
+   padding-bottom: 64px;
+}
+
+.gn_btn_box_small_ordinary {
+   width: 39px;
+   height: 42px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 284px 1132px;
+}
+.gn_btn_box_small_ordinary.left {
+   padding-left: 39px;
+   padding-bottom: 42px;
+}
+
+.gn_btn_box_small_selected {
+   width: 63px;
+   height: 63px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 139px 1055px;
+}
+.gn_btn_box_small_selected.left {
+   padding-left: 63px;
+   padding-bottom: 63px;
+}
+
+.gn_btn_box_small_white_not_transparent {
+   width: 40px;
+   height: 49px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1685px 112px;
+}
+.gn_btn_box_small_white_not_transparent.left {
+   padding-left: 40px;
+   padding-bottom: 49px;
+}
+
+.gn_btn_box_violet {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 151px 1610px;
+}
+.gn_btn_box_violet.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.gn_btn_box_yellow {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 151px 1507px;
+}
+.gn_btn_box_yellow.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.gn_btn_cancel {
+   width: 70px;
+   height: 72px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 318px 1460px;
+}
+.gn_btn_cancel.left {
+   padding-left: 70px;
+   padding-bottom: 72px;
+}
+
+.gn_btn_cancel_red {
+   width: 36px;
+   height: 36px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 101px 350px;
+}
+.gn_btn_cancel_red.left {
+   padding-left: 36px;
+   padding-bottom: 36px;
+}
+
+.gn_btn_choose_box {
+   width: 69px;
+   height: 159px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 823px 1626px;
+   transform: rotate(-90deg);
+}
+.gn_btn_choose_box.left {
+   padding-left: 69px;
+   padding-bottom: 159px;
+}
+
+.gn_btn_choose_click {
+   width: 72px;
+   height: 168px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 603px 1413px;
+   transform: rotate(-90deg);
+}
+.gn_btn_choose_click.left {
+   padding-left: 72px;
+   padding-bottom: 168px;
+}
+
+.gn_btn_choose_click_2 {
+   width: 207px;
+   height: 72px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 528px 1460px;
+}
+.gn_btn_choose_click_2.left {
+   padding-left: 207px;
+   padding-bottom: 72px;
+}
+
+.gn_btn_choose_select {
+   width: 62px;
+   height: 71px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 307px 1206px;
+}
+.gn_btn_choose_select.left {
+   padding-left: 62px;
+   padding-bottom: 71px;
+}
+
+.gn_btn_choose_select_arrow {
+   width: 25px;
+   height: 11px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 843px 136px;
+   transform: rotate(-90deg);
+}
+.gn_btn_choose_select_arrow.left {
+   padding-left: 25px;
+   padding-bottom: 11px;
+}
+
+.gn_btn_choose_un_click {
+   width: 168px;
+   height: 72px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 751px 1151px;
+}
+.gn_btn_choose_un_click.left {
+   padding-left: 168px;
+   padding-bottom: 72px;
+}
+
+.gn_btn_click_bar {
+   width: 100px;
+   height: 50px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1642px 113px;
+   transform: rotate(-90deg);
+}
+.gn_btn_click_bar.left {
+   padding-left: 100px;
+   padding-bottom: 50px;
+}
+
+.gn_btn_click_bar_bg {
+   width: 64px;
+   height: 99px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 68px 1712px;
+}
+.gn_btn_click_bar_bg.left {
+   padding-left: 64px;
+   padding-bottom: 99px;
+}
+
+.gn_btn_click_bar_bg_blue {
+   width: 583px;
+   height: 82px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1352px 1234px;
+}
+.gn_btn_click_bar_bg_blue.left {
+   padding-left: 583px;
+   padding-bottom: 82px;
+}
+
+.gn_btn_close {
+   width: 30px;
+   height: 34px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 78px 268px;
+}
+.gn_btn_close.left {
+   padding-left: 30px;
+   padding-bottom: 34px;
+}
+
+.gn_btn_dice {
+   width: 54px;
+   height: 54px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 168px 912px;
+}
+.gn_btn_dice.left {
+   padding-left: 54px;
+   padding-bottom: 54px;
+}
+
+.gn_btn_equal_battle {
+   width: 20px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 167px 350px;
+}
+.gn_btn_equal_battle.left {
+   padding-left: 20px;
+   padding-bottom: 16px;
+}
+
+.gn_btn_flat_2_bright {
+   width: 60px;
+   height: 156px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1007px 530px;
+   transform: rotate(-90deg);
+}
+.gn_btn_flat_2_bright.left {
+   padding-left: 60px;
+   padding-bottom: 156px;
+}
+
+.gn_btn_flat_2_dark {
+   width: 60px;
+   height: 156px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 865px 530px;
+   transform: rotate(-90deg);
+}
+.gn_btn_flat_2_dark.left {
+   padding-left: 60px;
+   padding-bottom: 156px;
+}
+
+.gn_btn_flat_bright {
+   width: 60px;
+   height: 142px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 669px 833px;
+   transform: rotate(-90deg);
+}
+.gn_btn_flat_bright.left {
+   padding-left: 60px;
+   padding-bottom: 142px;
+}
+
+.gn_btn_flat_bright2 {
+   width: 181px;
+   height: 58px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 775px 1076px;
+}
+.gn_btn_flat_bright2.left {
+   padding-left: 181px;
+   padding-bottom: 58px;
+}
+
+.gn_btn_flat_bright_big {
+   width: 182px;
+   height: 61px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1029px 658px;
+}
+.gn_btn_flat_bright_big.left {
+   padding-left: 182px;
+   padding-bottom: 61px;
+}
+
+.gn_btn_flat_dark {
+   width: 142px;
+   height: 60px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 782px 617px;
+}
+.gn_btn_flat_dark.left {
+   padding-left: 142px;
+   padding-bottom: 60px;
+}
+
+.gn_btn_flat_dark2 {
+   width: 181px;
+   height: 58px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 775px 1015px;
+}
+.gn_btn_flat_dark2.left {
+   padding-left: 181px;
+   padding-bottom: 58px;
+}
+
+.gn_btn_flat_dark_big {
+   width: 182px;
+   height: 61px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1029px 594px;
+}
+.gn_btn_flat_dark_big.left {
+   padding-left: 182px;
+   padding-bottom: 61px;
+}
+
+.gn_btn_green {
+   width: 354px;
+   height: 98px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1417px 585px;
+}
+.gn_btn_green.left {
+   padding-left: 354px;
+   padding-bottom: 98px;
+}
+
+.gn_btn_head {
+   width: 132px;
+   height: 116px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1178px 218px;
+}
+.gn_btn_head.left {
+   padding-left: 132px;
+   padding-bottom: 116px;
+}
+
+.gn_btn_head_bg {
+   width: 102px;
+   height: 102px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 390px 852px;
+}
+.gn_btn_head_bg.left {
+   padding-left: 102px;
+   padding-bottom: 102px;
+}
+
+.gn_btn_head_level {
+   width: 37px;
+   height: 37px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 80px 558px;
+}
+.gn_btn_head_level.left {
+   padding-left: 37px;
+   padding-bottom: 37px;
+}
+
+.gn_btn_head_level_blue {
+   width: 45px;
+   height: 45px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 319px 226px;
+}
+.gn_btn_head_level_blue.left {
+   padding-left: 45px;
+   padding-bottom: 45px;
+}
+
+.gn_btn_head_level_green {
+   width: 45px;
+   height: 45px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 271px 226px;
+}
+.gn_btn_head_level_green.left {
+   padding-left: 45px;
+   padding-bottom: 45px;
+}
+
+.gn_btn_head_level_purple {
+   width: 45px;
+   height: 45px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 223px 226px;
+}
+.gn_btn_head_level_purple.left {
+   padding-left: 45px;
+   padding-bottom: 45px;
+}
+
+.gn_btn_head_level_red {
+   width: 45px;
+   height: 45px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 264px 536px;
+}
+.gn_btn_head_level_red.left {
+   padding-left: 45px;
+   padding-bottom: 45px;
+}
+
+.gn_btn_head_level_yellow {
+   width: 45px;
+   height: 45px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 211px 550px;
+}
+.gn_btn_head_level_yellow.left {
+   padding-left: 45px;
+   padding-bottom: 45px;
+}
+
+.gn_btn_heart {
+   width: 44px;
+   height: 42px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 287px 687px;
+   transform: rotate(-90deg);
+}
+.gn_btn_heart.left {
+   padding-left: 44px;
+   padding-bottom: 42px;
+}
+
+.gn_btn_info {
+   width: 41px;
+   height: 41px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 42px 1361px;
+}
+.gn_btn_info.left {
+   padding-left: 41px;
+   padding-bottom: 41px;
+}
+
+.gn_btn_info_2 {
+   width: 36px;
+   height: 36px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 40px 522px;
+}
+.gn_btn_info_2.left {
+   padding-left: 36px;
+   padding-bottom: 36px;
+}
+
+.gn_btn_lock {
+   width: 45px;
+   height: 45px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 216px 502px;
+}
+.gn_btn_lock.left {
+   padding-left: 45px;
+   padding-bottom: 45px;
+}
+
+.gn_btn_locking {
+   width: 45px;
+   height: 45px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 216px 454px;
+}
+.gn_btn_locking.left {
+   padding-left: 45px;
+   padding-bottom: 45px;
+}
+
+.gn_btn_long_blue {
+   width: 273px;
+   height: 59px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1706px 60px;
+}
+.gn_btn_long_blue.left {
+   padding-left: 273px;
+   padding-bottom: 59px;
+}
+
+.gn_btn_magic_1 {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1110px 484px;
+}
+.gn_btn_magic_1.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.gn_btn_magic_2 {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 843px 249px;
+}
+.gn_btn_magic_2.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.gn_btn_magic_3 {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 910px 114px;
+}
+.gn_btn_magic_3.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.gn_btn_magic_4 {
+   width: 110px;
+   height: 100px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 782px 720px;
+   transform: rotate(-90deg);
+}
+.gn_btn_magic_4.left {
+   padding-left: 110px;
+   padding-bottom: 100px;
+}
+
+.gn_btn_magic_5 {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 689px 554px;
+}
+.gn_btn_magic_5.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.gn_btn_magic_6 {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 741px 377px;
+}
+.gn_btn_magic_6.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.gn_btn_magic_7 {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 740px 264px;
+}
+.gn_btn_magic_7.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.gn_btn_main_136x67 {
+   width: 147px;
+   height: 59px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 580px 1131px;
+}
+.gn_btn_main_136x67.left {
+   padding-left: 147px;
+   padding-bottom: 59px;
+}
+
+.gn_btn_main_136x67_1 {
+   width: 147px;
+   height: 58px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 578px 627px;
+}
+.gn_btn_main_136x67_1.left {
+   padding-left: 147px;
+   padding-bottom: 58px;
+}
+
+.gn_btn_main_blue {
+   width: 147px;
+   height: 61px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 802px 441px;
+}
+.gn_btn_main_blue.left {
+   padding-left: 147px;
+   padding-bottom: 61px;
+}
+
+.gn_btn_main_blue_H {
+   width: 149px;
+   height: 85px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 766px 1239px;
+}
+.gn_btn_main_blue_H.left {
+   padding-left: 149px;
+   padding-bottom: 85px;
+}
+
+.gn_btn_main_blue_L {
+   width: 194px;
+   height: 76px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 493px 1539px;
+}
+.gn_btn_main_blue_L.left {
+   padding-left: 194px;
+   padding-bottom: 76px;
+}
+
+.gn_btn_main_blue_L2 {
+   width: 153px;
+   height: 65px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 776px 916px;
+}
+.gn_btn_main_blue_L2.left {
+   padding-left: 153px;
+   padding-bottom: 65px;
+}
+
+.gn_btn_main_blue_M {
+   width: 76px;
+   height: 158px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 944px 530px;
+   transform: rotate(-90deg);
+}
+.gn_btn_main_blue_M.left {
+   padding-left: 76px;
+   padding-bottom: 158px;
+}
+
+.gn_btn_main_blue_border_radius {
+   width: 51px;
+   height: 159px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 331px 1385px;
+   transform: rotate(-90deg);
+}
+.gn_btn_main_blue_border_radius.left {
+   padding-left: 51px;
+   padding-bottom: 159px;
+}
+
+.gn_btn_main_red {
+   width: 147px;
+   height: 61px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 620px 912px;
+}
+.gn_btn_main_red.left {
+   padding-left: 147px;
+   padding-bottom: 61px;
+}
+
+.gn_btn_main_red_L {
+   width: 194px;
+   height: 76px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 528px 1385px;
+}
+.gn_btn_main_red_L.left {
+   padding-left: 194px;
+   padding-bottom: 76px;
+}
+
+.gn_btn_main_red_border_radius {
+   width: 51px;
+   height: 159px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 638px 441px;
+   transform: rotate(-90deg);
+}
+.gn_btn_main_red_border_radius.left {
+   padding-left: 51px;
+   padding-bottom: 159px;
+}
+
+.gn_btn_main_triangle_blue {
+   width: 56px;
+   height: 60px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 506px 61px;
+   transform: rotate(-90deg);
+}
+.gn_btn_main_triangle_blue.left {
+   padding-left: 56px;
+   padding-bottom: 60px;
+}
+
+.gn_btn_main_yellow {
+   width: 147px;
+   height: 61px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 598px 691px;
+}
+.gn_btn_main_yellow.left {
+   padding-left: 147px;
+   padding-bottom: 61px;
+}
+
+.gn_btn_main_yellow_H {
+   width: 85px;
+   height: 149px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1059px 371px;
+   transform: rotate(-90deg);
+}
+.gn_btn_main_yellow_H.left {
+   padding-left: 85px;
+   padding-bottom: 149px;
+}
+
+.gn_btn_main_yellow_H2 {
+   width: 136px;
+   height: 90px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 915px 939px;
+}
+.gn_btn_main_yellow_H2.left {
+   padding-left: 136px;
+   padding-bottom: 90px;
+}
+
+.gn_btn_main_yellow_L {
+   width: 194px;
+   height: 76px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 528px 1306px;
+}
+.gn_btn_main_yellow_L.left {
+   padding-left: 194px;
+   padding-bottom: 76px;
+}
+
+.gn_btn_main_yellow_LL {
+   width: 255px;
+   height: 76px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 751px 1539px;
+}
+.gn_btn_main_yellow_LL.left {
+   padding-left: 255px;
+   padding-bottom: 76px;
+}
+
+.gn_btn_midd_bright {
+   width: 181px;
+   height: 58px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 775px 1076px;
+}
+.gn_btn_midd_bright.left {
+   padding-left: 181px;
+   padding-bottom: 58px;
+}
+
+.gn_btn_midd_dark {
+   width: 181px;
+   height: 58px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 775px 1015px;
+}
+.gn_btn_midd_dark.left {
+   padding-left: 181px;
+   padding-bottom: 58px;
+}
+
+.gn_btn_modify {
+   width: 39px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 338px 1582px;
+   transform: rotate(-90deg);
+}
+.gn_btn_modify.left {
+   padding-left: 39px;
+   padding-bottom: 40px;
+}
+
+.gn_btn_playback {
+   width: 36px;
+   height: 37px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 40px 562px;
+}
+.gn_btn_playback.left {
+   padding-left: 36px;
+   padding-bottom: 37px;
+}
+
+.gn_btn_plus {
+   width: 29px;
+   height: 29px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1352px 1704px;
+}
+.gn_btn_plus.left {
+   padding-left: 29px;
+   padding-bottom: 29px;
+}
+
+.gn_btn_plus_1 {
+   width: 46px;
+   height: 46px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 175px 227px;
+}
+.gn_btn_plus_1.left {
+   padding-left: 46px;
+   padding-bottom: 46px;
+}
+
+.gn_btn_plus_2 {
+   width: 70px;
+   height: 70px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 84px 1163px;
+}
+.gn_btn_plus_2.left {
+   padding-left: 70px;
+   padding-bottom: 70px;
+}
+
+.gn_btn_plus_3 {
+   width: 39px;
+   height: 41px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 40px 871px;
+}
+.gn_btn_plus_3.left {
+   padding-left: 39px;
+   padding-bottom: 41px;
+}
+
+.gn_btn_plus_battle {
+   width: 20px;
+   height: 20px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1030px 507px;
+}
+.gn_btn_plus_battle.left {
+   padding-left: 20px;
+   padding-bottom: 20px;
+}
+
+.gn_btn_red_no_border {
+   width: 141px;
+   height: 52px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 578px 566px;
+}
+.gn_btn_red_no_border.left {
+   padding-left: 141px;
+   padding-bottom: 52px;
+}
+
+.gn_btn_reduce {
+   width: 46px;
+   height: 46px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 211px 599px;
+}
+.gn_btn_reduce.left {
+   padding-left: 46px;
+   padding-bottom: 46px;
+}
+
+.gn_btn_reset {
+   width: 45px;
+   height: 45px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 173px 653px;
+}
+.gn_btn_reset.left {
+   padding-left: 45px;
+   padding-bottom: 45px;
+}
+
+.gn_btn_share {
+   width: 45px;
+   height: 45px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 162px 605px;
+}
+.gn_btn_share.left {
+   padding-left: 45px;
+   padding-bottom: 45px;
+}
+
+.gn_btn_share_blue {
+   width: 141px;
+   height: 52px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 586px 511px;
+}
+.gn_btn_share_blue.left {
+   padding-left: 141px;
+   padding-bottom: 52px;
+}
+
+.gn_btn_side_bright {
+   width: 110px;
+   height: 110px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 782px 833px;
+}
+.gn_btn_side_bright.left {
+   padding-left: 110px;
+   padding-bottom: 110px;
+}
+
+.gn_btn_side_dark {
+   width: 110px;
+   height: 110px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 802px 554px;
+}
+.gn_btn_side_dark.left {
+   padding-left: 110px;
+   padding-bottom: 110px;
+}
+
+.gn_btn_skil_26x30 {
+   width: 48px;
+   height: 50px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 275px 642px;
+}
+.gn_btn_skil_26x30.left {
+   padding-left: 48px;
+   padding-bottom: 50px;
+}
+
+.gn_btn_skil_box {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 375px 1069px;
+}
+.gn_btn_skil_box.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.gn_btn_swit_blue {
+   width: 50px;
+   height: 50px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 160px 178px;
+}
+.gn_btn_swit_blue.left {
+   padding-left: 50px;
+   padding-bottom: 50px;
+}
+
+.gn_btn_swit_left {
+   width: 64px;
+   height: 36px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 73px 1025px;
+   transform: rotate(-90deg);
+}
+.gn_btn_swit_left.left {
+   padding-left: 64px;
+   padding-bottom: 36px;
+}
+
+.gn_btn_swit_white {
+   width: 28px;
+   height: 34px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1352px 1672px;
+}
+.gn_btn_swit_white.left {
+   padding-left: 28px;
+   padding-bottom: 34px;
+}
+
+.gn_btn_unclick_bar_bg {
+   width: 99px;
+   height: 64px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 434px 554px;
+   transform: rotate(-90deg);
+}
+.gn_btn_unclick_bar_bg.left {
+   padding-left: 99px;
+   padding-bottom: 64px;
+}
+
+.gn_btn_vip {
+   width: 62px;
+   height: 80px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 245px 1470px;
+   transform: rotate(-90deg);
+}
+.gn_btn_vip.left {
+   padding-left: 62px;
+   padding-bottom: 80px;
+}
+
+.gn_btn_vip_slot {
+   width: 62px;
+   height: 80px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 340px 642px;
+   transform: rotate(-90deg);
+}
+.gn_btn_vip_slot.left {
+   padding-left: 62px;
+   padding-bottom: 80px;
+}
+
+.gn_btn_yellow_no_border {
+   width: 51px;
+   height: 141px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 476px 456px;
+   transform: rotate(-90deg);
+}
+.gn_btn_yellow_no_border.left {
+   padding-left: 51px;
+   padding-bottom: 141px;
+}
+
+.gn_btn_yellow_no_border_2 {
+   width: 69px;
+   height: 118px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 807px 136px;
+   transform: rotate(-90deg);
+}
+.gn_btn_yellow_no_border_2.left {
+   padding-left: 69px;
+   padding-bottom: 118px;
+}
+
+.gn_chat_vip_check_bg {
+   width: 39px;
+   height: 39px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 40px 741px;
+}
+.gn_chat_vip_check_bg.left {
+   padding-left: 39px;
+   padding-bottom: 39px;
+}
+
+.gn_content_border_bg {
+   width: 50px;
+   height: 50px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 160px 125px;
+}
+.gn_content_border_bg.left {
+   padding-left: 50px;
+   padding-bottom: 50px;
+}
+
+.gn_dot_line {
+   width: 410px;
+   height: 4px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 751px 1582px;
+}
+.gn_dot_line.left {
+   padding-left: 410px;
+   padding-bottom: 4px;
+}
+
+.gn_dot_line_572 {
+   width: 572px;
+   height: 4px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 711px 1635px;
+}
+.gn_dot_line_572.left {
+   padding-left: 572px;
+   padding-bottom: 4px;
+}
+
+.gn_friend_input_bg {
+   width: 388px;
+   height: 33px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 751px 1575px;
+}
+.gn_friend_input_bg.left {
+   padding-left: 388px;
+   padding-bottom: 33px;
+}
+
+.gn_hero_content_bg1 {
+   width: 300px;
+   height: 591px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1888px 1704px;
+   transform: rotate(-90deg);
+}
+.gn_hero_content_bg1.left {
+   padding-left: 300px;
+   padding-bottom: 591px;
+}
+
+.gn_hero_content_bg2 {
+   width: 230px;
+   height: 596px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1888px 1110px;
+   transform: rotate(-90deg);
+}
+.gn_hero_content_bg2.left {
+   padding-left: 230px;
+   padding-bottom: 596px;
+}
+
+.gn_hero_content_bg3 {
+   width: 596px;
+   height: 230px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 721px 2047px;
+}
+.gn_hero_content_bg3.left {
+   padding-left: 596px;
+   padding-bottom: 230px;
+}
+
+.gn_hero_content_bg4 {
+   width: 247px;
+   height: 514px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1655px 1106px;
+   transform: rotate(-90deg);
+}
+.gn_hero_content_bg4.left {
+   padding-left: 247px;
+   padding-bottom: 514px;
+}
+
+.gn_hero_content_bg5 {
+   width: 565px;
+   height: 340px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1888px 2047px;
+}
+.gn_hero_content_bg5.left {
+   padding-left: 565px;
+   padding-bottom: 340px;
+}
+
+.gn_hero_content_bg6 {
+   width: 230px;
+   height: 595px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1585px 1704px;
+   transform: rotate(-90deg);
+}
+.gn_hero_content_bg6.left {
+   padding-left: 230px;
+   padding-bottom: 595px;
+}
+
+.gn_hero_content_bg7 {
+   width: 596px;
+   height: 278px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1320px 2047px;
+}
+.gn_hero_content_bg7.left {
+   padding-left: 596px;
+   padding-bottom: 278px;
+}
+
+.gn_hero_content_bg8 {
+   width: 596px;
+   height: 278px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1320px 2047px;
+}
+.gn_hero_content_bg8.left {
+   padding-left: 596px;
+   padding-bottom: 278px;
+}
+
+.gn_icon_36x39_1 {
+   width: 32px;
+   height: 32px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1006px 736px;
+}
+.gn_icon_36x39_1.left {
+   padding-left: 32px;
+   padding-bottom: 32px;
+}
+
+.gn_icon_36x39_2 {
+   width: 32px;
+   height: 31px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 160px 728px;
+}
+.gn_icon_36x39_2.left {
+   padding-left: 32px;
+   padding-bottom: 31px;
+}
+
+.gn_icon_37x38_1 {
+   width: 60px;
+   height: 60px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 632px 61px;
+}
+.gn_icon_37x38_1.left {
+   padding-left: 60px;
+   padding-bottom: 60px;
+}
+
+.gn_icon_37x38_3 {
+   width: 60px;
+   height: 52px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 232px 967px;
+}
+.gn_icon_37x38_3.left {
+   padding-left: 60px;
+   padding-bottom: 52px;
+}
+
+.gn_icon_37x38_4 {
+   width: 54px;
+   height: 58px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 218px 75px;
+}
+.gn_icon_37x38_4.left {
+   padding-left: 54px;
+   padding-bottom: 58px;
+}
+
+.gn_icon_37x38_5 {
+   width: 54px;
+   height: 56px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 225px 912px;
+}
+.gn_icon_37x38_5.left {
+   padding-left: 54px;
+   padding-bottom: 56px;
+}
+
+.gn_icon_37x38_6 {
+   width: 56px;
+   height: 60px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 637px 617px;
+}
+.gn_icon_37x38_6.left {
+   padding-left: 56px;
+   padding-bottom: 60px;
+}
+
+.gn_icon_Sigh {
+   width: 70px;
+   height: 54px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 242px 1111px;
+   transform: rotate(-90deg);
+}
+.gn_icon_Sigh.left {
+   padding-left: 70px;
+   padding-bottom: 54px;
+}
+
+.gn_icon_arrow {
+   width: 25px;
+   height: 33px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 516px 348px;
+   transform: rotate(-90deg);
+}
+.gn_icon_arrow.left {
+   padding-left: 25px;
+   padding-bottom: 33px;
+}
+
+.gn_icon_arrow_1 {
+   width: 44px;
+   height: 19px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 139px 989px;
+   transform: rotate(-90deg);
+}
+.gn_icon_arrow_1.left {
+   padding-left: 44px;
+   padding-bottom: 19px;
+}
+
+.gn_icon_coin_advanced {
+   width: 36px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 790px 1464px;
+}
+.gn_icon_coin_advanced.left {
+   padding-left: 36px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_big_coin_soul {
+   width: 74px;
+   height: 74px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 447px 75px;
+}
+.gn_icon_coin_big_coin_soul.left {
+   padding-left: 74px;
+   padding-bottom: 74px;
+}
+
+.gn_icon_coin_big_diamond_gold {
+   width: 102px;
+   height: 57px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 407px 912px;
+}
+.gn_icon_coin_big_diamond_gold.left {
+   padding-left: 102px;
+   padding-bottom: 57px;
+}
+
+.gn_icon_coin_big_dragon_coin {
+   width: 80px;
+   height: 64px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 242px 1178px;
+}
+.gn_icon_coin_big_dragon_coin.left {
+   padding-left: 80px;
+   padding-bottom: 64px;
+}
+
+.gn_icon_coin_big_glory_coin {
+   width: 70px;
+   height: 80px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 319px 309px;
+}
+.gn_icon_coin_big_glory_coin.left {
+   padding-left: 70px;
+   padding-bottom: 80px;
+}
+
+.gn_icon_coin_big_guled {
+   width: 72px;
+   height: 72px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 159px 1163px;
+}
+.gn_icon_coin_big_guled.left {
+   padding-left: 72px;
+   padding-bottom: 72px;
+}
+
+.gn_icon_coin_big_lucky {
+   width: 65px;
+   height: 68px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 332px 559px;
+}
+.gn_icon_coin_big_lucky.left {
+   padding-left: 65px;
+   padding-bottom: 68px;
+}
+
+.gn_icon_coin_boss_ticket {
+   width: 36px;
+   height: 34px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 40px 483px;
+}
+.gn_icon_coin_boss_ticket.left {
+   padding-left: 36px;
+   padding-bottom: 34px;
+}
+
+.gn_icon_coin_boss_world {
+   width: 38px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 81px 759px;
+}
+.gn_icon_coin_boss_world.left {
+   padding-left: 38px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_coin_soul {
+   width: 40px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 71px 605px;
+}
+.gn_icon_coin_coin_soul.left {
+   padding-left: 40px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_diamond {
+   width: 40px;
+   height: 30px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 350px 1223px;
+   transform: rotate(-90deg);
+}
+.gn_icon_coin_diamond.left {
+   padding-left: 40px;
+   padding-bottom: 30px;
+}
+
+.gn_icon_coin_dragon_coin {
+   width: 40px;
+   height: 34px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1405px 1106px;
+}
+.gn_icon_coin_dragon_coin.left {
+   padding-left: 40px;
+   padding-bottom: 34px;
+}
+
+.gn_icon_coin_dust {
+   width: 40px;
+   height: 36px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 168px 432px;
+   transform: rotate(-90deg);
+}
+.gn_icon_coin_dust.left {
+   padding-left: 40px;
+   padding-bottom: 36px;
+}
+
+.gn_icon_coin_elite_hero {
+   width: 35px;
+   height: 36px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 68px 198px;
+}
+.gn_icon_coin_elite_hero.left {
+   padding-left: 35px;
+   padding-bottom: 36px;
+}
+
+.gn_icon_coin_exp {
+   width: 35px;
+   height: 30px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 85px 231px;
+   transform: rotate(-90deg);
+}
+.gn_icon_coin_exp.left {
+   padding-left: 35px;
+   padding-bottom: 30px;
+}
+
+.gn_icon_coin_glory_coin {
+   width: 38px;
+   height: 41px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 81px 803px;
+}
+.gn_icon_coin_glory_coin.left {
+   padding-left: 38px;
+   padding-bottom: 41px;
+}
+
+.gn_icon_coin_gold {
+   width: 38px;
+   height: 38px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 81px 716px;
+}
+.gn_icon_coin_gold.left {
+   padding-left: 38px;
+   padding-bottom: 38px;
+}
+
+.gn_icon_coin_guild_exp {
+   width: 36px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 120px 518px;
+}
+.gn_icon_coin_guild_exp.left {
+   padding-left: 36px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_guled {
+   width: 40px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 163px 518px;
+}
+.gn_icon_coin_guled.left {
+   padding-left: 40px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_heart {
+   width: 40px;
+   height: 36px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 125px 644px;
+}
+.gn_icon_coin_heart.left {
+   padding-left: 40px;
+   padding-bottom: 36px;
+}
+
+.gn_icon_coin_hero_normal {
+   width: 40px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 168px 475px;
+}
+.gn_icon_coin_hero_normal.left {
+   padding-left: 40px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_hero_super {
+   width: 38px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 40px 699px;
+}
+.gn_icon_coin_hero_super.left {
+   padding-left: 38px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_lucky_coin {
+   width: 38px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 224px 748px;
+}
+.gn_icon_coin_lucky_coin.left {
+   padding-left: 38px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_pet_circle {
+   width: 38px;
+   height: 36px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 81px 675px;
+}
+.gn_icon_coin_pet_circle.left {
+   padding-left: 38px;
+   padding-bottom: 36px;
+}
+
+.gn_icon_coin_pet_up {
+   width: 38px;
+   height: 36px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 40px 656px;
+}
+.gn_icon_coin_pet_up.left {
+   padding-left: 38px;
+   padding-bottom: 36px;
+}
+
+.gn_icon_coin_quest_energy {
+   width: 40px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 167px 393px;
+}
+.gn_icon_coin_quest_energy.left {
+   padding-left: 40px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_quest_normal {
+   width: 38px;
+   height: 36px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 125px 432px;
+}
+.gn_icon_coin_quest_normal.left {
+   padding-left: 38px;
+   padding-bottom: 36px;
+}
+
+.gn_icon_coin_quest_super {
+   width: 38px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 125px 475px;
+   transform: rotate(-90deg);
+}
+.gn_icon_coin_quest_super.left {
+   padding-left: 38px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_slotmachine_one {
+   width: 39px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 40px 827px;
+   transform: rotate(-90deg);
+}
+.gn_icon_coin_slotmachine_one.left {
+   padding-left: 39px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_slotmachine_ten {
+   width: 39px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 40px 784px;
+   transform: rotate(-90deg);
+}
+.gn_icon_coin_slotmachine_ten.left {
+   padding-left: 39px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_soul {
+   width: 36px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 107px 194px;
+}
+.gn_icon_coin_soul.left {
+   padding-left: 36px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_special_drop1 {
+   width: 41px;
+   height: 41px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 125px 731px;
+}
+.gn_icon_coin_special_drop1.left {
+   padding-left: 41px;
+   padding-bottom: 41px;
+}
+
+.gn_icon_coin_strength {
+   width: 40px;
+   height: 34px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 144px 350px;
+   transform: rotate(-90deg);
+}
+.gn_icon_coin_strength.left {
+   padding-left: 40px;
+   padding-bottom: 34px;
+}
+
+.gn_icon_coin_ticket {
+   width: 38px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 124px 393px;
+   transform: rotate(-90deg);
+}
+.gn_icon_coin_ticket.left {
+   padding-left: 38px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_tree_coin {
+   width: 38px;
+   height: 38px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 108px 65px;
+}
+.gn_icon_coin_tree_coin.left {
+   padding-left: 38px;
+   padding-bottom: 38px;
+}
+
+.gn_icon_coin_tree_summon {
+   width: 40px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 146px 280px;
+}
+.gn_icon_coin_tree_summon.left {
+   padding-left: 40px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_vip_exp {
+   width: 50px;
+   height: 48px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 199px 278px;
+}
+.gn_icon_coin_vip_exp.left {
+   padding-left: 50px;
+   padding-bottom: 48px;
+}
+
+.gn_icon_coin_water {
+   width: 38px;
+   height: 38px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 81px 518px;
+}
+.gn_icon_coin_water.left {
+   padding-left: 38px;
+   padding-bottom: 38px;
+}
+
+.gn_icon_coin_wish {
+   width: 38px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 126px 237px;
+   transform: rotate(-90deg);
+}
+.gn_icon_coin_wish.left {
+   padding-left: 38px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_wish_super {
+   width: 36px;
+   height: 36px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 64px 159px;
+}
+.gn_icon_coin_wish_super.left {
+   padding-left: 36px;
+   padding-bottom: 36px;
+}
+
+.gn_icon_coin_world_boss {
+   width: 40px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 103px 311px;
+}
+.gn_icon_coin_world_boss.left {
+   padding-left: 40px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_coin_yarn_ball {
+   width: 40px;
+   height: 36px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 162px 557px;
+}
+.gn_icon_coin_yarn_ball.left {
+   padding-left: 40px;
+   padding-bottom: 36px;
+}
+
+.gn_icon_complete {
+   width: 91px;
+   height: 104px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1004px 105px;
+   transform: rotate(-90deg);
+}
+.gn_icon_complete.left {
+   padding-left: 91px;
+   padding-bottom: 104px;
+}
+
+.gn_icon_copy {
+   width: 41px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 125px 687px;
+}
+.gn_icon_copy.left {
+   padding-left: 41px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_fragment {
+   width: 33px;
+   height: 35px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 787px 1114px;
+}
+.gn_icon_fragment.left {
+   padding-left: 33px;
+   padding-bottom: 35px;
+}
+
+.gn_icon_laud {
+   width: 17px;
+   height: 19px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 971px 241px;
+}
+.gn_icon_laud.left {
+   padding-left: 17px;
+   padding-bottom: 19px;
+}
+
+.gn_icon_lock {
+   width: 74px;
+   height: 56px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 302px 912px;
+   transform: rotate(-90deg);
+}
+.gn_icon_lock.left {
+   padding-left: 74px;
+   padding-bottom: 56px;
+}
+
+.gn_icon_lock_bg {
+   width: 109px;
+   height: 109px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 296px 1582px;
+}
+.gn_icon_lock_bg.left {
+   padding-left: 109px;
+   padding-bottom: 109px;
+}
+
+.gn_icon_mail_click {
+   width: 59px;
+   height: 53px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 369px 1187px;
+   transform: rotate(-90deg);
+}
+.gn_icon_mail_click.left {
+   padding-left: 59px;
+   padding-bottom: 53px;
+}
+
+.gn_icon_mail_reward {
+   width: 54px;
+   height: 46px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 344px 691px;
+}
+.gn_icon_mail_reward.left {
+   padding-left: 54px;
+   padding-bottom: 46px;
+}
+
+.gn_icon_mail_reward2 {
+   width: 54px;
+   height: 59px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 341px 1131px;
+}
+.gn_icon_mail_reward2.left {
+   padding-left: 54px;
+   padding-bottom: 59px;
+}
+
+.gn_icon_mail_un_click {
+   width: 43px;
+   height: 53px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 86px 859px;
+   transform: rotate(-90deg);
+}
+.gn_icon_mail_un_click.left {
+   padding-left: 43px;
+   padding-bottom: 53px;
+}
+
+.gn_icon_member {
+   width: 16px;
+   height: 12px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1212px 218px;
+   transform: rotate(-90deg);
+}
+.gn_icon_member.left {
+   padding-left: 16px;
+   padding-bottom: 12px;
+}
+
+.gn_icon_new {
+   width: 51px;
+   height: 34px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 221px 112px;
+}
+.gn_icon_new.left {
+   padding-left: 51px;
+   padding-bottom: 34px;
+}
+
+.gn_icon_othe_dust {
+   width: 40px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 107px 151px;
+}
+.gn_icon_othe_dust.left {
+   padding-left: 40px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_passed {
+   width: 91px;
+   height: 92px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 516px 312px;
+   transform: rotate(-90deg);
+}
+.gn_icon_passed.left {
+   padding-left: 91px;
+   padding-bottom: 92px;
+}
+
+.gn_icon_passed_tw {
+   width: 91px;
+   height: 92px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 516px 312px;
+   transform: rotate(-90deg);
+}
+.gn_icon_passed_tw.left {
+   padding-left: 91px;
+   padding-bottom: 92px;
+}
+
+.gn_icon_playerinfo_guild {
+   width: 100px;
+   height: 111px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1043px 219px;
+   transform: rotate(-90deg);
+}
+.gn_icon_playerinfo_guild.left {
+   padding-left: 100px;
+   padding-bottom: 111px;
+}
+
+.gn_icon_prompt {
+   width: 20px;
+   height: 20px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 183px 728px;
+}
+.gn_icon_prompt.left {
+   padding-left: 20px;
+   padding-bottom: 20px;
+}
+
+.gn_icon_prompt01 {
+   width: 20px;
+   height: 20px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 550px 1227px;
+}
+.gn_icon_prompt01.left {
+   padding-left: 20px;
+   padding-bottom: 20px;
+}
+
+.gn_icon_prompt_red {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 47px 231px;
+}
+.gn_icon_prompt_red.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_icon_purchased {
+   width: 91px;
+   height: 106px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 239px 1387px;
+   transform: rotate(-90deg);
+}
+.gn_icon_purchased.left {
+   padding-left: 91px;
+   padding-bottom: 106px;
+}
+
+.gn_icon_purchased_cn {
+   width: 91px;
+   height: 106px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 239px 1387px;
+   transform: rotate(-90deg);
+}
+.gn_icon_purchased_cn.left {
+   padding-left: 91px;
+   padding-bottom: 106px;
+}
+
+.gn_icon_random_reward {
+   width: 118px;
+   height: 119px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 862px 371px;
+}
+.gn_icon_random_reward.left {
+   padding-left: 118px;
+   padding-bottom: 119px;
+}
+
+.gn_icon_rank_1 {
+   width: 65px;
+   height: 66px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 584px 348px;
+   transform: rotate(-90deg);
+}
+.gn_icon_rank_1.left {
+   padding-left: 65px;
+   padding-bottom: 66px;
+}
+
+.gn_icon_rank_1_2 {
+   width: 41px;
+   height: 59px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 42px 1423px;
+}
+.gn_icon_rank_1_2.left {
+   padding-left: 41px;
+   padding-bottom: 59px;
+}
+
+.gn_icon_rank_2 {
+   width: 60px;
+   height: 61px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 470px 912px;
+}
+.gn_icon_rank_2.left {
+   padding-left: 60px;
+   padding-bottom: 61px;
+}
+
+.gn_icon_rank_2_2 {
+   width: 41px;
+   height: 59px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 130px 855px;
+}
+.gn_icon_rank_2_2.left {
+   padding-left: 41px;
+   padding-bottom: 59px;
+}
+
+.gn_icon_rank_3 {
+   width: 60px;
+   height: 53px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 351px 747px;
+}
+.gn_icon_rank_3.left {
+   padding-left: 60px;
+   padding-bottom: 53px;
+}
+
+.gn_icon_rank_3_2 {
+   width: 41px;
+   height: 59px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 125px 793px;
+}
+.gn_icon_rank_3_2.left {
+   padding-left: 41px;
+   padding-bottom: 59px;
+}
+
+.gn_icon_selected {
+   width: 41px;
+   height: 38px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 187px 694px;
+}
+.gn_icon_selected.left {
+   padding-left: 41px;
+   padding-bottom: 38px;
+}
+
+.gn_icon_shengqi {
+   width: 35px;
+   height: 39px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 277px 1248px;
+}
+.gn_icon_shengqi.left {
+   padding-left: 35px;
+   padding-bottom: 39px;
+}
+
+.gn_icon_star_blue {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 64px 82px;
+}
+.gn_icon_star_blue.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_icon_star_bottom {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 31px 82px;
+}
+.gn_icon_star_bottom.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_icon_star_red {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 67px 49px;
+}
+.gn_icon_star_red.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_icon_star_yellow {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 34px 49px;
+}
+.gn_icon_star_yellow.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_icon_switch {
+   width: 40px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 107px 108px;
+}
+.gn_icon_switch.left {
+   padding-left: 40px;
+   padding-bottom: 40px;
+}
+
+.gn_icon_switch_down {
+   width: 59px;
+   height: 86px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 844px 658px;
+   transform: rotate(-90deg);
+}
+.gn_icon_switch_down.left {
+   padding-left: 59px;
+   padding-bottom: 86px;
+}
+
+.gn_icon_switch_up {
+   width: 86px;
+   height: 59px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 430px 1131px;
+}
+.gn_icon_switch_up.left {
+   padding-left: 86px;
+   padding-bottom: 59px;
+}
+
+.gn_icon_time {
+   width: 47px;
+   height: 47px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 48px 1556px;
+}
+.gn_icon_time.left {
+   padding-left: 47px;
+   padding-bottom: 47px;
+}
+
+.gn_icon_title {
+   width: 520px;
+   height: 120px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1405px 1069px;
+}
+.gn_icon_title.left {
+   padding-left: 520px;
+   padding-bottom: 120px;
+}
+
+.gn_icon_vs {
+   width: 99px;
+   height: 102px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 285px 853px;
+   transform: rotate(-90deg);
+}
+.gn_icon_vs.left {
+   padding-left: 99px;
+   padding-bottom: 102px;
+}
+
+.gn_icon_vs_lost {
+   width: 110px;
+   height: 101px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1430px 102px;
+}
+.gn_icon_vs_lost.left {
+   padding-left: 110px;
+   padding-bottom: 101px;
+}
+
+.gn_icon_vs_win {
+   width: 110px;
+   height: 101px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1317px 102px;
+}
+.gn_icon_vs_win.left {
+   padding-left: 110px;
+   padding-bottom: 101px;
+}
+
+.gn_icon_yingxiong {
+   width: 35px;
+   height: 35px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 64px 120px;
+}
+.gn_icon_yingxiong.left {
+   padding-left: 35px;
+   padding-bottom: 35px;
+}
+
+.gn_icon_zhuangbei {
+   width: 39px;
+   height: 36px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 844px 569px;
+   transform: rotate(-90deg);
+}
+.gn_icon_zhuangbei.left {
+   padding-left: 39px;
+   padding-bottom: 36px;
+}
+
+.gn_line_bg {
+   width: 598px;
+   height: 32px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1352px 1149px;
+}
+.gn_line_bg.left {
+   padding-left: 598px;
+   padding-bottom: 32px;
+}
+
+.gn_list_bg_1 {
+   width: 101px;
+   height: 46px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 440px 961px;
+   transform: rotate(-90deg);
+}
+.gn_list_bg_1.left {
+   padding-left: 101px;
+   padding-bottom: 46px;
+}
+
+.gn_list_bg_1_2 {
+   width: 101px;
+   height: 46px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 336px 961px;
+   transform: rotate(-90deg);
+}
+.gn_list_bg_1_2.left {
+   padding-left: 101px;
+   padding-bottom: 46px;
+}
+
+.gn_list_bg_2 {
+   width: 101px;
+   height: 46px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 455px 740px;
+   transform: rotate(-90deg);
+}
+.gn_list_bg_2.left {
+   padding-left: 101px;
+   padding-bottom: 46px;
+}
+
+.gn_list_bg_2_2 {
+   width: 101px;
+   height: 46px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 448px 691px;
+   transform: rotate(-90deg);
+}
+.gn_list_bg_2_2.left {
+   padding-left: 101px;
+   padding-bottom: 46px;
+}
+
+.gn_list_item_bg {
+   width: 47px;
+   height: 51px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 48px 1610px;
+   transform: rotate(-90deg);
+}
+.gn_list_item_bg.left {
+   padding-left: 47px;
+   padding-bottom: 51px;
+}
+
+.gn_loading {
+   width: 62px;
+   height: 62px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 73px 1090px;
+}
+.gn_loading.left {
+   padding-left: 62px;
+   padding-bottom: 62px;
+}
+
+.gn_loading_line {
+   width: 640px;
+   height: 30px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 711px 1668px;
+}
+.gn_loading_line.left {
+   padding-left: 640px;
+   padding-bottom: 30px;
+}
+
+.gn_loading_line_bg {
+   width: 640px;
+   height: 32px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 711px 1703px;
+}
+.gn_loading_line_bg.left {
+   padding-left: 640px;
+   padding-bottom: 32px;
+}
+
+.gn_logo_bg_large {
+   width: 94px;
+   height: 94px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 524px 217px;
+}
+.gn_logo_bg_large.left {
+   padding-left: 94px;
+   padding-bottom: 94px;
+}
+
+.gn_logo_bg_select {
+   width: 73px;
+   height: 73px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 370px 75px;
+}
+.gn_logo_bg_select.left {
+   padding-left: 73px;
+   padding-bottom: 73px;
+}
+
+.gn_logo_bg_small {
+   width: 73px;
+   height: 73px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 294px 75px;
+}
+.gn_logo_bg_small.left {
+   padding-left: 73px;
+   padding-bottom: 73px;
+}
+
+.gn_market_bg {
+   width: 396px;
+   height: 73px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1405px 736px;
+}
+.gn_market_bg.left {
+   padding-left: 396px;
+   padding-bottom: 73px;
+}
+
+.gn_number_bg {
+   width: 35px;
+   height: 134px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 277px 1385px;
+   transform: rotate(-90deg);
+}
+.gn_number_bg.left {
+   padding-left: 35px;
+   padding-bottom: 134px;
+}
+
+.gn_number_bg_2 {
+   width: 27px;
+   height: 83px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1060px 585px;
+   transform: rotate(-90deg);
+}
+.gn_number_bg_2.left {
+   padding-left: 27px;
+   padding-bottom: 83px;
+}
+
+.gn_panel_background {
+   width: 58px;
+   height: 63px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 221px 178px;
+}
+.gn_panel_background.left {
+   padding-left: 58px;
+   padding-bottom: 63px;
+}
+
+.gn_popupbg {
+   width: 222px;
+   height: 254px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1642px 589px;
+   transform: rotate(-90deg);
+}
+.gn_popupbg.left {
+   padding-left: 222px;
+   padding-bottom: 254px;
+}
+
+.gn_process_guild_boss_blood {
+   width: 28px;
+   height: 10px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1848px 11px;
+}
+.gn_process_guild_boss_blood.left {
+   padding-left: 28px;
+   padding-bottom: 10px;
+}
+
+.gn_rank_exp {
+   width: 18px;
+   height: 448px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1706px 511px;
+   transform: rotate(-90deg);
+}
+.gn_rank_exp.left {
+   padding-left: 18px;
+   padding-bottom: 448px;
+}
+
+.gn_rank_exp2 {
+   width: 170px;
+   height: 15px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 527px 1205px;
+}
+.gn_rank_exp2.left {
+   padding-left: 170px;
+   padding-bottom: 15px;
+}
+
+.gn_rank_exp_bg {
+   width: 24px;
+   height: 453px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1733px 511px;
+   transform: rotate(-90deg);
+}
+.gn_rank_exp_bg.left {
+   padding-left: 24px;
+   padding-bottom: 453px;
+}
+
+.gn_rank_exp_bg2 {
+   width: 174px;
+   height: 19px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 527px 1227px;
+}
+.gn_rank_exp_bg2.left {
+   padding-left: 174px;
+   padding-bottom: 19px;
+}
+
+.gn_select_icon_green {
+   width: 23px;
+   height: 23px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1733px 55px;
+}
+.gn_select_icon_green.left {
+   padding-left: 23px;
+   padding-bottom: 23px;
+}
+
+.gn_select_icon_white {
+   width: 28px;
+   height: 28px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 82px 636px;
+}
+.gn_select_icon_white.left {
+   padding-left: 28px;
+   padding-bottom: 28px;
+}
+
+.gn_set_click_btn {
+   width: 186px;
+   height: 72px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 971px 846px;
+}
+.gn_set_click_btn.left {
+   padding-left: 186px;
+   padding-bottom: 72px;
+}
+
+.gn_set_help_btn {
+   width: 373px;
+   height: 72px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1405px 660px;
+}
+.gn_set_help_btn.left {
+   padding-left: 373px;
+   padding-bottom: 72px;
+}
+
+.gn_set_unclick_btn {
+   width: 186px;
+   height: 72px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 971px 771px;
+}
+.gn_set_unclick_btn.left {
+   padding-left: 186px;
+   padding-bottom: 72px;
+}
+
+.gn_skill_tips_bg {
+   width: 566px;
+   height: 151px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1352px 1388px;
+}
+.gn_skill_tips_bg.left {
+   padding-left: 566px;
+   padding-bottom: 151px;
+}
+
+.gn_steps_alone_fighting_dark {
+   width: 176px;
+   height: 35px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 775px 954px;
+}
+.gn_steps_alone_fighting_dark.left {
+   padding-left: 176px;
+   padding-bottom: 35px;
+}
+
+.gn_steps_bg_frame {
+   width: 526px;
+   height: 235px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1352px 1626px;
+}
+.gn_steps_bg_frame.left {
+   padding-left: 526px;
+   padding-bottom: 235px;
+}
+
+.gn_steps_black_bg2_1 {
+   width: 32px;
+   height: 103px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 36px 1317px;
+}
+.gn_steps_black_bg2_1.left {
+   padding-left: 32px;
+   padding-bottom: 103px;
+}
+
+.gn_steps_black_bg2_2 {
+   width: 103px;
+   height: 32px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 139px 1198px;
+   transform: rotate(-90deg);
+}
+.gn_steps_black_bg2_2.left {
+   padding-left: 103px;
+   padding-bottom: 32px;
+}
+
+.gn_steps_brave {
+   width: 487px;
+   height: 85px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1405px 946px;
+}
+.gn_steps_brave.left {
+   padding-left: 487px;
+   padding-bottom: 85px;
+}
+
+.gn_steps_dark {
+   width: 30px;
+   height: 122px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 184px 1603px;
+   transform: rotate(-90deg);
+}
+.gn_steps_dark.left {
+   padding-left: 30px;
+   padding-bottom: 122px;
+}
+
+.gn_steps_dark_0 {
+   width: 37px;
+   height: 10px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1888px 11px;
+}
+.gn_steps_dark_0.left {
+   padding-left: 37px;
+   padding-bottom: 10px;
+}
+
+.gn_steps_dark_1 {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 288px 747px;
+}
+.gn_steps_dark_1.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_steps_dark_2 {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 84px 475px;
+}
+.gn_steps_dark_2.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_steps_dark_3 {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 84px 442px;
+}
+.gn_steps_dark_3.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_steps_fixed {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 51px 446px;
+}
+.gn_steps_fixed.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_steps_fixed01 {
+   width: 30px;
+   height: 73px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 823px 1464px;
+}
+.gn_steps_fixed01.left {
+   padding-left: 30px;
+   padding-bottom: 73px;
+}
+
+.gn_steps_fixed02 {
+   width: 40px;
+   height: 30px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 148px 313px;
+   transform: rotate(-90deg);
+}
+.gn_steps_fixed02.left {
+   padding-left: 40px;
+   padding-bottom: 30px;
+}
+
+.gn_steps_floa_bright {
+   width: 126px;
+   height: 98px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1204px 99px;
+}
+.gn_steps_floa_bright.left {
+   padding-left: 126px;
+   padding-bottom: 98px;
+}
+
+.gn_steps_floa_bright01 {
+   width: 104px;
+   height: 127px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 882px 1069px;
+   transform: rotate(-90deg);
+}
+.gn_steps_floa_bright01.left {
+   padding-left: 104px;
+   padding-bottom: 127px;
+}
+
+.gn_steps_floa_bright02 {
+   width: 24px;
+   height: 20px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 751px 1626px;
+}
+.gn_steps_floa_bright02.left {
+   padding-left: 24px;
+   padding-bottom: 20px;
+}
+
+.gn_steps_floa_bright03 {
+   width: 50px;
+   height: 50px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 161px 72px;
+}
+.gn_steps_floa_bright03.left {
+   padding-left: 50px;
+   padding-bottom: 50px;
+}
+
+.gn_steps_floa_bright04 {
+   width: 20px;
+   height: 24px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 805px 696px;
+   transform: rotate(-90deg);
+}
+.gn_steps_floa_bright04.left {
+   padding-left: 20px;
+   padding-bottom: 24px;
+}
+
+.gn_steps_floa_bright05 {
+   width: 150px;
+   height: 150px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1212px 371px;
+}
+.gn_steps_floa_bright05.left {
+   padding-left: 150px;
+   padding-bottom: 150px;
+}
+
+.gn_steps_floa_bright_blod_border {
+   width: 94px;
+   height: 124px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 940px 241px;
+   transform: rotate(-90deg);
+}
+.gn_steps_floa_bright_blod_border.left {
+   padding-left: 94px;
+   padding-bottom: 124px;
+}
+
+.gn_steps_floa_dark {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 83px 409px;
+}
+.gn_steps_floa_dark.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_steps_floa_dark_1 {
+   width: 21px;
+   height: 18px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 214px 1603px;
+   transform: rotate(-90deg);
+}
+.gn_steps_floa_dark_1.left {
+   padding-left: 21px;
+   padding-bottom: 18px;
+}
+
+.gn_steps_floa_dark_2 {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 50px 413px;
+}
+.gn_steps_floa_dark_2.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_steps_floa_dark_3 {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 50px 380px;
+}
+.gn_steps_floa_dark_3.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_steps_goess {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 145px 1404px;
+}
+.gn_steps_goess.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.gn_steps_goess_1 {
+   width: 68px;
+   height: 98px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1075px 99px;
+}
+.gn_steps_goess_1.left {
+   padding-left: 68px;
+   padding-bottom: 98px;
+}
+
+.gn_steps_green {
+   width: 100px;
+   height: 50px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1539px 113px;
+   transform: rotate(-90deg);
+}
+.gn_steps_green.left {
+   padding-left: 100px;
+   padding-bottom: 50px;
+}
+
+.gn_steps_guild_bg {
+   width: 32px;
+   height: 32px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 33px 1211px;
+}
+.gn_steps_guild_bg.left {
+   padding-left: 32px;
+   padding-bottom: 32px;
+}
+
+.gn_steps_head_dark {
+   width: 155px;
+   height: 53px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 527px 1187px;
+   transform: rotate(-90deg);
+}
+.gn_steps_head_dark.left {
+   padding-left: 155px;
+   padding-bottom: 53px;
+}
+
+.gn_steps_info {
+   width: 50px;
+   height: 50px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 264px 589px;
+}
+.gn_steps_info.left {
+   padding-left: 50px;
+   padding-bottom: 50px;
+}
+
+.gn_steps_info_shade {
+   width: 50px;
+   height: 64px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 183px 853px;
+}
+.gn_steps_info_shade.left {
+   padding-left: 50px;
+   padding-bottom: 64px;
+}
+
+.gn_steps_input {
+   width: 58px;
+   height: 58px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 63px 986px;
+}
+.gn_steps_input.left {
+   padding-left: 58px;
+   padding-bottom: 58px;
+}
+
+.gn_steps_lock {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 139px 1301px;
+}
+.gn_steps_lock.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.gn_steps_lockey {
+   width: 100px;
+   height: 110px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 735px 151px;
+}
+.gn_steps_lockey.left {
+   padding-left: 100px;
+   padding-bottom: 110px;
+}
+
+.gn_steps_lv {
+   width: 48px;
+   height: 50px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 224px 652px;
+}
+.gn_steps_lv.left {
+   padding-left: 48px;
+   padding-bottom: 50px;
+}
+
+.gn_steps_menu_bg {
+   width: 199px;
+   height: 165px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1414px 371px;
+}
+.gn_steps_menu_bg.left {
+   padding-left: 199px;
+   padding-bottom: 165px;
+}
+
+.gn_steps_name {
+   width: 220px;
+   height: 44px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 751px 1460px;
+}
+.gn_steps_name.left {
+   padding-left: 220px;
+   padding-bottom: 44px;
+}
+
+.gn_steps_name_castle {
+   width: 167px;
+   height: 51px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 783px 1293px;
+}
+.gn_steps_name_castle.left {
+   padding-left: 167px;
+   padding-bottom: 51px;
+}
+
+.gn_steps_newsystem {
+   width: 431px;
+   height: 119px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1405px 858px;
+}
+.gn_steps_newsystem.left {
+   padding-left: 431px;
+   padding-bottom: 119px;
+}
+
+.gn_steps_nothing {
+   width: 106px;
+   height: 125px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 971px 369px;
+   transform: rotate(-90deg);
+}
+.gn_steps_nothing.left {
+   padding-left: 106px;
+   padding-bottom: 125px;
+}
+
+.gn_steps_res {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 319px 488px;
+}
+.gn_steps_res.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.gn_steps_res_2 {
+   width: 107px;
+   height: 107px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 637px 279px;
+}
+.gn_steps_res_2.left {
+   padding-left: 107px;
+   padding-bottom: 107px;
+}
+
+.gn_steps_ribbon_red {
+   width: 68px;
+   height: 63px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 267px 1054px;
+}
+.gn_steps_ribbon_red.left {
+   padding-left: 68px;
+   padding-bottom: 63px;
+}
+
+.gn_steps_sell_dark {
+   width: 198px;
+   height: 35px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1006px 696px;
+}
+.gn_steps_sell_dark.left {
+   padding-left: 198px;
+   padding-bottom: 35px;
+}
+
+.gn_steps_shade {
+   width: 50px;
+   height: 50px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 240px 705px;
+}
+.gn_steps_shade.left {
+   padding-left: 50px;
+   padding-bottom: 50px;
+}
+
+.gn_steps_solid {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 62px 347px;
+}
+.gn_steps_solid.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_steps_solid01 {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 60px 314px;
+}
+.gn_steps_solid01.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_steps_stop_service {
+   width: 60px;
+   height: 60px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 569px 61px;
+}
+.gn_steps_stop_service.left {
+   padding-left: 60px;
+   padding-bottom: 60px;
+}
+
+.gn_steps_strong_left_bg {
+   width: 96px;
+   height: 73px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 319px 385px;
+}
+.gn_steps_strong_left_bg.left {
+   padding-left: 96px;
+   padding-bottom: 73px;
+}
+
+.gn_steps_tab {
+   width: 50px;
+   height: 52px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 169px 967px;
+}
+.gn_steps_tab.left {
+   padding-left: 50px;
+   padding-bottom: 52px;
+}
+
+.gn_steps_title_all {
+   width: 606px;
+   height: 137px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1320px 1766px;
+}
+.gn_steps_title_all.left {
+   padding-left: 606px;
+   padding-bottom: 137px;
+}
+
+.gn_steps_title_half1 {
+   width: 152px;
+   height: 497px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1888px 511px;
+   transform: rotate(-90deg);
+}
+.gn_steps_title_half1.left {
+   padding-left: 152px;
+   padding-bottom: 497px;
+}
+
+.gn_steps_top_bg {
+   width: 40px;
+   height: 396px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 1685px 511px;
+   transform: rotate(-90deg);
+}
+.gn_steps_top_bg.left {
+   padding-left: 40px;
+   padding-bottom: 396px;
+}
+
+.gn_steps_worldmap_green {
+   width: 148px;
+   height: 46px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 591px 961px;
+}
+.gn_steps_worldmap_green.left {
+   padding-left: 148px;
+   padding-bottom: 46px;
+}
+
+.gn_steps_worldmap_orange {
+   width: 148px;
+   height: 46px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 606px 740px;
+}
+.gn_steps_worldmap_orange.left {
+   padding-left: 148px;
+   padding-bottom: 46px;
+}
+
+.gn_steps_yellow_line_bg {
+   width: 602px;
+   height: 65px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 711px 1771px;
+}
+.gn_steps_yellow_line_bg.left {
+   padding-left: 602px;
+   padding-bottom: 65px;
+}
+
+.gn_strip_1_1 {
+   width: 22px;
+   height: 22px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 605px 1189px;
+}
+.gn_strip_1_1.left {
+   padding-left: 22px;
+   padding-bottom: 22px;
+}
+
+.gn_strip_1_2 {
+   width: 22px;
+   height: 22px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 267px 1087px;
+}
+.gn_strip_1_2.left {
+   padding-left: 22px;
+   padding-bottom: 22px;
+}
+
+.gn_strip_1_3 {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 45px 281px;
+}
+.gn_strip_1_3.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.gn_strip_1_4 {
+   width: 22px;
+   height: 22px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 103px 268px;
+}
+.gn_strip_1_4.left {
+   padding-left: 22px;
+   padding-bottom: 22px;
+}
+
+.gn_strip_3 {
+   width: 100px;
+   height: 26px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 735px 38px;
+}
+.gn_strip_3.left {
+   padding-left: 100px;
+   padding-bottom: 26px;
+}
+
+.gn_tab_line {
+   width: 2px;
+   height: 36px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 427px 217px;
+   transform: rotate(-90deg);
+}
+.gn_tab_line.left {
+   padding-left: 2px;
+   padding-bottom: 36px;
+}
+
+.gn_task_exp {
+   width: 64px;
+   height: 18px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 267px 988px;
+}
+.gn_task_exp.left {
+   padding-left: 64px;
+   padding-bottom: 18px;
+}
+
+.gn_task_exp_bg {
+   width: 64px;
+   height: 22px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 136px 1635px;
+}
+.gn_task_exp_bg.left {
+   padding-left: 64px;
+   padding-bottom: 22px;
+}
+
+.gn_top_bg_2 {
+   width: 604px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 721px 1814px;
+}
+.gn_top_bg_2.left {
+   padding-left: 604px;
+   padding-bottom: 40px;
+}
+
+.gn_vertical_line {
+   width: 16px;
+   height: 8px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 805px 669px;
+   transform: rotate(-90deg);
+}
+.gn_vertical_line.left {
+   padding-left: 16px;
+   padding-bottom: 8px;
+}
+
+.gn_vip_dot {
+   width: 18px;
+   height: 20px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 448px 120px;
+}
+.gn_vip_dot.left {
+   padding-left: 18px;
+   padding-bottom: 20px;
+}
+
+.gn_word_bg {
+   width: 81px;
+   height: 30px;
+   background-color: transparent;
+   background: url(/images/feature/button.png) 169px 1088px;
+}
+.gn_word_bg.left {
+   padding-left: 81px;
+   padding-bottom: 30px;
+}
+
+.sy_bg_void_for_door_1 {
+   width: 575px;
+   height: 565px;
+   background-color: transparent;
+   background: url(/images/feature/gatesofvoid.png) 1998px 1144px;
+}
+.sy_bg_void_for_door_1.left {
+   padding-left: 575px;
+   padding-bottom: 565px;
+}
+
+.sy_bg_void_for_door_1_small {
+   width: 114px;
+   height: 85px;
+   background-color: transparent;
+   background: url(/images/feature/gatesofvoid.png) 852px 170px;
+}
+.sy_bg_void_for_door_1_small.left {
+   padding-left: 114px;
+   padding-bottom: 85px;
+}
+
+.sy_bg_void_for_door_2 {
+   width: 575px;
+   height: 565px;
+   background-color: transparent;
+   background: url(/images/feature/gatesofvoid.png) 1420px 1144px;
+}
+.sy_bg_void_for_door_2.left {
+   padding-left: 575px;
+   padding-bottom: 565px;
+}
+
+.sy_bg_void_for_door_2_small {
+   width: 114px;
+   height: 85px;
+   background-color: transparent;
+   background: url(/images/feature/gatesofvoid.png) 735px 170px;
+}
+.sy_bg_void_for_door_2_small.left {
+   padding-left: 114px;
+   padding-bottom: 85px;
+}
+
+.sy_bg_void_for_door_3 {
+   width: 575px;
+   height: 565px;
+   background-color: transparent;
+   background: url(/images/feature/gatesofvoid.png) 842px 1144px;
+}
+.sy_bg_void_for_door_3.left {
+   padding-left: 575px;
+   padding-bottom: 565px;
+}
+
+.sy_bg_void_for_door_3_small {
+   width: 114px;
+   height: 85px;
+   background-color: transparent;
+   background: url(/images/feature/gatesofvoid.png) 618px 170px;
+}
+.sy_bg_void_for_door_3_small.left {
+   padding-left: 114px;
+   padding-bottom: 85px;
+}
+
+.sy_bg_void_for_door_4 {
+   width: 565px;
+   height: 575px;
+   background-color: transparent;
+   background: url(/images/feature/gatesofvoid.png) 1998px 576px;
+   transform: rotate(-90deg);
+}
+.sy_bg_void_for_door_4.left {
+   padding-left: 565px;
+   padding-bottom: 575px;
+}
+
+.sy_bg_void_for_door_4_small {
+   width: 114px;
+   height: 85px;
+   background-color: transparent;
+   background: url(/images/feature/gatesofvoid.png) 501px 170px;
+}
+.sy_bg_void_for_door_4_small.left {
+   padding-left: 114px;
+   padding-bottom: 85px;
+}
+
+.sy_bg_void_for_door_5 {
+   width: 575px;
+   height: 565px;
+   background-color: transparent;
+   background: url(/images/feature/gatesofvoid.png) 1430px 576px;
+}
+.sy_bg_void_for_door_5.left {
+   padding-left: 575px;
+   padding-bottom: 565px;
+}
+
+.sy_bg_void_for_door_5_small {
+   width: 85px;
+   height: 114px;
+   background-color: transparent;
+   background: url(/images/feature/gatesofvoid.png) 384px 170px;
+   transform: rotate(-90deg);
+}
+.sy_bg_void_for_door_5_small.left {
+   padding-left: 85px;
+   padding-bottom: 114px;
+}
+
+.sy_bg_void_for_door_rank_head {
+   width: 216px;
+   height: 426px;
+   background-color: transparent;
+   background: url(/images/feature/gatesofvoid.png) 280px 572px;
+   transform: rotate(-90deg);
+}
+.sy_bg_void_for_door_rank_head.left {
+   padding-left: 216px;
+   padding-bottom: 426px;
+}
+
+.sy_bg_void_for_door_shop {
+   width: 258px;
+   height: 569px;
+   background-color: transparent;
+   background: url(/images/feature/gatesofvoid.png) 264px 1144px;
+   transform: rotate(-90deg);
+}
+.sy_bg_void_for_door_shop.left {
+   padding-left: 258px;
+   padding-bottom: 569px;
+}
+
+.sy_bg_void_for_door_shop_font {
+   width: 60px;
+   height: 569px;
+   background-color: transparent;
+   background: url(/images/feature/gatesofvoid.png) 61px 572px;
+   transform: rotate(-90deg);
+}
+.sy_bg_void_for_door_shop_font.left {
+   padding-left: 60px;
+   padding-bottom: 569px;
+}
+
+.sy_bg_void_for_door_shop_head_1 {
+   width: 569px;
+   height: 258px;
+   background-color: transparent;
+   background: url(/images/feature/gatesofvoid.png) 852px 576px;
+}
+.sy_bg_void_for_door_shop_head_1.left {
+   padding-left: 569px;
+   padding-bottom: 258px;
+}
+
+.sy_bg_void_for_door_shop_head_2 {
+   width: 569px;
+   height: 142px;
+   background-color: transparent;
+   background: url(/images/feature/gatesofvoid.png) 852px 315px;
+}
+.sy_bg_void_for_door_shop_head_2.left {
+   padding-left: 569px;
+   padding-bottom: 142px;
+}
+
+.sy_guild_cloud_1 {
+   width: 230px;
+   height: 287px;
+   background-color: transparent;
+   background: url(/images/feature/guild_building.png) 953px 753px;
+}
+.sy_guild_cloud_1.left {
+   padding-left: 230px;
+   padding-bottom: 287px;
+}
+
+.sy_guild_cloud_2 {
+   width: 593px;
+   height: 225px;
+   background-color: transparent;
+   background: url(/images/feature/guild_building.png) 953px 1510px;
+}
+.sy_guild_cloud_2.left {
+   padding-left: 593px;
+   padding-bottom: 225px;
+}
+
+.sy_guild_cloud_3 {
+   width: 162px;
+   height: 442px;
+   background-color: transparent;
+   background: url(/images/feature/guild_building.png) 953px 443px;
+   transform: rotate(-90deg);
+}
+.sy_guild_cloud_3.left {
+   padding-left: 162px;
+   padding-bottom: 442px;
+}
+
+.sy_guild_cloud_4 {
+   width: 351px;
+   height: 323px;
+   background-color: transparent;
+   background: url(/images/feature/guild_building.png) 357px 1510px;
+   transform: rotate(-90deg);
+}
+.sy_guild_cloud_4.left {
+   padding-left: 351px;
+   padding-bottom: 323px;
+}
+
+.sy_guild_cloud_5 {
+   width: 556px;
+   height: 526px;
+   background-color: transparent;
+   background: url(/images/feature/guild_building.png) 953px 1282px;
+   transform: rotate(-90deg);
+}
+.sy_guild_cloud_5.left {
+   padding-left: 556px;
+   padding-bottom: 526px;
+}
+
+.sy_guild_main_castle {
+   width: 383px;
+   height: 471px;
+   background-color: transparent;
+   background: url(/images/feature/guild_building.png) 394px 917px;
+   transform: rotate(-90deg);
+}
+.sy_guild_main_castle.left {
+   padding-left: 383px;
+   padding-bottom: 471px;
+}
+
+.sy_guild_market {
+   width: 224px;
+   height: 272px;
+   background-color: transparent;
+   background: url(/images/feature/guild_building.png) 720px 753px;
+   transform: rotate(-90deg);
+}
+.sy_guild_market.left {
+   padding-left: 224px;
+   padding-bottom: 272px;
+}
+
+.sy_guild_mill {
+   width: 393px;
+   height: 264px;
+   background-color: transparent;
+   background: url(/images/feature/guild_building.png) 394px 1184px;
+}
+.sy_guild_mill.left {
+   padding-left: 393px;
+   padding-bottom: 264px;
+}
+
+.sy_guild_mill2 {
+   width: 310px;
+   height: 239px;
+   background-color: transparent;
+   background: url(/images/feature/guild_building.png) 385px 243px;
+}
+.sy_guild_mill2.left {
+   padding-left: 310px;
+   padding-bottom: 239px;
+}
+
+.sy_guild_star_little {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url(/images/feature/guild_building.png) 394px 1282px;
+}
+.sy_guild_star_little.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.sy_guild_tech_bg {
+   width: 400px;
+   height: 429px;
+   background-color: transparent;
+   background: url(/images/feature/guild_building.png) 788px 443px;
+   transform: rotate(-90deg);
+}
+.sy_guild_tech_bg.left {
+   padding-left: 400px;
+   padding-bottom: 429px;
+}
+
+.sy_guild_technology {
+   width: 367px;
+   height: 197px;
+   background-color: transparent;
+   background: url(/images/feature/guild_building.png) 385px 443px;
+}
+.sy_guild_technology.left {
+   padding-left: 367px;
+   padding-bottom: 197px;
+}
+
+.bg_hero_info_bg_1 {
+   width: 570px;
+   height: 448px;
+   background-color: transparent;
+   background: url(/images/feature/hero_bg.png) 1144px 900px;
+}
+.bg_hero_info_bg_1.left {
+   padding-left: 570px;
+   padding-bottom: 448px;
+}
+
+.bg_hero_info_bg_2 {
+   width: 570px;
+   height: 444px;
+   background-color: transparent;
+   background: url(/images/feature/hero_bg.png) 1717px 900px;
+}
+.bg_hero_info_bg_2.left {
+   padding-left: 570px;
+   padding-bottom: 444px;
+}
+
+.bg_hero_info_bg_3 {
+   width: 570px;
+   height: 448px;
+   background-color: transparent;
+   background: url(/images/feature/hero_bg.png) 571px 900px;
+}
+.bg_hero_info_bg_3.left {
+   padding-left: 570px;
+   padding-bottom: 448px;
+}
+
+.bg_hero_info_bg_4 {
+   width: 570px;
+   height: 448px;
+   background-color: transparent;
+   background: url(/images/feature/hero_bg.png) 1717px 453px;
+}
+.bg_hero_info_bg_4.left {
+   padding-left: 570px;
+   padding-bottom: 448px;
+}
+
+.bg_hero_info_bg_5 {
+   width: 570px;
+   height: 448px;
+   background-color: transparent;
+   background: url(/images/feature/hero_bg.png) 1144px 449px;
+}
+.bg_hero_info_bg_5.left {
+   padding-left: 570px;
+   padding-bottom: 448px;
+}
+
+.bg_hero_info_bg_6 {
+   width: 570px;
+   height: 448px;
+   background-color: transparent;
+   background: url(/images/feature/hero_bg.png) 571px 449px;
+}
+.bg_hero_info_bg_6.left {
+   padding-left: 570px;
+   padding-bottom: 448px;
+}
+
+.it_coin_wish_100 {
+   width: 98px;
+   height: 96px;
+   background-color: transparent;
+   background: url(/images/feature/spin.png) 384px 212px;
+}
+.it_coin_wish_100.left {
+   padding-left: 98px;
+   padding-bottom: 96px;
+}
+
+.it_coin_wish_40 {
+   width: 40px;
+   height: 40px;
+   background-color: transparent;
+   background: url(/images/feature/spin.png) 732px 115px;
+}
+.it_coin_wish_40.left {
+   padding-left: 40px;
+   padding-bottom: 40px;
+}
+
+.sy_bg_turntable {
+   width: 642px;
+   height: 598px;
+   background-color: transparent;
+   background: url(/images/feature/spin.png) 1513px 599px;
+   transform: rotate(-90deg);
+}
+.sy_bg_turntable.left {
+   padding-left: 642px;
+   padding-bottom: 598px;
+}
+
+.sy_tt_point_img {
+   width: 41px;
+   height: 83px;
+   background-color: transparent;
+   background: url(/images/feature/spin.png) 776px 115px;
+}
+.sy_tt_point_img.left {
+   padding-left: 41px;
+   padding-bottom: 83px;
+}
+
+.sy_tt_reflash_btn {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url(/images/feature/spin.png) 868px 115px;
+}
+.sy_tt_reflash_btn.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.sy_tt_table_img {
+   width: 481px;
+   height: 481px;
+   background-color: transparent;
+   background: url(/images/feature/spin.png) 868px 599px;
+}
+.sy_tt_table_img.left {
+   padding-left: 481px;
+   padding-bottom: 481px;
+}
+
+.sy_tt_table_top {
+   width: 383px;
+   height: 384px;
+   background-color: transparent;
+   background: url(/images/feature/spin.png) 384px 599px;
+}
+.sy_tt_table_top.left {
+   padding-left: 383px;
+   padding-bottom: 384px;
+}
+
+.bg_worldmap_00 {
+   width: 267px;
+   height: 542px;
+   background-color: transparent;
+   background: url(/images/feature/worldmap.png) 270px 823px;
+   transform: rotate(-90deg);
+}
+.bg_worldmap_00.left {
+   padding-left: 267px;
+   padding-bottom: 542px;
+}
+
+.bg_worldmap_01 {
+   width: 271px;
+   height: 544px;
+   background-color: transparent;
+   background: url(/images/feature/worldmap.png) 544px 823px;
+   transform: rotate(-90deg);
+}
+.bg_worldmap_01.left {
+   padding-left: 271px;
+   padding-bottom: 544px;
+}
+
+.bg_worldmap_1 {
+   width: 273px;
+   height: 546px;
+   background-color: transparent;
+   background: url(/images/feature/worldmap.png) 1924px 1099px;
+   transform: rotate(-90deg);
+}
+.bg_worldmap_1.left {
+   padding-left: 273px;
+   padding-bottom: 546px;
+}
+
+.bg_worldmap_10 {
+   width: 273px;
+   height: 546px;
+   background-color: transparent;
+   background: url(/images/feature/worldmap.png) 1924px 550px;
+   transform: rotate(-90deg);
+}
+.bg_worldmap_10.left {
+   padding-left: 273px;
+   padding-bottom: 546px;
+}
+
+.bg_worldmap_11 {
+   width: 273px;
+   height: 546px;
+   background-color: transparent;
+   background: url(/images/feature/worldmap.png) 1648px 1099px;
+   transform: rotate(-90deg);
+}
+.bg_worldmap_11.left {
+   padding-left: 273px;
+   padding-bottom: 546px;
+}
+
+.bg_worldmap_12 {
+   width: 273px;
+   height: 546px;
+   background-color: transparent;
+   background: url(/images/feature/worldmap.png) 1648px 550px;
+   transform: rotate(-90deg);
+}
+.bg_worldmap_12.left {
+   padding-left: 273px;
+   padding-bottom: 546px;
+}
+
+.bg_worldmap_2 {
+   width: 273px;
+   height: 546px;
+   background-color: transparent;
+   background: url(/images/feature/worldmap.png) 1372px 1099px;
+   transform: rotate(-90deg);
+}
+.bg_worldmap_2.left {
+   padding-left: 273px;
+   padding-bottom: 546px;
+}
+
+.bg_worldmap_3 {
+   width: 273px;
+   height: 546px;
+   background-color: transparent;
+   background: url(/images/feature/worldmap.png) 1372px 550px;
+   transform: rotate(-90deg);
+}
+.bg_worldmap_3.left {
+   padding-left: 273px;
+   padding-bottom: 546px;
+}
+
+.bg_worldmap_4 {
+   width: 546px;
+   height: 273px;
+   background-color: transparent;
+   background: url(/images/feature/worldmap.png) 1096px 1099px;
+}
+.bg_worldmap_4.left {
+   padding-left: 546px;
+   padding-bottom: 273px;
+}
+
+.bg_worldmap_5 {
+   width: 546px;
+   height: 273px;
+   background-color: transparent;
+   background: url(/images/feature/worldmap.png) 547px 1099px;
+}
+.bg_worldmap_5.left {
+   padding-left: 546px;
+   padding-bottom: 273px;
+}
+
+.bg_worldmap_6 {
+   width: 273px;
+   height: 546px;
+   background-color: transparent;
+   background: url(/images/feature/worldmap.png) 1096px 823px;
+   transform: rotate(-90deg);
+}
+.bg_worldmap_6.left {
+   padding-left: 273px;
+   padding-bottom: 546px;
+}
+
+.bg_worldmap_7 {
+   width: 546px;
+   height: 273px;
+   background-color: transparent;
+   background: url(/images/feature/worldmap.png) 1096px 274px;
+}
+.bg_worldmap_7.left {
+   padding-left: 546px;
+   padding-bottom: 273px;
+}
+
+.bg_worldmap_8 {
+   width: 273px;
+   height: 546px;
+   background-color: transparent;
+   background: url(/images/feature/worldmap.png) 820px 823px;
+   transform: rotate(-90deg);
+}
+.bg_worldmap_8.left {
+   padding-left: 273px;
+   padding-bottom: 546px;
+}
+
+.bg_worldmap_9 {
+   width: 546px;
+   height: 273px;
+   background-color: transparent;
+   background: url(/images/feature/worldmap.png) 547px 274px;
+}
+.bg_worldmap_9.left {
+   padding-left: 546px;
+   padding-bottom: 273px;
+}

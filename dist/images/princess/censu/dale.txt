@@ -1,0 +1,146 @@
+
+dale.png
+size: 318,318
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 157, 136
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+bow
+  rotate: false
+  xy: 0, 238
+  size: 227, 80
+  orig: 227, 80
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 229, 260
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 157, 97
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 0, 33
+  size: 56, 91
+  orig: 56, 91
+  offset: 0, 0
+  index: -1
+shentixxx
+  rotate: true
+  xy: 226, 53
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 91
+  size: 155, 145
+  orig: 155, 145
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 93, 35
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 259, 139
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 201, 42
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: false
+  xy: 212, 4
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: true
+  xy: 128, 0
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: true
+  xy: 0, 0
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: false
+  xy: 149, 35
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+ytui1
+  rotate: true
+  xy: 36, 2
+  size: 29, 61
+  orig: 29, 61
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: false
+  xy: 298, 278
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: false
+  xy: 173, 0
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: true
+  xy: 99, 0
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: false
+  xy: 173, 41
+  size: 26, 54
+  orig: 26, 54
+  offset: 0, 0
+  index: -1
+ztui1
+  rotate: false
+  xy: 259, 201
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1

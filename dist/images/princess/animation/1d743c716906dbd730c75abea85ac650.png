@@ -1,0 +1,125 @@
+
+sp_sk_hit_attacked_elect.png
+size: 1026,1026
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lightning01a
+  rotate: false
+  xy: 2, 346
+  size: 336, 320
+  orig: 339, 323
+  offset: 2, 1
+  index: -1
+lightning01b
+  rotate: false
+  xy: 410, 727
+  size: 335, 297
+  orig: 338, 299
+  offset: 1, 1
+  index: -1
+lightning01c
+  rotate: false
+  xy: 2, 84
+  size: 332, 260
+  orig: 334, 262
+  offset: 1, 1
+  index: -1
+lightning02a
+  rotate: true
+  xy: 340, 366
+  size: 300, 290
+  orig: 304, 293
+  offset: 2, 1
+  index: -1
+lightning02b
+  rotate: false
+  xy: 747, 738
+  size: 277, 286
+  orig: 281, 289
+  offset: 2, 1
+  index: -1
+lightning02c
+  rotate: true
+  xy: 632, 458
+  size: 267, 252
+  orig: 268, 254
+  offset: 1, 1
+  index: -1
+ring
+  rotate: false
+  xy: 648, 15
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+shockball_01
+  rotate: false
+  xy: 871, 159
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+shockball_02a
+  rotate: false
+  xy: 886, 622
+  size: 117, 114
+  orig: 117, 114
+  offset: 0, 0
+  index: -1
+shockball_02b
+  rotate: false
+  xy: 886, 506
+  size: 116, 114
+  orig: 116, 115
+  offset: 0, 0
+  index: -1
+shockball_02c
+  rotate: false
+  xy: 886, 390
+  size: 116, 114
+  orig: 116, 115
+  offset: 0, 0
+  index: -1
+shockball_02d
+  rotate: false
+  xy: 871, 274
+  size: 116, 114
+  orig: 116, 115
+  offset: 0, 0
+  index: -1
+shockball_03
+  rotate: false
+  xy: 336, 36
+  size: 154, 153
+  orig: 156, 155
+  offset: 1, 1
+  index: -1
+shockball_04
+  rotate: false
+  xy: 340, 191
+  size: 223, 173
+  orig: 223, 173
+  offset: 0, 0
+  index: -1
+shockball_05
+  rotate: false
+  xy: 492, 36
+  size: 154, 153
+  orig: 156, 155
+  offset: 1, 1
+  index: -1
+spark
+  rotate: false
+  xy: 2, 668
+  size: 406, 356
+  orig: 420, 371
+  offset: 9, 4
+  index: -1
+starlight
+  rotate: true
+  xy: 632, 224
+  size: 232, 237
+  orig: 237, 237
+  offset: 5, 0
+  index: -1

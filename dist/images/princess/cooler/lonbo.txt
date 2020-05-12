@@ -1,0 +1,62 @@
+
+lonbo.png
+size: 261,261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao2
+  rotate: true
+  xy: 191, 182
+  size: 79, 54
+  orig: 79, 54
+  offset: 0, 0
+  index: -1
+jiao2_1
+  rotate: false
+  xy: 88, 39
+  size: 76, 57
+  orig: 76, 57
+  offset: 0, 0
+  index: -1
+sdfsdf
+  rotate: false
+  xy: 0, 12
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 88, 0
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 191, 42
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 98
+  size: 189, 163
+  orig: 189, 163
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: true
+  xy: 191, 107
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: false
+  xy: 0, 34
+  size: 86, 62
+  orig: 86, 62
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+ruina6.png
+size: 334,334
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: false
+  xy: 152, 82
+  size: 74, 41
+  orig: 74, 41
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 62, 40
+  size: 150, 42
+  orig: 150, 42
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: true
+  xy: 2, 8
+  size: 182, 58
+  orig: 182, 58
+  offset: 0, 0
+  index: -1
+guashi1
+  rotate: false
+  xy: 290, 131
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+houbai
+  rotate: false
+  xy: 124, 205
+  size: 109, 127
+  orig: 109, 127
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 228, 28
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+kua2
+  rotate: false
+  xy: 235, 176
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 96, 6
+  size: 90, 27
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 152, 125
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 192
+  size: 120, 140
+  orig: 120, 140
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 276, 38
+  size: 56, 30
+  orig: 56, 30
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 203, 24
+  size: 56, 23
+  orig: 56, 23
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 235, 233
+  size: 60, 99
+  orig: 60, 99
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 106, 86
+  size: 44, 104
+  orig: 44, 104
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 290, 102
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: true
+  xy: 62, 2
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+youshouno2
+  rotate: true
+  xy: 224, 128
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: true
+  xy: 106, 35
+  size: 45, 95
+  orig: 45, 95
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 297, 223
+  size: 33, 109
+  orig: 33, 109
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: true
+  xy: 295, 193
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 276, 7
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+zuoshoubi1
+  rotate: false
+  xy: 228, 70
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1

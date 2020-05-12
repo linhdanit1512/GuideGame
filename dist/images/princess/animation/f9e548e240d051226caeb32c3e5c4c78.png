@@ -1,0 +1,111 @@
+
+sp_sk_hit_liuxingjianyu.png
+size: 594,594
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 385, 49
+  size: 111, 98
+  orig: 111, 98
+  offset: 0, 0
+  index: -1
+J1
+  rotate: false
+  xy: 0, 0
+  size: 98, 173
+  orig: 98, 173
+  offset: 0, 0
+  index: -1
+J2
+  rotate: true
+  xy: 100, 24
+  size: 25, 214
+  orig: 25, 214
+  offset: 0, 0
+  index: -1
+J3
+  rotate: false
+  xy: 385, 149
+  size: 74, 227
+  orig: 74, 227
+  offset: 0, 0
+  index: -1
+dh0001
+  rotate: false
+  xy: 233, 487
+  size: 203, 107
+  orig: 203, 107
+  offset: 0, 0
+  index: -1
+dh0002
+  rotate: false
+  xy: 233, 378
+  size: 203, 107
+  orig: 203, 107
+  offset: 0, 0
+  index: -1
+dh0003
+  rotate: true
+  xy: 438, 391
+  size: 203, 107
+  orig: 203, 107
+  offset: 0, 0
+  index: -1
+dh0004
+  rotate: false
+  xy: 180, 269
+  size: 203, 107
+  orig: 203, 107
+  offset: 0, 0
+  index: -1
+dh0005
+  rotate: false
+  xy: 180, 160
+  size: 203, 107
+  orig: 203, 107
+  offset: 0, 0
+  index: -1
+dh0006
+  rotate: true
+  xy: 461, 186
+  size: 203, 107
+  orig: 203, 107
+  offset: 0, 0
+  index: -1
+dh0007
+  rotate: false
+  xy: 100, 51
+  size: 203, 107
+  orig: 203, 107
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: true
+  xy: 305, 75
+  size: 83, 78
+  orig: 83, 78
+  offset: 0, 0
+  index: -1
+quanguang
+  rotate: false
+  xy: 0, 382
+  size: 231, 212
+  orig: 231, 212
+  offset: 0, 0
+  index: -1
+quanquan
+  rotate: false
+  xy: 0, 175
+  size: 178, 205
+  orig: 178, 205
+  offset: 0, 0
+  index: -1
+wu
+  rotate: false
+  xy: 498, 75
+  size: 76, 109
+  orig: 76, 109
+  offset: 0, 0
+  index: -1

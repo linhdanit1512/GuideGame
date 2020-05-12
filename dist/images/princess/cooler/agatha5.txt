@@ -1,0 +1,139 @@
+
+agatha5.png
+size: 426,426
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 299, 199
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 222, 92
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+qi1
+  rotate: false
+  xy: 32, 11
+  size: 56, 63
+  orig: 58, 65
+  offset: 1, 1
+  index: -1
+qi2
+  rotate: false
+  xy: 267, 8
+  size: 57, 61
+  orig: 59, 63
+  offset: 1, 1
+  index: -1
+shadow_1
+  rotate: true
+  xy: 222, 144
+  size: 90, 27
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 90, 2
+  size: 61, 86
+  orig: 63, 88
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 88, 90
+  size: 173, 132
+  orig: 175, 134
+  offset: 1, 1
+  index: -1
+toufa
+  rotate: false
+  xy: 299, 300
+  size: 125, 124
+  orig: 127, 126
+  offset: 1, 1
+  index: -1
+water-boom02
+  rotate: false
+  xy: 153, 3
+  size: 100, 85
+  orig: 100, 85
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 2, 6
+  size: 68, 28
+  orig: 70, 30
+  offset: 1, 1
+  index: -1
+yan2
+  rotate: true
+  xy: 255, 6
+  size: 63, 10
+  orig: 65, 12
+  offset: 1, 1
+  index: -1
+yshou1
+  rotate: true
+  xy: 255, 172
+  size: 53, 41
+  orig: 55, 43
+  offset: 1, 1
+  index: -1
+yshou2
+  rotate: false
+  xy: 366, 37
+  size: 38, 32
+  orig: 40, 34
+  offset: 1, 1
+  index: -1
+yshou3
+  rotate: false
+  xy: 2, 76
+  size: 84, 348
+  orig: 86, 350
+  offset: 1, 1
+  index: -1
+yuwei2
+  rotate: false
+  xy: 90, 265
+  size: 207, 159
+  orig: 209, 161
+  offset: 1, 1
+  index: -1
+ywei1
+  rotate: true
+  xy: 274, 71
+  size: 99, 143
+  orig: 101, 145
+  offset: 1, 1
+  index: -1
+zshou1
+  rotate: false
+  xy: 255, 227
+  size: 42, 36
+  orig: 44, 38
+  offset: 1, 1
+  index: -1
+zshou2
+  rotate: true
+  xy: 326, 28
+  size: 41, 38
+  orig: 43, 40
+  offset: 1, 1
+  index: -1
+zshou3
+  rotate: false
+  xy: 222, 236
+  size: 29, 27
+  orig: 31, 29
+  offset: 1, 1
+  index: -1

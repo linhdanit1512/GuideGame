@@ -1,0 +1,153 @@
+
+sp_sk_hit_fire_sword_yellow.png
+size: 428,428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 123
+  size: 100, 303
+  orig: 100, 303
+  offset: 0, 0
+  index: -1
+1-2
+  rotate: false
+  xy: 104, 241
+  size: 100, 185
+  orig: 100, 185
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 21
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+D1
+  rotate: true
+  xy: 104, 99
+  size: 140, 39
+  orig: 140, 39
+  offset: 0, 0
+  index: -1
+D2
+  rotate: false
+  xy: 206, 376
+  size: 156, 50
+  orig: 158, 50
+  offset: 1, 0
+  index: -1
+G1
+  rotate: false
+  xy: 366, 346
+  size: 60, 80
+  orig: 93, 93
+  offset: 21, 0
+  index: -1
+G2
+  rotate: true
+  xy: 104, 14
+  size: 83, 52
+  orig: 93, 93
+  offset: 7, 0
+  index: -1
+G3
+  rotate: false
+  xy: 215, 100
+  size: 87, 84
+  orig: 93, 93
+  offset: 3, 1
+  index: -1
+G4
+  rotate: false
+  xy: 206, 281
+  size: 85, 93
+  orig: 93, 93
+  offset: 4, 0
+  index: -1
+G5
+  rotate: true
+  xy: 283, 188
+  size: 90, 80
+  orig: 93, 93
+  offset: 0, 11
+  index: -1
+G6
+  rotate: true
+  xy: 215, 186
+  size: 93, 66
+  orig: 93, 93
+  offset: 0, 19
+  index: -1
+H1
+  rotate: false
+  xy: 355, 98
+  size: 71, 85
+  orig: 100, 85
+  offset: 12, 0
+  index: -1
+H2
+  rotate: false
+  xy: 244, 23
+  size: 77, 70
+  orig: 100, 85
+  offset: 8, 3
+  index: -1
+H3
+  rotate: false
+  xy: 158, 29
+  size: 84, 69
+  orig: 100, 85
+  offset: 3, 5
+  index: -1
+H4
+  rotate: true
+  xy: 145, 143
+  size: 96, 68
+  orig: 100, 85
+  offset: 1, 7
+  index: -1
+H5
+  rotate: true
+  xy: 293, 280
+  size: 94, 71
+  orig: 100, 85
+  offset: 2, 5
+  index: -1
+H6
+  rotate: true
+  xy: 365, 185
+  size: 93, 61
+  orig: 100, 85
+  offset: 6, 7
+  index: -1
+H7
+  rotate: true
+  xy: 304, 95
+  size: 91, 49
+  orig: 100, 85
+  offset: 9, 8
+  index: -1
+H8
+  rotate: true
+  xy: 366, 281
+  size: 63, 21
+  orig: 100, 85
+  offset: 20, 26
+  index: -1
+S1
+  rotate: false
+  xy: 145, 131
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+S2
+  rotate: true
+  xy: 2, 2
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1

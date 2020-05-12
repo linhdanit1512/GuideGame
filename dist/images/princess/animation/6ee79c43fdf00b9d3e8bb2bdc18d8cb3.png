@@ -1,0 +1,13 @@
+
+sp_ui_hero_tierup_dai.png
+size: 528,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c1
+  rotate: false
+  xy: 2, 2
+  size: 524, 127
+  orig: 524, 127
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+linlin5.png
+size: 383,383
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: true
+  xy: 252, 168
+  size: 100, 107
+  orig: 100, 107
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 94
+  size: 118, 125
+  orig: 118, 125
+  offset: 0, 0
+  index: -1
+head13
+  rotate: false
+  xy: 223, 195
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+head3
+  rotate: false
+  xy: 0, 221
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+head5
+  rotate: true
+  xy: 0, 0
+  size: 92, 117
+  orig: 92, 117
+  offset: 0, 0
+  index: -1
+head6
+  rotate: false
+  xy: 120, 108
+  size: 101, 111
+  orig: 101, 111
+  offset: 0, 0
+  index: -1
+head7
+  rotate: true
+  xy: 120, 11
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+head71
+  rotate: false
+  xy: 223, 69
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+head7xxx1
+  rotate: false
+  xy: 252, 270
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 322, 76
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+laya.png
+size: 171,171
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 96, 120
+  size: 52, 49
+  orig: 54, 51
+  offset: 1, 1
+  index: -1
+EarL
+  rotate: false
+  xy: 96, 61
+  size: 46, 29
+  orig: 48, 31
+  offset: 1, 1
+  index: -1
+EarR
+  rotate: false
+  xy: 85, 32
+  size: 38, 27
+  orig: 40, 29
+  offset: 1, 1
+  index: -1
+EyeClose
+  rotate: true
+  xy: 151, 116
+  size: 53, 18
+  orig: 55, 20
+  offset: 1, 1
+  index: -1
+EyeOpen
+  rotate: false
+  xy: 96, 92
+  size: 53, 26
+  orig: 55, 28
+  offset: 1, 1
+  index: -1
+HairFL
+  rotate: false
+  xy: 85, 65
+  size: 7, 7
+  orig: 9, 9
+  offset: 1, 1
+  index: -1
+HairFM1
+  rotate: false
+  xy: 107, 5
+  size: 10, 11
+  orig: 12, 13
+  offset: 1, 1
+  index: -1
+HairFR
+  rotate: false
+  xy: 107, 18
+  size: 12, 12
+  orig: 14, 14
+  offset: 1, 1
+  index: -1
+HandL
+  rotate: false
+  xy: 94, 2
+  size: 11, 28
+  orig: 13, 30
+  offset: 1, 1
+  index: -1
+HandR
+  rotate: true
+  xy: 144, 71
+  size: 16, 25
+  orig: 18, 27
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 2, 74
+  size: 92, 95
+  orig: 94, 97
+  offset: 1, 1
+  index: -1
+LegL
+  rotate: true
+  xy: 125, 35
+  size: 24, 23
+  orig: 26, 25
+  offset: 1, 1
+  index: -1
+LegR
+  rotate: false
+  xy: 151, 89
+  size: 18, 25
+  orig: 20, 27
+  offset: 1, 1
+  index: -1
+SkirtR
+  rotate: false
+  xy: 2, 31
+  size: 81, 41
+  orig: 83, 43
+  offset: 1, 1
+  index: -1
+shadow_1
+  rotate: false
+  xy: 2, 2
+  size: 90, 27
+  orig: 90, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+sp_sk_fly_pet_yellow_1.png
+size: 647,647
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: true
+  xy: 517, 174
+  size: 100, 86
+  orig: 100, 86
+  offset: 0, 0
+  index: -1
+B0001
+  rotate: true
+  xy: 208, 264
+  size: 163, 142
+  orig: 163, 142
+  offset: 0, 0
+  index: -1
+B0002
+  rotate: false
+  xy: 352, 309
+  size: 163, 142
+  orig: 163, 142
+  offset: 0, 0
+  index: -1
+B0003
+  rotate: false
+  xy: 352, 165
+  size: 163, 142
+  orig: 163, 142
+  offset: 0, 0
+  index: -1
+B0004
+  rotate: true
+  xy: 208, 99
+  size: 163, 142
+  orig: 163, 142
+  offset: 0, 0
+  index: -1
+B0005
+  rotate: true
+  xy: 352, 0
+  size: 163, 142
+  orig: 163, 142
+  offset: 0, 0
+  index: -1
+S0001
+  rotate: false
+  xy: 0, 13
+  size: 112, 194
+  orig: 112, 194
+  offset: 0, 0
+  index: -1
+S0002
+  rotate: false
+  xy: 312, 453
+  size: 112, 194
+  orig: 112, 194
+  offset: 0, 0
+  index: -1
+S0003
+  rotate: false
+  xy: 426, 453
+  size: 112, 194
+  orig: 112, 194
+  offset: 0, 0
+  index: -1
+S0004
+  rotate: false
+  xy: 114, 32
+  size: 85, 175
+  orig: 85, 175
+  offset: 0, 0
+  index: -1
+S0005
+  rotate: false
+  xy: 540, 472
+  size: 85, 175
+  orig: 85, 175
+  offset: 0, 0
+  index: -1
+S0006
+  rotate: false
+  xy: 517, 276
+  size: 85, 175
+  orig: 85, 175
+  offset: 0, 0
+  index: -1
+d0001
+  rotate: false
+  xy: 0, 429
+  size: 102, 218
+  orig: 102, 218
+  offset: 0, 0
+  index: -1
+d0002
+  rotate: false
+  xy: 0, 209
+  size: 102, 218
+  orig: 102, 218
+  offset: 0, 0
+  index: -1
+d0003
+  rotate: false
+  xy: 104, 429
+  size: 102, 218
+  orig: 102, 218
+  offset: 0, 0
+  index: -1
+d0004
+  rotate: false
+  xy: 104, 209
+  size: 102, 218
+  orig: 102, 218
+  offset: 0, 0
+  index: -1
+d0005
+  rotate: false
+  xy: 208, 429
+  size: 102, 218
+  orig: 102, 218
+  offset: 0, 0
+  index: -1
+smoke555
+  rotate: true
+  xy: 312, 429
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1

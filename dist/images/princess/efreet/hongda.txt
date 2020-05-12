@@ -1,0 +1,125 @@
+
+hongda.png
+size: 289,289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 183, 150
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 274, 233
+  size: 54, 12
+  orig: 54, 13
+  offset: 0, 1
+  index: -1
+EyeOpen
+  rotate: false
+  xy: 94, 5
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 274, 206
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: false
+  xy: 188, 2
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 183, 203
+  size: 89, 84
+  orig: 89, 84
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 207, 65
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+LegL2
+  rotate: false
+  xy: 170, 2
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 150, 7
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+LegR2
+  rotate: false
+  xy: 207, 43
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+SkirtR
+  rotate: true
+  xy: 170, 28
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: true
+  xy: 235, 142
+  size: 59, 37
+  orig: 59, 37
+  offset: 0, 0
+  index: -1
+chibangR
+  rotate: true
+  xy: 235, 94
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 2, 84
+  size: 179, 203
+  orig: 179, 204
+  offset: 0, 1
+  index: -1
+shadow_1
+  rotate: false
+  xy: 2, 8
+  size: 90, 27
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 183, 97
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 2, 37
+  size: 45, 166
+  orig: 45, 166
+  offset: 0, 0
+  index: -1

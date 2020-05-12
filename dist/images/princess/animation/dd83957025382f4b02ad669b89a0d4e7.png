@@ -1,0 +1,13 @@
+
+sp_green_light_fly.png
+size: 104,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangzhu
+  rotate: false
+  xy: 2, 90
+  size: 100, 12
+  orig: 100, 12
+  offset: 0, 0
+  index: -1

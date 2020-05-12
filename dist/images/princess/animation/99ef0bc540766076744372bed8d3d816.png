@@ -1,0 +1,13 @@
+
+sp_bt_enter_light_down.png
+size: 199,199
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quanuqnas
+  rotate: false
+  xy: 0, 5
+  size: 199, 194
+  orig: 199, 194
+  offset: 0, 0
+  index: -1

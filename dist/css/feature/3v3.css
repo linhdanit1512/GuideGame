@@ -1,0 +1,161 @@
+
+.format_3v3_bg_1 {
+   width: 579px;
+   height: 138px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/3v3.png') 208px 588px;
+   transform: rotate(90deg);
+}
+
+.format_3v3_bg_1.left {
+   padding-left: 579px;
+   padding-bottom: 138px;
+}
+
+.format_3v3_bg_2 {
+   width: 583px;
+   height: 207px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/3v3.png') 208px 1174px;
+   transform: rotate(90deg);
+}
+
+.format_3v3_bg_2.left {
+   padding-left: 583px;
+   padding-bottom: 207px;
+}
+
+.format_3v3_bg_3 {
+   width: 579px;
+   height: 222px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/3v3.png') 803px 349px;
+}
+
+.format_3v3_bg_3.left {
+   padding-left: 579px;
+   padding-bottom: 222px;
+}
+
+.format_3v3_bg_4 {
+   width: 592px;
+   height: 822px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/3v3.png') 803px 1174px;
+}
+
+.format_3v3_bg_4.left {
+   padding-left: 592px;
+   padding-bottom: 822px;
+}
+
+.gn_btn_down {
+   width: 37px;
+   height: 37px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/3v3.png') 67px 402px;
+}
+
+.gn_btn_down.left {
+   padding-left: 37px;
+   padding-bottom: 37px;
+}
+
+.gn_btn_up {
+   width: 37px;
+   height: 37px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/3v3.png') 67px 362px;
+}
+
+.gn_btn_up.left {
+   padding-left: 37px;
+   padding-bottom: 37px;
+}
+
+.gn_frame_bg_1 {
+   width: 123px;
+   height: 130px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/3v3.png') 803px 123px;
+   transform: rotate(90deg);
+}
+
+.gn_frame_bg_1.left {
+   padding-left: 123px;
+   padding-bottom: 130px;
+}
+
+.gn_frame_bg_2 {
+   width: 123px;
+   height: 126px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/3v3.png') 670px 125px;
+   transform: rotate(90deg);
+}
+
+.gn_frame_bg_2.left {
+   padding-left: 123px;
+   padding-bottom: 126px;
+}
+
+.gn_frame_bg_3 {
+   width: 123px;
+   height: 120px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/3v3.png') 541px 130px;
+   transform: rotate(90deg);
+}
+
+.gn_frame_bg_3.left {
+   padding-left: 123px;
+   padding-bottom: 120px;
+}
+
+.gn_icon_ticket_pvp {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/3v3.png') 419px 124px;
+}
+
+.gn_icon_ticket_pvp.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.gn_rand_1 {
+   width: 60px;
+   height: 59px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/3v3.png') 66px 588px;
+}
+
+.gn_rand_1.left {
+   padding-left: 60px;
+   padding-bottom: 59px;
+}
+
+.gn_rand_2 {
+   width: 60px;
+   height: 59px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/3v3.png') 66px 526px;
+}
+
+.gn_rand_2.left {
+   padding-left: 60px;
+   padding-bottom: 59px;
+}
+
+.gn_rand_3 {
+   width: 60px;
+   height: 59px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/3v3.png') 66px 464px;
+}
+
+.gn_rand_3.left {
+   padding-left: 60px;
+   padding-bottom: 59px;
+}

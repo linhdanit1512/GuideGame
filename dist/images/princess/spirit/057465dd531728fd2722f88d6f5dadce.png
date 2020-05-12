@@ -1,0 +1,174 @@
+
+sp_cr_d_dark_mage_3.png
+size: 361,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: false
+  xy: 125, 0
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: false
+  xy: 248, 0
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: false
+  xy: 333, 111
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: false
+  xy: 161, 3
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 275, 147
+  size: 47, 76
+  orig: 47, 76
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 249, 99
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: false
+  xy: 131, 38
+  size: 64, 22
+  orig: 64, 22
+  offset: 0, 0
+  index: -1
+HairBR
+  rotate: true
+  xy: 197, 34
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+HairFL
+  rotate: true
+  xy: 266, 71
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+HairFM1
+  rotate: true
+  xy: 275, 97
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+HairFR
+  rotate: true
+  xy: 181, 119
+  size: 44, 66
+  orig: 44, 66
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: false
+  xy: 237, 70
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 54
+  size: 129, 101
+  orig: 129, 101
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 343, 311
+  size: 17, 50
+  orig: 17, 50
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: true
+  xy: 195, 7
+  size: 25, 51
+  orig: 25, 51
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: false
+  xy: 248, 27
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: true
+  xy: 288, 28
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+MouthOpen
+  rotate: true
+  xy: 343, 286
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+WeaponR
+  rotate: false
+  xy: 181, 196
+  size: 160, 165
+  orig: 160, 165
+  offset: 0, 0
+  index: -1
+WingL
+  rotate: false
+  xy: 0, 6
+  size: 123, 46
+  orig: 123, 46
+  offset: 0, 0
+  index: -1
+WingR
+  rotate: true
+  xy: 131, 62
+  size: 93, 46
+  orig: 93, 46
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 0, 157
+  size: 179, 204
+  orig: 179, 204
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 179, 62
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 181, 165
+  size: 92, 29
+  orig: 92, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+sp_cr_e_eddga_6.png
+size: 413,413
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1233
+  rotate: true
+  xy: 393, 364
+  size: 49, 17
+  orig: 49, 17
+  offset: 0, 0
+  index: -1
+34343434
+  rotate: false
+  xy: 0, 41
+  size: 222, 78
+  orig: 222, 78
+  offset: 0, 0
+  index: -1
+343434341
+  rotate: false
+  xy: 0, 276
+  size: 262, 137
+  orig: 262, 137
+  offset: 0, 0
+  index: -1
+ArmL
+  rotate: false
+  xy: 246, 3
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: false
+  xy: 281, 12
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: true
+  xy: 312, 33
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: true
+  xy: 365, 10
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 224, 42
+  size: 53, 86
+  orig: 53, 86
+  offset: 0, 0
+  index: -1
+Body1
+  rotate: false
+  xy: 162, 9
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+Body12
+  rotate: true
+  xy: 366, 71
+  size: 83, 47
+  orig: 83, 47
+  offset: 0, 0
+  index: -1
+HairFM2
+  rotate: false
+  xy: 161, 143
+  size: 87, 131
+  orig: 87, 131
+  offset: 0, 0
+  index: -1
+HairFR
+  rotate: false
+  xy: 0, 121
+  size: 159, 153
+  orig: 159, 153
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: true
+  xy: 211, 0
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 264, 251
+  size: 162, 127
+  orig: 162, 127
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: true
+  xy: 357, 156
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: true
+  xy: 357, 156
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: true
+  xy: 101, 1
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: false
+  xy: 357, 187
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: true
+  xy: 250, 97
+  size: 51, 114
+  orig: 51, 114
+  offset: 0, 0
+  index: -1
+hairbr
+  rotate: false
+  xy: 250, 150
+  size: 105, 99
+  orig: 105, 99
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 0, 12
+  size: 99, 27
+  orig: 99, 27
+  offset: 0, 0
+  index: -1

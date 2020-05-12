@@ -1,0 +1,41 @@
+
+sp_bf_last_silence.png
+size: 164,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+10001
+  rotate: false
+  xy: 130, 90
+  size: 16, 72
+  orig: 16, 72
+  offset: 0, 0
+  index: -1
+10002
+  rotate: true
+  xy: 54, 10
+  size: 15, 67
+  orig: 15, 67
+  offset: 0, 0
+  index: -1
+10003
+  rotate: true
+  xy: 54, 27
+  size: 15, 69
+  orig: 15, 69
+  offset: 0, 0
+  index: -1
+fsdf
+  rotate: false
+  xy: 2, 44
+  size: 126, 118
+  orig: 126, 118
+  offset: 0, 0
+  index: -1

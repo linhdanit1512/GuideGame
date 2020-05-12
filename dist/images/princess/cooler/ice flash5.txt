@@ -1,0 +1,265 @@
+
+ice flash5.png
+size: 505,505
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: true
+  xy: 2, 2
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 291
+  size: 231, 212
+  orig: 231, 212
+  offset: 0, 0
+  index: -1
+Magic0016_1
+  rotate: false
+  xy: 235, 367
+  size: 128, 136
+  orig: 130, 138
+  offset: 0, 2
+  index: -1
+kuosan
+  rotate: true
+  xy: 235, 257
+  size: 108, 140
+  orig: 150, 150
+  offset: 22, 4
+  index: -1
+kuosan1
+  rotate: false
+  xy: 365, 372
+  size: 127, 131
+  orig: 150, 150
+  offset: 15, 12
+  index: -1
+qiu1
+  rotate: false
+  xy: 284, 124
+  size: 27, 66
+  orig: 27, 66
+  offset: 0, 0
+  index: -1
+qiu2
+  rotate: true
+  xy: 377, 174
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+shi1
+  rotate: false
+  xy: 2, 54
+  size: 182, 47
+  orig: 182, 47
+  offset: 0, 0
+  index: -1
+shi2
+  rotate: true
+  xy: 432, 41
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+shi3
+  rotate: false
+  xy: 261, 78
+  size: 30, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+suizi
+  rotate: true
+  xy: 313, 114
+  size: 17, 54
+  orig: 17, 54
+  offset: 0, 0
+  index: -1
+unit_boss3_001_naked
+  rotate: false
+  xy: 487, 345
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+unit_boss3_001_naked_body
+  rotate: true
+  xy: 369, 81
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+unit_boss3_001_naked_body2
+  rotate: false
+  xy: 196, 192
+  size: 108, 63
+  orig: 108, 63
+  offset: 0, 0
+  index: -1
+unit_boss3_001_naked_head
+  rotate: false
+  xy: 2, 103
+  size: 192, 186
+  orig: 192, 186
+  offset: 0, 0
+  index: -1
+unit_boss3_001_naked_leftfoot
+  rotate: true
+  xy: 196, 258
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+unit_boss3_001_naked_leftfoot2
+  rotate: true
+  xy: 306, 193
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+unit_boss3_001_naked_leftlowerarm
+  rotate: true
+  xy: 445, 131
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+unit_boss3_001_naked_leftuperarm
+  rotate: false
+  xy: 474, 242
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+unit_boss3_001_naked_rightfoot
+  rotate: true
+  xy: 293, 81
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+unit_boss3_001_naked_rightfoot2
+  rotate: true
+  xy: 52, 2
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+unit_boss3_001_naked_rightlowerarm
+  rotate: true
+  xy: 371, 125
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1
+unit_boss3_001_naked_rightuperarm
+  rotate: false
+  xy: 340, 75
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+unit_boss3_001_naked_tail
+  rotate: false
+  xy: 313, 133
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+unit_boss3_001_naked_weapon1
+  rotate: false
+  xy: 338, 43
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+unit_boss3_001_naked_weapon3
+  rotate: false
+  xy: 251, 51
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+unit_boss3_shadow
+  rotate: false
+  xy: 89, 25
+  size: 90, 27
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+w
+  rotate: false
+  xy: 377, 272
+  size: 108, 98
+  orig: 119, 110
+  offset: 8, 3
+  index: -1
+wuqi
+  rotate: true
+  xy: 377, 212
+  size: 58, 95
+  orig: 58, 95
+  offset: 0, 0
+  index: -1
+x
+  rotate: true
+  xy: 294, 39
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+xiashen
+  rotate: false
+  xy: 196, 120
+  size: 86, 70
+  orig: 86, 70
+  offset: 0, 0
+  index: -1
+yanj
+  rotate: false
+  xy: 196, 91
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1
+yanj2
+  rotate: false
+  xy: 89, 10
+  size: 62, 13
+  orig: 62, 13
+  offset: 0, 0
+  index: -1
+yht
+  rotate: true
+  xy: 186, 55
+  size: 34, 63
+  orig: 34, 63
+  offset: 0, 0
+  index: -1
+yqt
+  rotate: true
+  xy: 436, 92
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+zht
+  rotate: true
+  xy: 186, 25
+  size: 28, 60
+  orig: 28, 60
+  offset: 0, 0
+  index: -1
+zqt
+  rotate: true
+  xy: 445, 176
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1

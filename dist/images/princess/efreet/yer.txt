@@ -1,0 +1,125 @@
+
+yer.png
+size: 237,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 180, 21
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: false
+  xy: 180, 9
+  size: 54, 10
+  orig: 54, 10
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: true
+  xy: 172, 74
+  size: 54, 24
+  orig: 54, 25
+  offset: 0, 1
+  index: -1
+HandL
+  rotate: false
+  xy: 198, 106
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: false
+  xy: 198, 80
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 18
+  size: 88, 99
+  orig: 88, 99
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 165, 130
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+LegL2
+  rotate: true
+  xy: 207, 140
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 187, 133
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+LegR2
+  rotate: true
+  xy: 136, 2
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+SkirtR
+  rotate: false
+  xy: 121, 19
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: true
+  xy: 165, 162
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+chibangR
+  rotate: true
+  xy: 121, 56
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 217, 158
+  size: 17, 77
+  orig: 17, 77
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 92, 27
+  size: 90, 27
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 119
+  size: 161, 116
+  orig: 161, 116
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 2, 13
+  size: 132, 3
+  orig: 132, 3
+  offset: 0, 0
+  index: -1

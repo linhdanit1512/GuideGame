@@ -1,0 +1,111 @@
+
+sp_cr_e_elf_dog_2.png
+size: 430,430
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 322, 77
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: false
+  xy: 174, 0
+  size: 88, 26
+  orig: 88, 26
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: true
+  xy: 322, 140
+  size: 86, 42
+  orig: 86, 42
+  offset: 0, 0
+  index: -1
+HairFL
+  rotate: false
+  xy: 339, 293
+  size: 75, 67
+  orig: 75, 67
+  offset: 0, 0
+  index: -1
+HairFM1
+  rotate: false
+  xy: 308, 362
+  size: 119, 68
+  orig: 119, 68
+  offset: 0, 0
+  index: -1
+HairFR
+  rotate: false
+  xy: 339, 229
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 322, 42
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: false
+  xy: 366, 192
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 174, 28
+  size: 165, 146
+  orig: 165, 146
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: true
+  xy: 264, 2
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 366, 159
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+WingL
+  rotate: false
+  xy: 0, 186
+  size: 162, 244
+  orig: 162, 244
+  offset: 0, 0
+  index: -1
+WingR
+  rotate: false
+  xy: 164, 195
+  size: 142, 235
+  orig: 142, 235
+  offset: 0, 0
+  index: -1
+baodian
+  rotate: false
+  xy: 0, 10
+  size: 172, 174
+  orig: 172, 174
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 308, 228
+  size: 132, 29
+  orig: 132, 29
+  offset: 0, 0
+  index: -1

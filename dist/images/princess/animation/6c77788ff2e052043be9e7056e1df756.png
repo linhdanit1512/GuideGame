@@ -1,0 +1,13 @@
+
+sp_bf_last_heal.png
+size: 69,69
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+battle_elfhpup
+  rotate: false
+  xy: 2, 8
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1

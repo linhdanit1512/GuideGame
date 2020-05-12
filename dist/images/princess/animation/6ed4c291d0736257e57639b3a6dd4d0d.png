@@ -1,0 +1,34 @@
+
+sp_sk_fly_elec_stand.png
+size: 929,53
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+elec333
+  rotate: true
+  xy: 908, 28
+  size: 23, 19
+  orig: 25, 21
+  offset: 2, 2
+  index: -1
+elecnew1
+  rotate: true
+  xy: 304, 4
+  size: 47, 300
+  orig: 49, 300
+  offset: 0, 0
+  index: -1
+elecnew2
+  rotate: true
+  xy: 606, 4
+  size: 47, 300
+  orig: 49, 300
+  offset: 2, 0
+  index: -1
+elecnew3
+  rotate: true
+  xy: 2, 2
+  size: 49, 300
+  orig: 49, 300
+  offset: 0, 0
+  index: -1

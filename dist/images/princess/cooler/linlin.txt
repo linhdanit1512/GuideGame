@@ -1,0 +1,76 @@
+
+linlin.png
+size: 273,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang2
+  rotate: false
+  xy: 190, 132
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+s111dfsfsdfxx
+  rotate: false
+  xy: 194, 39
+  size: 31, 91
+  orig: 31, 91
+  offset: 0, 0
+  index: -1
+sdfsfsdfxx
+  rotate: true
+  xy: 0, 0
+  size: 75, 93
+  orig: 75, 93
+  offset: 0, 0
+  index: -1
+sp_unit_shadow
+  rotate: true
+  xy: 155, 11
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+zh_1
+  rotate: false
+  xy: 0, 77
+  size: 126, 196
+  orig: 126, 196
+  offset: 0, 0
+  index: -1
+zh_13
+  rotate: false
+  xy: 128, 103
+  size: 60, 93
+  orig: 60, 93
+  offset: 0, 0
+  index: -1
+zh_2
+  rotate: false
+  xy: 128, 198
+  size: 142, 75
+  orig: 142, 75
+  offset: 0, 0
+  index: -1
+zh_3
+  rotate: true
+  xy: 227, 82
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+zh_6
+  rotate: false
+  xy: 95, 6
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+zh_9
+  rotate: false
+  xy: 227, 35
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+sp_cr_e_bomb_1.png
+size: 272,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EyeClose
+  rotate: false
+  xy: 128, 65
+  size: 69, 20
+  orig: 69, 20
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: false
+  xy: 185, 88
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+HairBL
+  rotate: true
+  xy: 182, 179
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1
+HairBM
+  rotate: true
+  xy: 167, 18
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+HairBR
+  rotate: true
+  xy: 182, 240
+  size: 32, 90
+  orig: 32, 90
+  offset: 0, 0
+  index: -1
+HairFL
+  rotate: false
+  xy: 185, 124
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+HairFM1
+  rotate: true
+  xy: 43, 0
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+HairFR
+  rotate: false
+  xy: 118, 14
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 211, 58
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: false
+  xy: 0, 7
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 163
+  size: 122, 109
+  orig: 122, 109
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 211, 28
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 247, 148
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+gjia
+  rotate: false
+  xy: 124, 166
+  size: 56, 106
+  orig: 56, 106
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 128, 87
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 97, 65
+  size: 96, 29
+  orig: 96, 29
+  offset: 0, 0
+  index: -1
+tanhuang
+  rotate: true
+  xy: 0, 36
+  size: 125, 41
+  orig: 125, 41
+  offset: 0, 0
+  index: -1
+tanhuang2
+  rotate: true
+  xy: 43, 58
+  size: 103, 52
+  orig: 103, 52
+  offset: 0, 0
+  index: -1

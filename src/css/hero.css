@@ -1,0 +1,350 @@
+.hero-gallery, .skill-gallery {
+   margin: 20px;
+   padding: 5px;
+   width: 100%;
+}
+
+.hero-gallery .elemental, .hero-filter-item {
+   width: auto;
+   height: 60px;
+   display: flex;
+}
+
+.hero-gallery .regency {
+   width: auto;
+   height: 60px;
+   float: right;
+}
+
+.filter-star {
+   width: 50px;
+   height: 50px;
+   transform: scale(.8);
+   transform-origin: top left;
+}
+
+.filter-star .cr_little_star {
+   position: absolute;
+}
+
+.filter-star .star-text {
+   position: absolute;
+   margin-top: 22px;
+   margin-left: 22px;
+}
+
+.filter-star .star-text.star-10 .cr_digit_1 {
+   margin-left: -5px;
+}
+
+.filter-star .star-text.star-10 .cr_digit_0 {
+   margin-left: 3px;
+   margin-top: -18px;
+}
+
+.cr_digit_10 {
+   background: url(http://localhost:3000/images/item/hero.png) 1379px 1393px no-repeat top left, url(http://localhost:3000/images/item/hero.png) 1759px 877px no-repeat top right;
+}
+
+.hero-gallery .hero-filter {
+   margin: 5px;
+}
+
+.hero-gallery .hero-filter.cr_fact_1:hover, .hero-gallery .hero-filter.cr_occu_5:hover, .hero-gallery .hero-filter.cr_fact_1.active, .hero-gallery .hero-filter.cr_occu_5.active {
+   filter: drop-shadow(0px 0px 6px blue);
+}
+
+.hero-gallery .hero-filter.cr_fact_2:hover, .hero-gallery .hero-filter.cr_occu_1:hover, .hero-gallery .hero-filter.cr_fact_2.active, .hero-gallery .hero-filter.cr_occu_1.active, .hero-gallery .filter-star.active {
+   filter: drop-shadow(0px 0px 6px red);
+}
+
+.hero-gallery .hero-filter.cr_fact_3:hover, .hero-gallery .hero-filter.cr_occu_3:hover, .hero-gallery .hero-filter.cr_fact_3.active, .hero-gallery .hero-filter.cr_occu_3.active {
+   filter: drop-shadow(0px 0px 6px #08b808);
+}
+
+.hero-gallery .hero-filter.cr_fact_4:hover, .hero-gallery .hero-filter.cr_occu_4:hover, .hero-gallery .hero-filter.cr_fact_4.active, .hero-gallery .hero-filter.cr_occu_4.active {
+   filter: drop-shadow(0px 0px 6px orange);
+}
+
+.hero-gallery .hero-filter.cr_fact_5:hover, .hero-gallery .hero-filter.cr_fact_5.active {
+   filter: drop-shadow(0px 0px 6px yellow);
+}
+
+.hero-gallery .hero-filter.cr_fact_6:hover, .hero-gallery .hero-filter.cr_occu_2:hover, .hero-gallery .hero-filter.cr_fact_6.active, .hero-gallery .hero-filter.cr_occu_2.active {
+   filter: drop-shadow(0px 0px 6px purple);
+}
+
+.hero-box {
+   display: inline-block;
+   width: 105px;
+   height: 105px;
+   cursor: pointer;
+   margin: 3px;
+}
+
+.hero-gallery .hero-box:hover, .hero-gallery .hero-box.active, .skill-gallery .skill-item:hover, .skill-gallery .skill-item.active, .skill-hero-item.active, .hero-card.active {
+   animation: blink_select_hero 1.5s infinite;
+}
+
+@keyframes blink_select_hero {
+   0% {
+      outline: 5px #ffffff00 solid;
+   }
+   50% {
+      outline: 5px #22dafa solid;
+   }
+   100% {
+      outline: 5px #ffffff00 solid;
+   }
+}
+
+.hero-box>div {
+   position: absolute;
+}
+
+.hero-box .hero-background {
+   margin-top: 8px;
+   margin-left: 8px;
+}
+
+.hero-box .hero-frame {
+   display: block;
+}
+
+.hero-box .hero {
+   margin-left: 4px;
+   margin-top: 2px;
+   transform: scale(0.85);
+}
+
+.hero-box .hero-star {
+   display: inline-flex;
+   margin-top: 75px;
+   transform: scale(0.6);
+}
+
+.hero-box .hero-star.star-1, .hero-box .hero-star.star-6, .hero-box .hero-star.star-10 {
+   margin-left: 40px;
+}
+
+.hero-box .hero-star.star-2, .hero-box .hero-star.star-7 {
+   margin-left: 25px;
+}
+
+.hero-box .hero-star.star-3, .hero-box .hero-star.star-8 {
+   margin-left: 8px;
+}
+
+.hero-box .hero-star.star-4, .hero-box .hero-star.star-9 {
+   margin-left: -7px;
+}
+
+.hero-box .hero-star.star-5 {
+   margin-left: -22px;
+}
+
+.hero-box .hero-level {
+   margin-right: 10px;
+   margin-top: 5px;
+   font-weight: bold;
+   filter: drop-shadow(0px 0px 1px white);
+   margin-left: auto;
+   float: right;
+   position: unset;
+}
+
+.hero-box .hero-elemental {
+   transform: scale(0.6);
+   transform-origin: top left;
+}
+
+.hero-box .hero-regency {
+   float: right;
+   margin-left: 20px;
+   margin-top: -8px;
+   transform: scale(0.6);
+}
+
+.hero-extend {
+   outline: 1px solid lightgray;
+   border-radius: 5px;
+   padding: 10px;
+}
+
+.skill-hero {
+   width: 100%;
+}
+
+.skill-item, .skill-hero-item {
+   width: 119px;
+   height: 119px;
+   display: inline-block;
+   margin: 5px;
+   cursor: pointer;
+}
+
+.skill-item div, .skill-hero-item div {
+   position: absolute;
+}
+
+.skill-item-icon {
+   max-width: 50%;
+   max-height: 50%;
+   transform: scale(0.5);
+   display: block;
+   margin: -5px 5px -5px -4px;
+   cursor: pointer;
+   width: 70px;
+   height: 80px;
+}
+
+.skill-remove {
+   position: absolute;
+   font-size: x-large;
+   margin-left: 90px;
+   background: white;
+   border-radius: 50%;
+   width: 29px;
+   height: 29px;
+   padding: 1px 4px;
+   border: 1px solid;
+}
+
+.skill-item .skill-frame, .skill-hero-item .skill-frame {
+   transform: scale(1.13);
+}
+
+.skill-item .skill-img, .skill-hero-item .skill-img {
+   margin-top: 9px;
+   margin-left: 11px;
+}
+
+.hero-card {
+   display: inline;
+   margin: 3px;
+   cursor: pointer;
+}
+
+.hero-card img {
+   width: 150px;
+   height: auto;
+}
+
+.hero-selectbox {
+   max-height: 60px;
+   margin-bottom: 2px;
+}
+
+.hero-selectbox:hover, .hero-selectbox.active, .hero-selectbox:selection {
+   background-color: mediumseagreen;
+}
+
+.hero-selectbox .hero-img {
+   transform: scale(0.6);
+   transform-origin: top left;
+   max-width: 70px;
+}
+
+.team-legal-img {
+   display: inline-flex;
+}
+
+.legal-list-item {
+   width: 100%;
+   display: inline-flex;
+   margin-bottom: 2px;
+   padding-right: .6em;
+   max-height: 60px;
+   outline: 1px solid #ddd;
+}
+
+.legal-list-item.active {
+   background-color: lemonchiffon;
+}
+
+.legal-list-item .icon {
+   transform: scale(0.6);
+   transform-origin: top left;
+   max-width: 60px;
+}
+
+.legal-list-item .content {
+   max-width: 60%;
+}
+
+.legal-list-item .content .title {
+   font-weight: bold;
+}
+
+.legal-list-item .content .elementals {
+   display: inline-flex;
+   transform: scale(0.6);
+   transform-origin: top left;
+}
+
+.legal-list-item .attributes {
+   width: inherit;
+   font-weight: bold;
+}
+
+.hero-detail .hero-elemental, .hero-detail .hero-regency {
+   display: inline-flex;
+   vertical-align: middle;
+}
+
+.hero-detail .hero-elemental .text, .hero-detail .hero-regency .text {
+   padding-top: 10px;
+   font-size: 18px;
+   margin-right: 10px;
+}
+
+.hero-detail .hero-name {
+   font-size: x-large;
+   font-weight: bold;
+}
+
+.princess-level-detail .hero-attribute {
+   height: 24px;
+   padding: 0px 6px;
+}
+
+.princess-level-detail .hero-attribute .attribute-name {
+   font-weight: bold;
+   text-transform: capitalize;
+   width: 50%;
+   float: left;
+}
+
+.princess-level-detail .hero-attribute .attribute-value {
+   width: 50%;
+   float: right;
+}
+
+.hero-skill .skill-detail {
+   display: flex;
+}
+
+.hero-skill .skill-detail .skill-logo {
+   transform: scale(.6);
+   transform-origin: top left;
+   max-width: 80px;
+   max-height: 80px;
+}
+
+.hero-skill .skill-detail .skill-name {
+   font-weight: bold;
+   font-size: 20px;
+   margin-top: 8px;
+   text-transform: capitalize;
+   height: fit-content;
+}
+
+.hero-skill .skill-detail .skill-desc {
+   margin-top: 12px;
+   margin-left: 12px;
+   height: fit-content;
+}
+
+.princess-level-detail .hero-attribute:hover, .hero-skill .skill-detail:hover {
+   background-color: lemonchiffon;
+}

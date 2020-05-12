@@ -1,0 +1,104 @@
+
+sp_sk_rele_pet_screen_fire.png
+size: 936,936
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoci
+  rotate: false
+  xy: 549, 52
+  size: 81, 221
+  orig: 81, 221
+  offset: 0, 0
+  index: -1
+huohua
+  rotate: false
+  xy: 632, 106
+  size: 142, 152
+  orig: 142, 152
+  offset: 0, 0
+  index: -1
+longjuan
+  rotate: false
+  xy: 319, 275
+  size: 328, 348
+  orig: 328, 348
+  offset: 0, 0
+  index: -1
+qiliuguang0001
+  rotate: true
+  xy: 783, 742
+  size: 192, 141
+  orig: 192, 141
+  offset: 0, 0
+  index: -1
+qiliuguang0002
+  rotate: true
+  xy: 783, 562
+  size: 178, 146
+  orig: 178, 146
+  offset: 0, 0
+  index: -1
+qiliuguang0003
+  rotate: true
+  xy: 649, 260
+  size: 179, 132
+  orig: 179, 132
+  offset: 0, 0
+  index: -1
+qiliuguang0004
+  rotate: true
+  xy: 783, 396
+  size: 164, 136
+  orig: 164, 136
+  offset: 0, 0
+  index: -1
+qiliuguang0005
+  rotate: true
+  xy: 649, 441
+  size: 182, 132
+  orig: 182, 132
+  offset: 0, 0
+  index: -1
+qiuqiu
+  rotate: false
+  xy: 319, 45
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+shizi
+  rotate: true
+  xy: 2, 2
+  size: 112, 178
+  orig: 112, 178
+  offset: 0, 0
+  index: -1
+shuguang
+  rotate: false
+  xy: 2, 116
+  size: 315, 818
+  orig: 315, 818
+  offset: 0, 0
+  index: -1
+suiguang
+  rotate: false
+  xy: 319, 625
+  size: 462, 309
+  orig: 462, 309
+  offset: 0, 0
+  index: -1
+xianguang
+  rotate: false
+  xy: 783, 181
+  size: 69, 213
+  orig: 69, 215
+  offset: 0, 0
+  index: -1
+y1
+  rotate: true
+  xy: 854, 294
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1

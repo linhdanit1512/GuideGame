@@ -1,0 +1,104 @@
+
+joy.png
+size: 286,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 10
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: false
+  xy: 183, 102
+  size: 75, 31
+  orig: 75, 31
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: false
+  xy: 183, 135
+  size: 75, 42
+  orig: 75, 43
+  offset: 0, 1
+  index: -1
+HandL
+  rotate: false
+  xy: 143, 18
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: false
+  xy: 219, 71
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 183, 179
+  size: 105, 101
+  orig: 105, 101
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: true
+  xy: 174, 40
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+LegL2
+  rotate: true
+  xy: 260, 152
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: true
+  xy: 172, 10
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+LegR2
+  rotate: true
+  xy: 159, 54
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+SkirtR
+  rotate: false
+  xy: 67, 18
+  size: 74, 32
+  orig: 74, 32
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 2, 81
+  size: 179, 203
+  orig: 179, 204
+  offset: 0, 1
+  index: -1
+huo
+  rotate: true
+  xy: 183, 69
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 67, 52
+  size: 90, 27
+  orig: 90, 37
+  offset: 0, 0
+  index: -1

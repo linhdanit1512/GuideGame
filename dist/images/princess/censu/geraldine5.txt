@@ -1,0 +1,146 @@
+
+geraldine5.png
+size: 290,290
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2130
+  rotate: true
+  xy: 0, 77
+  size: 80, 174
+  orig: 80, 174
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 143, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+dai1
+  rotate: false
+  xy: 90, 3
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 0, 20
+  size: 88, 55
+  orig: 88, 55
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 245, 200
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 90, 27
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 159
+  size: 141, 131
+  orig: 141, 131
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 204, 134
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 176, 99
+  size: 59, 22
+  orig: 59, 22
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 160, 22
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: false
+  xy: 256, 84
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: true
+  xy: 256, 54
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: false
+  xy: 260, 136
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: true
+  xy: 185, 8
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+ytui1
+  rotate: true
+  xy: 143, 160
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: false
+  xy: 185, 42
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: false
+  xy: 260, 164
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: true
+  xy: 227, 63
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: false
+  xy: 239, 0
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+ztui1
+  rotate: true
+  xy: 200, 94
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1

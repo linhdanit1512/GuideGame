@@ -1,0 +1,146 @@
+
+clouds.png
+size: 297,297
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1233
+  rotate: true
+  xy: 105, 26
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+34343434
+  rotate: true
+  xy: 233, 223
+  size: 74, 63
+  orig: 74, 63
+  offset: 0, 0
+  index: -1
+ArmL
+  rotate: false
+  xy: 221, 43
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: false
+  xy: 169, 46
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: true
+  xy: 169, 19
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: false
+  xy: 204, 46
+  size: 15, 42
+  orig: 15, 42
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 173, 90
+  size: 52, 79
+  orig: 52, 79
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 156, 41
+  size: 57, 11
+  orig: 57, 11
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: false
+  xy: 227, 144
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+HairBR
+  rotate: true
+  xy: 110, 224
+  size: 73, 121
+  orig: 73, 121
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: false
+  xy: 0, 29
+  size: 103, 55
+  orig: 103, 55
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 191
+  size: 108, 106
+  orig: 108, 106
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 227, 86
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: true
+  xy: 226, 183
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: false
+  xy: 257, 84
+  size: 28, 58
+  orig: 28, 58
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: false
+  xy: 256, 25
+  size: 26, 57
+  orig: 26, 57
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: true
+  xy: 110, 171
+  size: 51, 114
+  orig: 51, 114
+  offset: 0, 0
+  index: -1
+ggg
+  rotate: false
+  xy: 97, 100
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: -1
+hare
+  rotate: false
+  xy: 0, 86
+  size: 95, 103
+  orig: 95, 103
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 0, 0
+  size: 99, 27
+  orig: 99, 27
+  offset: 0, 0
+  index: -1

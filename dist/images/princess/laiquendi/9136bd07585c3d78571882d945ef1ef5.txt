@@ -1,0 +1,55 @@
+
+sp_cr_e_dragon_baby_2.png
+size: 307,307
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang
+  rotate: false
+  xy: 0, 103
+  size: 179, 204
+  orig: 179, 204
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 0, 72
+  size: 132, 29
+  orig: 132, 29
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 181, 105
+  size: 126, 202
+  orig: 126, 202
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 134, 84
+  size: 55, 17
+  orig: 55, 17
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 83, 13
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 0, 42
+  size: 28, 81
+  orig: 28, 81
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 0, 12
+  size: 28, 81
+  orig: 28, 81
+  offset: 0, 0
+  index: -1

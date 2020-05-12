@@ -1,0 +1,132 @@
+
+dorothy5.png
+size: 355,355
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 224, 153
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 122, 128
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 2, 231
+  size: 166, 122
+  orig: 166, 122
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 313, 263
+  size: 90, 27
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 213, 16
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+shu
+  rotate: false
+  xy: 2, 2
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 73
+  size: 118, 156
+  orig: 118, 156
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 170, 255
+  size: 98, 141
+  orig: 98, 141
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 277, 13
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+xierke_shizi
+  rotate: true
+  xy: 122, 47
+  size: 79, 89
+  orig: 79, 89
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 81, 4
+  size: 67, 27
+  orig: 67, 27
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 326, 194
+  size: 67, 14
+  orig: 67, 14
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: false
+  xy: 110, 12
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: true
+  xy: 224, 113
+  size: 38, 102
+  orig: 38, 102
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: false
+  xy: 144, 19
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: false
+  xy: 307, 70
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: true
+  xy: 213, 69
+  size: 42, 92
+  orig: 42, 92
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: true
+  xy: 177, 19
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

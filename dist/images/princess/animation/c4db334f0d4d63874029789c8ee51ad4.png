@@ -1,0 +1,125 @@
+
+sp_sk_hit_icebeer_red.png
+size: 380,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B0001
+  rotate: false
+  xy: 216, 287
+  size: 23, 27
+  orig: 100, 93
+  offset: 37, 34
+  index: -1
+B0002
+  rotate: true
+  xy: 195, 17
+  size: 80, 73
+  orig: 100, 93
+  offset: 9, 10
+  index: -1
+B0003
+  rotate: false
+  xy: 195, 99
+  size: 85, 81
+  orig: 100, 93
+  offset: 6, 5
+  index: -1
+B0004
+  rotate: false
+  xy: 289, 102
+  size: 88, 84
+  orig: 100, 93
+  offset: 5, 4
+  index: -1
+B0005
+  rotate: true
+  xy: 289, 188
+  size: 92, 88
+  orig: 100, 93
+  offset: 4, 2
+  index: -1
+B0006
+  rotate: true
+  xy: 289, 282
+  size: 96, 89
+  orig: 100, 93
+  offset: 2, 2
+  index: -1
+C
+  rotate: false
+  xy: 2, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+a
+  rotate: true
+  xy: 2, 158
+  size: 100, 97
+  orig: 100, 97
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 54, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+er
+  rotate: true
+  xy: 216, 316
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+g0001
+  rotate: true
+  xy: 270, 23
+  size: 74, 73
+  orig: 100, 95
+  offset: 16, 4
+  index: -1
+g0002
+  rotate: true
+  xy: 101, 158
+  size: 100, 90
+  orig: 100, 95
+  offset: 0, 0
+  index: -1
+g0003
+  rotate: true
+  xy: 99, 56
+  size: 100, 94
+  orig: 100, 95
+  offset: 0, 0
+  index: -1
+g0004
+  rotate: true
+  xy: 120, 280
+  size: 98, 94
+  orig: 100, 95
+  offset: 0, 0
+  index: -1
+g0005
+  rotate: true
+  xy: 2, 56
+  size: 100, 95
+  orig: 100, 95
+  offset: 0, 0
+  index: -1
+g0006
+  rotate: true
+  xy: 193, 182
+  size: 96, 94
+  orig: 100, 95
+  offset: 4, 0
+  index: -1
+q
+  rotate: false
+  xy: 2, 260
+  size: 116, 118
+  orig: 116, 118
+  offset: 0, 0
+  index: -1

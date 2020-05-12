@@ -1,0 +1,41 @@
+
+sp_ui_hero_tierup_start.png
+size: 207,102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diandian
+  rotate: false
+  xy: 103, 2
+  size: 50, 45
+  orig: 50, 49
+  offset: 0, 2
+  index: -1
+g1
+  rotate: false
+  xy: 2, 3
+  size: 99, 97
+  orig: 100, 97
+  offset: 1, 0
+  index: -1
+hg
+  rotate: false
+  xy: 155, 51
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+hh
+  rotate: false
+  xy: 103, 49
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+宝石
+  rotate: false
+  xy: 155, 19
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

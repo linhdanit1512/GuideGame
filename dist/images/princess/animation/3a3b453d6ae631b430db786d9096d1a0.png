@@ -1,0 +1,118 @@
+
+sp_sk_hit_punishing_shot_crowd_green.png
+size: 493,493
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+44
+  rotate: false
+  xy: 135, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+d
+  rotate: true
+  xy: 2, 78
+  size: 150, 131
+  orig: 150, 131
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 2, 390
+  size: 200, 101
+  orig: 200, 107
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 280, 242
+  size: 150, 99
+  orig: 150, 99
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 356, 2
+  size: 78, 100
+  orig: 78, 100
+  offset: 0, 0
+  index: -1
+g1
+  rotate: true
+  xy: 2, 33
+  size: 43, 150
+  orig: 43, 150
+  offset: 0, 0
+  index: -1
+g2
+  rotate: true
+  xy: 280, 197
+  size: 43, 150
+  orig: 43, 150
+  offset: 0, 0
+  index: -1
+j0001
+  rotate: false
+  xy: 432, 290
+  size: 45, 51
+  orig: 140, 165
+  offset: 2, 2
+  index: -1
+j0002
+  rotate: false
+  xy: 356, 343
+  size: 131, 148
+  orig: 140, 165
+  offset: 0, 0
+  index: -1
+j0003
+  rotate: false
+  xy: 2, 230
+  size: 129, 158
+  orig: 140, 165
+  offset: 5, 4
+  index: -1
+j0004
+  rotate: true
+  xy: 133, 234
+  size: 126, 145
+  orig: 140, 165
+  offset: 12, 13
+  index: -1
+j0005
+  rotate: true
+  xy: 204, 362
+  size: 129, 150
+  orig: 140, 165
+  offset: 11, 14
+  index: -1
+j0006
+  rotate: true
+  xy: 265, 104
+  size: 91, 151
+  orig: 140, 165
+  offset: 28, 14
+  index: -1
+s
+  rotate: false
+  xy: 154, 64
+  size: 200, 38
+  orig: 200, 38
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 154, 28
+  size: 173, 34
+  orig: 173, 36
+  offset: 0, 0
+  index: -1
+x
+  rotate: false
+  xy: 418, 109
+  size: 71, 86
+  orig: 71, 86
+  offset: 0, 0
+  index: -1

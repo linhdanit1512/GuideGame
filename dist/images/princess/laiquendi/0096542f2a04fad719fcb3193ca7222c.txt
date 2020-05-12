@@ -1,0 +1,146 @@
+
+sp_cr_e_boxing_frog_3.png
+size: 335,335
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+123412
+  rotate: false
+  xy: 0, 122
+  size: 188, 213
+  orig: 188, 213
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 190, 135
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 102, 62
+  size: 84, 58
+  orig: 84, 58
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 190, 96
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 102, 9
+  size: 51, 83
+  orig: 51, 83
+  offset: 0, 0
+  index: -1
+shentixxx
+  rotate: false
+  xy: 274, 53
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 190, 237
+  size: 108, 98
+  orig: 108, 98
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 0, 13
+  size: 100, 107
+  orig: 100, 107
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 292, 183
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 282, 107
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: false
+  xy: 292, 132
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: true
+  xy: 239, 34
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: false
+  xy: 274, 24
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: false
+  xy: 300, 269
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+ytui1
+  rotate: true
+  xy: 282, 80
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: true
+  xy: 188, 33
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: true
+  xy: 300, 236
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: false
+  xy: 187, 0
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: true
+  xy: 188, 65
+  size: 29, 68
+  orig: 29, 68
+  offset: 0, 0
+  index: -1
+ztui1
+  rotate: true
+  xy: 219, 1
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1

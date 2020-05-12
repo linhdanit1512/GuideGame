@@ -1,0 +1,62 @@
+
+beth.png
+size: 205,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 78
+  size: 120, 125
+  orig: 120, 125
+  offset: 0, 0
+  index: -1
+EarL
+  rotate: false
+  xy: 58, 17
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+EarR
+  rotate: false
+  xy: 124, 86
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 185, 133
+  size: 70, 18
+  orig: 70, 18
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: true
+  xy: 113, 4
+  size: 72, 27
+  orig: 72, 27
+  offset: 0, 0
+  index: -1
+SkirtR
+  rotate: false
+  xy: 2, 10
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+lingdang
+  rotate: false
+  xy: 124, 143
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 166, 41
+  size: 90, 27
+  orig: 90, 37
+  offset: 0, 0
+  index: -1

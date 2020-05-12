@@ -1,0 +1,27 @@
+
+train egg.png
+size: 162,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: false
+  xy: 101, 125
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+shang_danke
+  rotate: false
+  xy: 2, 79
+  size: 97, 81
+  orig: 97, 81
+  offset: 0, 0
+  index: -1
+xia_danke
+  rotate: false
+  xy: 2, 2
+  size: 98, 75
+  orig: 98, 75
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,265 @@
+
+rhinoceros6.png
+size: 551,551
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 226, 164
+  size: 82, 107
+  orig: 82, 107
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 364, 304
+  size: 108, 90
+  orig: 108, 90
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 0, 146
+  size: 122, 125
+  orig: 122, 125
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 0, 273
+  size: 230, 179
+  orig: 230, 179
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 335, 153
+  size: 74, 95
+  orig: 74, 95
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 313, 67
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 306, 122
+  size: 75, 29
+  orig: 75, 29
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 347, 229
+  size: 73, 108
+  orig: 73, 108
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 163, 16
+  size: 73, 37
+  orig: 73, 37
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 379, 71
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 202, 58
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+2342
+  rotate: false
+  xy: 0, 454
+  size: 374, 97
+  orig: 374, 97
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 109, 91
+  size: 84, 32
+  orig: 84, 32
+  offset: 0, 0
+  index: -1
+3434
+  rotate: false
+  xy: 474, 280
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 216, 118
+  size: 88, 44
+  orig: 88, 44
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 232, 311
+  size: 88, 130
+  orig: 88, 130
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 202, 15
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 512, 130
+  size: 31, 79
+  orig: 31, 79
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 376, 396
+  size: 155, 175
+  orig: 155, 175
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 474, 339
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: false
+  xy: 232, 401
+  size: 142, 51
+  orig: 142, 51
+  offset: 0, 0
+  index: -1
+qunzi22
+  rotate: false
+  xy: 232, 248
+  size: 113, 61
+  orig: 113, 61
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 124, 125
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 457, 211
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 13
+  size: 107, 131
+  orig: 107, 131
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 124, 164
+  size: 100, 107
+  orig: 100, 107
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 258, 57
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 364, 61
+  size: 59, 13
+  orig: 59, 13
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: true
+  xy: 109, 7
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: false
+  xy: 457, 64
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: true
+  xy: 313, 37
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: true
+  xy: 383, 117
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+ytui1
+  rotate: false
+  xy: 109, 28
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: true
+  xy: 415, 68
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: true
+  xy: 430, 102
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: true
+  xy: 257, 15
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+ztui1
+  rotate: false
+  xy: 432, 147
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1

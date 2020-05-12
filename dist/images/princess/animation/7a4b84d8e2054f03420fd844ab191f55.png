@@ -1,0 +1,48 @@
+
+sp_bt_death.png
+size: 163,50
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+greenblood2
+  rotate: false
+  xy: 125, 15
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+greenblood3
+  rotate: false
+  xy: 53, 26
+  size: 70, 24
+  orig: 70, 24
+  offset: 0, 0
+  index: -1
+greenblood4
+  rotate: false
+  xy: 0, 0
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+sp_blood1
+  rotate: false
+  xy: 99, 4
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+sp_blood333
+  rotate: true
+  xy: 53, 0
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+sp_blood444
+  rotate: true
+  xy: 76, 0
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+sp_sk_hit_bleeding.png
+size: 271,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 186, 104
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+a0001
+  rotate: true
+  xy: 113, 95
+  size: 69, 71
+  orig: 91, 111
+  offset: 9, 22
+  index: -1
+a0002
+  rotate: true
+  xy: 112, 6
+  size: 86, 102
+  orig: 91, 111
+  offset: 2, 4
+  index: -1
+a0003
+  rotate: true
+  xy: 2, 2
+  size: 90, 108
+  orig: 91, 111
+  offset: 0, 1
+  index: -1
+a0004
+  rotate: true
+  xy: 2, 94
+  size: 91, 109
+  orig: 91, 111
+  offset: 0, 1
+  index: -1
+a0005
+  rotate: true
+  xy: 154, 179
+  size: 90, 111
+  orig: 91, 111
+  offset: 1, 0
+  index: -1
+b2
+  rotate: false
+  xy: 2, 228
+  size: 150, 41
+  orig: 150, 42
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 2, 187
+  size: 143, 39
+  orig: 150, 47
+  offset: 3, 4
+  index: -1
+x
+  rotate: false
+  xy: 216, 84
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+x2
+  rotate: true
+  xy: 113, 166
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1

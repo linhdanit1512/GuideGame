@@ -1,0 +1,160 @@
+
+sp_cr_l_golden_pastor_4.png
+size: 332,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 245, 178
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+dai2
+  rotate: false
+  xy: 155, 246
+  size: 175, 86
+  orig: 175, 86
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 92, 12
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+mao21
+  rotate: true
+  xy: 92, 78
+  size: 89, 48
+  orig: 89, 48
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 155, 171
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 172, 79
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 12
+  size: 90, 155
+  orig: 90, 155
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 169
+  size: 153, 163
+  orig: 153, 163
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 158, 23
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 249, 143
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 249, 86
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 142, 87
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: true
+  xy: 261, 8
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: true
+  xy: 304, 64
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: true
+  xy: 238, 40
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: false
+  xy: 214, 29
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: true
+  xy: 211, 85
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: false
+  xy: 261, 44
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: true
+  xy: 302, 25
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+zshou32x
+  rotate: true
+  xy: 249, 111
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+zshou3x
+  rotate: false
+  xy: 211, 112
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: true
+  xy: 158, 0
+  size: 21, 54
+  orig: 21, 54
+  offset: 0, 0
+  index: -1

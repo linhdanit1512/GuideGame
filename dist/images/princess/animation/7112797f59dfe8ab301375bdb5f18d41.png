@@ -1,0 +1,153 @@
+
+sp_sk_fly_pet_fire.png
+size: 570,565
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: true
+  xy: 488, 89
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+c1
+  rotate: true
+  xy: 295, 232
+  size: 118, 121
+  orig: 120, 125
+  offset: 2, 0
+  index: -1
+c2
+  rotate: true
+  xy: 281, 16
+  size: 106, 117
+  orig: 120, 125
+  offset: 10, 2
+  index: -1
+c3
+  rotate: false
+  xy: 281, 124
+  size: 119, 106
+  orig: 120, 125
+  offset: 1, 11
+  index: -1
+c4
+  rotate: true
+  xy: 467, 443
+  size: 120, 98
+  orig: 120, 125
+  offset: 0, 25
+  index: -1
+c5
+  rotate: true
+  xy: 476, 151
+  size: 82, 54
+  orig: 120, 125
+  offset: 1, 59
+  index: -1
+g0005
+  rotate: false
+  xy: 2, 18
+  size: 277, 243
+  orig: 278, 243
+  offset: 0, 0
+  index: -1
+h0003
+  rotate: true
+  xy: 418, 235
+  size: 88, 113
+  orig: 88, 116
+  offset: 0, 3
+  index: -1
+h0004
+  rotate: false
+  xy: 400, 25
+  size: 67, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+h0005
+  rotate: false
+  xy: 295, 352
+  size: 170, 211
+  orig: 170, 211
+  offset: 0, 0
+  index: -1
+h0006
+  rotate: false
+  xy: 467, 325
+  size: 95, 116
+  orig: 96, 117
+  offset: 0, 0
+  index: -1
+h0007
+  rotate: false
+  xy: 402, 140
+  size: 72, 90
+  orig: 72, 90
+  offset: 0, 0
+  index: -1
+h0008
+  rotate: false
+  xy: 469, 31
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+h0009
+  rotate: true
+  xy: 2, 2
+  size: 14, 26
+  orig: 18, 26
+  offset: 1, 0
+  index: -1
+h0010
+  rotate: false
+  xy: 532, 207
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+h0011
+  rotate: false
+  xy: 533, 235
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+h0013
+  rotate: false
+  xy: 533, 284
+  size: 35, 39
+  orig: 36, 39
+  offset: 1, 0
+  index: -1
+h0014
+  rotate: false
+  xy: 533, 258
+  size: 28, 24
+  orig: 30, 24
+  offset: 2, 0
+  index: -1
+h0015
+  rotate: true
+  xy: 418, 326
+  size: 24, 29
+  orig: 25, 30
+  offset: 1, 1
+  index: -1
+qq
+  rotate: false
+  xy: 2, 263
+  size: 291, 300
+  orig: 300, 300
+  offset: 5, 0
+  index: -1
+图层 0
+  rotate: false
+  xy: 402, 90
+  size: 84, 48
+  orig: 88, 52
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,118 @@
+
+sp_sk_fly_pet_red_2.png
+size: 452,452
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 290, 8
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+baoci
+  rotate: false
+  xy: 218, 249
+  size: 210, 203
+  orig: 210, 203
+  offset: 0, 0
+  index: -1
+baoguangquan
+  rotate: false
+  xy: 0, 57
+  size: 126, 122
+  orig: 126, 122
+  offset: 0, 0
+  index: -1
+dizi
+  rotate: false
+  xy: 347, 95
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+h0003
+  rotate: false
+  xy: 128, 63
+  size: 88, 116
+  orig: 88, 116
+  offset: 0, 0
+  index: -1
+h0005
+  rotate: false
+  xy: 0, 181
+  size: 216, 271
+  orig: 216, 271
+  offset: 0, 0
+  index: -1
+h0007
+  rotate: false
+  xy: 218, 67
+  size: 67, 77
+  orig: 67, 77
+  offset: 0, 0
+  index: -1
+huox
+  rotate: true
+  xy: 347, 77
+  size: 16, 40
+  orig: 16, 40
+  offset: 0, 0
+  index: -1
+particle03a
+  rotate: false
+  xy: 321, 161
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+qilang
+  rotate: false
+  xy: 52, 15
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+qq
+  rotate: false
+  xy: 218, 146
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+shi_2
+  rotate: true
+  xy: 128, 0
+  size: 61, 91
+  orig: 61, 91
+  offset: 0, 0
+  index: -1
+shizi_1
+  rotate: true
+  xy: 287, 74
+  size: 70, 58
+  orig: 70, 58
+  offset: 0, 0
+  index: -1
+shizi_3
+  rotate: false
+  xy: 221, 1
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+stone01
+  rotate: false
+  xy: 406, 208
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+yanwu
+  rotate: false
+  xy: 0, 10
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1

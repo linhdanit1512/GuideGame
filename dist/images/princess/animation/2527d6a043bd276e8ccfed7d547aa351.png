@@ -1,0 +1,118 @@
+
+sp_bf_last_hurt.png
+size: 424,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 269
+  size: 155, 153
+  orig: 155, 153
+  offset: 0, 0
+  index: -1
+b0001
+  rotate: false
+  xy: 2, 167
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+b0002
+  rotate: false
+  xy: 159, 322
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+b0003
+  rotate: false
+  xy: 2, 65
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+b0004
+  rotate: false
+  xy: 255, 322
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+b0005
+  rotate: false
+  xy: 98, 167
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+c0001
+  rotate: true
+  xy: 171, 65
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+c0002
+  rotate: false
+  xy: 296, 180
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+c0003
+  rotate: true
+  xy: 240, 74
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+c0004
+  rotate: true
+  xy: 309, 78
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+c0005
+  rotate: false
+  xy: 240, 5
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+d0001
+  rotate: true
+  xy: 351, 322
+  size: 100, 71
+  orig: 100, 71
+  offset: 0, 0
+  index: -1
+d0002
+  rotate: true
+  xy: 98, 65
+  size: 100, 71
+  orig: 100, 71
+  offset: 0, 0
+  index: -1
+d0003
+  rotate: false
+  xy: 194, 249
+  size: 100, 71
+  orig: 100, 71
+  offset: 0, 0
+  index: -1
+d0004
+  rotate: false
+  xy: 194, 176
+  size: 100, 71
+  orig: 100, 71
+  offset: 0, 0
+  index: -1
+d0005
+  rotate: false
+  xy: 296, 249
+  size: 100, 71
+  orig: 100, 71
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+josephine.png
+size: 366,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: false
+  xy: 214, 70
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: false
+  xy: 268, 215
+  size: 57, 45
+  orig: 57, 45
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: true
+  xy: 292, 90
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: true
+  xy: 243, 20
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 268, 262
+  size: 63, 104
+  orig: 63, 104
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 326, 137
+  size: 70, 31
+  orig: 70, 31
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: true
+  xy: 292, 143
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+FootL
+  rotate: true
+  xy: 265, 84
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+FootR
+  rotate: false
+  xy: 340, 107
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+HairFL
+  rotate: true
+  xy: 127, 72
+  size: 41, 85
+  orig: 41, 85
+  offset: 0, 0
+  index: -1
+HairFM1
+  rotate: true
+  xy: 127, 35
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+HairFR
+  rotate: false
+  xy: 229, 123
+  size: 34, 92
+  orig: 34, 92
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 292, 52
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: true
+  xy: 327, 209
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 125, 217
+  size: 141, 149
+  orig: 141, 149
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 265, 101
+  size: 25, 112
+  orig: 25, 112
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: true
+  xy: 0, 15
+  size: 45, 110
+  orig: 45, 110
+  offset: 0, 0
+  index: -1
+SkirtL
+  rotate: true
+  xy: 0, 62
+  size: 128, 125
+  orig: 128, 125
+  offset: 0, 0
+  index: -1
+WeaponR
+  rotate: false
+  xy: 0, 192
+  size: 123, 174
+  orig: 123, 174
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 185, 13
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+guangqiu
+  rotate: false
+  xy: 127, 115
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 333, 263
+  size: 103, 27
+  orig: 103, 27
+  offset: 0, 0
+  index: -1

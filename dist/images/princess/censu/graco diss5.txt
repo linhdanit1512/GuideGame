@@ -1,0 +1,146 @@
+
+graco diss5.png
+size: 335,335
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: false
+  xy: 268, 282
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: false
+  xy: 228, 67
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: true
+  xy: 276, 45
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: false
+  xy: 228, 23
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 134, 16
+  size: 63, 73
+  orig: 63, 73
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: false
+  xy: 276, 79
+  size: 57, 11
+  orig: 57, 11
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: true
+  xy: 287, 218
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+HairBR
+  rotate: false
+  xy: 143, 91
+  size: 29, 114
+  orig: 29, 114
+  offset: 0, 0
+  index: -1
+HairFM2
+  rotate: false
+  xy: 0, 80
+  size: 66, 125
+  orig: 66, 125
+  offset: 0, 0
+  index: -1
+HairFR
+  rotate: true
+  xy: 276, 92
+  size: 24, 59
+  orig: 24, 59
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 68, 113
+  size: 73, 92
+  orig: 73, 92
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: true
+  xy: 0, 2
+  size: 76, 88
+  orig: 76, 88
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 207
+  size: 169, 128
+  orig: 169, 128
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 231, 118
+  size: 45, 91
+  orig: 45, 91
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 278, 118
+  size: 36, 91
+  orig: 36, 91
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: false
+  xy: 174, 120
+  size: 55, 89
+  orig: 55, 89
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: false
+  xy: 90, 17
+  size: 42, 94
+  orig: 42, 94
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: true
+  xy: 171, 211
+  size: 51, 114
+  orig: 51, 114
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 171, 264
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 199, 19
+  size: 99, 27
+  orig: 99, 27
+  offset: 0, 0
+  index: -1

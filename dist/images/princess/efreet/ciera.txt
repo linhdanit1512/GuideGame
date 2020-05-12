@@ -1,0 +1,125 @@
+
+ciera.png
+size: 184,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 92, 85
+  size: 61, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: false
+  xy: 90, 68
+  size: 61, 15
+  orig: 61, 15
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: false
+  xy: 92, 121
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 107, 35
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: true
+  xy: 107, 23
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 108
+  size: 88, 74
+  orig: 88, 74
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 107, 53
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 81, 6
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+SkirtR
+  rotate: false
+  xy: 159, 132
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: true
+  xy: 155, 88
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 153, 55
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: true
+  xy: 2, 3
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 2, 60
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+huageng
+  rotate: false
+  xy: 81, 22
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 92, 155
+  size: 90, 27
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+zui1
+  rotate: false
+  xy: 122, 40
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: false
+  xy: 128, 54
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+sp_bt_critical_2.png
+size: 992,470
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g0001
+  rotate: true
+  xy: 840, 312
+  size: 158, 152
+  orig: 158, 152
+  offset: 0, 0
+  index: -1
+g0002
+  rotate: true
+  xy: 840, 152
+  size: 158, 152
+  orig: 158, 152
+  offset: 0, 0
+  index: -1
+g0003
+  rotate: false
+  xy: 202, 0
+  size: 158, 152
+  orig: 158, 152
+  offset: 0, 0
+  index: -1
+g0004
+  rotate: false
+  xy: 362, 0
+  size: 158, 152
+  orig: 158, 152
+  offset: 0, 0
+  index: -1
+g0005
+  rotate: false
+  xy: 522, 0
+  size: 158, 152
+  orig: 158, 152
+  offset: 0, 0
+  index: -1
+gb0001
+  rotate: false
+  xy: 0, 30
+  size: 200, 157
+  orig: 200, 157
+  offset: 0, 0
+  index: -1
+gb0002
+  rotate: false
+  xy: 234, 313
+  size: 200, 157
+  orig: 200, 157
+  offset: 0, 0
+  index: -1
+gb0003
+  rotate: false
+  xy: 436, 313
+  size: 200, 157
+  orig: 200, 157
+  offset: 0, 0
+  index: -1
+gb0004
+  rotate: false
+  xy: 638, 313
+  size: 200, 157
+  orig: 200, 157
+  offset: 0, 0
+  index: -1
+gb0005
+  rotate: false
+  xy: 234, 154
+  size: 200, 157
+  orig: 200, 157
+  offset: 0, 0
+  index: -1
+gb0006
+  rotate: false
+  xy: 436, 154
+  size: 200, 157
+  orig: 200, 157
+  offset: 0, 0
+  index: -1
+gb0007
+  rotate: false
+  xy: 638, 154
+  size: 200, 157
+  orig: 200, 157
+  offset: 0, 0
+  index: -1
+q
+  rotate: false
+  xy: 682, 62
+  size: 100, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+q1
+  rotate: false
+  xy: 784, 60
+  size: 100, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+qq
+  rotate: false
+  xy: 0, 189
+  size: 232, 281
+  orig: 232, 281
+  offset: 0, 0
+  index: -1

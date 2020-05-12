@@ -1,0 +1,90 @@
+
+sherry.png
+size: 260,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang2
+  rotate: false
+  xy: 137, 39
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+sp_unit_shadow
+  rotate: false
+  xy: 0, 12
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+zh_1
+  rotate: false
+  xy: 0, 109
+  size: 122, 151
+  orig: 122, 151
+  offset: 0, 0
+  index: -1
+zh_11
+  rotate: true
+  xy: 124, 70
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+zh_15
+  rotate: true
+  xy: 124, 70
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+zh_13
+  rotate: false
+  xy: 86, 56
+  size: 31, 51
+  orig: 31, 51
+  offset: 0, 0
+  index: -1
+zh_13xxxxx
+  rotate: false
+  xy: 179, 40
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+zh_2
+  rotate: false
+  xy: 124, 133
+  size: 129, 127
+  orig: 129, 127
+  offset: 0, 0
+  index: -1
+zh_3
+  rotate: false
+  xy: 200, 70
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+zh_6
+  rotate: false
+  xy: 92, 12
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+zh_6xxxx
+  rotate: true
+  xy: 137, 0
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+zh_9
+  rotate: false
+  xy: 0, 51
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,209 @@
+
+madeline5.png
+size: 443,443
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 404, 82
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 211, 0
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 250, 50
+  size: 112, 52
+  orig: 112, 52
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 307, 245
+  size: 70, 107
+  orig: 70, 107
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 303, 15
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 396, 204
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 298, 182
+  size: 61, 96
+  orig: 61, 96
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 391, 119
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 335, 117
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 370, 38
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+1_1
+  rotate: false
+  xy: 402, 46
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 0, 52
+  size: 101, 193
+  orig: 101, 193
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 417, 298
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 416, 278
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+22
+  rotate: true
+  xy: 153, 0
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+23
+  rotate: true
+  xy: 304, 50
+  size: 31, 64
+  orig: 31, 64
+  offset: 0, 0
+  index: -1
+25
+  rotate: true
+  xy: 176, 164
+  size: 112, 120
+  orig: 112, 120
+  offset: 0, 0
+  index: -1
+27
+  rotate: true
+  xy: 268, 6
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 176, 278
+  size: 129, 165
+  orig: 129, 165
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 417, 323
+  size: 59, 21
+  orig: 59, 21
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 335, 83
+  size: 32, 67
+  orig: 32, 67
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 307, 317
+  size: 108, 126
+  orig: 108, 126
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 417, 384
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 153, 184
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+dunguang
+  rotate: false
+  xy: 0, 247
+  size: 174, 196
+  orig: 174, 196
+  offset: 0, 0
+  index: -1
+qz
+  rotate: false
+  xy: 0, 0
+  size: 86, 50
+  orig: 86, 50
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 304, 84
+  size: 96, 29
+  orig: 96, 29
+  offset: 0, 0
+  index: -1
+tou_2
+  rotate: false
+  xy: 153, 51
+  size: 95, 111
+  orig: 95, 111
+  offset: 0, 0
+  index: -1
+zhiguang
+  rotate: false
+  xy: 103, 19
+  size: 48, 226
+  orig: 48, 226
+  offset: 0, 0
+  index: -1

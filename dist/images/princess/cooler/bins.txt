@@ -1,0 +1,27 @@
+
+bins.png
+size: 156,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head7xxx
+  rotate: false
+  xy: 88, 92
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+sp_unit_shadow
+  rotate: true
+  xy: 88, 0
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+wizard_body
+  rotate: false
+  xy: 0, 25
+  size: 86, 131
+  orig: 86, 131
+  offset: 0, 0
+  index: -1

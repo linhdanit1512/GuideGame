@@ -1,0 +1,286 @@
+
+carmen6.png
+size: 544,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g3
+  rotate: false
+  xy: 119, 121
+  size: 100, 111
+  orig: 100, 111
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 189, 362
+  size: 150, 42
+  orig: 150, 42
+  offset: 0, 0
+  index: -1
+h0001
+  rotate: false
+  xy: 103, 11
+  size: 85, 47
+  orig: 92, 150
+  offset: 7, 40
+  index: -1
+h0002
+  rotate: true
+  xy: 361, 454
+  size: 88, 141
+  orig: 92, 150
+  offset: 0, 5
+  index: -1
+h0003
+  rotate: true
+  xy: 361, 391
+  size: 61, 144
+  orig: 92, 150
+  offset: 19, 0
+  index: -1
+h0004
+  rotate: false
+  xy: 221, 103
+  size: 59, 145
+  orig: 92, 150
+  offset: 14, 0
+  index: -1
+h0005
+  rotate: false
+  xy: 287, 211
+  size: 59, 149
+  orig: 92, 150
+  offset: 10, 1
+  index: -1
+h0006
+  rotate: false
+  xy: 348, 251
+  size: 54, 138
+  orig: 92, 150
+  offset: 10, 0
+  index: -1
+jian
+  rotate: false
+  xy: 185, 250
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+kouzi
+  rotate: false
+  xy: 507, 398
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 190, 8
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+lunzi
+  rotate: false
+  xy: 282, 106
+  size: 78, 103
+  orig: 78, 103
+  offset: 0, 0
+  index: -1
+pao1
+  rotate: false
+  xy: 2, 391
+  size: 185, 151
+  orig: 185, 151
+  offset: 0, 0
+  index: -1
+pao2
+  rotate: false
+  xy: 2, 2
+  size: 99, 113
+  orig: 99, 113
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: true
+  xy: 189, 406
+  size: 136, 170
+  orig: 136, 170
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 446, 100
+  size: 90, 27
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 404, 292
+  size: 73, 97
+  orig: 73, 97
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 117
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: false
+  xy: 2, 234
+  size: 181, 155
+  orig: 181, 155
+  offset: 0, 0
+  index: -1
+yan0001
+  rotate: true
+  xy: 242, 24
+  size: 36, 66
+  orig: 66, 100
+  offset: 0, 13
+  index: -1
+yan0002
+  rotate: false
+  xy: 471, 193
+  size: 61, 96
+  orig: 66, 100
+  offset: 3, 1
+  index: -1
+yan0003
+  rotate: false
+  xy: 404, 192
+  size: 65, 98
+  orig: 66, 100
+  offset: 1, 0
+  index: -1
+yan0004
+  rotate: false
+  xy: 479, 291
+  size: 63, 98
+  orig: 66, 100
+  offset: 1, 0
+  index: -1
+yan0005
+  rotate: true
+  xy: 119, 60
+  size: 59, 100
+  orig: 66, 100
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 475, 85
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 242, 6
+  size: 53, 16
+  orig: 53, 16
+  offset: 0, 0
+  index: -1
+yinxian
+  rotate: false
+  xy: 387, 218
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+yjianjia
+  rotate: true
+  xy: 348, 211
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: true
+  xy: 310, 24
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: true
+  xy: 362, 68
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: false
+  xy: 507, 425
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+ytui1
+  rotate: false
+  xy: 504, 467
+  size: 38, 75
+  orig: 38, 75
+  offset: 0, 0
+  index: -1
+ytui2
+  rotate: false
+  xy: 475, 116
+  size: 30, 75
+  orig: 30, 75
+  offset: 0, 0
+  index: -1
+ywei1
+  rotate: false
+  xy: 362, 116
+  size: 82, 74
+  orig: 82, 74
+  offset: 0, 0
+  index: -1
+zjianjia
+  rotate: false
+  xy: 414, 61
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: true
+  xy: 304, 62
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: true
+  xy: 360, 23
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: true
+  xy: 409, 22
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+ztui1
+  rotate: true
+  xy: 221, 62
+  size: 39, 81
+  orig: 39, 81
+  offset: 0, 0
+  index: -1
+ztui2
+  rotate: false
+  xy: 507, 116
+  size: 27, 75
+  orig: 27, 75
+  offset: 0, 0
+  index: -1

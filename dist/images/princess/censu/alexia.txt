@@ -1,0 +1,174 @@
+
+alexia.png
+size: 490,490
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 358, 292
+  size: 54, 128
+  orig: 54, 128
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 348, 137
+  size: 39, 148
+  orig: 39, 148
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 352, 36
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 269, 66
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 203, 175
+  size: 93, 110
+  orig: 93, 110
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 269, 0
+  size: 64, 43
+  orig: 64, 43
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 400, 20
+  size: 82, 49
+  orig: 82, 49
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 349, 436
+  size: 54, 141
+  orig: 54, 141
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 269, 146
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+ArmL
+  rotate: false
+  xy: 204, 0
+  size: 60, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: false
+  xy: 126, 44
+  size: 76, 116
+  orig: 76, 116
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 349, 348
+  size: 86, 140
+  orig: 86, 140
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: false
+  xy: 0, 26
+  size: 57, 11
+  orig: 57, 11
+  offset: 0, 0
+  index: -1
+FootL
+  rotate: false
+  xy: 314, 35
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+HairFM1
+  rotate: true
+  xy: 389, 150
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+HairFR
+  rotate: false
+  xy: 204, 54
+  size: 63, 119
+  orig: 63, 119
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 301
+  size: 209, 189
+  orig: 209, 189
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: true
+  xy: 211, 287
+  size: 54, 145
+  orig: 54, 145
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: false
+  xy: 126, 162
+  size: 75, 137
+  orig: 75, 137
+  offset: 0, 0
+  index: -1
+SkirtL
+  rotate: true
+  xy: 0, 39
+  size: 260, 124
+  orig: 260, 124
+  offset: 0, 0
+  index: -1
+ggggggggggggggg
+  rotate: false
+  xy: 389, 216
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 400, 71
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 211, 343
+  size: 136, 147
+  orig: 136, 147
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 298, 131
+  size: 154, 48
+  orig: 154, 48
+  offset: 0, 0
+  index: -1

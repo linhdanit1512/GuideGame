@@ -1,0 +1,118 @@
+
+bald eagle.png
+size: 158,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ArmL
+  rotate: false
+  xy: 129, 15
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+images/ArmR
+  rotate: false
+  xy: 104, 15
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+images/Body
+  rotate: false
+  xy: 2, 83
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+images/EyeClose
+  rotate: false
+  xy: 68, 85
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+images/EyeOpen
+  rotate: false
+  xy: 121, 221
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+images/FootL
+  rotate: false
+  xy: 121, 147
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+images/FootR
+  rotate: false
+  xy: 116, 40
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+images/HandL
+  rotate: false
+  xy: 38, 10
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+images/HandR
+  rotate: false
+  xy: 104, 71
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+images/Head
+  rotate: false
+  xy: 2, 147
+  size: 117, 113
+  orig: 117, 113
+  offset: 0, 0
+  index: -1
+images/LegL
+  rotate: false
+  xy: 121, 184
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+images/LegR
+  rotate: false
+  xy: 87, 41
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+images/SkirtL
+  rotate: false
+  xy: 2, 2
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+images/SkirtR
+  rotate: false
+  xy: 77, 8
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+images/WingL
+  rotate: false
+  xy: 68, 104
+  size: 83, 41
+  orig: 83, 41
+  offset: 0, 0
+  index: -1
+images/WingR
+  rotate: false
+  xy: 2, 39
+  size: 83, 42
+  orig: 83, 42
+  offset: 0, 0
+  index: -1

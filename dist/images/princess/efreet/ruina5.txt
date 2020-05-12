@@ -1,0 +1,139 @@
+
+ruina5.png
+size: 301,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: true
+  xy: 118, 89
+  size: 150, 42
+  orig: 150, 42
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 2, 241
+  size: 191, 58
+  orig: 191, 58
+  offset: 0, 0
+  index: -1
+houbai
+  rotate: false
+  xy: 2, 20
+  size: 103, 88
+  orig: 103, 88
+  offset: 0, 0
+  index: -1
+kua
+  rotate: true
+  xy: 107, 29
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 234, 130
+  size: 90, 27
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 195, 222
+  size: 74, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 110
+  size: 114, 129
+  orig: 114, 129
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 210, 56
+  size: 57, 27
+  orig: 57, 27
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 107, 4
+  size: 56, 23
+  orig: 56, 23
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 164, 34
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 195, 115
+  size: 37, 105
+  orig: 37, 105
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 271, 233
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 263, 110
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+youshouno2
+  rotate: false
+  xy: 210, 8
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: false
+  xy: 263, 144
+  size: 32, 76
+  orig: 32, 76
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 162, 130
+  size: 31, 109
+  orig: 31, 109
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 271, 262
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 165, 3
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+zuoshoubi1
+  rotate: false
+  xy: 239, 64
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1

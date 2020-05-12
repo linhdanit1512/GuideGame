@@ -1,0 +1,62 @@
+
+sp_sk_fly_red_elec_behit.png
+size: 253,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 2, 77
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+A0001
+  rotate: true
+  xy: 103, 11
+  size: 39, 60
+  orig: 71, 100
+  offset: 0, 10
+  index: -1
+A0002
+  rotate: true
+  xy: 104, 52
+  size: 42, 67
+  orig: 71, 100
+  offset: 0, 3
+  index: -1
+A0003
+  rotate: false
+  xy: 204, 74
+  size: 47, 82
+  orig: 71, 100
+  offset: 0, 1
+  index: -1
+A0004
+  rotate: true
+  xy: 104, 96
+  size: 60, 98
+  orig: 71, 100
+  offset: 5, 1
+  index: -1
+A0005
+  rotate: true
+  xy: 2, 10
+  size: 65, 99
+  orig: 71, 100
+  offset: 5, 1
+  index: -1
+A0006
+  rotate: false
+  xy: 173, 38
+  size: 58, 34
+  orig: 71, 100
+  offset: 13, 66
+  index: -1
+A0007
+  rotate: false
+  xy: 165, 2
+  size: 58, 34
+  orig: 71, 100
+  offset: 13, 66
+  index: -1

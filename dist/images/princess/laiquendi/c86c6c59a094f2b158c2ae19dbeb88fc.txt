@@ -1,0 +1,293 @@
+
+sp_cr_e_luna_6.png
+size: 536,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daizi1
+  rotate: false
+  xy: 127, 248
+  size: 112, 129
+  orig: 114, 131
+  offset: 1, 1
+  index: -1
+daizi2
+  rotate: false
+  xy: 464, 434
+  size: 55, 100
+  orig: 57, 102
+  offset: 1, 1
+  index: -1
+fa1
+  rotate: true
+  xy: 303, 425
+  size: 109, 159
+  orig: 111, 161
+  offset: 1, 1
+  index: -1
+fa2
+  rotate: false
+  xy: 2, 41
+  size: 116, 159
+  orig: 118, 161
+  offset: 1, 1
+  index: -1
+fa3
+  rotate: false
+  xy: 120, 48
+  size: 87, 80
+  orig: 89, 82
+  offset: 1, 1
+  index: -1
+g
+  rotate: false
+  xy: 362, 245
+  size: 116, 105
+  orig: 116, 105
+  offset: 0, 0
+  index: -1
+luhytui1
+  rotate: true
+  xy: 241, 356
+  size: 41, 60
+  orig: 43, 62
+  offset: 1, 1
+  index: -1
+luhytui2
+  rotate: true
+  xy: 481, 346
+  size: 38, 51
+  orig: 40, 53
+  offset: 1, 1
+  index: -1
+luhytui3
+  rotate: false
+  xy: 147, 379
+  size: 35, 18
+  orig: 37, 20
+  offset: 1, 1
+  index: -1
+luhztui2
+  rotate: false
+  xy: 308, 54
+  size: 56, 74
+  orig: 58, 76
+  offset: 1, 1
+  index: -1
+luhztui3
+  rotate: true
+  xy: 268, 2
+  size: 44, 27
+  orig: 46, 29
+  offset: 1, 1
+  index: -1
+luqytui1
+  rotate: false
+  xy: 455, 167
+  size: 68, 76
+  orig: 70, 78
+  offset: 1, 1
+  index: -1
+luqytui2
+  rotate: true
+  xy: 176, 2
+  size: 44, 47
+  orig: 46, 49
+  offset: 1, 1
+  index: -1
+luqytui3
+  rotate: true
+  xy: 366, 56
+  size: 22, 28
+  orig: 24, 30
+  offset: 1, 1
+  index: -1
+luqztui1
+  rotate: false
+  xy: 480, 293
+  size: 41, 51
+  orig: 43, 53
+  offset: 1, 1
+  index: -1
+luqztui2
+  rotate: true
+  xy: 301, 2
+  size: 50, 56
+  orig: 52, 58
+  offset: 1, 1
+  index: -1
+luqztui3
+  rotate: true
+  xy: 480, 245
+  size: 46, 25
+  orig: 48, 27
+  offset: 1, 1
+  index: -1
+lushen
+  rotate: false
+  xy: 2, 379
+  size: 143, 155
+  orig: 145, 157
+  offset: 1, 1
+  index: -1
+lutou
+  rotate: false
+  xy: 2, 202
+  size: 123, 175
+  orig: 125, 177
+  offset: 1, 1
+  index: -1
+luxiong
+  rotate: true
+  xy: 236, 130
+  size: 113, 115
+  orig: 115, 117
+  offset: 1, 1
+  index: -1
+luyan2
+  rotate: false
+  xy: 78, 9
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+luzhtui1
+  rotate: true
+  xy: 209, 77
+  size: 51, 97
+  orig: 53, 99
+  offset: 1, 1
+  index: -1
+mnote01
+  rotate: true
+  xy: 359, 2
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 303, 352
+  size: 133, 71
+  orig: 135, 73
+  offset: 1, 1
+  index: -1
+ring01
+  rotate: false
+  xy: 353, 143
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 209, 48
+  size: 90, 27
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 366, 80
+  size: 51, 61
+  orig: 53, 63
+  offset: 1, 1
+  index: -1
+shou1
+  rotate: false
+  xy: 184, 380
+  size: 32, 17
+  orig: 34, 19
+  offset: 1, 1
+  index: -1
+shou2
+  rotate: false
+  xy: 448, 100
+  size: 44, 25
+  orig: 46, 27
+  offset: 1, 1
+  index: -1
+shuqing
+  rotate: true
+  xy: 241, 245
+  size: 105, 119
+  orig: 107, 121
+  offset: 1, 1
+  index: -1
+tou
+  rotate: false
+  xy: 147, 399
+  size: 154, 135
+  orig: 156, 137
+  offset: 1, 1
+  index: -1
+weiba
+  rotate: false
+  xy: 127, 130
+  size: 107, 116
+  orig: 109, 118
+  offset: 1, 1
+  index: -1
+yan1
+  rotate: true
+  xy: 419, 79
+  size: 62, 27
+  orig: 62, 27
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 521, 476
+  size: 58, 12
+  orig: 60, 14
+  offset: 1, 1
+  index: -1
+yshou1
+  rotate: true
+  xy: 225, 2
+  size: 44, 41
+  orig: 46, 43
+  offset: 1, 1
+  index: -1
+yshou2
+  rotate: true
+  xy: 481, 386
+  size: 46, 53
+  orig: 48, 55
+  offset: 1, 1
+  index: -1
+yshou3
+  rotate: true
+  xy: 507, 255
+  size: 36, 27
+  orig: 38, 29
+  offset: 1, 1
+  index: -1
+ytui
+  rotate: false
+  xy: 438, 352
+  size: 41, 71
+  orig: 43, 73
+  offset: 1, 1
+  index: -1
+zshou1
+  rotate: true
+  xy: 455, 127
+  size: 38, 48
+  orig: 40, 50
+  offset: 1, 1
+  index: -1
+zshou2
+  rotate: true
+  xy: 120, 2
+  size: 44, 54
+  orig: 46, 56
+  offset: 1, 1
+  index: -1
+ztui
+  rotate: true
+  xy: 2, 2
+  size: 37, 74
+  orig: 39, 76
+  offset: 1, 1
+  index: -1

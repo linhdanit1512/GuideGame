@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" href="./lib/bootstrap/css/bootstrap.min.css">
+   <script src="./lib/jquery.min.js"></script>
+   <script src="./lib/bootstrap/js/bootstrap.min.js"></script>
+   <link rel="stylesheet" href="./lib/font-awesome.min.css">
+   <link rel="stylesheet" href="./build/style.css">
+   <link rel="stylesheet" href="./css/normal.css">
+   <!-- <link rel="stylesheet" href="./css/feature.css"> -->
+   <link rel="stylesheet" href="./css/item.css">
+   <title>Document</title>
+
+</head>
+
+<body>
+   <div>
+      <div id="menu">
+         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" href="javascript:void(0)">Summon Princess</a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+               data-target="#menubar" aria-expanded="false">
+               <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="navbar-collapse collapse" id="menubar">
+               <ul class="navbar-nav mr-auto">
+                  <li class="nav-item">
+                     <a class="nav-link" href="javascript:void(0)">Diễn đàn</a>
+                  </li>
+                  <li class="nav-item">
+                     <a class="nav-link" href="javascript:void(0)">Princess</a>
+                  </li>
+                  <li class="nav-item">
+                     <a class="nav-link" href="javascript:void(0)">Bài viết</a>
+                  </li>
+               </ul>
+               <form class="form-inline my-2 my-lg-0">
+                  <input class="form-control mr-sm-2" type="text" placeholder="Search">
+                  <button class="btn btn-success my-2 my-sm-0" type="button">Search</button>
+               </form>
+            </div>
+         </nav>
+      </div>
+      <div id="content">
+         <div class="show-sidebar">
+            <div class="gn_btn_swit_white"></div>
+         </div>
+         <div id="sidebar" class="show">
+            <div class="gn_set_unclick_btn sp-btn active">
+               <div class="sp-icon scale-7">
+                  <div class="sy_menu_icon_vip_right left inline" style="padding-bottom: 45px"></div>
+               </div>
+               <span class="sy_menu_text">Lợi ích</span>
+            </div>
+            <div class="gn_set_unclick_btn sp-btn">
+               <div class="sp-icon scale-6">
+                  <span class="sy_menu_icon_task_day left inline"></span>
+               </div>
+               <div class="sy_menu_text" style="position: absolute;">Nhiệm vụ hàng ngày</div>
+            </div>
+            <div class="gn_set_unclick_btn sp-btn">
+               <div class="sp-icon scale-6">
+                  <div class="sy_menu_icon_carbon_day left inline"></div>
+               </div>
+               <span class="sy_menu_text">Sự kiện</span>
+            </div>
+            <div class="gn_set_unclick_btn sp-btn">
+               <div class="sp-icon scale-6">
+                  <div class=" rotate--90" style="transform-origin: 700% 140%;">
+                     <div class="sy_menu_icon_friend left inline" style="padding-bottom: 62px"></div>
+                  </div>
+               </div>
+               <span class="sy_menu_text">Bạn bè</span>
+            </div>
+            <div class="gn_set_unclick_btn sp-btn">
+               <div class="sp-icon scale-6">
+                  <div class="sy_menu_icon_pet left inline"></div>
+               </div>
+               <span class="sy_menu_text">Thú cưng</span>
+            </div>
+            <div class="gn_set_unclick_btn sp-btn">
+               <div class="sp-icon scale-6">
+                  <div class="sy_menu_icon_mail left inline"></div>
+               </div>
+               <span class="sy_menu_text">Thư</span>
+            </div>
+            <div class="gn_set_unclick_btn sp-btn">
+               <div class="sp-icon">
+                  <div class="sy_main_assistant left inline" style="padding-bottom: 45px;"></div>
+               </div>
+               <span class="sy_menu_text">Trợ giúp</span>
+            </div>
+            <div class="gn_set_unclick_btn sp-btn">
+               <div class="sp-icon scale-6">
+                  <div class="rotate--90" style="transform-origin: 700% 140%;">
+                     <div class="sy_menu_icon_set left inline " style="padding-bottom: 68px"></div>
+                  </div>
+               </div>
+               <span class="sy_menu_text">Cài đặt</span>
+            </div>
+         </div>
+         <div id="main" class="p-3 flex">
+            <div class="sp-container">
+               <div class="building-hills">
+                  <div class="feature-box " id="hills" refs="hills">
+                     <div class="m-1 w-100">
+                        <div class="w-100" style="margin: auto;">
+                           <div class="">
+                              <div class="sy_cast_building_brave feature-image"></div>
+                           </div>
+                        </div>
+                        <div class="w-100">
+                           <div class="">
+                              <div class="scale-6">
+                                 <div class="gn_steps_brave feature-text">
+                                    <div style="left: 35%;">Đồi</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="building-gate">
+                  <div class="feature-box " id="gate" refs="gate">
+                     <div class="m-1 w-100">
+                        <div class="w-100" style="margin: auto;">
+                           <div class="">
+                              <div class="sy_cast_building_hero_trial feature-image"></div>
+                           </div>
+                        </div>
+                        <div class="w-100">
+                           <div class="">
+                              <div class="scale-6">
+                                 <div class="gn_steps_brave feature-text">
+                                    <div style="left: 35%;">Câu hỏi</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="building-bliss">
+                  <div class="feature-box " id="bliss" refs="bliss">
+                     <div class="m-1 w-100">
+                        <div class="w-100" style="margin: auto;">
+                           <div class="">
+                              <div class="sy_cast_building_tree feature-image"></div>
+                           </div>
+                        </div>
+                        <div class="w-100">
+                           <div class="">
+                              <div class="scale-6">
+                                 <div class="gn_steps_brave feature-text">
+                                    <div style="left: 35%;">Cây ban phước</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="building-island feature-box"></div>
+               <div class="building-tower ">
+                  <div class="feature-box " id="tower" refs="tower">
+                     <div class="m-1 w-100">
+                        <div class="w-100" style="margin: auto;">
+                           <div class="">
+                              <div class="sy_cast_building_tower feature-image"></div>
+                           </div>
+                        </div>
+                        <div class="w-100">
+                           <div class="">
+                              <div class="scale-6">
+                                 <div class="gn_steps_brave feature-text">
+                                    <div style="left: 35%;">Tháp</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="building-integration">
+                  <div class="feature-box " id="integration" refs="integration">
+                     <div class="m-1 w-100">
+                        <div class="w-100" style="margin: auto;">
+                           <div class="">
+                              <div class="sy_cast_building_hero_upgrade feature-image"></div>
+                           </div>
+                        </div>
+                        <div class="w-100">
+                           <div class="">
+                              <div class="scale-6">
+                                 <div class="gn_steps_brave feature-text">
+                                    <div style="left: 35%;">Nâng cấp</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="building-summon">
+                  <div class="feature-box " id="summon" refs="summon">
+                     <div class="m-1 w-100">
+                        <div class="w-100" style="margin: auto;">
+                           <div class="sy_cast_building_get_hero">
+                              <div class="undefined feature-image"></div>
+                           </div>
+                        </div>
+                        <div class="w-100">
+                           <div class="">
+                              <div class="scale-6">
+                                 <div class="gn_steps_brave feature-text">
+                                    <div style="left: 35%;">Triệu hồi</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="building-post">
+                  <div class="feature-box " id="post" refs="post">
+                     <div class="m-1 w-100">
+                        <div class="w-100" style="margin: auto;">
+                           <div class="">
+                              <div class="sy_cast_building_tavern feature-image"></div>
+                           </div>
+                        </div>
+                        <div class="w-100">
+                           <div class="">
+                              <div class="scale-6">
+                                 <div class="gn_steps_brave feature-text">
+                                    <div style="left: 35%;">Bưu cục</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="building-smithy">
+                  <div class="feature-box " id="smithy" refs="smithy">
+                     <div class="m-1 w-100">
+                        <div class="w-100" style="margin: auto;">
+                           <div class="">
+                              <div class="sy_cast_building_smithy feature-image"></div>
+                           </div>
+                        </div>
+                        <div class="w-100">
+                           <div class="">
+                              <div class="scale-6">
+                                 <div class="gn_steps_brave feature-text">
+                                    <div style="left: 35%;">Lò rèn</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="building-wishing">
+                  <div class="feature-box " id="wishing" refs="wishing">
+                     <div class="m-1 w-100">
+                        <div class="w-100" style="margin: auto;">
+                           <div class="">
+                              <div class="sy_cast_building_rotary feature-image"></div>
+                           </div>
+                        </div>
+                        <div class="w-100">
+                           <div class="">
+                              <div class="scale-6">
+                                 <div class="gn_steps_brave feature-text">
+                                    <div style="left: 35%;">Giếng ước</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="building-altar">
+                  <div class="feature-box " id="altar" refs="altar">
+                     <div class="m-1 w-100">
+                        <div class="w-100" style="margin: auto;">
+                           <div class="">
+                              <div class="sy_cast_building_altar feature-image"></div>
+                           </div>
+                        </div>
+                        <div class="w-100">
+                           <div class="">
+                              <div class="scale-6">
+                                 <div class="gn_steps_brave feature-text">
+                                    <div style="left: 35%;">Tế đàn</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="building-arena">
+                  <div class="feature-box " id="arena" refs="arena">
+                     <div class="m-1 w-100">
+                        <div class="w-100" style="margin: auto;">
+                           <div class="">
+                              <div class="sy_cast_building_pvp feature-image"></div>
+                           </div>
+                        </div>
+                        <div class="w-100">
+                           <div class="">
+                              <div class="scale-6">
+                                 <div class="gn_steps_brave feature-text">
+                                    <div style="left: 35%;">Đấu trường</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="building-mart">
+                  <div class="feature-box " id="mart" refs="mart">
+                     <div class="m-1 w-100">
+                        <div class="w-100" style="margin: auto;">
+                           <div class="">
+                              <div class="sy_cast_building_shop feature-image"></div>
+                           </div>
+                        </div>
+                        <div class="w-100">
+                           <div class="">
+                              <div class="scale-6">
+                                 <div class="gn_steps_brave feature-text">
+                                    <div style="left: 35%;">Siêu thị Mặt trời</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <%- //include('general/feature.html') %>
+         </div>
+      </div>
+      <div id="chat" class="pull-right"></div>
+   </div>
+   <script>
+      $('.show-sidebar').click(function () {
+         if ($(this).hasClass('hide')) {
+            $('.show-sidebar').removeClass('hide');
+            $('#sidebar').addClass('show');
+         } else {
+            $('.show-sidebar').addClass('hide');
+            $('#sidebar').removeClass('show');
+         }
+      });
+
+      // $('.sp-container .feature-box').each(function (index, e) {
+      //    let _box = $(this);
+      //    let time = parseInt(Math.random() * 2000);
+      //    setTimeout(function () {
+      //       _box.addClass('aniTop');
+      //    }, time);
+      // })
+   </script>
+</body>
+
+</html>

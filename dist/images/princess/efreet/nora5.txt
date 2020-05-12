@@ -1,0 +1,90 @@
+
+nora5.png
+size: 428,428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 168, 78
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+hh
+  rotate: false
+  xy: 233, 288
+  size: 181, 140
+  orig: 181, 140
+  offset: 0, 0
+  index: -1
+naodd
+  rotate: false
+  xy: 0, 224
+  size: 231, 204
+  orig: 231, 204
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 342, 0
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 314, 167
+  size: 89, 119
+  orig: 89, 119
+  offset: 0, 0
+  index: -1
+xhh
+  rotate: false
+  xy: 0, 9
+  size: 166, 213
+  orig: 166, 213
+  offset: 0, 0
+  index: -1
+ys
+  rotate: false
+  xy: 262, 1
+  size: 78, 75
+  orig: 78, 75
+  offset: 0, 0
+  index: -1
+ysb
+  rotate: true
+  xy: 381, 50
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+ysw
+  rotate: false
+  xy: 233, 229
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+zs
+  rotate: true
+  xy: 314, 92
+  size: 73, 90
+  orig: 73, 90
+  offset: 0, 0
+  index: -1
+zsb
+  rotate: true
+  xy: 381, 9
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+zsw
+  rotate: true
+  xy: 168, 9
+  size: 67, 92
+  orig: 67, 92
+  offset: 0, 0
+  index: -1

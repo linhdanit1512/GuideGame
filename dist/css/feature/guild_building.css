@@ -1,0 +1,150 @@
+
+.sy_guild_cloud_1 {
+   width: 230px;
+   height: 287px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/guild_building.png') 953px 753px;
+}
+
+.sy_guild_cloud_1.left {
+   padding-left: 230px;
+   padding-bottom: 287px;
+}
+
+.sy_guild_cloud_2 {
+   width: 593px;
+   height: 225px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/guild_building.png') 953px 1510px;
+}
+
+.sy_guild_cloud_2.left {
+   padding-left: 593px;
+   padding-bottom: 225px;
+}
+
+.sy_guild_cloud_3 {
+   width: 442px;
+   height: 162px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/guild_building.png') 953px 443px;
+   transform: rotate(90deg);
+}
+
+.sy_guild_cloud_3.left {
+   padding-left: 442px;
+   padding-bottom: 162px;
+}
+
+.sy_guild_cloud_4 {
+   width: 323px;
+   height: 351px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/guild_building.png') 357px 1510px;
+   transform: rotate(90deg);
+}
+
+.sy_guild_cloud_4.left {
+   padding-left: 323px;
+   padding-bottom: 351px;
+}
+
+.sy_guild_cloud_5 {
+   width: 526px;
+   height: 556px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/guild_building.png') 944px 1274px;
+   transform: rotate(90deg);
+}
+
+.sy_guild_cloud_5.left {
+   padding-left: 526px;
+   padding-bottom: 556px;
+}
+
+.sy_guild_main_castle {
+   width: 471px;
+   height: 383px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/guild_building.png') 394px 917px;
+   transform: rotate(90deg);
+}
+
+.sy_guild_main_castle.left {
+   padding-left: 471px;
+   padding-bottom: 383px;
+}
+
+.sy_guild_market {
+   width: 272px;
+   height: 224px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/guild_building.png') 720px 753px;
+   transform: rotate(90deg);
+}
+
+.sy_guild_market.left {
+   padding-left: 272px;
+   padding-bottom: 224px;
+}
+
+.sy_guild_mill {
+   width: 393px;
+   height: 264px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/guild_building.png') 394px 1184px;
+}
+
+.sy_guild_mill.left {
+   padding-left: 393px;
+   padding-bottom: 264px;
+}
+
+.sy_guild_mill2 {
+   width: 310px;
+   height: 239px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/guild_building.png') 385px 243px;
+}
+
+.sy_guild_mill2.left {
+   padding-left: 310px;
+   padding-bottom: 239px;
+}
+
+.sy_guild_star_little {
+   width: 16px;
+   height: 16px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/guild_building.png') 394px 1282px;
+}
+
+.sy_guild_star_little.left {
+   padding-left: 16px;
+   padding-bottom: 16px;
+}
+
+.sy_guild_tech_bg {
+   width: 429px;
+   height: 400px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/guild_building.png') 788px 443px;
+   transform: rotate(90deg);
+}
+
+.sy_guild_tech_bg.left {
+   padding-left: 429px;
+   padding-bottom: 400px;
+}
+
+.sy_guild_technology {
+   width: 367px;
+   height: 197px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/guild_building.png') 385px 443px;
+}
+
+.sy_guild_technology.left {
+   padding-left: 367px;
+   padding-bottom: 197px;
+}

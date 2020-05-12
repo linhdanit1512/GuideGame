@@ -1,0 +1,146 @@
+
+sp_cr_e_amy_5.png
+size: 350,350
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+34343434
+  rotate: true
+  xy: 291, 61
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+ArmL
+  rotate: false
+  xy: 185, 6
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: false
+  xy: 284, 25
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: false
+  xy: 255, 19
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: true
+  xy: 152, 0
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 211, 179
+  size: 58, 93
+  orig: 58, 93
+  offset: 0, 0
+  index: -1
+Body1
+  rotate: false
+  xy: 103, 20
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+Body12
+  rotate: false
+  xy: 156, 89
+  size: 66, 77
+  orig: 66, 77
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 336, 293
+  size: 57, 11
+  orig: 57, 11
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: true
+  xy: 326, 120
+  size: 57, 20
+  orig: 57, 20
+  offset: 0, 0
+  index: -1
+HairFR
+  rotate: false
+  xy: 0, 168
+  size: 209, 182
+  orig: 209, 182
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: true
+  xy: 306, 179
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 211, 239
+  size: 123, 111
+  orig: 123, 111
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 289, 118
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 255, 55
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: false
+  xy: 224, 115
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: true
+  xy: 156, 34
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 103, 52
+  size: 51, 114
+  orig: 51, 114
+  offset: 0, 0
+  index: -1
+hairbr
+  rotate: false
+  xy: 0, 11
+  size: 101, 155
+  orig: 101, 155
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 226, 14
+  size: 99, 27
+  orig: 99, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+dame roc5.png
+size: 312,312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: false
+  xy: 228, 7
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: false
+  xy: 0, 103
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: true
+  xy: 0, 140
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: false
+  xy: 270, 2
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 261, 152
+  size: 49, 67
+  orig: 49, 67
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 293, 87
+  size: 63, 19
+  orig: 63, 19
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: false
+  xy: 0, 22
+  size: 70, 27
+  orig: 70, 27
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 0, 69
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: true
+  xy: 42, 93
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 176
+  size: 157, 136
+  orig: 157, 136
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 134, 120
+  size: 23, 54
+  orig: 23, 54
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 228, 66
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+MouthOpen
+  rotate: false
+  xy: 293, 48
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+SkirtL
+  rotate: false
+  xy: 159, 221
+  size: 144, 91
+  orig: 144, 91
+  offset: 0, 0
+  index: -1
+SkirtR
+  rotate: true
+  xy: 72, 64
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+WeaponR
+  rotate: false
+  xy: 134, 13
+  size: 92, 104
+  orig: 92, 104
+  offset: 0, 0
+  index: -1
+baoza
+  rotate: false
+  xy: 159, 119
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: true
+  xy: 72, 4
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 261, 51
+  size: 99, 30
+  orig: 99, 30
+  offset: 0, 0
+  index: -1
+shuidi
+  rotate: false
+  xy: 293, 58
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1

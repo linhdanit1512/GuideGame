@@ -1,0 +1,34 @@
+
+sp_bt_bladelight2_spear.png
+size: 831,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mao_00008
+  rotate: false
+  xy: 2, 2
+  size: 257, 249
+  orig: 300, 300
+  offset: 37, 29
+  index: -1
+mao_00009
+  rotate: false
+  xy: 261, 8
+  size: 229, 243
+  orig: 300, 300
+  offset: 39, 28
+  index: -1
+mao_00010
+  rotate: false
+  xy: 492, 9
+  size: 181, 242
+  orig: 300, 300
+  offset: 42, 29
+  index: -1
+mao_00011
+  rotate: false
+  xy: 675, 12
+  size: 154, 239
+  orig: 300, 300
+  offset: 42, 28
+  index: -1

@@ -1,0 +1,76 @@
+
+sp_cr_e_forest_healer_4.png
+size: 371,371
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 0, 0
+  size: 87, 165
+  orig: 87, 165
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 89, 21
+  size: 144, 96
+  orig: 144, 96
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 311, 131
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 218, 0
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 181, 178
+  size: 193, 178
+  orig: 193, 178
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 311, 82
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 218, 88
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 0, 167
+  size: 179, 204
+  orig: 179, 204
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 292, 25
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 187, 44
+  size: 132, 29
+  orig: 132, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+chem.png
+size: 349,349
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang
+  rotate: false
+  xy: 2, 144
+  size: 179, 203
+  orig: 179, 204
+  offset: 0, 1
+  index: -1
+huo
+  rotate: false
+  xy: 157, 64
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 226, 24
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 128, 12
+  size: 130, 27
+  orig: 132, 29
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 183, 133
+  size: 146, 214
+  orig: 146, 214
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 218, 69
+  size: 55, 17
+  orig: 55, 17
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 157, 16
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 295, 70
+  size: 61, 52
+  orig: 61, 52
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 275, 37
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+youshou3
+  rotate: false
+  xy: 2, 18
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 218, 88
+  size: 43, 75
+  orig: 43, 75
+  offset: 0, 0
+  index: -1

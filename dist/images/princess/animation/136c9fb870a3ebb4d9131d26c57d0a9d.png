@@ -1,0 +1,27 @@
+
+sp_bt_bladelight2_fist.png
+size: 497,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan_00009
+  rotate: false
+  xy: 2, 2
+  size: 193, 228
+  orig: 300, 300
+  offset: 62, 34
+  index: -1
+quan_00010
+  rotate: false
+  xy: 197, 12
+  size: 163, 218
+  orig: 300, 300
+  offset: 87, 38
+  index: -1
+quan_00011
+  rotate: false
+  xy: 362, 19
+  size: 133, 211
+  orig: 300, 300
+  offset: 96, 41
+  index: -1

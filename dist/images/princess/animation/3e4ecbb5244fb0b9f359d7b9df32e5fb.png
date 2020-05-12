@@ -1,0 +1,34 @@
+
+sp_bf_last_up_gene.png
+size: 118,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk_psty_armor_up
+  rotate: false
+  xy: 56, 66
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+sp_knightshock
+  rotate: false
+  xy: 2, 47
+  size: 52, 69
+  orig: 54, 69
+  offset: 1, 0
+  index: -1
+sp_unit_slash_heloo
+  rotate: false
+  xy: 2, 27
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+spdfs
+  rotate: false
+  xy: 2, 2
+  size: 28, 23
+  orig: 28, 27
+  offset: 0, 1
+  index: -1

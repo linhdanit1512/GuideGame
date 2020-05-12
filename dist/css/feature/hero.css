@@ -1,0 +1,3803 @@
+
+.cr_batt_blood_back {
+   width: 75px;
+   height: 10px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1837px 877px;
+}
+
+.cr_batt_blood_back.left {
+   padding-left: 75px;
+   padding-bottom: 10px;
+}
+
+.cr_blood {
+   width: 70px;
+   height: 6px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 32px 1366px;
+   transform: rotate(90deg);
+}
+
+.cr_blood.left {
+   padding-left: 70px;
+   padding-bottom: 6px;
+}
+
+.cr_blood_green {
+   width: 70px;
+   height: 6px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1837px 864px;
+}
+
+.cr_blood_green.left {
+   padding-left: 70px;
+   padding-bottom: 6px;
+}
+
+.cr_d_aura_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1945px 845px;
+}
+
+.cr_d_aura_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_d_aura_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1945px 742px;
+}
+
+.cr_d_aura_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_d_belial_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1945px 639px;
+}
+
+.cr_d_belial_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_d_belial_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1945px 536px;
+}
+
+.cr_d_belial_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_d_dark_judge_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1945px 433px;
+}
+
+.cr_d_dark_judge_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_d_dark_judge_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1945px 330px;
+}
+
+.cr_d_dark_judge_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_d_dark_judge_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1945px 227px;
+}
+
+.cr_d_dark_judge_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_d_dark_mage_3 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1945px 124px;
+}
+
+.cr_d_dark_mage_3.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_d_das_moge_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1361px 1469px;
+}
+
+.cr_d_das_moge_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_d_das_moge_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1258px 1469px;
+}
+
+.cr_d_das_moge_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_d_forett_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1155px 1469px;
+}
+
+.cr_d_forett_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_d_forett_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1052px 1469px;
+}
+
+.cr_d_forett_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_d_sleepless_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 949px 1469px;
+}
+
+.cr_d_sleepless_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_d_sleepless_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 846px 1469px;
+}
+
+.cr_d_sleepless_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_digit_0 {
+   width: 17px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1759px 877px;
+}
+
+.cr_digit_0.left {
+   padding-left: 17px;
+   padding-bottom: 19px;
+}
+
+.cr_digit_1 {
+   width: 11px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1379px 1393px;
+}
+
+.cr_digit_1.left {
+   padding-left: 11px;
+   padding-bottom: 19px;
+}
+
+.cr_digit_2 {
+   width: 17px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 86px 877px;
+}
+
+.cr_digit_2.left {
+   padding-left: 17px;
+   padding-bottom: 19px;
+}
+
+.cr_digit_3 {
+   width: 16px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 63px 945px;
+}
+
+.cr_digit_3.left {
+   padding-left: 16px;
+   padding-bottom: 19px;
+}
+
+.cr_digit_4 {
+   width: 16px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 63px 923px;
+}
+
+.cr_digit_4.left {
+   padding-left: 16px;
+   padding-bottom: 19px;
+}
+
+.cr_digit_5 {
+   width: 16px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 63px 901px;
+}
+
+.cr_digit_5.left {
+   padding-left: 16px;
+   padding-bottom: 19px;
+}
+
+.cr_digit_6 {
+   width: 17px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 53px 1011px;
+}
+
+.cr_digit_6.left {
+   padding-left: 17px;
+   padding-bottom: 19px;
+}
+
+.cr_digit_7 {
+   width: 16px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 23px 1357px;
+}
+
+.cr_digit_7.left {
+   padding-left: 16px;
+   padding-bottom: 19px;
+}
+
+.cr_digit_8 {
+   width: 17px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 53px 989px;
+}
+
+.cr_digit_8.left {
+   padding-left: 17px;
+   padding-bottom: 19px;
+}
+
+.cr_digit_9 {
+   width: 17px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 60px 967px;
+}
+
+.cr_digit_9.left {
+   padding-left: 17px;
+   padding-bottom: 19px;
+}
+
+.cr_digit_a {
+   width: 18px;
+   height: 24px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1400px 1393px;
+}
+
+.cr_digit_a.left {
+   padding-left: 18px;
+   padding-bottom: 24px;
+}
+
+.cr_digit_b {
+   width: 18px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 53px 1033px;
+}
+
+.cr_digit_b.left {
+   padding-left: 18px;
+   padding-bottom: 19px;
+}
+
+.cr_digit_e {
+   width: 41px;
+   height: 21px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 22px 1469px;
+   transform: rotate(90deg);
+}
+
+.cr_digit_e.left {
+   padding-left: 41px;
+   padding-bottom: 21px;
+}
+
+.cr_digit_k {
+   width: 20px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 86px 899px;
+}
+
+.cr_digit_k.left {
+   padding-left: 20px;
+   padding-bottom: 19px;
+}
+
+.cr_digit_m {
+   width: 23px;
+   height: 19px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 86px 967px;
+}
+
+.cr_digit_m.left {
+   padding-left: 23px;
+   padding-bottom: 19px;
+}
+
+.cr_digit_q {
+   width: 18px;
+   height: 11px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 953px 14px;
+}
+
+.cr_digit_q.left {
+   padding-left: 18px;
+   padding-bottom: 11px;
+}
+
+.cr_digit_r {
+   width: 41px;
+   height: 21px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 22px 1425px;
+   transform: rotate(90deg);
+}
+
+.cr_digit_r.left {
+   padding-left: 41px;
+   padding-bottom: 21px;
+}
+
+.cr_digit_w {
+   width: 21px;
+   height: 21px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 22px 1381px;
+}
+
+.cr_digit_w.left {
+   padding-left: 21px;
+   padding-bottom: 21px;
+}
+
+.cr_e_amy_4 {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1398px 1366px;
+   transform: rotate(90deg);
+}
+
+.cr_e_amy_4.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.cr_e_amy_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 743px 1469px;
+}
+
+.cr_e_amy_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_bomb_1 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 640px 1469px;
+}
+
+.cr_e_bomb_1.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_boxing_frog_3 {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1296px 1366px;
+   transform: rotate(90deg);
+}
+
+.cr_e_boxing_frog_3.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.cr_e_centaur_5 {
+   width: 98px;
+   height: 92px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 94px 443px;
+   transform: rotate(90deg);
+}
+
+.cr_e_centaur_5.left {
+   padding-left: 98px;
+   padding-bottom: 92px;
+}
+
+.cr_e_centaur_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 537px 1469px;
+}
+
+.cr_e_centaur_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_dragon_baby_2 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 434px 1469px;
+}
+
+.cr_e_dragon_baby_2.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_dragon_shaman_3 {
+   width: 98px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1526px 1182px;
+   transform: rotate(90deg);
+}
+
+.cr_e_dragon_shaman_3.left {
+   padding-left: 98px;
+   padding-bottom: 100px;
+}
+
+.cr_e_earthbound_1 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 331px 1469px;
+}
+
+.cr_e_earthbound_1.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_eddga_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 228px 1469px;
+}
+
+.cr_e_eddga_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_eddga_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 125px 1469px;
+}
+
+.cr_e_eddga_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_elf_cat_3 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1091px 1366px;
+}
+
+.cr_e_elf_cat_3.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_elf_dog_2 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 988px 1366px;
+}
+
+.cr_e_elf_dog_2.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_elf_ranger_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 885px 1366px;
+}
+
+.cr_e_elf_ranger_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_elf_ranger_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 782px 1366px;
+}
+
+.cr_e_elf_ranger_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_ent_baby_2 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 679px 1366px;
+}
+
+.cr_e_ent_baby_2.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_faceless_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 576px 1366px;
+}
+
+.cr_e_faceless_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_faceless_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 473px 1366px;
+}
+
+.cr_e_faceless_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_forest_healer_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 370px 1366px;
+}
+
+.cr_e_forest_healer_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_forest_healer_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 267px 1366px;
+}
+
+.cr_e_forest_healer_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_forest_healer_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 164px 1366px;
+}
+
+.cr_e_forest_healer_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_grand_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1842px 845px;
+}
+
+.cr_e_grand_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_grand_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1842px 742px;
+}
+
+.cr_e_grand_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_greed_2 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1842px 639px;
+}
+
+.cr_e_greed_2.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_kun_chin_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1842px 536px;
+}
+
+.cr_e_kun_chin_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_kun_chin_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1842px 433px;
+}
+
+.cr_e_kun_chin_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_luna_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1842px 330px;
+}
+
+.cr_e_luna_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_luna_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1842px 227px;
+}
+
+.cr_e_luna_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_megaw_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1842px 124px;
+}
+
+.cr_e_megaw_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_megaw_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1832px 1285px;
+}
+
+.cr_e_megaw_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_megaw_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1729px 1285px;
+}
+
+.cr_e_megaw_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_mushroom_soldier_1 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1626px 1285px;
+}
+
+.cr_e_mushroom_soldier_1.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_orphee_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1523px 1285px;
+}
+
+.cr_e_orphee_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_orphee_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1420px 1267px;
+}
+
+.cr_e_orphee_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_popoya_3 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1317px 1267px;
+}
+
+.cr_e_popoya_3.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_robin_3 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1214px 1265px;
+}
+
+.cr_e_robin_3.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_rosa_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1111px 1263px;
+}
+
+.cr_e_rosa_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_rosa_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1008px 1263px;
+}
+
+.cr_e_rosa_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_shaly_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 905px 1263px;
+}
+
+.cr_e_shaly_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_shaly_5 {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1836px 1182px;
+   transform: rotate(90deg);
+}
+
+.cr_e_shaly_5.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.cr_e_tiger_5 {
+   width: 88px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1428px 1164px;
+   transform: rotate(90deg);
+}
+
+.cr_e_tiger_5.left {
+   padding-left: 88px;
+   padding-bottom: 100px;
+}
+
+.cr_e_tiger_6 {
+   width: 94px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1428px 970px;
+   transform: rotate(90deg);
+}
+
+.cr_e_tiger_6.left {
+   padding-left: 94px;
+   padding-bottom: 100px;
+}
+
+.cr_e_treant_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 802px 1263px;
+}
+
+.cr_e_treant_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_treant_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 699px 1263px;
+}
+
+.cr_e_treant_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_e_werewolf_4 {
+   width: 94px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1322px 1164px;
+   transform: rotate(90deg);
+}
+
+.cr_e_werewolf_4.left {
+   padding-left: 94px;
+   padding-bottom: 100px;
+}
+
+.cr_e_werewolf_5 {
+   width: 98px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 911px 954px;
+   transform: rotate(90deg);
+}
+
+.cr_e_werewolf_5.left {
+   padding-left: 98px;
+   padding-bottom: 100px;
+}
+
+.cr_e_werewolf_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 596px 1263px;
+}
+
+.cr_e_werewolf_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_fact_1 {
+   width: 50px;
+   height: 50px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1739px 51px;
+}
+
+.cr_fact_1.left {
+   padding-left: 50px;
+   padding-bottom: 50px;
+}
+
+.cr_fact_2 {
+   width: 50px;
+   height: 50px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1686px 51px;
+}
+
+.cr_fact_2.left {
+   padding-left: 50px;
+   padding-bottom: 50px;
+}
+
+.cr_fact_3 {
+   width: 50px;
+   height: 50px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1633px 51px;
+}
+
+.cr_fact_3.left {
+   padding-left: 50px;
+   padding-bottom: 50px;
+}
+
+.cr_fact_4 {
+   width: 50px;
+   height: 50px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1580px 51px;
+}
+
+.cr_fact_4.left {
+   padding-left: 50px;
+   padding-bottom: 50px;
+}
+
+.cr_fact_5 {
+   width: 50px;
+   height: 50px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1527px 51px;
+}
+
+.cr_fact_5.left {
+   padding-left: 50px;
+   padding-bottom: 50px;
+}
+
+.cr_fact_6 {
+   width: 50px;
+   height: 50px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1474px 51px;
+}
+
+.cr_fact_6.left {
+   padding-left: 50px;
+   padding-bottom: 50px;
+}
+
+.cr_fact_bg {
+   width: 581px;
+   height: 73px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1945px 1469px;
+}
+
+.cr_fact_bg.left {
+   padding-left: 581px;
+   padding-bottom: 73px;
+}
+
+.cr_fact_pet {
+   width: 64px;
+   height: 64px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 65px 134px;
+}
+
+.cr_fact_pet.left {
+   padding-left: 64px;
+   padding-bottom: 64px;
+}
+
+.cr_frame_1 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1832px 1393px;
+}
+
+.cr_frame_1.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.cr_frame_2 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1945px 1169px;
+}
+
+.cr_frame_2.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.cr_frame_3 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1724px 1393px;
+}
+
+.cr_frame_3.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.cr_frame_4 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1945px 1061px;
+}
+
+.cr_frame_4.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.cr_frame_5 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1616px 1393px;
+}
+
+.cr_frame_5.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.cr_frame_6 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1945px 953px;
+}
+
+.cr_frame_6.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.cr_frame_7 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1508px 1393px;
+}
+
+.cr_frame_7.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.cr_h_aqua_5 {
+   width: 98px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1431px 152px;
+   transform: rotate(90deg);
+}
+
+.cr_h_aqua_5.left {
+   padding-left: 98px;
+   padding-bottom: 100px;
+}
+
+.cr_h_aqua_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 493px 1263px;
+}
+
+.cr_h_aqua_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_blue_hat_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 390px 1263px;
+}
+
+.cr_h_blue_hat_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_blue_hat_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 287px 1263px;
+}
+
+.cr_h_blue_hat_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_captain_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 184px 1263px;
+}
+
+.cr_h_captain_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_captain_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1837px 1083px;
+}
+
+.cr_h_captain_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_dungeon_guard_2 {
+   width: 98px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 916px 338px;
+   transform: rotate(90deg);
+}
+
+.cr_h_dungeon_guard_2.left {
+   padding-left: 98px;
+   padding-bottom: 100px;
+}
+
+.cr_h_flame_strike_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1837px 980px;
+}
+
+.cr_h_flame_strike_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_flame_strike_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1734px 1081px;
+}
+
+.cr_h_flame_strike_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_frost_knight_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1631px 1081px;
+}
+
+.cr_h_frost_knight_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_frost_knight_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1528px 1081px;
+}
+
+.cr_h_frost_knight_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_frost_knight_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1734px 978px;
+}
+
+.cr_h_frost_knight_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_harun_3 {
+   width: 92px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1220px 1162px;
+   transform: rotate(90deg);
+}
+
+.cr_h_harun_3.left {
+   padding-left: 92px;
+   padding-bottom: 100px;
+}
+
+.cr_h_hikari_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1631px 978px;
+}
+
+.cr_h_hikari_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_hikari_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1528px 978px;
+}
+
+.cr_h_hikari_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_honest_chicken_1 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1425px 1073px;
+}
+
+.cr_h_honest_chicken_1.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_ice_blink_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1322px 1067px;
+}
+
+.cr_h_ice_blink_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_ice_blink_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1219px 1067px;
+}
+
+.cr_h_ice_blink_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_katana_samurai_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1322px 964px;
+}
+
+.cr_h_katana_samurai_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_katana_samurai_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1219px 964px;
+}
+
+.cr_h_katana_samurai_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_landlady_3 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1113px 1160px;
+}
+
+.cr_h_landlady_3.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_lion_heart_5 {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1114px 954px;
+   transform: rotate(90deg);
+}
+
+.cr_h_lion_heart_5.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.cr_h_lion_heart_6 {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1011px 954px;
+   transform: rotate(90deg);
+}
+
+.cr_h_lion_heart_6.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.cr_h_locke_2 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1010px 1160px;
+}
+
+.cr_h_locke_2.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_mulan_5 {
+   width: 100px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1194px 1367px;
+}
+
+.cr_h_mulan_5.left {
+   padding-left: 100px;
+   padding-bottom: 98px;
+}
+
+.cr_h_mulan_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 907px 1160px;
+}
+
+.cr_h_mulan_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_nyarlathotep_2 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 804px 1160px;
+}
+
+.cr_h_nyarlathotep_2.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_old_miner_1 {
+   width: 100px;
+   height: 90px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1224px 136px;
+}
+
+.cr_h_old_miner_1.left {
+   padding-left: 100px;
+   padding-bottom: 90px;
+}
+
+.cr_h_onion_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 701px 1160px;
+}
+
+.cr_h_onion_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_onion_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 598px 1160px;
+}
+
+.cr_h_onion_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_ovelia_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 495px 1160px;
+}
+
+.cr_h_ovelia_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_ovelia_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 392px 1160px;
+}
+
+.cr_h_ovelia_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_ovelia_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 289px 1160px;
+}
+
+.cr_h_ovelia_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_paladin_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 186px 1160px;
+}
+
+.cr_h_paladin_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_paladin_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1116px 1057px;
+}
+
+.cr_h_paladin_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_rock_jack_3 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1013px 1057px;
+}
+
+.cr_h_rock_jack_3.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_rocket_3 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 910px 1057px;
+}
+
+.cr_h_rocket_3.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_saw_machine_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 807px 1057px;
+}
+
+.cr_h_saw_machine_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_saw_machine_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 704px 1057px;
+}
+
+.cr_h_saw_machine_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_single_wheel_2 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 601px 1057px;
+}
+
+.cr_h_single_wheel_2.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_storm_hudde_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 498px 1057px;
+}
+
+.cr_h_storm_hudde_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_storm_hudde_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 395px 1057px;
+}
+
+.cr_h_storm_hudde_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_sword_boy_3 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 292px 1057px;
+}
+
+.cr_h_sword_boy_3.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_tesla_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 189px 1057px;
+}
+
+.cr_h_tesla_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_tesla_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 807px 954px;
+}
+
+.cr_h_tesla_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_ultima_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 704px 954px;
+}
+
+.cr_h_ultima_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_ultima_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 601px 954px;
+}
+
+.cr_h_ultima_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_vivienne_5 {
+   width: 88px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1333px 140px;
+   transform: rotate(90deg);
+}
+
+.cr_h_vivienne_5.left {
+   padding-left: 88px;
+   padding-bottom: 100px;
+}
+
+.cr_h_vivienne_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 498px 954px;
+}
+
+.cr_h_vivienne_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_warrior_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 395px 954px;
+}
+
+.cr_h_warrior_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_warrior_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 292px 954px;
+}
+
+.cr_h_warrior_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_warrior_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 189px 954px;
+}
+
+.cr_h_warrior_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_woodcutter_1 {
+   width: 86px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1022px 136px;
+   transform: rotate(90deg);
+}
+
+.cr_h_woodcutter_1.left {
+   padding-left: 86px;
+   padding-bottom: 100px;
+}
+
+.cr_h_xueyuanlu_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1739px 875px;
+}
+
+.cr_h_xueyuanlu_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_h_xueyuanlu_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1636px 875px;
+}
+
+.cr_h_xueyuanlu_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_icon_lock {
+   width: 56px;
+   height: 74px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 81px 1263px;
+}
+
+.cr_icon_lock.left {
+   padding-left: 56px;
+   padding-bottom: 74px;
+}
+
+.cr_icon_prompt {
+   width: 20px;
+   height: 20px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 86px 945px;
+}
+
+.cr_icon_prompt.left {
+   padding-left: 20px;
+   padding-bottom: 20px;
+}
+
+.cr_icon_prompt_red {
+   width: 20px;
+   height: 20px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 86px 922px;
+}
+
+.cr_icon_prompt_red.left {
+   padding-left: 20px;
+   padding-bottom: 20px;
+}
+
+.cr_it_frame_1 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1832px 1393px;
+}
+
+.cr_it_frame_1.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.cr_it_frame_2 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1945px 1169px;
+}
+
+.cr_it_frame_2.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.cr_it_frame_3 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1724px 1393px;
+}
+
+.cr_it_frame_3.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.cr_it_frame_4 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1945px 1061px;
+}
+
+.cr_it_frame_4.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.cr_it_frame_5 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1616px 1393px;
+}
+
+.cr_it_frame_5.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.cr_it_frame_6 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1945px 953px;
+}
+
+.cr_it_frame_6.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.cr_it_frame_7 {
+   width: 105px;
+   height: 105px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1508px 1393px;
+}
+
+.cr_it_frame_7.left {
+   padding-left: 105px;
+   padding-bottom: 105px;
+}
+
+.cr_l_divine_spirit_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1739px 772px;
+}
+
+.cr_l_divine_spirit_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_l_divine_spirit_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1533px 875px;
+}
+
+.cr_l_divine_spirit_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_l_divine_spirit_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1739px 669px;
+}
+
+.cr_l_divine_spirit_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_l_gerke_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1636px 772px;
+}
+
+.cr_l_gerke_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_l_gerke_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1739px 566px;
+}
+
+.cr_l_gerke_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_l_golden_pastor_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1636px 669px;
+}
+
+.cr_l_golden_pastor_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_l_golden_pastor_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1533px 772px;
+}
+
+.cr_l_golden_pastor_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_l_heaven_guard_3 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1739px 463px;
+}
+
+.cr_l_heaven_guard_3.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_l_michelle_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1636px 566px;
+}
+
+.cr_l_michelle_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_l_michelle_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1533px 669px;
+}
+
+.cr_l_michelle_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_l_morgan_4 {
+   width: 98px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 195px 542px;
+}
+
+.cr_l_morgan_4.left {
+   padding-left: 98px;
+   padding-bottom: 100px;
+}
+
+.cr_l_morgan_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1739px 360px;
+}
+
+.cr_l_morgan_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_l_nameless_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1636px 463px;
+}
+
+.cr_l_nameless_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_l_nameless_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1533px 566px;
+}
+
+.cr_l_nameless_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_little_star {
+   width: 61px;
+   height: 61px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 65px 67px;
+}
+
+.cr_little_star.left {
+   padding-left: 61px;
+   padding-bottom: 61px;
+}
+
+.cr_mystery {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1739px 257px;
+}
+
+.cr_mystery.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_mystery_1 {
+   width: 96px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 503px 235px;
+   transform: rotate(90deg);
+}
+
+.cr_mystery_1.left {
+   padding-left: 96px;
+   padding-bottom: 98px;
+}
+
+.cr_mystery_2 {
+   width: 96px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 402px 235px;
+   transform: rotate(90deg);
+}
+
+.cr_mystery_2.left {
+   padding-left: 96px;
+   padding-bottom: 98px;
+}
+
+.cr_mystery_3 {
+   width: 96px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 301px 235px;
+   transform: rotate(90deg);
+}
+
+.cr_mystery_3.left {
+   padding-left: 96px;
+   padding-bottom: 98px;
+}
+
+.cr_mystery_4 {
+   width: 96px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 200px 233px;
+   transform: rotate(90deg);
+}
+
+.cr_mystery_4.left {
+   padding-left: 96px;
+   padding-bottom: 98px;
+}
+
+.cr_mystery_5 {
+   width: 96px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 99px 233px;
+   transform: rotate(90deg);
+}
+
+.cr_mystery_5.left {
+   padding-left: 96px;
+   padding-bottom: 98px;
+}
+
+.cr_mystery_6 {
+   width: 96px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 812px 136px;
+   transform: rotate(90deg);
+}
+
+.cr_mystery_6.left {
+   padding-left: 96px;
+   padding-bottom: 98px;
+}
+
+.cr_num_bar_1 {
+   width: 94px;
+   height: 20px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1945px 21px;
+}
+
+.cr_num_bar_1.left {
+   padding-left: 94px;
+   padding-bottom: 20px;
+}
+
+.cr_num_bar_2 {
+   width: 94px;
+   height: 20px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1848px 21px;
+}
+
+.cr_num_bar_2.left {
+   padding-left: 94px;
+   padding-bottom: 20px;
+}
+
+.cr_num_bar_step {
+   width: 100px;
+   height: 26px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 61px 1366px;
+   transform: rotate(90deg);
+}
+
+.cr_num_bar_step.left {
+   padding-left: 100px;
+   padding-bottom: 26px;
+}
+
+.cr_o_akash_2 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1636px 360px;
+}
+
+.cr_o_akash_2.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_barea_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1533px 463px;
+}
+
+.cr_o_barea_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_barea_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1739px 154px;
+}
+
+.cr_o_barea_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_bat_king_3 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1636px 257px;
+}
+
+.cr_o_bat_king_3.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_big_mouth_3 {
+   width: 98px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 195px 439px;
+}
+
+.cr_o_big_mouth_3.left {
+   padding-left: 98px;
+   padding-bottom: 100px;
+}
+
+.cr_o_eagleeye_shaman_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1533px 360px;
+}
+
+.cr_o_eagleeye_shaman_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_eagleeye_shaman_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1636px 154px;
+}
+
+.cr_o_eagleeye_shaman_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_eagleeye_shaman_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1533px 257px;
+}
+
+.cr_o_eagleeye_shaman_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_gbl_1 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1533px 154px;
+}
+
+.cr_o_gbl_1.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_karen_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1430px 873px;
+}
+
+.cr_o_karen_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_karen_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1430px 770px;
+}
+
+.cr_o_karen_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_karim_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1430px 667px;
+}
+
+.cr_o_karim_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_karim_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1430px 564px;
+}
+
+.cr_o_karim_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_kharich_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1430px 461px;
+}
+
+.cr_o_kharich_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_kharich_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1430px 358px;
+}
+
+.cr_o_kharich_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_kharich_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1430px 255px;
+}
+
+.cr_o_kharich_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_little_bat_1 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1327px 861px;
+}
+
+.cr_o_little_bat_1.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_little_knife_2 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1224px 861px;
+}
+
+.cr_o_little_knife_2.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_little_murloc_1 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1327px 758px;
+}
+
+.cr_o_little_murloc_1.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_lord_balrog_5 {
+   width: 90px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 96px 851px;
+}
+
+.cr_o_lord_balrog_5.left {
+   padding-left: 90px;
+   padding-bottom: 100px;
+}
+
+.cr_o_lord_balrog_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1327px 655px;
+}
+
+.cr_o_lord_balrog_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_medusa_5 {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 814px 336px;
+   transform: rotate(90deg);
+}
+
+.cr_o_medusa_5.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.cr_o_medusa_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1224px 758px;
+}
+
+.cr_o_medusa_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_minotaur_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1327px 552px;
+}
+
+.cr_o_minotaur_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_minotaur_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1224px 655px;
+}
+
+.cr_o_minotaur_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_munter_3 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1327px 449px;
+}
+
+.cr_o_munter_3.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_murloc_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1224px 552px;
+}
+
+.cr_o_murloc_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_murloc_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1327px 346px;
+}
+
+.cr_o_murloc_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_ogre_4 {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 711px 336px;
+   transform: rotate(90deg);
+}
+
+.cr_o_ogre_4.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.cr_o_ogre_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1224px 449px;
+}
+
+.cr_o_ogre_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_orc_warrior_4 {
+   width: 98px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 502px 336px;
+   transform: rotate(90deg);
+}
+
+.cr_o_orc_warrior_4.left {
+   padding-left: 98px;
+   padding-bottom: 100px;
+}
+
+.cr_o_orc_warrior_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1327px 243px;
+}
+
+.cr_o_orc_warrior_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_rednose_2 {
+   width: 98px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 401px 336px;
+   transform: rotate(90deg);
+}
+
+.cr_o_rednose_2.left {
+   padding-left: 98px;
+   padding-bottom: 100px;
+}
+
+.cr_o_rin_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1224px 346px;
+}
+
+.cr_o_rin_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_rin_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1224px 243px;
+}
+
+.cr_o_rin_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_rlyeh_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1121px 855px;
+}
+
+.cr_o_rlyeh_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_rlyeh_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1018px 855px;
+}
+
+.cr_o_rlyeh_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_rlyeh_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1121px 752px;
+}
+
+.cr_o_rlyeh_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_runner_3 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1121px 649px;
+}
+
+.cr_o_runner_3.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_scarlet_5 {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 608px 336px;
+   transform: rotate(90deg);
+}
+
+.cr_o_scarlet_5.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.cr_o_scarlet_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1018px 752px;
+}
+
+.cr_o_scarlet_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_shaman_assasin_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1121px 546px;
+}
+
+.cr_o_shaman_assasin_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_shaman_assasin_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1018px 649px;
+}
+
+.cr_o_shaman_assasin_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_stone_3 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1121px 443px;
+}
+
+.cr_o_stone_3.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_sword_master_5 {
+   width: 98px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 298px 336px;
+   transform: rotate(90deg);
+}
+
+.cr_o_sword_master_5.left {
+   padding-left: 98px;
+   padding-bottom: 100px;
+}
+
+.cr_o_sword_master_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1018px 546px;
+}
+
+.cr_o_sword_master_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_techies_2 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1121px 340px;
+}
+
+.cr_o_techies_2.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_witcher_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1018px 443px;
+}
+
+.cr_o_witcher_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_witcher_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1018px 340px;
+}
+
+.cr_o_witcher_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_o_wolf_rider_5 {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1123px 237px;
+   transform: rotate(90deg);
+}
+
+.cr_o_wolf_rider_5.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.cr_o_wolf_rider_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 915px 853px;
+}
+
+.cr_o_wolf_rider_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_occu_1 {
+   width: 48px;
+   height: 48px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1360px 50px;
+}
+
+.cr_occu_1.left {
+   padding-left: 48px;
+   padding-bottom: 48px;
+}
+
+.cr_occu_2 {
+   width: 48px;
+   height: 48px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1309px 50px;
+}
+
+.cr_occu_2.left {
+   padding-left: 48px;
+   padding-bottom: 48px;
+}
+
+.cr_occu_3 {
+   width: 48px;
+   height: 48px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 81px 1187px;
+}
+
+.cr_occu_3.left {
+   padding-left: 48px;
+   padding-bottom: 48px;
+}
+
+.cr_occu_4 {
+   width: 48px;
+   height: 48px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 83px 1136px;
+}
+
+.cr_occu_4.left {
+   padding-left: 48px;
+   padding-bottom: 48px;
+}
+
+.cr_occu_5 {
+   width: 48px;
+   height: 48px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 83px 1085px;
+}
+
+.cr_occu_5.left {
+   padding-left: 48px;
+   padding-bottom: 48px;
+}
+
+.cr_p_blue {
+   width: 100px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1731px 1183px;
+}
+
+.cr_p_blue.left {
+   padding-left: 100px;
+   padding-bottom: 98px;
+}
+
+.cr_p_green {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 915px 750px;
+}
+
+.cr_p_green.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_p_red {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 915px 647px;
+}
+
+.cr_p_red.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_selected {
+   width: 58px;
+   height: 48px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1421px 51px;
+}
+
+.cr_selected.left {
+   padding-left: 58px;
+   padding-bottom: 48px;
+}
+
+.cr_shade {
+   width: 110px;
+   height: 110px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1945px 1393px;
+}
+
+.cr_shade.left {
+   padding-left: 110px;
+   padding-bottom: 110px;
+}
+
+.cr_shade_traven {
+   width: 108px;
+   height: 108px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1945px 1280px;
+}
+
+.cr_shade_traven.left {
+   padding-left: 108px;
+   padding-bottom: 108px;
+}
+
+.cr_star_1 {
+   width: 46px;
+   height: 48px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1258px 47px;
+   transform: rotate(90deg);
+}
+
+.cr_star_1.left {
+   padding-left: 46px;
+   padding-bottom: 48px;
+}
+
+.cr_star_2 {
+   width: 46px;
+   height: 48px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1207px 47px;
+   transform: rotate(90deg);
+}
+
+.cr_star_2.left {
+   padding-left: 46px;
+   padding-bottom: 48px;
+}
+
+.cr_star_3 {
+   width: 46px;
+   height: 48px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1156px 47px;
+   transform: rotate(90deg);
+}
+
+.cr_star_3.left {
+   padding-left: 46px;
+   padding-bottom: 48px;
+}
+
+.cr_star_4 {
+   width: 46px;
+   height: 48px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1105px 47px;
+   transform: rotate(90deg);
+}
+
+.cr_star_4.left {
+   padding-left: 46px;
+   padding-bottom: 48px;
+}
+
+.cr_star_5 {
+   width: 46px;
+   height: 48px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1054px 47px;
+   transform: rotate(90deg);
+}
+
+.cr_star_5.left {
+   padding-left: 46px;
+   padding-bottom: 48px;
+}
+
+.cr_star_6 {
+   width: 46px;
+   height: 47px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1003px 47px;
+   transform: rotate(90deg);
+}
+
+.cr_star_6.left {
+   padding-left: 46px;
+   padding-bottom: 47px;
+}
+
+.cr_stars_1 {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 953px 47px;
+}
+
+.cr_stars_1.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.cr_stars_2 {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 86px 1033px;
+}
+
+.cr_stars_2.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.cr_stars_3 {
+   width: 30px;
+   height: 30px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 86px 1000px;
+}
+
+.cr_stars_3.left {
+   padding-left: 30px;
+   padding-bottom: 30px;
+}
+
+.cr_step {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 915px 544px;
+}
+
+.cr_step.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_step_1 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 709px 137px;
+}
+
+.cr_step_1.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.cr_step_2 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 617px 137px;
+}
+
+.cr_step_2.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.cr_step_3 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 525px 135px;
+}
+
+.cr_step_3.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.cr_step_4 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 433px 135px;
+}
+
+.cr_step_4.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.cr_step_5 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 341px 135px;
+}
+
+.cr_step_5.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.cr_step_6 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 249px 133px;
+}
+
+.cr_step_6.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.cr_step_7 {
+   width: 89px;
+   height: 89px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 157px 133px;
+}
+
+.cr_step_7.left {
+   padding-left: 89px;
+   padding-bottom: 89px;
+}
+
+.cr_u_anubis_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 915px 441px;
+}
+
+.cr_u_anubis_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_anubis_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 812px 851px;
+}
+
+.cr_u_anubis_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_bird_archer_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 812px 748px;
+}
+
+.cr_u_bird_archer_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_bird_archer_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 709px 851px;
+}
+
+.cr_u_bird_archer_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_blood_blade_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 812px 645px;
+}
+
+.cr_u_blood_blade_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_blood_blade_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 709px 748px;
+}
+
+.cr_u_blood_blade_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_bone_archer_2 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 606px 851px;
+}
+
+.cr_u_bone_archer_2.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_bone_king_5 {
+   width: 90px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 94px 748px;
+}
+
+.cr_u_bone_king_5.left {
+   padding-left: 90px;
+   padding-bottom: 100px;
+}
+
+.cr_u_bone_king_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 812px 542px;
+}
+
+.cr_u_bone_king_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_bone_little_1 {
+   width: 100px;
+   height: 98px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1628px 1181px;
+}
+
+.cr_u_bone_little_1.left {
+   padding-left: 100px;
+   padding-bottom: 98px;
+}
+
+.cr_u_bone_pumpkin_2 {
+   width: 92px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 97px 542px;
+}
+
+.cr_u_bone_pumpkin_2.left {
+   padding-left: 92px;
+   padding-bottom: 100px;
+}
+
+.cr_u_buuny_2 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 709px 645px;
+}
+
+.cr_u_buuny_2.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_chemical_butcher_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 606px 748px;
+}
+
+.cr_u_chemical_butcher_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_chemical_butcher_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 503px 851px;
+}
+
+.cr_u_chemical_butcher_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_curse_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 812px 439px;
+}
+
+.cr_u_curse_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_curse_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 709px 542px;
+}
+
+.cr_u_curse_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_death_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 606px 645px;
+}
+
+.cr_u_death_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_death_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 503px 748px;
+}
+
+.cr_u_death_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_dziewona_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 400px 851px;
+}
+
+.cr_u_dziewona_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_dziewona_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 709px 439px;
+}
+
+.cr_u_dziewona_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_exdeath_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 606px 542px;
+}
+
+.cr_u_exdeath_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_exdeath_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 503px 645px;
+}
+
+.cr_u_exdeath_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_exdeath_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 400px 748px;
+}
+
+.cr_u_exdeath_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_field_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 297px 851px;
+}
+
+.cr_u_field_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_field_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 606px 439px;
+}
+
+.cr_u_field_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_frankenstein_4 {
+   width: 94px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 608px 237px;
+   transform: rotate(90deg);
+}
+
+.cr_u_frankenstein_4.left {
+   padding-left: 94px;
+   padding-bottom: 100px;
+}
+
+.cr_u_frankenstein_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 503px 542px;
+}
+
+.cr_u_frankenstein_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_ghost_mage_1 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 400px 645px;
+}
+
+.cr_u_ghost_mage_1.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_glen_4 {
+   width: 90px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 88px 645px;
+}
+
+.cr_u_glen_4.left {
+   padding-left: 90px;
+   padding-bottom: 100px;
+}
+
+.cr_u_glen_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 297px 748px;
+}
+
+.cr_u_glen_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_glen_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 194px 851px;
+}
+
+.cr_u_glen_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_hester_5 {
+   width: 98px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 195px 336px;
+}
+
+.cr_u_hester_5.left {
+   padding-left: 98px;
+   padding-bottom: 100px;
+}
+
+.cr_u_hester_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 503px 439px;
+}
+
+.cr_u_hester_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_ice_troll_3 {
+   width: 98px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1019px 237px;
+   transform: rotate(90deg);
+}
+
+.cr_u_ice_troll_3.left {
+   padding-left: 98px;
+   padding-bottom: 100px;
+}
+
+.cr_u_joker_3 {
+   width: 98px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 916px 237px;
+   transform: rotate(90deg);
+}
+
+.cr_u_joker_3.left {
+   padding-left: 98px;
+   padding-bottom: 100px;
+}
+
+.cr_u_little_zombie_1 {
+   width: 96px;
+   height: 92px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 95px 342px;
+   transform: rotate(90deg);
+}
+
+.cr_u_little_zombie_1.left {
+   padding-left: 96px;
+   padding-bottom: 92px;
+}
+
+.cr_u_pugna_2 {
+   width: 96px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 711px 237px;
+   transform: rotate(90deg);
+}
+
+.cr_u_pugna_2.left {
+   padding-left: 96px;
+   padding-bottom: 100px;
+}
+
+.cr_u_pumpkin_warrior_4 {
+   width: 88px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 1123px 138px;
+   transform: rotate(90deg);
+}
+
+.cr_u_pumpkin_warrior_4.left {
+   padding-left: 88px;
+   padding-bottom: 100px;
+}
+
+.cr_u_pumpkin_warrior_5 {
+   width: 98px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 813px 237px;
+   transform: rotate(90deg);
+}
+
+.cr_u_pumpkin_warrior_5.left {
+   padding-left: 98px;
+   padding-bottom: 100px;
+}
+
+.cr_u_puppet_maid_4 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 400px 542px;
+}
+
+.cr_u_puppet_maid_4.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_puppet_maid_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 297px 645px;
+}
+
+.cr_u_puppet_maid_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_puppet_maid_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 194px 748px;
+}
+
+.cr_u_puppet_maid_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_raven_messenger_3 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 400px 439px;
+}
+
+.cr_u_raven_messenger_3.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_shirley_3 {
+   width: 90px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 920px 136px;
+   transform: rotate(90deg);
+}
+
+.cr_u_shirley_3.left {
+   padding-left: 90px;
+   padding-bottom: 100px;
+}
+
+.cr_u_walter_5 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 297px 542px;
+}
+
+.cr_u_walter_5.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_walter_6 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 194px 645px;
+}
+
+.cr_u_walter_6.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}
+
+.cr_u_yu_3 {
+   width: 100px;
+   height: 100px;
+   background-color: transparent;
+   background: url('E:/Workspace/GuideGame/dist/images/feature/hero.png') 297px 439px;
+}
+
+.cr_u_yu_3.left {
+   padding-left: 100px;
+   padding-bottom: 100px;
+}

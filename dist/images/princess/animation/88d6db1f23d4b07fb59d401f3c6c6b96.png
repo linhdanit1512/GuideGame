@@ -1,0 +1,34 @@
+
+sp_ui_hero_starup_tierup_light.png
+size: 1813,622
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1295, 46
+  size: 33, 33
+  orig: 50, 49
+  offset: 9, 7
+  index: -1
+texiao1
+  rotate: false
+  xy: 685, 2
+  size: 608, 618
+  orig: 608, 618
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: false
+  xy: 1295, 81
+  size: 516, 539
+  orig: 516, 539
+  offset: 0, 0
+  index: -1
+x1
+  rotate: false
+  xy: 2, 21
+  size: 681, 599
+  orig: 681, 599
+  offset: 0, 0
+  index: -1

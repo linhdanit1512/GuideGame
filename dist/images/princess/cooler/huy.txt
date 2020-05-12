@@ -1,0 +1,27 @@
+
+huy.png
+size: 200,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head7xxx
+  rotate: false
+  xy: 0, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+sp_unit_shadow
+  rotate: false
+  xy: 66, 27
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+wizard_body
+  rotate: false
+  xy: 0, 66
+  size: 187, 134
+  orig: 187, 134
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,12 @@
+[
+   {"level":30, "gold":10000, "gold_soul":50},
+   {"level":40, "gold":20000, "gold_soul":100},
+   {"level":50, "gold":50e3, "gold_soul":200},
+   {"level":60, "gold":100e3, "gold_soul":400},
+   {"level":80, "gold":500e3, "gold_soul":1000},
+   {"level":100, "same_princess" : 2, "special_princess" : 1, "princess_5": 2},
+   {"level":140, "gold_soul":2000, "ranger" : 10, "princess_5": 3},
+   {"level":160, "gold_soul":3000, "ranger" : 20, "princess_5": 2, "princess_6" : 1},
+   {"level":180, "gold_soul":4000, "ranger" : 50, "same_princess" : 1, "princess_6" : 1},
+   {"level":200, "gold_soul":10000, "ranger" : 100, "same_princess" : 2, "princess_6" : 1, "princess_9": 1}
+]

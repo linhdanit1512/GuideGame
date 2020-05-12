@@ -1,0 +1,181 @@
+
+sp_cr_e_shaly_4.png
+size: 330,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: false
+  xy: 282, 146
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: true
+  xy: 92, 68
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: false
+  xy: 264, 258
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: false
+  xy: 248, 174
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 0, 2
+  size: 64, 106
+  orig: 64, 106
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 240, 89
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: true
+  xy: 237, 11
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+FootL
+  rotate: false
+  xy: 248, 156
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FootR
+  rotate: false
+  xy: 231, 229
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+HairFL
+  rotate: false
+  xy: 92, 129
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+HairFM1
+  rotate: false
+  xy: 199, 2
+  size: 36, 70
+  orig: 36, 70
+  offset: 0, 0
+  index: -1
+HairFM2
+  rotate: false
+  xy: 195, 74
+  size: 43, 72
+  orig: 43, 72
+  offset: 0, 0
+  index: -1
+HairFR
+  rotate: false
+  xy: 134, 148
+  size: 78, 69
+  orig: 78, 69
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 282, 182
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+HandL2
+  rotate: false
+  xy: 263, 75
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: false
+  xy: 263, 108
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 211
+  size: 131, 119
+  orig: 131, 119
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 152, 0
+  size: 45, 69
+  orig: 45, 69
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 214, 152
+  size: 32, 65
+  orig: 32, 65
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: false
+  xy: 108, 8
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: true
+  xy: 264, 222
+  size: 34, 60
+  orig: 34, 60
+  offset: 0, 0
+  index: -1
+SkirtL
+  rotate: true
+  xy: 151, 71
+  size: 75, 42
+  orig: 75, 42
+  offset: 0, 0
+  index: -1
+WeaponL
+  rotate: false
+  xy: 0, 68
+  size: 90, 141
+  orig: 90, 141
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: true
+  xy: 133, 250
+  size: 80, 129
+  orig: 80, 129
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 133, 219
+  size: 96, 29
+  orig: 96, 29
+  offset: 0, 0
+  index: -1

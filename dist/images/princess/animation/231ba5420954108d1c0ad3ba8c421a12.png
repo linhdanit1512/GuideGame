@@ -1,0 +1,76 @@
+
+sp_golden_light_ball.png
+size: 703,703
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1111
+  rotate: false
+  xy: 2, 8
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+22222
+  rotate: false
+  xy: 492, 265
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+bao1
+  rotate: true
+  xy: 104, 89
+  size: 71, 66
+  orig: 275, 283
+  offset: 105, 101
+  index: -1
+bao2
+  rotate: false
+  xy: 511, 513
+  size: 190, 188
+  orig: 275, 283
+  offset: 49, 40
+  index: -1
+bao3
+  rotate: true
+  xy: 279, 467
+  size: 234, 230
+  orig: 275, 283
+  offset: 24, 24
+  index: -1
+bao4
+  rotate: false
+  xy: 2, 162
+  size: 252, 260
+  orig: 275, 283
+  offset: 14, 7
+  index: -1
+bao5
+  rotate: false
+  xy: 2, 424
+  size: 275, 277
+  orig: 275, 283
+  offset: 0, 0
+  index: -1
+bao6
+  rotate: true
+  xy: 256, 186
+  size: 236, 234
+  orig: 275, 283
+  offset: 35, 49
+  index: -1
+fx_mat_common_2139
+  rotate: false
+  xy: 492, 63
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fx_mat_common_2181
+  rotate: false
+  xy: 2, 60
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

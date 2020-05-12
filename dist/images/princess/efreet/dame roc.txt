@@ -1,0 +1,146 @@
+
+dame roc.png
+size: 296,296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: false
+  xy: 219, 87
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: true
+  xy: 229, 47
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: false
+  xy: 263, 55
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: true
+  xy: 259, 95
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 144, 60
+  size: 47, 69
+  orig: 47, 69
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 247, 132
+  size: 63, 19
+  orig: 63, 19
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: true
+  xy: 219, 127
+  size: 67, 26
+  orig: 67, 26
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 229, 13
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: true
+  xy: 202, 13
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 160
+  size: 142, 136
+  orig: 142, 136
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 268, 141
+  size: 23, 54
+  orig: 23, 54
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 173, 7
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+MouthOpen
+  rotate: false
+  xy: 215, 77
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+SkirtL
+  rotate: false
+  xy: 0, 64
+  size: 142, 94
+  orig: 142, 94
+  offset: 0, 0
+  index: -1
+SkirtR
+  rotate: false
+  xy: 0, 2
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+WeaponR
+  rotate: false
+  xy: 144, 109
+  size: 73, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: -1
+baoza
+  rotate: false
+  xy: 144, 196
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: true
+  xy: 112, 0
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 246, 197
+  size: 99, 30
+  orig: 99, 30
+  offset: 0, 0
+  index: -1
+shuidi
+  rotate: false
+  xy: 278, 269
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1

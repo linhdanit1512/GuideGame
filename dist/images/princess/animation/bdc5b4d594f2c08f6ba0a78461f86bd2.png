@@ -1,0 +1,41 @@
+
+sp_bf_hit_up_gene.png
+size: 132,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sk_psty_armor_up
+  rotate: false
+  xy: 70, 26
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+sp_knightshock
+  rotate: false
+  xy: 2, 47
+  size: 66, 83
+  orig: 66, 83
+  offset: 0, 0
+  index: -1
+sp_unit_slash_heloo
+  rotate: false
+  xy: 46, 6
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+sp_unit_slash_heloo1
+  rotate: false
+  xy: 70, 78
+  size: 60, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1
+spdfs
+  rotate: false
+  xy: 2, 4
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1

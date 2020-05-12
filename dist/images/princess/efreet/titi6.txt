@@ -1,0 +1,153 @@
+
+titi6.png
+size: 331,331
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1233
+  rotate: true
+  xy: 247, 157
+  size: 78, 42
+  orig: 78, 42
+  offset: 0, 0
+  index: -1
+34343434
+  rotate: false
+  xy: 0, 60
+  size: 116, 136
+  orig: 116, 136
+  offset: 0, 0
+  index: -1
+ArmL
+  rotate: false
+  xy: 190, 81
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: false
+  xy: 247, 104
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: false
+  xy: 161, 5
+  size: 34, 66
+  orig: 34, 66
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: false
+  xy: 197, 14
+  size: 34, 65
+  orig: 34, 65
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 175, 133
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 233, 22
+  size: 57, 11
+  orig: 57, 11
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: true
+  xy: 306, 269
+  size: 62, 25
+  orig: 62, 25
+  offset: 0, 0
+  index: -1
+HairFM1
+  rotate: false
+  xy: 246, 32
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+HairFM2
+  rotate: false
+  xy: 118, 116
+  size: 55, 80
+  orig: 55, 80
+  offset: 0, 0
+  index: -1
+HairFM3
+  rotate: true
+  xy: 297, 70
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+HairFR
+  rotate: true
+  xy: 118, 73
+  size: 41, 70
+  orig: 41, 70
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 198
+  size: 144, 133
+  orig: 144, 133
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: true
+  xy: 237, 84
+  size: 18, 58
+  orig: 18, 58
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 292, 104
+  size: 33, 56
+  orig: 33, 56
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: false
+  xy: 291, 162
+  size: 31, 73
+  orig: 31, 73
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: false
+  xy: 118, 0
+  size: 41, 71
+  orig: 41, 71
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: true
+  xy: 0, 7
+  size: 51, 114
+  orig: 51, 114
+  offset: 0, 0
+  index: -1
+sdfasf
+  rotate: true
+  xy: 146, 237
+  size: 94, 158
+  orig: 94, 158
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 146, 208
+  size: 99, 27
+  orig: 99, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+sp_cr_u_puppet_maid_4.png
+size: 317,317
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: false
+  xy: 264, 51
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: true
+  xy: 212, 53
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: true
+  xy: 262, 27
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: false
+  xy: 182, 9
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 217, 258
+  size: 59, 100
+  orig: 59, 100
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: false
+  xy: 53, 73
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: false
+  xy: 262, 0
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+HairBR
+  rotate: true
+  xy: 113, 56
+  size: 44, 97
+  orig: 44, 97
+  offset: 0, 0
+  index: -1
+HairFM2
+  rotate: true
+  xy: 86, 9
+  size: 45, 94
+  orig: 45, 94
+  offset: 0, 0
+  index: -1
+HairFR
+  rotate: true
+  xy: 212, 9
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 133, 168
+  size: 83, 64
+  orig: 83, 64
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: false
+  xy: 113, 102
+  size: 81, 64
+  orig: 81, 64
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 186
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: true
+  xy: 218, 142
+  size: 26, 91
+  orig: 26, 91
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 53, 89
+  size: 58, 95
+  orig: 58, 95
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: true
+  xy: 212, 100
+  size: 40, 94
+  orig: 40, 94
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: true
+  xy: 0, 7
+  size: 61, 84
+  orig: 61, 84
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 0, 70
+  size: 51, 114
+  orig: 51, 114
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 218, 170
+  size: 89, 57
+  orig: 89, 57
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 218, 229
+  size: 99, 27
+  orig: 99, 27
+  offset: 0, 0
+  index: -1
+touff
+  rotate: false
+  xy: 133, 234
+  size: 82, 83
+  orig: 82, 83
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+sp_sk_fly_pet_elec.png
+size: 946,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: true
+  xy: 644, 8
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+B0001
+  rotate: true
+  xy: 2, 5
+  size: 44, 104
+  orig: 164, 133
+  offset: 0, 26
+  index: -1
+B0002
+  rotate: true
+  xy: 626, 110
+  size: 141, 133
+  orig: 164, 133
+  offset: 9, 0
+  index: -1
+B0003
+  rotate: true
+  xy: 518, 103
+  size: 148, 106
+  orig: 164, 133
+  offset: 12, 0
+  index: -1
+B0004
+  rotate: false
+  xy: 725, 27
+  size: 137, 81
+  orig: 164, 133
+  offset: 23, 0
+  index: -1
+B0005
+  rotate: false
+  xy: 520, 19
+  size: 122, 82
+  orig: 164, 133
+  offset: 39, 0
+  index: -1
+S0001
+  rotate: true
+  xy: 108, 25
+  size: 24, 74
+  orig: 85, 175
+  offset: 57, 101
+  index: -1
+S0002
+  rotate: true
+  xy: 350, 2
+  size: 73, 168
+  orig: 85, 175
+  offset: 7, 2
+  index: -1
+S0003
+  rotate: false
+  xy: 436, 97
+  size: 80, 154
+  orig: 85, 175
+  offset: 1, 0
+  index: -1
+S0004
+  rotate: false
+  xy: 864, 119
+  size: 80, 132
+  orig: 85, 175
+  offset: 1, 0
+  index: -1
+S0005
+  rotate: false
+  xy: 761, 135
+  size: 78, 116
+  orig: 85, 175
+  offset: 2, 0
+  index: -1
+S0006
+  rotate: false
+  xy: 864, 6
+  size: 80, 111
+  orig: 85, 175
+  offset: 0, 0
+  index: -1
+d0001
+  rotate: false
+  xy: 350, 77
+  size: 84, 174
+  orig: 92, 200
+  offset: 1, 22
+  index: -1
+d0002
+  rotate: false
+  xy: 258, 59
+  size: 90, 192
+  orig: 92, 200
+  offset: 0, 0
+  index: -1
+d0003
+  rotate: false
+  xy: 2, 51
+  size: 83, 200
+  orig: 92, 200
+  offset: 4, 0
+  index: -1
+d0004
+  rotate: false
+  xy: 87, 51
+  size: 83, 200
+  orig: 92, 200
+  offset: 8, 0
+  index: -1
+d0005
+  rotate: false
+  xy: 172, 54
+  size: 84, 197
+  orig: 92, 200
+  offset: 8, 0
+  index: -1
+smoke555
+  rotate: true
+  xy: 108, 4
+  size: 19, 17
+  orig: 22, 21
+  offset: 2, 2
+  index: -1

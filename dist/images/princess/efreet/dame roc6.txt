@@ -1,0 +1,160 @@
+
+dame roc6.png
+size: 375,375
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: false
+  xy: 328, 297
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: true
+  xy: 337, 209
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: true
+  xy: 328, 341
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: false
+  xy: 337, 251
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 141, 101
+  size: 51, 108
+  orig: 51, 108
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: false
+  xy: 245, 31
+  size: 63, 19
+  orig: 63, 19
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: true
+  xy: 216, 29
+  size: 70, 27
+  orig: 70, 27
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: true
+  xy: 156, 0
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: true
+  xy: 328, 162
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 224
+  size: 175, 151
+  orig: 175, 151
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 303, 162
+  size: 23, 54
+  orig: 23, 54
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: true
+  xy: 190, 0
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+MouthOpen
+  rotate: false
+  xy: 124, 113
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+SkirtL
+  rotate: false
+  xy: 0, 123
+  size: 139, 99
+  orig: 139, 99
+  offset: 0, 0
+  index: -1
+SkirtR
+  rotate: false
+  xy: 177, 289
+  size: 149, 86
+  orig: 149, 86
+  offset: 0, 0
+  index: -1
+WeaponR
+  rotate: true
+  xy: 0, 8
+  size: 113, 122
+  orig: 113, 122
+  offset: 0, 0
+  index: -1
+baoza
+  rotate: false
+  xy: 251, 52
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: false
+  xy: 156, 40
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 124, 0
+  size: 99, 30
+  orig: 99, 30
+  offset: 0, 0
+  index: -1
+shuidi
+  rotate: false
+  xy: 243, 0
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+youufa
+  rotate: true
+  xy: 141, 154
+  size: 62, 160
+  orig: 62, 160
+  offset: 0, 0
+  index: -1
+ztoufa
+  rotate: true
+  xy: 177, 218
+  size: 69, 158
+  orig: 69, 158
+  offset: 0, 0
+  index: -1

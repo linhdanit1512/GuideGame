@@ -1,0 +1,195 @@
+
+alexia5.png
+size: 584,584
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 171, 204
+  size: 52, 144
+  orig: 52, 144
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 317, 168
+  size: 39, 148
+  orig: 39, 148
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 301, 72
+  size: 97, 44
+  orig: 97, 44
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 242, 0
+  size: 79, 61
+  orig: 79, 61
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 467, 150
+  size: 92, 78
+  orig: 92, 78
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 540, 86
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 402, 36
+  size: 80, 47
+  orig: 80, 47
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 247, 63
+  size: 52, 139
+  orig: 52, 139
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 511, 45
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+ArmL
+  rotate: false
+  xy: 451, 22
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: true
+  xy: 470, 230
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 160, 64
+  size: 85, 138
+  orig: 85, 138
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 565, 527
+  size: 57, 11
+  orig: 57, 11
+  offset: 0, 0
+  index: -1
+FootL
+  rotate: false
+  xy: 561, 199
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+HairFM1
+  rotate: true
+  xy: 160, 0
+  size: 62, 80
+  orig: 62, 80
+  offset: 0, 0
+  index: -1
+HairFR
+  rotate: false
+  xy: 470, 305
+  size: 114, 140
+  orig: 114, 140
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 312, 265
+  size: 156, 180
+  orig: 156, 180
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: true
+  xy: 317, 209
+  size: 54, 145
+  orig: 54, 145
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: false
+  xy: 490, 449
+  size: 73, 135
+  orig: 73, 135
+  offset: 0, 0
+  index: -1
+SkirtL
+  rotate: false
+  xy: 0, 444
+  size: 264, 140
+  orig: 264, 140
+  offset: 0, 0
+  index: -1
+datoufa
+  rotate: false
+  xy: 0, 6
+  size: 158, 210
+  orig: 158, 210
+  offset: 0, 0
+  index: -1
+ggggggggggggggg
+  rotate: false
+  xy: 457, 74
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 323, 15
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 171, 258
+  size: 184, 139
+  orig: 184, 139
+  offset: 0, 0
+  index: -1
+youpiaodai
+  rotate: true
+  xy: 266, 447
+  size: 137, 222
+  orig: 137, 222
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 301, 118
+  size: 154, 48
+  orig: 154, 48
+  offset: 0, 0
+  index: -1
+zuopiaodai
+  rotate: false
+  xy: 0, 218
+  size: 169, 224
+  orig: 169, 224
+  offset: 0, 0
+  index: -1

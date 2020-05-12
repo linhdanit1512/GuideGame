@@ -1,0 +1,160 @@
+
+jane.png
+size: 324,324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: false
+  xy: 223, 56
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: false
+  xy: 257, 65
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: true
+  xy: 219, 12
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: true
+  xy: 257, 36
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 183, 142
+  size: 51, 69
+  orig: 51, 69
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: false
+  xy: 234, 96
+  size: 60, 13
+  orig: 60, 13
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: false
+  xy: 234, 111
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+FootL
+  rotate: false
+  xy: 311, 180
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+FootR
+  rotate: false
+  xy: 293, 180
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+HairBR
+  rotate: true
+  xy: 236, 137
+  size: 36, 78
+  orig: 36, 78
+  offset: 0, 0
+  index: -1
+HairFL
+  rotate: false
+  xy: 134, 35
+  size: 44, 82
+  orig: 44, 82
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 296, 79
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: true
+  xy: 295, 52
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 183, 213
+  size: 108, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: true
+  xy: 180, 11
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: true
+  xy: 134, 15
+  size: 18, 42
+  orig: 18, 42
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: true
+  xy: 236, 175
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: false
+  xy: 180, 47
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+SkirtL
+  rotate: true
+  xy: 183, 94
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+WeaponL
+  rotate: true
+  xy: 2, 11
+  size: 106, 130
+  orig: 106, 130
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 2, 119
+  size: 179, 203
+  orig: 179, 204
+  offset: 0, 1
+  index: -1
+shadow_1
+  rotate: true
+  xy: 293, 192
+  size: 130, 27
+  orig: 130, 27
+  offset: 0, 0
+  index: -1

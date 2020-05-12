@@ -1,0 +1,153 @@
+
+sp_cr_e_robin_3.png
+size: 329,329
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: false
+  xy: 251, 94
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+ArmR
+  rotate: false
+  xy: 207, 97
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+ArmUpL
+  rotate: false
+  xy: 288, 84
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+ArmUpR
+  rotate: false
+  xy: 188, 0
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 0, 34
+  size: 82, 122
+  orig: 82, 122
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 230, 1
+  size: 57, 11
+  orig: 57, 11
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: false
+  xy: 0, 6
+  size: 61, 26
+  orig: 61, 26
+  offset: 0, 0
+  index: -1
+HairBR
+  rotate: false
+  xy: 299, 138
+  size: 30, 89
+  orig: 30, 89
+  offset: 0, 0
+  index: -1
+HairFM1
+  rotate: true
+  xy: 235, 77
+  size: 15, 33
+  orig: 15, 33
+  offset: 0, 0
+  index: -1
+HairFM2
+  rotate: false
+  xy: 148, 150
+  size: 61, 85
+  orig: 61, 85
+  offset: 0, 0
+  index: -1
+HairFM3
+  rotate: false
+  xy: 207, 60
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+HairFR
+  rotate: true
+  xy: 211, 148
+  size: 34, 71
+  orig: 34, 71
+  offset: 0, 0
+  index: -1
+HandL
+  rotate: false
+  xy: 148, 237
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: true
+  xy: 226, 255
+  size: 74, 93
+  orig: 74, 93
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 158
+  size: 146, 171
+  orig: 146, 171
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: true
+  xy: 226, 229
+  size: 24, 96
+  orig: 24, 96
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: true
+  xy: 211, 184
+  size: 43, 86
+  orig: 43, 86
+  offset: 0, 0
+  index: -1
+LegUpL
+  rotate: false
+  xy: 137, 53
+  size: 39, 95
+  orig: 39, 95
+  offset: 0, 0
+  index: -1
+LegUpR
+  rotate: true
+  xy: 84, 0
+  size: 40, 102
+  orig: 40, 102
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 84, 42
+  size: 51, 114
+  orig: 51, 114
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 178, 49
+  size: 99, 27
+  orig: 99, 27
+  offset: 0, 0
+  index: -1

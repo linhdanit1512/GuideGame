@@ -1,0 +1,146 @@
+
+heechul5.png
+size: 365,365
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2130
+  rotate: false
+  xy: 103, 129
+  size: 91, 236
+  orig: 91, 236
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 196, 137
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 0, 99
+  size: 101, 266
+  orig: 101, 266
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 0, 22
+  size: 107, 75
+  orig: 107, 75
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 298, 147
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 308, 105
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 196, 239
+  size: 144, 126
+  orig: 144, 126
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 252, 81
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 162, 62
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 342, 312
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: false
+  xy: 337, 177
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: false
+  xy: 198, 77
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: false
+  xy: 337, 149
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: true
+  xy: 109, 23
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+ytui1
+  rotate: true
+  xy: 198, 49
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: false
+  xy: 342, 277
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: false
+  xy: 109, 65
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: false
+  xy: 337, 209
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: true
+  xy: 308, 60
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+ztui1
+  rotate: false
+  xy: 160, 13
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1

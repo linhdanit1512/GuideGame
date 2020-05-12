@@ -1,0 +1,160 @@
+
+sp_cr_e_treant_5.png
+size: 335,335
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 130, 235
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+dsfas
+  rotate: false
+  xy: 130, 141
+  size: 97, 92
+  orig: 97, 92
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: true
+  xy: 229, 154
+  size: 73, 90
+  orig: 73, 90
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 0, 68
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 0, 29
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 117, 72
+  size: 48, 67
+  orig: 48, 67
+  offset: 0, 0
+  index: -1
+shentixxx
+  rotate: true
+  xy: 92, 24
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+to2u
+  rotate: false
+  xy: 232, 229
+  size: 92, 106
+  orig: 92, 106
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 184
+  size: 128, 151
+  orig: 128, 151
+  offset: 0, 0
+  index: -1
+unit_mask_flash2
+  rotate: false
+  xy: 167, 85
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 223, 81
+  size: 56, 28
+  orig: 56, 28
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 167, 60
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+yshou1
+  rotate: true
+  xy: 119, 0
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+yshou2
+  rotate: false
+  xy: 119, 33
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+yshou3
+  rotate: false
+  xy: 57, 1
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: true
+  xy: 0, 1
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+ytui1
+  rotate: false
+  xy: 296, 88
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+zshou1
+  rotate: false
+  xy: 194, 18
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+zshou2
+  rotate: false
+  xy: 160, 21
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+zshou3
+  rotate: false
+  xy: 222, 25
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: true
+  xy: 222, 55
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+ztui1
+  rotate: true
+  xy: 229, 111
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
