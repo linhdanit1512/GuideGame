@@ -186,7 +186,7 @@ body {
 }
 
 .sp-btn:hover:not(disabled) {
-   background: url(http://localhost:3000/images/feature/button.png) 971px 846px;
+   background: url(/images/feature/button.png) 971px 846px;
 }
 
 .sp-btn.disabled {
@@ -194,7 +194,7 @@ body {
 }
 
 .sp-btn.active {
-   background: url(http://localhost:3000/images/feature/button.png) 971px 846px;
+   background: url(/images/feature/button.png) 971px 846px;
    filter: drop-shadow(1px 2px 1px #3b3b3b);
 }
 
