@@ -43,7 +43,7 @@
 }
 
 .cr_digit_10 {
-   background: url(http://localhost:3000/images/item/hero.png) 1379px 1393px no-repeat top left, url(http://localhost:3000/images/item/hero.png) 1759px 877px no-repeat top right;
+   background: url(/images/item/hero.png) 1379px 1393px no-repeat top left, url(/images/item/hero.png) 1759px 877px no-repeat top right;
 }
 
 .hero-gallery .hero-filter {
