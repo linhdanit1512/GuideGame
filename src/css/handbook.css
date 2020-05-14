@@ -126,3 +126,85 @@
 .top-left-transform {
    transform-origin: top left;
 }
+
+/** 
+MATERIAL
+*/
+
+.material-item {
+   width: 40px;
+   height: 48px;
+   padding: 0;
+   margin-top: -10px;
+}
+
+.material-item .material-bg {
+   position: absolute;
+   transform: scale(0.6);
+   transform-origin: top left;
+   margin-top: 3px;
+   margin-left: 3px;
+}
+
+.material-item .material-frame {
+   position: absolute;
+   transform: scale(.55);
+   transform-origin: top left;
+}
+
+.material-item .item {
+   position: absolute;
+   margin-top: 10px;
+   margin-left: 10px;
+}
+
+.material-item .item.scale {
+   transform: scale(.45);
+   transform-origin: top left;
+}
+
+.material-item .item.scale>div {
+   margin-top: -5px;
+   margin-left: -5px;
+}
+
+.table-equipment tr td:first-child, .table-equipment tr td:nth-child(2), .table-equipment.equip-3-col tr td:nth-child(3) {
+   width: 120px;
+   height: 120px;
+}
+
+.equipment-item>div{
+   position: absolute;
+}
+
+.equipment-item .equipment-bg {
+   margin-top: 7px;
+   margin-left: 7px;
+}
+
+.equipment-item .item {
+   margin-top: 8px;
+   margin-left: 8px;
+   transform: scale(.9);
+}
+
+.equipment-item .equipment-star{
+   transform: scale(.7);
+   margin-left: 5px;
+}
+
+.equipment-item .equipment-star.star-1{
+   margin-top: 70px;
+}
+
+.equipment-item .equipment-star.star-2{
+   margin-top: 46px;
+}
+
+.equipment-item .equipment-star.star-3{
+   margin-top: 18px;
+}
+
+.equipment-item .equipment-star.star-4{
+   margin-top: -6px;
+}

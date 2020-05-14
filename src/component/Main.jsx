@@ -16,6 +16,9 @@ import SkillForm from 'SkillForm';
 import SkillHero from 'SkillHero';
 import TeamBox from 'TeamBox';
 import HeroListDB from 'HeroListDB';
+import CalculatorLevel from 'CalculatorLevel';
+import HandbookMaterial from 'HandbookMaterial';
+import HandbookEquipment from 'HandbookEquipment';
 
 
 export default class Main extends Component {
@@ -39,7 +42,7 @@ export default class Main extends Component {
          <MyProvider>
             <HashRouter history={useHistory}>
                <Navigation></Navigation>
-               <div className="body">
+               <div className="container">
                   <Switch>
                      <Route path="/" exact={true}><Home></Home></Route>
                      <Route path="/post"><Post></Post></Route>
@@ -54,6 +57,9 @@ export default class Main extends Component {
                      <Route path="/list/heroes"><HeroListDB></HeroListDB></Route>
                      <Route path="/h/battle"><TeamBox></TeamBox></Route>
                      <Route path="/h/guild"><TeamBox></TeamBox></Route>
+                     <Route path="/c/level" component={CalculatorLevel}></Route>
+                     <Route path="/h/material" component={HandbookMaterial}></Route>
+                     <Route path="/h/equipment" component={HandbookEquipment}></Route>
                   </Switch>   
                </div>
             </HashRouter>

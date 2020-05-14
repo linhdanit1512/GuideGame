@@ -38,9 +38,9 @@ app.get('/util', (req, res) => {
    res.render('util', { req: req, res: res });
 });
 
-// app.get('/:file', (req, res) => {
-//    res.render(req.params.file, { req: req, res: res });
-// })
+app.get('/:file', (req, res) => {
+   res.render('general/' +req.params.file, { req: req, res: res });
+})
 
 app.get('/general/:folder/:file', (req, res) => {
    let folder = req.params.folder;

@@ -9,15 +9,14 @@ import 'bootstrap/dist/js/bootstrap';
 import Main from "Main";
 
 var appLanguage = (state = null, action) => {
-   if (action.lang) {
-      return action.lang;
+   if (action.type) {
+      return action.type;
    } else if (state == null) {
       return 'en';
    }
    return state;
 }
 
-// const displayText = require('./util/displayText');
 
 var reducer = redux.combineReducers({ appLanguage });
 var store = redux.createStore(reducer);
@@ -30,4 +29,5 @@ ReactDOM.render(
 
 $(document).on('click', 'input:checkbox+label, input:radio+label', function () {
    $(this).prev('input').prop('checked', !$(this).prev('input').prop('checked'));
+   $(this).trigger('change');
 })

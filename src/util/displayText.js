@@ -18,6 +18,23 @@ module.exports = {
             skill: 'Skill'
          }
       },
+      c_level : {
+         begin : 'Begin Level',
+         end: 'End Level',
+         level: 'Level',
+         purple_soul : 'Purple Soul',
+         gold_soul: 'Gold Soul',
+         gold: 'Gold',
+         same_princess: 'Same 5 Star Princess',
+         special_princess: 'Special Princess',
+         princess_5: '5 Star Princess',
+         princess_6: '6 Star Princess',
+         princess_9: '9 Star Princess',
+         awaken: 'Awakening Element',
+         include_resource: 'Include Resource',
+         only_milestone: 'Only Milestone'
+
+      },
       elemental: {
          1: 'Cooler', 2: 'Efreet', 3: 'Laiquendi', 4: 'Censu', 5: 'Soma', 6: 'Spirit'
       },
@@ -302,6 +319,27 @@ module.exports = {
             skill: 'Kỹ năng'
          }
       },
+
+      c_level : {
+         begin : 'Từ Level',
+         end: 'Đến Level',
+         level: 'Level',
+         purple_soul : 'Linh hồn tím',
+         gold_soul: 'Linh hồn vàng',
+         gold: 'Vàng',
+         same_princess: 'Bản sao Công chúa 5 sao',
+         special_princess: 'Công chúa ghép',
+         princess_5: 'Công chúa 5 sao',
+         princess_6: 'Công chúa 6 sao',
+         princess_9: 'Công chúa 9 sao',
+         awaken: 'Yếu tố thức tỉnh',
+         include_resource: 'Bao gồm tài nguyên',
+         only_milestone: 'Chỉ tính các cột mốc'
+      },
+
+      h_material: {
+      },
+
       elemental: {
          1: 'Thủy', 2: 'Hỏa', 3: 'Mộc', 4: 'Thổ', 5: 'Quang', 6: 'Ám'
       },

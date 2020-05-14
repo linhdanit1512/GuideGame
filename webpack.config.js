@@ -94,6 +94,14 @@ var adminPack = {
          Navigation: path.resolve(__dirname, 'src/component/Navigation.jsx'),
          MyProvider: path.resolve(__dirname, 'src/component/MyProvider.jsx'),
          MyContext: path.resolve(__dirname, 'src/component/MyContext.jsx'),
+
+         /** Calculator */
+
+         CalculatorLevel: path.resolve(__dirname, 'src/component/calculator/Level.jsx'),
+
+         /** Handbook */
+         HandbookMaterial: path.resolve(__dirname, 'src/component/handbook/Material.jsx'),
+         HandbookEquipment: path.resolve(__dirname, 'src/component/handbook/Equipment.jsx'),
       }
    },
    module: {

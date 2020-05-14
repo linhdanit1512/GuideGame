@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
+import { connect } from 'react-redux';
+
 import Template from 'Template';
 import showText from 'DisplayText';
 import MyContext from 'MyContext';
 import routeLink from '../util/link';
-export default class MyProvider extends Component {
+class MyProvider extends Component {
    constructor(props, context) {
       super(props, context);
       this.state = {
@@ -29,11 +31,14 @@ export default class MyProvider extends Component {
       this.state[key] = val;
       this.setState(this.state);
       localStorage.setItem(key, val);
+      if (key == 'lang') {
+         this.props.dispatch({ type: val });
+      }
    }
 
    showNotify(msg, title, time, className) {
       let mes = {
-         en:{
+         en: {
             default_title: 'Notify',
             nothing_change: 'Nothing change',
             update_success: 'Update sucessfully',
@@ -41,7 +46,7 @@ export default class MyProvider extends Component {
             hero_exist: 'This Hero is exist',
             request_failure: 'An error was occured. Please try again later'
          },
-         vi:{
+         vi: {
             default_title: 'Thông báo',
             nothing_change: 'Không có gì thay đổi',
             update_success: 'Cập nhật thành công',
@@ -59,8 +64,8 @@ export default class MyProvider extends Component {
       this.state.notifyText = mes[lang][msg] || '';
       this.setState(this.state);
    }
-   
-   waiting(){
+
+   waiting() {
       this.state.waiting = !this.state.waiting;
       this.setState(this.state);
    }
@@ -71,7 +76,7 @@ export default class MyProvider extends Component {
             state: this.state,
             updateProvider: this.updateProvider.bind(this),
             upperCaseFirst: this.upperCaseFirst,
-            showNotify : this.showNotify.bind(this),
+            showNotify: this.showNotify.bind(this),
             waiting: this.waiting.bind(this)
          }}>{this.props.children}
             <Template.Waiting show={this.state.waiting} />
@@ -82,9 +87,13 @@ export default class MyProvider extends Component {
                time={this.state.notifyTime}
                title={this.state.notifyTitle}
                msg={this.state.notifyText}
-               hide={()=>{this.updateProvider('showNotify', false)}}
+               hide={() => { this.updateProvider('showNotify', false) }}
             />
          </MyContext.Provider>
       )
    }
 }
+
+export default connect((state) => {
+   return { lang: state.appLanguage }
+})(MyProvider)

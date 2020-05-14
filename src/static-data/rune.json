@@ -1,0 +1,22 @@
+[
+   {"level": 1, "star" : 1, "gold" : 20e3, "rune": 108},
+   {"level": 1, "star" : 2, "gold" : 20e3, "rune": 108},
+   {"level": 2, "star" : 1, "gold" : 40e3, "rune": 180},
+   {"level": 2, "star" : 2, "gold" : 80e3, "rune": 360},
+   {"level": 3, "star" : 1, "gold" : 160e3, "rune": 540},
+   {"level": 3, "star" : 2, "gold" : 320e3, "rune": 720},
+   {"level": 3, "star" : 3, "gold" : 500e3, "rune": 1440},
+   {"level": 4, "star" : 1, "gold" : 1200e3, "rune": 1800},
+   {"level": 4, "star" : 2, "gold" : 1800e3, "rune": 2160},
+   {"level": 4, "star" : 3, "gold" : 2500e3, "rune": 4320},
+   {"level": 4, "star" : 1, "gold" : 20e3, "rune": 108},
+   {"level": 5, "star" : 1, "gold" : 6000e3, "rune": 5040},
+   {"level": 5, "star" : 2, "gold" : 20e3, "rune": 108},
+   {"level": 5, "star" : 3, "gold" : 12e6, "rune": 6480},
+   {"level": 5, "star" : 4, "gold" : 15e6, "rune": 8640},
+   {"level": 6, "star" : 1, "gold" : 18e6, "rune": 9360},
+   {"level": 6, "star" : 1, "gold" : 20e3, "rune": 108},
+   {"level": 6, "star" : 1, "gold" : 20e3, "rune": 108},
+   {"level": 6, "star" : 1, "gold" : 20e3, "rune": 108},
+   {"level": 6, "star" : 1, "gold" : 20e3, "rune": 108}
+]

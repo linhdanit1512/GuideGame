@@ -1,0 +1,55 @@
+/**
+ color:
+ 1: trang
+ 2: luc
+ 3: lam
+ 4: vang
+ 5: tim
+ 6: cam
+ 7: do
+ */
+module.exports = [
+   { name: { vi: 'Vàng', en: 'Gold' }, desc: { vi: 'Tiền tệ chung', en: 'Common currency' }, item: 'gn_icon_coin_gold', sold: null, color: 1, type: { vi: 'Tiền tệ', en: 'Currency' } },
+   { name: { vi: 'Kim cương', en: 'Diamond' }, desc: { vi: 'Tiền tệ cực hiếm', en: 'Extremely rare currency' }, item: 'gn_icon_coin_diamond', sold: null, color: 1, type: { vi: 'Kim cương', en: 'Diamond' } },
+   { name: { vi: 'Exp', en: 'Exp' }, desc: { vi: 'Để cải thiện Lv người chơi', en: 'For improving the Lv. of the Player' }, item: 'gn_icon_coin_exp', sold: null, color: 1, type: { vi: 'Exp', en: 'Exp' } },
+   { name: { vi: 'VIP exp', en: 'VIP exp' }, desc: { vi: 'Tăng cấp vip', en: 'For upgrading VIP' }, item: 'it_coin_vip_exp', sold: false, color: 7, type: { vi: 'VIP exp', en: 'VIP exp' }, scale: 5 },
+   { name: { vi: 'Bụi linh hồn', en: 'Soul dust' }, desc: { vi: 'Để mua hàng trong cửa hàng linh hồn', en: 'For buying items in soul shops' }, item: 'gn_icon_coin_coin_soul', sold: false, color: 4, type: { vi: 'Tiền tệ của cửa hàng linh hồn', en: 'Currency of the Soul shop' } },
+   { name: { vi: 'Đá cổ', en: 'Runestone' }, desc: { vi: 'Để tăng bậc đá cổ trong giao diện Anh hùng', en: 'For raising rune Lv. in hero interface' }, item: 'gn_icon_coin_dust', sold: false, color: 3, type: { vi: 'Nguyên liệu đá cổ', en: 'Ruune material' } },
+   { name: { vi: 'Linh hồn', en: 'Soul' }, desc: { vi: 'Để tăng cấp anh hùng trong giao diện Anh hùng', en: 'For raising heroo Lv. in hero interface' }, item: 'gn_icon_coin_soul', sold: false, color: 1, type: { vi: 'Exp nâng cấp anh hùng', en: 'Upgrading Exp of the Hero' } },
+   { name: { vi: 'Linh hồn vàng', en: 'Gold souls' }, desc: { vi: 'Nâng bậc anh hùng trong giao diện Anh hùng', en: 'For raising hero grade in hero interface' }, item: 'it_coin_advanced', sold: false, color: 3, type: { vi: 'Exp tiến hóa anh hùng', en: 'Advancing Axxp of the Hero' }, scale: 5 },
+   { name: { vi: 'Yếu tố thức tỉnh chiến binh', en: 'Warrior Awakening Elements' }, desc: { vi: 'Thức tỉnh anh hùng', en: 'Awaken heros' }, item: 'it_coin_awaken_soldier', sold: false, color: 5, type: { vi: 'Yếu tố thức tỉnh', en: 'Awakening Elements' }, scale: 5 },
+   { name: { vi: 'Yếu tố thức tỉnh sát thủ', en: 'Assassin Awakening Elements' }, desc: { vi: 'Thức tỉnh anh hùng', en: 'Awaken heros' }, item: 'it_coin_awaken_assassin', sold: false, color: 5, type: { vi: 'Yếu tố thức tỉnh', en: 'Awakening Elements' }, scale: 5 },
+   { name: { vi: 'Yếu tố thức tỉnh xạ thủ', en: 'Ranger Awakening Elements' }, desc: { vi: 'Thức tỉnh anh hùng', en: 'Awaken heros' }, item: 'it_coin_awaken_ranger', sold: false, color: 5, type: { vi: 'Yếu tố thức tỉnh', en: 'Awakening Elements' }, scale: 5 },
+   { name: { vi: 'Yếu tố thức tỉnh linh mục', en: 'Priest Awakening Elements' }, desc: { vi: 'Thức tỉnh anh hùng', en: 'Awaken heros' }, item: 'it_coin_awaken_priest', sold: false, color: 5, type: { vi: 'Yếu tố thức tỉnh', en: 'Awakening Elements' }, scale: 5 },
+   { name: { vi: 'Yếu tố thức tỉnh pháp sư', en: 'Mage Awakening Elements' }, desc: { vi: 'Thức tỉnh anh hùng', en: 'Awaken heros' }, item: 'it_coin_awaken_wizard', sold: false, color: 5, type: { vi: 'Yếu tố thức tỉnh', en: 'Awakening Elements' }, scale: 5 },
+   { name: { vi: 'Hộp quà nguyên liệu thức tỉnh', en: 'Awakening materials parcels' }, desc: { vi: 'Chọn một trong các yếu tố thức tỉnh', en: 'Choosing one of Awakening Elements' }, item: 'it_equi_artif_6_faction_6', sold: false, color: 7, type: { vi: 'Túi quà', en: 'Gift Bag' }, scale:5 },
+   { name: { vi: 'Lông sao', en: 'Star Feather' }, desc: { vi: 'Để mua trong Cửa hàng lông vũ', en: 'For purchasing in Feather Shop' }, item: 'gn_icon_coin_dragon_coin', sold: false, color: 4, type: { vi: 'Tiền tệ của chợ lông vũ sao băng', en: 'Star Feather Mart Currency' } },
+   { name: { vi: 'Đồng xu danh dự', en: 'Honor Coin' }, desc: { vi: 'Để mua trong Cửa hàng danh dự', en: 'For purchasing in Honor Shop' }, item: 'gn_icon_coin_glory_coin', sold: false, color: 4, type: { vi: 'Tiền của chợ dũng cảm', en: 'Brave Mart Currency' } },
+   { name: { vi: 'Exp Bang hội', en: 'Guild Exp' }, desc: { vi: 'Để nâng cấp bang hội', en: 'For uppgraading a guild' }, item: 'gn_icon_coin_guild_exp', sold: null, color: 4, type: { vi: 'Exp Bang hội', en: 'Guild Exp' } },
+   { name: { vi: 'Đồng xu bang hội', en: 'Guild coin' }, desc: { vi: 'Để mua trong Cửa hàng bang hội', en: 'For purchasing in Guild Shop' }, item: 'gn_icon_coin_guled', sold: false, color: 4, type: { vi: 'Tiền tệ của cửa hàng bang hội', en: 'Currency of the Guild shop' } },
+   { name: { vi: 'Trái tim yêu thương', en: 'Loving heart' }, desc: { vi: 'Để mở Sách Lời thề trong Đền triệu hồi', en: 'For opening Oath Book in Summon Temple' }, item: 'gn_icon_coin_heart', sold: false, color: 5, type: { vi: 'Đối tượng triệu hồi', en: 'Summon Object' } },
+   { name: { vi: 'Lông nổi', en: 'Floating Feather' }, desc: { vi: 'Để mở Sách phúc lành trong Đền hiệu triệu', en: 'For opening Bliss Book in Summon Temple' }, item: 'gn_icon_coin_hero_normal', sold: false, color: 1, type: { vi: 'Đối tượng triệu hồi', en: 'Summon Object' } },
+   { name: { vi: 'Lông chiến thắng', en: 'Glory Feather' }, desc: { vi: 'Để mở Sách Thung lũng Bạc trong Đền hiệu triệu', en: 'For opening Silver Valley Book in Summon Temple' }, item: 'gn_icon_coin_hero_super', sold: false, color: 7, type: { vi: 'Đối tượng triệu hồi', en: 'Summon Object' } },
+   { name: { vi: 'Lông vũ thần thánh', en: 'Holy Feathers' }, desc: { vi: 'Open Star Book (chắc chắn là 5 Star Elite Anh hùng) (Sử dụng tại giao diện hoạt động - Star Book)', en: 'Open Star Book (certainly 5 Staar Elite Hero) (Use at activity interface - Star Book)' }, item: 'gn_icon_coin_elite_hero', sold: null, color: 7, type: { vi: 'Đối tượng chính', en: 'Key Object' } },
+   { name: { vi: 'Cỏ may mắn', en: 'Luck Grass' }, desc: { vi: 'Để mua trong cửa hàng may mắn', en: 'For buying in Luck Shop' }, item: 'gn_icon_coin_lucky_coin', sold: false, color: 5, type: { vi: 'Tiền tệ của cửa hàng may mắn', en: 'Currency og tther Lucky shop' } },
+   { name: { vi: 'Cỏ khô vàng', en: 'Gold fodder' }, desc: { vi: 'Để nâng cấp kỹ năng cho thú cưng', en: 'For upgrading skills of your pets' }, item: 'gn_icon_coin_pet_circle', sold: false, color: 5, type: { vi: 'Nguyên liệu thú cưng', en: 'Materrials for pets' } },
+   { name: { vi: 'Cỏ khô', en: 'Fodder' }, desc: { vi: 'Để nâng cấp thú cưng', en: 'For upgrading pets' }, item: 'gn_icon_coin_pet_up', sold: false, color: 5, type: { vi: 'Nguyên liệu thú cưng', en: 'Materials for pets' } },
+   { name: { vi: 'Cuộn nhiệm vụ bình thường', en: 'Normal mission scroll' }, desc: { vi: 'Nhiệm vụ 1~4 sao sẽ được nhận ngẫu nhiên sau khi sử dụng (nhiệm vụ có thể được làm mới; nhiệm vụ còn dang dở sẽ biến mất vào ngày mai)', en: 'Star 1~4 Post Mission will be randomly obtained after use (missions obtained can be refeshed; unfinished mission will disapear tomorrow' }, item: 'gn_icon_coin_quest_normal', sold: false, color: 1, type: { vi: 'Cuộn bài', en: 'Post Scroll' } },
+   { name: { vi: 'Cuộn nhiệm vụ nâng cao', en: 'Advanced mission scroll' }, desc: { vi: 'Nhiệm vụ 4~7 sao sẽ được nhận ngẫu nhiên sau khi sử dụng (nhiệm vụ có thể được làm mới; nhiệm vụ còn dang dở sẽ biến mất vào ngày mai)', en: 'Star 4~7 Post Mission will be randomly obtained after use (missions obtained can be refeshed; unfinished mission will disapear tomorrow' }, item: 'gn_icon_coin_quest_super', sold: false, color: 4, type: { vi: 'Cuộn bài', en: 'Post Scroll' } },
+   { name: { vi: 'Trái cây phúc lành', en: 'Blissful Fruit' }, desc: { vi: 'Để thay thế Anh hùng cây ước nguyện', en: 'For Blisss Tree Hero Replacement' }, item: 'gn_icon_coin_tree_coin', sold: false, color: 5, type: { vi: 'Nguyên liệu thay thế', en: 'Replacement of materials' } },
+   { name: { vi: 'Hạt giống để ước', en: 'Seeds for making a wish' }, desc: { vi: 'Đối với triệu hồi Anh hùng cây ước nguyện', en: 'For Bliss Tree Hero Summon' }, item: 'gn_icon_coin_tree_summon', sold: false, color: 5, type: { vi: 'Đối tượng triệu hồi phúc lành', en: 'Blissfful Summon Object' } },
+   { name: { vi: 'Xu cầu nguyện', en: 'Prayer coin' }, desc: { vi: 'Cho Quay số giếng ước nguyện', en: 'For Wishing Well Lottery' }, item: 'gn_icon_coin_wish', sold: false, color: 5, type: { vi: 'Xu cầu nguyện', en: 'Prayer coin' } },
+   { name: { vi: 'Xu cầu nguyện nâng cao', en: 'Advanced prayer coin' }, desc: { vi: 'Đối với mong muốn cao cấp', en: 'For senior Wishing Well' }, item: 'it_coin_wish_40', sold: null, color: 5, type: { vi: 'Xu cầu nguyện nâng cao', en: 'Advanced prayer coin' } },
+   { name: { vi: 'Hy sinh quyến rũ', en: 'Sacrifice charm' }, desc: { vi: 'Đấu các trận đấu trong Tháp', en: 'For tower battle' }, item: 'gn_icon_coin_water', sold: false, color: 5, type: { vi: 'Vé thử thách trong Tháp', en: 'Tickets to Tower challenge' } },
+   { name: { vi: 'Xu vào cửa', en: 'Coins for entrace' }, desc: { vi: 'Đối với các trận đấu Boss thế giới', en: 'For world boss battles' }, item: 'gn_icon_coin_world_boss', sold: false, color: 5, type: { vi: 'Vé cho thử thách Boss thế giới', en: 'Tickets to World boss challenge' } },
+   { name: { vi: 'Sức mạnh vật lý', en: 'Physical Power' }, desc: { vi: 'Đấu các trận trong Boss bạn bè', en: 'For friend boss battle' }, item: 'gn_icon_coin_strength', sold: false, color: 1, type: { vi: 'Vé thử thách boss bạn bè', en: 'Ticket to Friend Boss' } },
+   { name: { vi: 'Vé chiến đấu', en: 'Tickets for fighting' }, desc: { vi: 'Đối với vé vào Đấu trường', en: 'For Arena entry ticket' }, item: 'it_coin_ticket', sold: false, color: 3, type: { vi: 'Vé đấu trường để tham gia cuộc thi', en: 'Arena tickets for entering the competition' }, scale: 5 },
+   { name: { vi: 'Vé chiến đấu đoàn đội', en: 'Tickets for fighting' }, desc: { vi: 'Đối với vé vào Đoàn đấu', en: 'For Team VS entry ticket' }, item: 'gn_icon_ticket_pvp', sold: false, color: 3, type: { vi: 'Vé đoàn đấu để tham gia cuộc thi', en: 'Team VS tickets for entering the competition' }, scale: 5 },
+   { name: { vi: '', en: '' }, desc: { vi: '', en: '' }, item: 'gn_icon_coin_slotmachine_one', sold: false, color: 1, type: { vi: '', en: '' } },
+   { name: { vi: '', en: '' }, desc: { vi: '', en: '' }, item: 'gn_icon_coin_slotmachine_ten', sold: false, color: 1, type: { vi: '', en: '' } },
+   { name: { vi: '', en: '' }, desc: { vi: '', en: '' }, item: 'gn_icon_coin_quest_energy', sold: false, color: 1, type: { vi: '', en: '' } },
+   { name: { vi: '', en: '' }, desc: { vi: '', en: '' }, item: 'gn_icon_coin_special_drop1', sold: false, color: 1, type: { vi: '', en: '' } },
+   { name: { vi: '', en: '' }, desc: { vi: '', en: '' }, item: 'gn_icon_coin_ticket', sold: false, color: 1, type: { vi: '', en: '' } },
+   { name: { vi: '', en: '' }, desc: { vi: '', en: '' }, item: 'gn_icon_coin_wish_super', sold: false, color: 1, type: { vi: '', en: '' } },
+   { name: { vi: '', en: '' }, desc: { vi: '', en: '' }, item: 'gn_icon_coin_yarn_ball', sold: false, color: 1, type: { vi: '', en: '' } },
+]

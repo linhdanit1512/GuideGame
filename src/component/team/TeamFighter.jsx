@@ -10,7 +10,7 @@ export default class TeamFighter extends Component {
    render() {
       return (
          <Row className="mb-3 justify-content-md-center">
-            <Col md={5}>
+            <Col md={7} lg={5}>
                <div className="team-troop">
                   <div className="team-position">{this.props.front || 'Front'}</div>
                   <div className="team-hero-front">
