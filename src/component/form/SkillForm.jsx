@@ -150,168 +150,164 @@ export default function SkillForm() {
    }
 
    return (
-      <>
+      <React.Fragment>
          <Form method="post" className="form skill-form">
-            <Container>
-               <InputGroup className="mb-3">
-                  <InputGroup.Prepend>
-                     <InputGroup.Text id="lblName">Name</InputGroup.Text>
-                  </InputGroup.Prepend>
-                  <FormControl type="text" ref={references.nameEN} placeholder="Name EN" aria-label="Name" aria-describedby="lblName" />
-                  <FormControl type="text" ref={references.nameVI} placeholder="Name VI" aria-label="Name" aria-describedby="lblName" />
-               </InputGroup>
+         <h2 className="mb-3 mt-3">Skill Form</h2>
+            <InputGroup className="mb-3">
+               <InputGroup.Prepend>
+                  <InputGroup.Text id="lblName">Name</InputGroup.Text>
+               </InputGroup.Prepend>
+               <FormControl type="text" ref={references.nameEN} placeholder="Name EN" aria-label="Name" aria-describedby="lblName" />
+               <FormControl type="text" ref={references.nameVI} placeholder="Name VI" aria-label="Name" aria-describedby="lblName" />
+            </InputGroup>
 
-               <InputGroup className="mb-3">
-                  <InputGroup.Prepend>
-                     <InputGroup.Text id="lblType">Type</InputGroup.Text>
-                  </InputGroup.Prepend>
-                  <Form.Control as="select" ref={references.type} aria-label="Type" aria-describedby="lblType">
-                     {['poison', 'armors', 'attack', 'defend', 'crit', 'critDmg', 'dodge', 'skilldmg', 'health', 'control', 'other'].map((value, index) => {
-                        return <option value={value} key={index}>{value.toUpperCase()}</option>
-                     })}
-                  </Form.Control>
+            <InputGroup className="mb-3">
+               <InputGroup.Prepend>
+                  <InputGroup.Text id="lblType">Type</InputGroup.Text>
+               </InputGroup.Prepend>
+               <Form.Control as="select" ref={references.type} aria-label="Type" aria-describedby="lblType">
+                  {['poison', 'armors', 'attack', 'defend', 'crit', 'critDmg', 'dodge', 'skilldmg', 'health', 'control', 'other'].map((value, index) => {
+                     return <option value={value} key={index}>{value.toUpperCase()}</option>
+                  })}
+               </Form.Control>
 
-               </InputGroup>
+            </InputGroup>
 
-               <InputGroup className="mb-3">
-                  <InputGroup.Prepend>
-                     <InputGroup.Text id="lblImage">Image</InputGroup.Text>
-                  </InputGroup.Prepend>
-                  <SkillItem img={image} action={handleShow}></SkillItem>
-                  <FormControl className={'hidden'} type="text" ref={references.img} placeholder="Image" aria-label="Image" aria-describedby="lblImage" />
-               </InputGroup>
+            <InputGroup className="mb-3">
+               <InputGroup.Prepend>
+                  <InputGroup.Text id="lblImage">Image</InputGroup.Text>
+               </InputGroup.Prepend>
+               <SkillItem img={image} action={handleShow}></SkillItem>
+               <FormControl className={'hidden'} type="text" ref={references.img} placeholder="Image" aria-label="Image" aria-describedby="lblImage" />
+            </InputGroup>
 
-               <InputGroup className="mb-3">
-                  <InputGroup.Prepend>
-                     <InputGroup.Text id="lblLevel">Level</InputGroup.Text>
-                  </InputGroup.Prepend>
-                  <Form.Control as="select" ref={references.level} aria-label="Level" aria-describedby="lblLevel">
-                     <option value="1">1</option>
-                     <option value="1">2</option>
-                     <option value="1">3</option>
-                  </Form.Control>
-               </InputGroup>
+            <InputGroup className="mb-3">
+               <InputGroup.Prepend>
+                  <InputGroup.Text id="lblLevel">Level</InputGroup.Text>
+               </InputGroup.Prepend>
+               <Form.Control as="select" ref={references.level} aria-label="Level" aria-describedby="lblLevel">
+                  <option value="1">1</option>
+                  <option value="1">2</option>
+                  <option value="1">3</option>
+               </Form.Control>
+            </InputGroup>
 
-               <InputGroup className="mb-3">
-                  <InputGroup.Prepend>
-                     <InputGroup.Text id="lblName">Target</InputGroup.Text>
-                  </InputGroup.Prepend>
-                  <Form.Control as="select" ref={references.target} placeholder="Target" aria-label="Target" aria-describedby="lblTarget">
-                     <option value="back">Back Row</option>
-                     <option value="front">Front Row</option>
-                     <option value="random">Random</option>
-                     <option value="single">Single</option>
-                     <option value="all">All</option>
-                     <option value="Itseft">Itseft</option>
-                  </Form.Control>
-               </InputGroup>
+            <InputGroup className="mb-3">
+               <InputGroup.Prepend>
+                  <InputGroup.Text id="lblName">Target</InputGroup.Text>
+               </InputGroup.Prepend>
+               <Form.Control as="select" ref={references.target} placeholder="Target" aria-label="Target" aria-describedby="lblTarget">
+                  <option value="back">Back Row</option>
+                  <option value="front">Front Row</option>
+                  <option value="random">Random</option>
+                  <option value="single">Single</option>
+                  <option value="all">All</option>
+                  <option value="Itseft">Itseft</option>
+               </Form.Control>
+            </InputGroup>
 
-               <InputGroup className="mb-3">
-                  <InputGroup.Prepend>
-                     <InputGroup.Text id="lblEnemies">Enemy Quantity</InputGroup.Text>
-                  </InputGroup.Prepend>
-                  <Form.Control as="select" ref={references.nEnemies} placeholder="Enemies" aria-label="Enemies" aria-describedby="lblEnemies">
-                     {[0, 1, 2, 3, 4, 5, 6].map((value) => {
-                        return <option value={value} key={value}>{value}</option>
-                     })}
-                  </Form.Control>
-               </InputGroup>
+            <InputGroup className="mb-3">
+               <InputGroup.Prepend>
+                  <InputGroup.Text id="lblEnemies">Enemy Quantity</InputGroup.Text>
+               </InputGroup.Prepend>
+               <Form.Control as="select" ref={references.nEnemies} placeholder="Enemies" aria-label="Enemies" aria-describedby="lblEnemies">
+                  {[0, 1, 2, 3, 4, 5, 6].map((value) => {
+                     return <option value={value} key={value}>{value}</option>
+                  })}
+               </Form.Control>
+            </InputGroup>
 
-               <InputGroup className="mb-3">
-                  <InputGroup.Prepend>
-                     <InputGroup.Text id="lblDescription">Description</InputGroup.Text>
-                  </InputGroup.Prepend>
-                  <FormControl as="textarea" ref={references.descEN} placeholder="Description EN" aria-label="Description" aria-describedby="lblDescription" />
-                  <FormControl as="textarea" ref={references.descVI} placeholder="Description VI" aria-label="Description" aria-describedby="lblDescription" />
-               </InputGroup>
+            <InputGroup className="mb-3">
+               <InputGroup.Prepend>
+                  <InputGroup.Text id="lblDescription">Description</InputGroup.Text>
+               </InputGroup.Prepend>
+               <FormControl as="textarea" ref={references.descEN} placeholder="Description EN" aria-label="Description" aria-describedby="lblDescription" />
+               <FormControl as="textarea" ref={references.descVI} placeholder="Description VI" aria-label="Description" aria-describedby="lblDescription" />
+            </InputGroup>
 
-               <InputGroup className="mb-3">
-                  <InputGroup.Prepend>
-                     <InputGroup.Text id="lblKeyword">Keyword</InputGroup.Text>
-                  </InputGroup.Prepend>
-                  <TagsInput
-                     value={keyword_state[0]}
-                     onChange={(tags) => { keyword_state[1](tags) }}
-                     /**
-                      suggest
-                      */
-                     suggestions={Keyword}
-                     shouldRenderSuggestions={(value) => value && value.trim().length > 0}
-                     getSuggestionValue={(suggestion) => suggestion}
-                     renderSuggestion={(suggestion) => <span>{suggestion}</span>}
-                     onSuggestionSelected={(e, { suggestion }) => {
-                        addTag(suggestion)
-                     }}
-                     onSuggestionsClearRequested={() => { }}
-                     onSuggestionsFetchRequested={() => { }}
-                     /*
-                     9: tab
-                     13: enter
-                     188: ,
-                     186: ;
-                     */
-                     addKeys={[9, 13, 188, 186]}
-                     onlyUnique={true}
-                     className={'hasinput react-tagsinput-margin'}
-                     inputProps={{
-                        className: 'react-tagsinput-input',
-                        placeholder: 'Keyword',
-                     }}
-                     tagProps={{
-                        className: 'react-tagsinput-tag badge-info',
-                        classNameRemove: 'react-tagsinput-remove'
-                     }}
-                  />
-               </InputGroup>
+            <InputGroup className="mb-3">
+               <InputGroup.Prepend>
+                  <InputGroup.Text id="lblKeyword">Keyword</InputGroup.Text>
+               </InputGroup.Prepend>
+               <TagsInput
+                  value={keyword_state[0]}
+                  onChange={(tags) => { keyword_state[1](tags) }}
+                  /**
+                   suggest
+                   */
+                  suggestions={Keyword}
+                  shouldRenderSuggestions={(value) => value && value.trim().length > 0}
+                  getSuggestionValue={(suggestion) => suggestion}
+                  renderSuggestion={(suggestion) => <span>{suggestion}</span>}
+                  onSuggestionSelected={(e, { suggestion }) => {
+                     addTag(suggestion)
+                  }}
+                  onSuggestionsClearRequested={() => { }}
+                  onSuggestionsFetchRequested={() => { }}
+                  /*
+                  9: tab
+                  13: enter
+                  188: ,
+                  186: ;
+                  */
+                  addKeys={[9, 13, 188, 186]}
+                  onlyUnique={true}
+                  className={'hasinput react-tagsinput-margin'}
+                  inputProps={{
+                     className: 'react-tagsinput-input',
+                     placeholder: 'Keyword',
+                  }}
+                  tagProps={{
+                     className: 'react-tagsinput-tag badge-info',
+                     classNameRemove: 'react-tagsinput-remove'
+                  }}
+               />
+            </InputGroup>
 
-               <Table striped bordered hover size="sm" className="mb-3 input-table" id={'table-skill-attr'}>
-                  <thead>
-                     <tr>
-                        <th>Name</th>
-                        <th>Value</th>
-                        <th>Unit</th>
-                        <th>Target</th>
-                        <th></th>
-                     </tr>
-                  </thead>
-                  <tbody>
-                     {skillTable.map((item, index) => {
-                        return (
-                           <tr key={index}>
-                              <td>{item.name}</td>
-                              <td>{item.value}</td>
-                              <td>{item.unit}</td>
-                              <td>{item.target == '1' ? 'Friend' : item.target == '2' ? 'Enemy' : 'Itself'}</td>
-                              <td><Button variant="outline-danger" size="sm" className="fa fa-trash" index={index} onClick={removeDataTable}></Button></td>
-                           </tr>
-                        )
-                     })}
-                  </tbody>
-                  <tfoot>
-                     <tr>
-                        <td className="hasinput"><FormControl ref={affects.name} type="text" placeholder="name" /></td>
-                        <td className="hasinput"><FormControl ref={affects.value} type="text" placeholder="value" /></td>
-                        <td className="hasinput"><FormControl ref={affects.unit} type="text" placeholder="unit" /></td>
-                        <td className="hasinput">
-                           <Form.Control as="select" ref={affects.target}>
-                              <option value="2">Enemy</option>
-                              <option value="1">Friend</option>
-                              <option value="3">Itself</option>
-                           </Form.Control>
-                        </td>
-                        <td><Button variant="outline-success" onClick={pushDataTable}>Push</Button></td>
-                     </tr>
-                  </tfoot>
-               </Table>
-
-
-
-               <div className="text-right">
-                  <Button variant="outline-dark">Cancel</Button>{' '}
-                  <Button variant="outline-warning" type="reset"><i className="fa fa-refresh"></i> Reset</Button>{' '}
-                  <Button variant="success" onClick={getFormData}><i className="fa fa-save"></i> Submit</Button>{' '}
-               </div>
-            </Container>
+            <Table striped bordered hover size="sm" className="mb-3 input-table" id={'table-skill-attr'}>
+               <thead>
+                  <tr>
+                     <th>Name</th>
+                     <th>Value</th>
+                     <th>Unit</th>
+                     <th>Target</th>
+                     <th></th>
+                  </tr>
+               </thead>
+               <tbody>
+                  {skillTable.map((item, index) => {
+                     return (
+                        <tr key={index}>
+                           <td>{item.name}</td>
+                           <td>{item.value}</td>
+                           <td>{item.unit}</td>
+                           <td>{item.target == '1' ? 'Friend' : item.target == '2' ? 'Enemy' : 'Itself'}</td>
+                           <td><Button variant="outline-danger" size="sm" className="fa fa-trash" index={index} onClick={removeDataTable}></Button></td>
+                        </tr>
+                     )
+                  })}
+               </tbody>
+               <tfoot>
+                  <tr>
+                     <td className="hasinput"><FormControl ref={affects.name} type="text" placeholder="name" /></td>
+                     <td className="hasinput"><FormControl ref={affects.value} type="text" placeholder="value" /></td>
+                     <td className="hasinput"><FormControl ref={affects.unit} type="text" placeholder="unit" /></td>
+                     <td className="hasinput">
+                        <Form.Control as="select" ref={affects.target}>
+                           <option value="2">Enemy</option>
+                           <option value="1">Friend</option>
+                           <option value="3">Itself</option>
+                        </Form.Control>
+                     </td>
+                     <td><Button variant="outline-success" onClick={pushDataTable}>Push</Button></td>
+                  </tr>
+               </tfoot>
+            </Table>
+            <div className="text-right">
+               <Button variant="outline-dark">Cancel</Button>{' '}
+               <Button variant="outline-warning" type="reset"><i className="fa fa-refresh"></i> Reset</Button>{' '}
+               <Button variant="success" onClick={getFormData}><i className="fa fa-save"></i> Submit</Button>{' '}
+            </div>
          </Form>
          <Modal show={show} onHide={handleClose} size="lg">
             <Modal.Header closeButton>
@@ -327,6 +323,6 @@ export default function SkillForm() {
                <Button variant="outline-success" onClick={handleClose}>Select</Button>
             </Modal.Footer>
          </Modal>
-      </>
+      </React.Fragment>
    );
 }

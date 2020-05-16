@@ -35,8 +35,8 @@ class HandbookEquipment extends Component {
                         <React.Fragment key={index}>
                            <tr>
                               <td>
-                                 <MaterialItem color={equipments[0][0][index].color} title={equipments[0][0][index].name[lang]} star={equipments[0][0][index].star} item={equipments[0][0][index].img}></MaterialItem></td>
-                              <td><MaterialItem color={equipments[0][1][index].color} title={equipments[0][1][index].name[lang]} star={equipments[0][1][index].star} item={equipments[0][1][index].img}></MaterialItem></td>
+                                 <MaterialItem color={equipments[0][0][index].color} style={equipments[0][0][index].style} title={equipments[0][0][index].name[lang]} star={equipments[0][0][index].star} item={equipments[0][0][index].img}></MaterialItem></td>
+                              <td><MaterialItem color={equipments[0][1][index].color} style={equipments[0][1][index].style} title={equipments[0][1][index].name[lang]} star={equipments[0][1][index].star} item={equipments[0][1][index].img}></MaterialItem></td>
                               <td rowSpan={2}>
                                  <div>{tmp[lang][0] + ': '}{equipments[0][0][index].name[lang]}</div>
                                  <div>{tmp[lang][1] + ': '}{equipments[0][1][index].name[lang]}</div>
@@ -60,10 +60,10 @@ class HandbookEquipment extends Component {
                            </tr>
                            <tr>
                               <td>
-                                 <MaterialItem color={equipments[0][2][index].color} title={equipments[0][2][index].name[lang]} star={equipments[0][2][index].star} item={equipments[0][2][index].img}></MaterialItem>
+                                 <MaterialItem color={equipments[0][2][index].color} style={equipments[0][2][index].style} title={equipments[0][2][index].name[lang]} star={equipments[0][2][index].star} item={equipments[0][2][index].img}></MaterialItem>
                               </td>
                               <td>
-                                 <MaterialItem color={equipments[0][3][index].color} title={equipments[0][3][index].name[lang]} star={equipments[0][3][index].star} item={equipments[0][3][index].img}></MaterialItem>
+                                 <MaterialItem color={equipments[0][3][index].color}  style={equipments[0][3][index].style} title={equipments[0][3][index].name[lang]} star={equipments[0][3][index].star} item={equipments[0][3][index].img}></MaterialItem>
                               </td>
                            </tr>
                         </React.Fragment>
@@ -197,7 +197,7 @@ class MaterialItem extends PureComponent {
       return (
          <div className={"equipment-item"} title={this.props.title}>
             <div className={`cr_step_${this.props.color} equipment-bg`}></div>
-            <div className={"item"}>
+            <div className={"item"} style={this.props.style ||{}}>
                <div className={this.props.item}></div>
             </div>
             <div className={`cr_it_frame_${this.props.color} equipment-frame`}></div>

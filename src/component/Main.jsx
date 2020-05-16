@@ -42,7 +42,7 @@ export default class Main extends Component {
          <MyProvider>
             <HashRouter history={useHistory}>
                <Navigation></Navigation>
-               <div className="container">
+               <div className="container-lg container-md">
                   <Switch>
                      <Route path="/" exact={true}><Home></Home></Route>
                      <Route path="/post"><Post></Post></Route>
@@ -50,7 +50,7 @@ export default class Main extends Component {
                      {/** Handbook */}
                      <Route path="/h/heroes"><HeroGallery ></HeroGallery></Route>
                      <Route path="/h/hero/:slug"><HeroDetail></HeroDetail></Route>
-                     <Route path="/h/addhero/:slug"><AddHero></AddHero></Route>
+                     <Route path="/h/addhero/:slug" component={AddHero}></Route>
                      <Route path="/h/skills"><SkillGallery></SkillGallery></Route>
                      <Route path="/h/addskill/:skill"><SkillForm></SkillForm></Route>
                      <Route path="/list/skill"><SkillHero></SkillHero></Route>

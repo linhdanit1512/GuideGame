@@ -4,7 +4,7 @@ import MyContext from 'MyContext';
 import SkillItem from 'SkillItem';
 import axios from 'axios';
 
-export default function HeroSkill(props) {
+function HeroSkill(props) {
    const context = useContext(MyContext);
    const lang = context.state.lang;
    const displayText = context.state.displayText[lang].skill;
@@ -106,7 +106,7 @@ export default function HeroSkill(props) {
 
    function getFilter() {
       return heroSkillList.filter((item) => {
-         return item.name.toLowerCase().includes(filter) || item.desc.toLowerCase().includes(filter);
+         return item.name.includes(filter) || item.desc.includes(filter);
       })
    }
 
@@ -188,3 +188,5 @@ export default function HeroSkill(props) {
       </div >
    )
 }
+
+export default HeroSkill;

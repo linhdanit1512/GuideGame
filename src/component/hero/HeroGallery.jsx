@@ -103,15 +103,13 @@ export default class HeroGallery extends Component {
                         return <div key={data} className={'cr_fact_' + data + ' hero-filter' + (this.state.elemental == data ? ' active' : '')} data-ele={data} onClick={this.changeFilter.bind(this)}></div>
                      })}
                   </div>
+                  <div className="regency">
+                     {[1, 2, 3, 4, 5].map((data) => {
+                        return <div key={data} className={'cr_occu_' + data + ' hero-filter' + (this.state.regency == data ? ' active' : '')} data-reg={data} onClick={this.changeFilter.bind(this)}></div>
+                     })}
+                  </div>
                   <div className="row">
-                     <div className="col-md-1 col-sm-2">
-                        <div className="regency">
-                           {[1, 2, 3, 4, 5].map((data) => {
-                              return <div key={data} className={'cr_occu_' + data + ' hero-filter' + (this.state.regency == data ? ' active' : '')} data-reg={data} onClick={this.changeFilter.bind(this)}></div>
-                           })}
-                        </div>
-                     </div>
-                     <div className="col-md-11 col-sm-10">
+                     <div className="col-12">
                         <div className="gallery-content">
                            {this.renderList(list)}
                         </div>
