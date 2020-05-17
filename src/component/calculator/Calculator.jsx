@@ -20,7 +20,6 @@ class Calculator extends Component {
                <h3 className="text-title">{displayText.text} <small className="sub-title">{displayText.subtext}</small> </h3>
             </div>
             <div className="hb">
-               <BoxItem id="c_equip" img="it_equi_armor_12" classBox="scale-8">{displayText.item.equip}</BoxItem>
                <BoxItem id="c_artifact" img="it_equi_artif_6_faction_5" classBox="scale-8">{displayText.item.artifact}</BoxItem>
                <BoxItem id="c_rune" img="it_equi_treas_5_crit_damage" classBox="scale-8">{displayText.item.rune}</BoxItem>
                <BoxItem id="c_level" img="sy_activity_icon_check_in" classBox="p-3 scale-13">{displayText.item.level}</BoxItem>

@@ -34,7 +34,7 @@ class CalculatorRune extends Component {
                      {runes.map((rune, index) => {
                         totalGold += rune.gold;
                         totalRune += rune.rune;
-
+                        
                         return (
                            <tr key={index}>
                               <td className="text-center">{index + 1}</td>

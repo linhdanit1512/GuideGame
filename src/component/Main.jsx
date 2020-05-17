@@ -34,7 +34,7 @@ export default class Main extends Component {
       var link = document.querySelector("link[rel*='icon']") || document.createElement('link');
       link.type = 'image/x-icon';
       link.rel = 'shortcut icon';
-      link.href = './images/favicon/logo.jpg';
+      link.href = '/images/favicon/logo.jpg';
       document.getElementsByTagName('head')[0].appendChild(link);
    }
 
