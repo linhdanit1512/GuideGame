@@ -98,6 +98,7 @@ var adminPack = {
          /** Calculator */
 
          CalculatorLevel: path.resolve(__dirname, 'src/component/calculator/Level.jsx'),
+         CalculatorRune: path.resolve(__dirname, 'src/component/calculator/Rune.jsx'),
 
          /** Handbook */
          HandbookMaterial: path.resolve(__dirname, 'src/component/handbook/Material.jsx'),

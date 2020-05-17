@@ -17,6 +17,7 @@ import SkillHero from 'SkillHero';
 import TeamBox from 'TeamBox';
 import HeroListDB from 'HeroListDB';
 import CalculatorLevel from 'CalculatorLevel';
+import CalculatorRune from 'CalculatorRune';
 import HandbookMaterial from 'HandbookMaterial';
 import HandbookEquipment from 'HandbookEquipment';
 
@@ -58,9 +59,10 @@ export default class Main extends Component {
                      <Route path="/h/battle"><TeamBox></TeamBox></Route>
                      <Route path="/h/guild"><TeamBox></TeamBox></Route>
                      <Route path="/c/level" component={CalculatorLevel}></Route>
+                     <Route path="/c/rune" component={CalculatorRune}></Route>
                      <Route path="/h/material" component={HandbookMaterial}></Route>
                      <Route path="/h/equipment" component={HandbookEquipment}></Route>
-                  </Switch>   
+                  </Switch>
                </div>
             </HashRouter>
          </MyProvider>

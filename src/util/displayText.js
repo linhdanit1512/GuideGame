@@ -18,11 +18,11 @@ module.exports = {
             skill: 'Skill'
          }
       },
-      c_level : {
-         begin : 'Begin Level',
+      c_level: {
+         begin: 'Begin Level',
          end: 'End Level',
          level: 'Level',
-         purple_soul : 'Purple Soul',
+         purple_soul: 'Purple Soul',
          gold_soul: 'Gold Soul',
          gold: 'Gold',
          same_princess: 'Same 5 Star Princess',
@@ -35,14 +35,26 @@ module.exports = {
          only_milestone: 'Only Milestone'
 
       },
+
+      c_rune: {
+         title: 'Calculate Rune',
+         table:{
+            resource: 'Resource',
+            to_rune: 'To Upgrade Rune',
+            to_level: 'To Upgrade Rune from empty',
+            gold: 'Gold',
+            rune: 'Rune material',
+            total: 'Total'
+         }
+      },
       elemental: {
          1: 'Cooler', 2: 'Efreet', 3: 'Laiquendi', 4: 'Censu', 5: 'Soma', 6: 'Spirit'
       },
       regency: {
-         1: 'Soldier', 
-         2: 'Assassin', 
-         3: 'Ranger', 
-         4: 'Priest', 
+         1: 'Soldier',
+         2: 'Assassin',
+         3: 'Ranger',
+         4: 'Priest',
          5: 'Wizard'
       },
       calculator: {
@@ -297,7 +309,7 @@ module.exports = {
          dodge: 'Dodge',
          skilldmg: 'Skill Damage',
          other: 'Other',
-         empty:'No hero skill info'
+         empty: 'No hero skill info'
       }
    },
    vi: {
@@ -320,11 +332,11 @@ module.exports = {
          }
       },
 
-      c_level : {
-         begin : 'Từ Level',
+      c_level: {
+         begin: 'Từ Level',
          end: 'Đến Level',
          level: 'Level',
-         purple_soul : 'Linh hồn tím',
+         purple_soul: 'Linh hồn tím',
          gold_soul: 'Linh hồn vàng',
          gold: 'Vàng',
          same_princess: 'Bản sao Công chúa 5 sao',
@@ -337,6 +349,18 @@ module.exports = {
          only_milestone: 'Chỉ tính các cột mốc'
       },
 
+      c_rune: {
+         title: 'Tính toán Rune',
+         table:{
+            resource: 'Tài nguyên',
+            to_rune: 'Để nâng cấp cho Rune này',
+            to_level: 'Để nâng cấp từ 0',
+            gold: 'Vàng',
+            rune: 'Nguyên liệu đá cổ',
+            total: 'Tổng'
+         }
+      },
+
       h_material: {
       },
 
@@ -344,10 +368,10 @@ module.exports = {
          1: 'Thủy', 2: 'Hỏa', 3: 'Mộc', 4: 'Thổ', 5: 'Quang', 6: 'Ám'
       },
       regency: {
-         1: 'Chiến binh', 
-         2: 'Sát thủ', 
-         3: 'Xạ thủ', 
-         4: 'Mục sư', 
+         1: 'Chiến binh',
+         2: 'Sát thủ',
+         3: 'Xạ thủ',
+         4: 'Mục sư',
          5: 'Pháp sư'
       },
       calculator: {
@@ -602,8 +626,8 @@ module.exports = {
          dodge: 'Né tránh',
          skilldmg: 'Sát thương kỹ năng',
          other: 'Khác',
-         empty:'Chưa có thông tin kỹ năng của công chúa'
-     
+         empty: 'Chưa có thông tin kỹ năng của công chúa'
+
       }
    }
 }

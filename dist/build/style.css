@@ -15033,7 +15033,7 @@ MATERIAL
    border-top: none;
 }
 
-.equipment-item>div {
+.equipment-item>div, .rune-item>div {
    position: absolute;
 }
 
@@ -15069,6 +15069,124 @@ MATERIAL
    margin-top: 4px;
 }
 
+.rune-item {
+   width: 106px;
+   height: 110px;
+   display: inline-block;
+}
+
+.rune-item.active .rune-frame {
+   transform: scale(1.07);
+   animation: changeColor 3s infinite;
+}
+
+@keyframes changeColor {
+   0% {
+      filter: hue-rotate(0deg);
+   }
+   100% {
+      filter: hue-rotate(360deg);
+   }
+}
+
+.rune-item-1 {
+   margin-top: 0;
+}
+
+.rune-item-0 {
+   margin-top: 1px;
+   padding-left: 4px;
+}
+
+.rune-item-1 .rune-frame {
+   margin-top: 6px;
+}
+
+.rune-item-2 .rune-frame {
+   margin-top: 1px;
+}
+
+.rune-item .rune-bg-1, .rune-item .rune-bg-3, .rune-item .rune-bg-5 {
+   margin-top: 11px;
+   margin-left: 6px;
+}
+
+.rune-item .rune-bg-2, .rune-item .rune-bg-4, .rune-item .rune-bg-6 {
+   margin-top: 10px;
+   margin-left: 2px;
+}
+
+.rune-item .item-1 {
+   margin-top: 12px;
+   margin-left: 12px;
+}
+
+.rune-item .item-2 {
+   margin-top: 11px;
+   margin-left: 3px;
+}
+
+.rune-item .item-3 {
+   margin-top: 8px;
+   margin-left: 6px;
+}
+
+.rune-item .item-4 {
+   margin-left: 2px;
+   margin-top: 6px;
+}
+
+.rune-item .item-5 {
+   margin-left: 5px;
+   margin-top: 14px;
+   transform: scale(.93);
+}
+
+.rune-item .item-6 {
+   margin-left: 2px;
+   margin-top: 7px;
+   transform: scale(.93);
+}
+
+.rune-item .rune-star {
+   transform: scale(.6);
+}
+
+.rune-item-1 .rune-star {
+   margin-left: 6px;
+}
+
+.rune-star.star-1 {
+   margin-top: 70px;
+}
+
+.rune-star.star-2 {
+   margin-top: 46px;
+}
+
+.rune-star.star-3 {
+   margin-top: 21px;
+}
+
+.rune-star.star-4 {
+   margin-top: -3px;
+}
+
+.rune-star.star-5 {
+   margin-top: -20px;
+}
+
+.table .rune-item {
+   transform: scale(.6);
+   transform-origin: top left;
+   width: 65px;
+   height: 65px;
+}
+
+.rune-box .table tr td:nth-child(2) {
+   padding: 0;
+}
+
 @media (max-width: 992px) {
    .table-equipment tr td:nth-child(1), .table-equipment tr td:nth-child(2), .table-equipment.equip-3-col tr td:nth-child(3), .hero-gallery .hero-box {
       transform: scale(0.7);
@@ -15085,8 +15203,7 @@ MATERIAL
       height: 60px;
       width: 53px;
    }
-}
-.hero-gallery, .skill-gallery {
+}.hero-gallery, .skill-gallery {
    margin: 20px;
    padding: 5px;
    width: 100%;
