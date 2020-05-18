@@ -9,7 +9,7 @@ Vì yêu thích nên tôi lập một website với mong muốn sẽ giúp ích 
 - Đề xuất: Giúp bạn tìm ra một team phù hợp với bạn, dựa trên danh sách bảng xếp hạng của các server.<br>
 Có thể chọn giao diện tiếng Anh hoặc tiếng Việt<br>
 
-# Page
+# Một số trang
 <img src="/dist/images/sites/1-home.png" style="width:100%">
 <br>
 <img src="/dist/images/sites/2-equip.png" style="width:100%">
