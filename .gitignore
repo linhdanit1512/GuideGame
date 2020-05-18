@@ -1,2 +1,5 @@
 node_modules/*
 summonprincess.PublishSettings
+.env
+.gitignore
+.babelrc
