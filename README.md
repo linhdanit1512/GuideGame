@@ -9,13 +9,13 @@ Vì yêu thích nên tôi lập một website với mong muốn sẽ giúp ích 
 - Đề xuất: Giúp bạn tìm ra một team phù hợp với bạn, dựa trên danh sách bảng xếp hạng của các server.
 
 # Page
-<img src="/dist/images/sites/1-home.png">
+<img src="/dist/images/sites/1-home.png" style="width:100%">
 <br>
-<img src="/dist/images/sites/2-equip.png">
+<img src="/dist/images/sites/2-equip.png" style="width:100%">
 <br>
-<img src="/dist/images/sites/3-rune.png">
+<img src="/dist/images/sites/3-rune.png" style="width:100%">
 <br>
-<img src="/dist/images/sites/4-princess.png">
+<img src="/dist/images/sites/4-princess.png" style="width:100%">
 
 # Công nghệ
 - Back-end sử dụng NodeJS
