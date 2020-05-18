@@ -1,2 +1,22 @@
-# GuideGame
+# Giới thiệu
  
+Summon Princess là một game Hàn Quốc mới ra mắt vào năm 2019
+Vì yêu thích nên tôi lập một website với mong muốn sẽ giúp ích cho mọi người trong việc tra cứu, chia sẻ, trò chuyện với nhau
+
+# Tính năng
+- Cẩm nang Game: Cho bạn tra cứu các thông tin của công chúa, các vật phẩm, tài nguyên, thú cưng, guild,... Đại khái là tất tần tật về game
+- Tính toán: Tính toán các chi phí, tài nguyên mà bạn cần để nâng cấp thú cưng, vật phẩm, công chúa,...
+- Đề xuất: Giúp bạn tìm ra một team phù hợp với bạn, dựa trên danh sách bảng xếp hạng của các server.
+
+# Page
+<img src="https://summonprincess.azurewebsites.net/images/sites/1-home.png">
+<br>
+<img src="https://summonprincess.azurewebsites.net/images/sites/2-equip.png">
+<br>
+<img src="https://summonprincess.azurewebsites.net/images/sites/3-rune.png">
+<br>
+<img src="https://summonprincess.azurewebsites.net/images/sites/4-princess.png">
+
+# Công nghệ
+- Back-end sử dụng NodeJS
+- Front-end sử dụng ReactJS
